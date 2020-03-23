@@ -1,0 +1,1972 @@
+[
+ {
+   "city": "Trenton",
+   "lat": 33.7401,
+   "lng": -81.8404
+ },
+ {
+   "city": "Monetta",
+   "lat": 33.8497,
+   "lng": -81.6097
+ },
+ {
+   "city": "Wade Hampton",
+   "lat": 34.8821,
+   "lng": -82.3336
+ },
+ {
+   "city": "Gloverville",
+   "lat": 33.5274,
+   "lng": -81.8145
+ },
+ {
+   "city": "Elloree",
+   "lat": 33.5301,
+   "lng": -80.5712
+ },
+ {
+   "city": "Fairfax",
+   "lat": 32.9593,
+   "lng": -81.2363
+ },
+ {
+   "city": "Ware Place",
+   "lat": 34.6266,
+   "lng": -82.3881
+ },
+ {
+   "city": "Bethune",
+   "lat": 34.4143,
+   "lng": -80.3487
+ },
+ {
+   "city": "Cross Anchor",
+   "lat": 34.6439,
+   "lng": -81.8584
+ },
+ {
+   "city": "Donalds",
+   "lat": 34.3766,
+   "lng": -82.3467
+ },
+ {
+   "city": "Ravenel",
+   "lat": 32.7768,
+   "lng": -80.2272
+ },
+ {
+   "city": "Pomaria",
+   "lat": 34.2681,
+   "lng": -81.4196
+ },
+ {
+   "city": "Johnsonville",
+   "lat": 33.8149,
+   "lng": -79.4444
+ },
+ {
+   "city": "Tatum",
+   "lat": 34.6438,
+   "lng": -79.5867
+ },
+ {
+   "city": "Reidville",
+   "lat": 34.866,
+   "lng": -82.105
+ },
+ {
+   "city": "Great Falls",
+   "lat": 34.5753,
+   "lng": -80.9048
+ },
+ {
+   "city": "Burnettown",
+   "lat": 33.5187,
+   "lng": -81.8634
+ },
+ {
+   "city": "Ward",
+   "lat": 33.8573,
+   "lng": -81.7313
+ },
+ {
+   "city": "Arcadia",
+   "lat": 34.9609,
+   "lng": -81.9929
+ },
+ {
+   "city": "Goose Creek",
+   "lat": 32.9922,
+   "lng": -80.0052
+ },
+ {
+   "city": "Sellers",
+   "lat": 34.2823,
+   "lng": -79.4723
+ },
+ {
+   "city": "Vance",
+   "lat": 33.4366,
+   "lng": -80.42
+ },
+ {
+   "city": "Ladson",
+   "lat": 33.0093,
+   "lng": -80.1078
+ },
+ {
+   "city": "Greer",
+   "lat": 34.9315,
+   "lng": -82.2316
+ },
+ {
+   "city": "Lockhart",
+   "lat": 34.7922,
+   "lng": -81.4614
+ },
+ {
+   "city": "Forest Acres",
+   "lat": 34.0324,
+   "lng": -80.9717
+ },
+ {
+   "city": "Simpsonville",
+   "lat": 34.7291,
+   "lng": -82.2572
+ },
+ {
+   "city": "Barnwell",
+   "lat": 33.2419,
+   "lng": -81.3659
+ },
+ {
+   "city": "Furman",
+   "lat": 32.6812,
+   "lng": -81.1877
+ },
+ {
+   "city": "Easley",
+   "lat": 34.819,
+   "lng": -82.5828
+ },
+ {
+   "city": "Cayce",
+   "lat": 33.9458,
+   "lng": -81.0433
+ },
+ {
+   "city": "Rockville",
+   "lat": 32.6024,
+   "lng": -80.1935
+ },
+ {
+   "city": "Bennettsville",
+   "lat": 34.6304,
+   "lng": -79.6874
+ },
+ {
+   "city": "Sharon",
+   "lat": 34.952,
+   "lng": -81.3436
+ },
+ {
+   "city": "Surfside Beach",
+   "lat": 33.6092,
+   "lng": -78.9772
+ },
+ {
+   "city": "Pelzer",
+   "lat": 34.6433,
+   "lng": -82.4588
+ },
+ {
+   "city": "Summerton",
+   "lat": 33.6013,
+   "lng": -80.3527
+ },
+ {
+   "city": "Jacksonboro",
+   "lat": 32.7718,
+   "lng": -80.477
+ },
+ {
+   "city": "Awendaw",
+   "lat": 32.9824,
+   "lng": -79.646
+ },
+ {
+   "city": "Hollywood",
+   "lat": 32.7524,
+   "lng": -80.2105
+ },
+ {
+   "city": "Golden Grove",
+   "lat": 34.7324,
+   "lng": -82.4408
+ },
+ {
+   "city": "Princeton",
+   "lat": 34.4912,
+   "lng": -82.2957
+ },
+ {
+   "city": "Coward",
+   "lat": 33.9721,
+   "lng": -79.749
+ },
+ {
+   "city": "Sycamore",
+   "lat": 33.0362,
+   "lng": -81.2223
+ },
+ {
+   "city": "Lincolnville",
+   "lat": 33.0079,
+   "lng": -80.156
+ },
+ {
+   "city": "Fort Lawn",
+   "lat": 34.7003,
+   "lng": -80.8991
+ },
+ {
+   "city": "Ulmer",
+   "lat": 33.0986,
+   "lng": -81.208
+ },
+ {
+   "city": "Fingerville",
+   "lat": 35.1351,
+   "lng": -82.0003
+ },
+ {
+   "city": "Folly Beach",
+   "lat": 32.6692,
+   "lng": -79.95
+ },
+ {
+   "city": "Walhalla",
+   "lat": 34.7704,
+   "lng": -83.0615
+ },
+ {
+   "city": "Brookdale",
+   "lat": 33.5183,
+   "lng": -80.8333
+ },
+ {
+   "city": "North Hartsville",
+   "lat": 34.401,
+   "lng": -80.071
+ },
+ {
+   "city": "North Charleston",
+   "lat": 32.9067,
+   "lng": -80.0722
+ },
+ {
+   "city": "Liberty",
+   "lat": 34.7904,
+   "lng": -82.6962
+ },
+ {
+   "city": "Fair Play",
+   "lat": 34.5077,
+   "lng": -82.9862
+ },
+ {
+   "city": "Lodge",
+   "lat": 33.0678,
+   "lng": -80.9537
+ },
+ {
+   "city": "Pickens",
+   "lat": 34.8857,
+   "lng": -82.7103
+ },
+ {
+   "city": "Modoc",
+   "lat": 33.7192,
+   "lng": -82.2173
+ },
+ {
+   "city": "Lexington",
+   "lat": 33.9891,
+   "lng": -81.2195
+ },
+ {
+   "city": "Pamplico",
+   "lat": 33.9957,
+   "lng": -79.5697
+ },
+ {
+   "city": "Olanta",
+   "lat": 33.9357,
+   "lng": -79.932
+ },
+ {
+   "city": "Lancaster",
+   "lat": 34.7247,
+   "lng": -80.7802
+ },
+ {
+   "city": "Arcadia Lakes",
+   "lat": 34.0536,
+   "lng": -80.9615
+ },
+ {
+   "city": "Bonneau Beach",
+   "lat": 33.3229,
+   "lng": -79.9899
+ },
+ {
+   "city": "Lamar",
+   "lat": 34.1695,
+   "lng": -80.0649
+ },
+ {
+   "city": "Society Hill",
+   "lat": 34.5098,
+   "lng": -79.8539
+ },
+ {
+   "city": "Stateburg",
+   "lat": 33.9753,
+   "lng": -80.5264
+ },
+ {
+   "city": "St. George",
+   "lat": 33.186,
+   "lng": -80.5794
+ },
+ {
+   "city": "Lake Secession",
+   "lat": 34.2821,
+   "lng": -82.5908
+ },
+ {
+   "city": "Willington",
+   "lat": 33.9687,
+   "lng": -82.4576
+ },
+ {
+   "city": "Union",
+   "lat": 34.7234,
+   "lng": -81.6247
+ },
+ {
+   "city": "Blenheim",
+   "lat": 34.5098,
+   "lng": -79.6525
+ },
+ {
+   "city": "Woodruff",
+   "lat": 34.7397,
+   "lng": -82.0323
+ },
+ {
+   "city": "Oswego",
+   "lat": 34.0056,
+   "lng": -80.2862
+ },
+ {
+   "city": "Moncks Corner",
+   "lat": 33.1714,
+   "lng": -80.0122
+ },
+ {
+   "city": "Lake View",
+   "lat": 34.3406,
+   "lng": -79.1663
+ },
+ {
+   "city": "Paxville",
+   "lat": 33.739,
+   "lng": -80.3586
+ },
+ {
+   "city": "Meggett",
+   "lat": 32.6971,
+   "lng": -80.2731
+ },
+ {
+   "city": "Edisto",
+   "lat": 33.4776,
+   "lng": -80.8998
+ },
+ {
+   "city": "Laurel Bay",
+   "lat": 32.4599,
+   "lng": -80.7869
+ },
+ {
+   "city": "Fairforest",
+   "lat": 34.9532,
+   "lng": -82.0157
+ },
+ {
+   "city": "Briarcliffe Acres",
+   "lat": 33.7899,
+   "lng": -78.749
+ },
+ {
+   "city": "Mayo",
+   "lat": 35.0857,
+   "lng": -81.8535
+ },
+ {
+   "city": "Five Forks",
+   "lat": 34.8069,
+   "lng": -82.2271
+ },
+ {
+   "city": "Timmonsville",
+   "lat": 34.1334,
+   "lng": -79.9408
+ },
+ {
+   "city": "Central Pacolet",
+   "lat": 34.9096,
+   "lng": -81.7526
+ },
+ {
+   "city": "Judson",
+   "lat": 34.8335,
+   "lng": -82.4272
+ },
+ {
+   "city": "Gramling",
+   "lat": 35.0782,
+   "lng": -82.1333
+ },
+ {
+   "city": "Sangaree",
+   "lat": 33.0328,
+   "lng": -80.1253
+ },
+ {
+   "city": "Anderson",
+   "lat": 34.5212,
+   "lng": -82.6478
+ },
+ {
+   "city": "Clifton",
+   "lat": 34.9846,
+   "lng": -81.8222
+ },
+ {
+   "city": "Wellford",
+   "lat": 34.9614,
+   "lng": -82.0921
+ },
+ {
+   "city": "Port Royal",
+   "lat": 32.3557,
+   "lng": -80.7027
+ },
+ {
+   "city": "Riverview",
+   "lat": 35.0108,
+   "lng": -80.9843
+ },
+ {
+   "city": "Clarks Hill",
+   "lat": 33.6582,
+   "lng": -82.166
+ },
+ {
+   "city": "Irmo",
+   "lat": 34.1016,
+   "lng": -81.1953
+ },
+ {
+   "city": "Welcome",
+   "lat": 34.8204,
+   "lng": -82.46
+ },
+ {
+   "city": "James Island",
+   "lat": 32.7353,
+   "lng": -79.9396
+ },
+ {
+   "city": "Jonesville",
+   "lat": 34.8348,
+   "lng": -81.6811
+ },
+ {
+   "city": "Ninety Six",
+   "lat": 34.1696,
+   "lng": -82.024
+ },
+ {
+   "city": "Santee",
+   "lat": 33.4802,
+   "lng": -80.4852
+ },
+ {
+   "city": "Williamston",
+   "lat": 34.6194,
+   "lng": -82.4794
+ },
+ {
+   "city": "Little Mountain",
+   "lat": 34.1969,
+   "lng": -81.4126
+ },
+ {
+   "city": "North Augusta",
+   "lat": 33.5214,
+   "lng": -81.9547
+ },
+ {
+   "city": "Norris",
+   "lat": 34.7661,
+   "lng": -82.7525
+ },
+ {
+   "city": "Islandton",
+   "lat": 32.9093,
+   "lng": -80.9359
+ },
+ {
+   "city": "Powdersville",
+   "lat": 34.7825,
+   "lng": -82.4958
+ },
+ {
+   "city": "Orangeburg",
+   "lat": 33.4928,
+   "lng": -80.8671
+ },
+ {
+   "city": "McClellanville",
+   "lat": 33.0865,
+   "lng": -79.468
+ },
+ {
+   "city": "Boykin",
+   "lat": 34.1198,
+   "lng": -80.5886
+ },
+ {
+   "city": "McCormick",
+   "lat": 33.9128,
+   "lng": -82.2876
+ },
+ {
+   "city": "Northlake",
+   "lat": 34.5691,
+   "lng": -82.6837
+ },
+ {
+   "city": "Chapin",
+   "lat": 34.1645,
+   "lng": -81.3449
+ },
+ {
+   "city": "Privateer",
+   "lat": 33.8169,
+   "lng": -80.3947
+ },
+ {
+   "city": "Catawba",
+   "lat": 34.8464,
+   "lng": -80.9061
+ },
+ {
+   "city": "Campobello",
+   "lat": 35.1225,
+   "lng": -82.1495
+ },
+ {
+   "city": "Abbeville",
+   "lat": 34.1787,
+   "lng": -82.3774
+ },
+ {
+   "city": "Cowpens",
+   "lat": 35.0188,
+   "lng": -81.8043
+ },
+ {
+   "city": "Gaston",
+   "lat": 33.818,
+   "lng": -81.0997
+ },
+ {
+   "city": "Smyrna",
+   "lat": 35.042,
+   "lng": -81.4094
+ },
+ {
+   "city": "Dunean",
+   "lat": 34.8203,
+   "lng": -82.4225
+ },
+ {
+   "city": "Tigerville",
+   "lat": 35.0669,
+   "lng": -82.3695
+ },
+ {
+   "city": "Mountville",
+   "lat": 34.3664,
+   "lng": -81.9759
+ },
+ {
+   "city": "Springfield",
+   "lat": 33.4967,
+   "lng": -81.2795
+ },
+ {
+   "city": "Latta",
+   "lat": 34.339,
+   "lng": -79.4337
+ },
+ {
+   "city": "Irwin",
+   "lat": 34.6942,
+   "lng": -80.8198
+ },
+ {
+   "city": "Newry",
+   "lat": 34.724,
+   "lng": -82.9141
+ },
+ {
+   "city": "Wallace",
+   "lat": 34.7201,
+   "lng": -79.8479
+ },
+ {
+   "city": "Winnsboro",
+   "lat": 34.3718,
+   "lng": -81.0907
+ },
+ {
+   "city": "Saxon",
+   "lat": 34.9616,
+   "lng": -81.9713
+ },
+ {
+   "city": "Norway",
+   "lat": 33.4503,
+   "lng": -81.1265
+ },
+ {
+   "city": "Ridgeland",
+   "lat": 32.4681,
+   "lng": -80.9178
+ },
+ {
+   "city": "Neeses",
+   "lat": 33.5365,
+   "lng": -81.1243
+ },
+ {
+   "city": "Bradley",
+   "lat": 34.0391,
+   "lng": -82.2435
+ },
+ {
+   "city": "Warrenville",
+   "lat": 33.5461,
+   "lng": -81.799
+ },
+ {
+   "city": "Aynor",
+   "lat": 34.0001,
+   "lng": -79.2071
+ },
+ {
+   "city": "Carlisle",
+   "lat": 34.5921,
+   "lng": -81.4645
+ },
+ {
+   "city": "Jackson",
+   "lat": 33.3284,
+   "lng": -81.7925
+ },
+ {
+   "city": "Antreville",
+   "lat": 34.2971,
+   "lng": -82.5541
+ },
+ {
+   "city": "Clover",
+   "lat": 35.1123,
+   "lng": -81.2201
+ },
+ {
+   "city": "Livingston",
+   "lat": 33.5533,
+   "lng": -81.1199
+ },
+ {
+   "city": "Charleston",
+   "lat": 32.8151,
+   "lng": -79.963
+ },
+ {
+   "city": "West Columbia",
+   "lat": 33.9928,
+   "lng": -81.0925
+ },
+ {
+   "city": "McColl",
+   "lat": 34.6665,
+   "lng": -79.5447
+ },
+ {
+   "city": "Travelers Rest",
+   "lat": 34.9684,
+   "lng": -82.4417
+ },
+ {
+   "city": "Williams",
+   "lat": 33.0341,
+   "lng": -80.8428
+ },
+ {
+   "city": "Shell Point",
+   "lat": 32.3744,
+   "lng": -80.7523
+ },
+ {
+   "city": "Cope",
+   "lat": 33.3777,
+   "lng": -81.0079
+ },
+ {
+   "city": "Newberry",
+   "lat": 34.2822,
+   "lng": -81.6012
+ },
+ {
+   "city": "Greenwood",
+   "lat": 34.1945,
+   "lng": -82.1542
+ },
+ {
+   "city": "Mount Croghan",
+   "lat": 34.7697,
+   "lng": -80.2264
+ },
+ {
+   "city": "Heath Springs",
+   "lat": 34.5931,
+   "lng": -80.675
+ },
+ {
+   "city": "Isle of Palms",
+   "lat": 32.8043,
+   "lng": -79.7552
+ },
+ {
+   "city": "Murrells Inlet",
+   "lat": 33.5567,
+   "lng": -79.0591
+ },
+ {
+   "city": "Windsor",
+   "lat": 33.4809,
+   "lng": -81.5135
+ },
+ {
+   "city": "Prosperity",
+   "lat": 34.2117,
+   "lng": -81.5335
+ },
+ {
+   "city": "Clearwater",
+   "lat": 33.5038,
+   "lng": -81.91
+ },
+ {
+   "city": "Jefferson",
+   "lat": 34.6512,
+   "lng": -80.3866
+ },
+ {
+   "city": "Converse",
+   "lat": 34.994,
+   "lng": -81.8421
+ },
+ {
+   "city": "Wedgefield",
+   "lat": 33.8829,
+   "lng": -80.5157
+ },
+ {
+   "city": "Eutawville",
+   "lat": 33.3977,
+   "lng": -80.343
+ },
+ {
+   "city": "North Myrtle Beach",
+   "lat": 33.823,
+   "lng": -78.709
+ },
+ {
+   "city": "Due West",
+   "lat": 34.3335,
+   "lng": -82.3886
+ },
+ {
+   "city": "Smoaks",
+   "lat": 33.0895,
+   "lng": -80.8142
+ },
+ {
+   "city": "Bucksport",
+   "lat": 33.6706,
+   "lng": -79.1102
+ },
+ {
+   "city": "Troy",
+   "lat": 33.988,
+   "lng": -82.2975
+ },
+ {
+   "city": "Williston",
+   "lat": 33.4018,
+   "lng": -81.422
+ },
+ {
+   "city": "Silverstreet",
+   "lat": 34.2177,
+   "lng": -81.7146
+ },
+ {
+   "city": "Monarch Mill",
+   "lat": 34.7162,
+   "lng": -81.5847
+ },
+ {
+   "city": "Jenkinsville",
+   "lat": 34.3129,
+   "lng": -81.2874
+ },
+ {
+   "city": "Coronaca",
+   "lat": 34.2595,
+   "lng": -82.0969
+ },
+ {
+   "city": "Loris",
+   "lat": 34.0575,
+   "lng": -78.8876
+ },
+ {
+   "city": "Tega Cay",
+   "lat": 35.039,
+   "lng": -81.0111
+ },
+ {
+   "city": "Gantt",
+   "lat": 34.7837,
+   "lng": -82.4027
+ },
+ {
+   "city": "Seneca",
+   "lat": 34.6816,
+   "lng": -82.9609
+ },
+ {
+   "city": "Lake Wylie",
+   "lat": 35.0997,
+   "lng": -81.0677
+ },
+ {
+   "city": "Lyman",
+   "lat": 34.966,
+   "lng": -82.123
+ },
+ {
+   "city": "Cokesbury",
+   "lat": 34.29,
+   "lng": -82.2088
+ },
+ {
+   "city": "Elgin",
+   "lat": 34.1702,
+   "lng": -80.793
+ },
+ {
+   "city": "Iva",
+   "lat": 34.307,
+   "lng": -82.6636
+ },
+ {
+   "city": "Centerville",
+   "lat": 34.5256,
+   "lng": -82.7161
+ },
+ {
+   "city": "Yemassee",
+   "lat": 32.6688,
+   "lng": -80.8493
+ },
+ {
+   "city": "Russellville",
+   "lat": 33.397,
+   "lng": -79.9637
+ },
+ {
+   "city": "West Pelzer",
+   "lat": 34.6451,
+   "lng": -82.4737
+ },
+ {
+   "city": "Wilkinson Heights",
+   "lat": 33.4919,
+   "lng": -80.8285
+ },
+ {
+   "city": "Sans Souci",
+   "lat": 34.8901,
+   "lng": -82.4241
+ },
+ {
+   "city": "Lugoff",
+   "lat": 34.2216,
+   "lng": -80.6849
+ },
+ {
+   "city": "Patrick",
+   "lat": 34.5752,
+   "lng": -80.0445
+ },
+ {
+   "city": "Gaffney",
+   "lat": 35.0742,
+   "lng": -81.6558
+ },
+ {
+   "city": "Woodfield",
+   "lat": 34.0587,
+   "lng": -80.9309
+ },
+ {
+   "city": "Watts Mills",
+   "lat": 34.5164,
+   "lng": -81.9857
+ },
+ {
+   "city": "Saluda",
+   "lat": 34.0009,
+   "lng": -81.7713
+ },
+ {
+   "city": "Central",
+   "lat": 34.7234,
+   "lng": -82.7788
+ },
+ {
+   "city": "Hopkins",
+   "lat": 33.8983,
+   "lng": -80.86
+ },
+ {
+   "city": "Gray Court",
+   "lat": 34.6079,
+   "lng": -82.1144
+ },
+ {
+   "city": "Salley",
+   "lat": 33.5678,
+   "lng": -81.3037
+ },
+ {
+   "city": "India Hook",
+   "lat": 35.0142,
+   "lng": -81.0377
+ },
+ {
+   "city": "Johnston",
+   "lat": 33.8327,
+   "lng": -81.8051
+ },
+ {
+   "city": "Mayesville",
+   "lat": 33.9849,
+   "lng": -80.2044
+ },
+ {
+   "city": "Roebuck",
+   "lat": 34.8788,
+   "lng": -81.9646
+ },
+ {
+   "city": "Hilton Head Island",
+   "lat": 32.1896,
+   "lng": -80.7499
+ },
+ {
+   "city": "Burton",
+   "lat": 32.4233,
+   "lng": -80.7454
+ },
+ {
+   "city": "Lesslie",
+   "lat": 34.8856,
+   "lng": -80.9541
+ },
+ {
+   "city": "Starr",
+   "lat": 34.3774,
+   "lng": -82.6954
+ },
+ {
+   "city": "Kingstree",
+   "lat": 33.6665,
+   "lng": -79.8293
+ },
+ {
+   "city": "Little River",
+   "lat": 33.8787,
+   "lng": -78.6393
+ },
+ {
+   "city": "Pine Ridge",
+   "lat": 33.9084,
+   "lng": -81.0975
+ },
+ {
+   "city": "Salem",
+   "lat": 34.8879,
+   "lng": -82.9752
+ },
+ {
+   "city": "Lowndesville",
+   "lat": 34.2099,
+   "lng": -82.6476
+ },
+ {
+   "city": "Ehrhardt",
+   "lat": 33.0985,
+   "lng": -81.0138
+ },
+ {
+   "city": "Peak",
+   "lat": 34.2365,
+   "lng": -81.3295
+ },
+ {
+   "city": "Scranton",
+   "lat": 33.9174,
+   "lng": -79.7441
+ },
+ {
+   "city": "South Congaree",
+   "lat": 33.9094,
+   "lng": -81.1375
+ },
+ {
+   "city": "Cameron",
+   "lat": 33.5579,
+   "lng": -80.715
+ },
+ {
+   "city": "Ruby",
+   "lat": 34.7461,
+   "lng": -80.1799
+ },
+ {
+   "city": "Seabrook Island",
+   "lat": 32.5825,
+   "lng": -80.1736
+ },
+ {
+   "city": "Southern Shops",
+   "lat": 34.9846,
+   "lng": -81.9934
+ },
+ {
+   "city": "Lakewood",
+   "lat": 33.8429,
+   "lng": -80.3492
+ },
+ {
+   "city": "Hodges",
+   "lat": 34.2876,
+   "lng": -82.248
+ },
+ {
+   "city": "Atlantic Beach",
+   "lat": 33.8035,
+   "lng": -78.7177
+ },
+ {
+   "city": "Marion",
+   "lat": 34.1787,
+   "lng": -79.3966
+ },
+ {
+   "city": "Belton",
+   "lat": 34.5237,
+   "lng": -82.4937
+ },
+ {
+   "city": "Greenville",
+   "lat": 34.8362,
+   "lng": -82.3649
+ },
+ {
+   "city": "Lowrys",
+   "lat": 34.804,
+   "lng": -81.2373
+ },
+ {
+   "city": "Andrews",
+   "lat": 33.4494,
+   "lng": -79.5659
+ },
+ {
+   "city": "Summerville",
+   "lat": 33.0016,
+   "lng": -80.1795
+ },
+ {
+   "city": "Boiling Springs",
+   "lat": 35.045,
+   "lng": -81.9779
+ },
+ {
+   "city": "Florence",
+   "lat": 34.1782,
+   "lng": -79.7872
+ },
+ {
+   "city": "New Ellenton",
+   "lat": 33.4198,
+   "lng": -81.6825
+ },
+ {
+   "city": "Valley Falls",
+   "lat": 35.0073,
+   "lng": -81.9692
+ },
+ {
+   "city": "Scotia",
+   "lat": 32.6805,
+   "lng": -81.2433
+ },
+ {
+   "city": "Fountain Inn",
+   "lat": 34.6995,
+   "lng": -82.1999
+ },
+ {
+   "city": "Stuckey",
+   "lat": 33.7322,
+   "lng": -79.5132
+ },
+ {
+   "city": "Dalzell",
+   "lat": 34.0189,
+   "lng": -80.4299
+ },
+ {
+   "city": "Batesburg-Leesville",
+   "lat": 33.9124,
+   "lng": -81.5312
+ },
+ {
+   "city": "Langley",
+   "lat": 33.512,
+   "lng": -81.8343
+ },
+ {
+   "city": "Pinopolis",
+   "lat": 33.2286,
+   "lng": -80.0385
+ },
+ {
+   "city": "Eastover",
+   "lat": 33.8779,
+   "lng": -80.695
+ },
+ {
+   "city": "Varnville",
+   "lat": 32.8521,
+   "lng": -81.0802
+ },
+ {
+   "city": "Pinewood",
+   "lat": 33.7396,
+   "lng": -80.462
+ },
+ {
+   "city": "Darlington",
+   "lat": 34.3015,
+   "lng": -79.8672
+ },
+ {
+   "city": "Arial",
+   "lat": 34.8462,
+   "lng": -82.6404
+ },
+ {
+   "city": "McConnells",
+   "lat": 34.8695,
+   "lng": -81.2266
+ },
+ {
+   "city": "Socastee",
+   "lat": 33.6871,
+   "lng": -79.0086
+ },
+ {
+   "city": "Gifford",
+   "lat": 32.86,
+   "lng": -81.2385
+ },
+ {
+   "city": "Berea",
+   "lat": 34.8802,
+   "lng": -82.4653
+ },
+ {
+   "city": "Perry",
+   "lat": 33.6277,
+   "lng": -81.3086
+ },
+ {
+   "city": "St. Matthews",
+   "lat": 33.664,
+   "lng": -80.778
+ },
+ {
+   "city": "Red Hill",
+   "lat": 33.7778,
+   "lng": -79.0111
+ },
+ {
+   "city": "Mount Pleasant",
+   "lat": 32.8533,
+   "lng": -79.8269
+ },
+ {
+   "city": "Newport",
+   "lat": 34.9832,
+   "lng": -81.0992
+ },
+ {
+   "city": "Dentsville",
+   "lat": 34.0754,
+   "lng": -80.9546
+ },
+ {
+   "city": "Piedmont",
+   "lat": 34.7074,
+   "lng": -82.4651
+ },
+ {
+   "city": "Hickory Grove",
+   "lat": 34.9785,
+   "lng": -81.4181
+ },
+ {
+   "city": "Kline",
+   "lat": 33.1252,
+   "lng": -81.3426
+ },
+ {
+   "city": "Gadsden",
+   "lat": 33.848,
+   "lng": -80.7663
+ },
+ {
+   "city": "Chester",
+   "lat": 34.705,
+   "lng": -81.2132
+ },
+ {
+   "city": "City View",
+   "lat": 34.862,
+   "lng": -82.4249
+ },
+ {
+   "city": "Duncan",
+   "lat": 34.9369,
+   "lng": -82.1404
+ },
+ {
+   "city": "Inman Mills",
+   "lat": 35.041,
+   "lng": -82.1022
+ },
+ {
+   "city": "Lake Murray of Richland",
+   "lat": 34.1209,
+   "lng": -81.2653
+ },
+ {
+   "city": "Edgefield",
+   "lat": 33.7871,
+   "lng": -81.9292
+ },
+ {
+   "city": "Graniteville",
+   "lat": 33.5646,
+   "lng": -81.8079
+ },
+ {
+   "city": "Manning",
+   "lat": 33.6933,
+   "lng": -80.2168
+ },
+ {
+   "city": "Six Mile",
+   "lat": 34.8082,
+   "lng": -82.8154
+ },
+ {
+   "city": "Kiawah Island",
+   "lat": 32.6159,
+   "lng": -80.0607
+ },
+ {
+   "city": "Swansea",
+   "lat": 33.7396,
+   "lng": -81.1053
+ },
+ {
+   "city": "Bluffton",
+   "lat": 32.2135,
+   "lng": -80.9316
+ },
+ {
+   "city": "Cross Hill",
+   "lat": 34.3045,
+   "lng": -81.9836
+ },
+ {
+   "city": "Seven Oaks",
+   "lat": 34.0474,
+   "lng": -81.1434
+ },
+ {
+   "city": "Rembert",
+   "lat": 34.1037,
+   "lng": -80.5305
+ },
+ {
+   "city": "Ridgeville",
+   "lat": 33.09,
+   "lng": -80.3071
+ },
+ {
+   "city": "Bishopville",
+   "lat": 34.2202,
+   "lng": -80.2483
+ },
+ {
+   "city": "Pendleton",
+   "lat": 34.6453,
+   "lng": -82.7822
+ },
+ {
+   "city": "Luray",
+   "lat": 32.8142,
+   "lng": -81.2403
+ },
+ {
+   "city": "Quinby",
+   "lat": 34.2282,
+   "lng": -79.7358
+ },
+ {
+   "city": "Fort Mill",
+   "lat": 35.0062,
+   "lng": -80.9388
+ },
+ {
+   "city": "West Union",
+   "lat": 34.7589,
+   "lng": -83.0431
+ },
+ {
+   "city": "Snelling",
+   "lat": 33.2416,
+   "lng": -81.4622
+ },
+ {
+   "city": "Chesterfield",
+   "lat": 34.733,
+   "lng": -80.078
+ },
+ {
+   "city": "Pacolet",
+   "lat": 34.9033,
+   "lng": -81.7628
+ },
+ {
+   "city": "Calhoun Falls",
+   "lat": 34.0933,
+   "lng": -82.5963
+ },
+ {
+   "city": "Pawleys Island",
+   "lat": 33.427,
+   "lng": -79.1245
+ },
+ {
+   "city": "Greeleyville",
+   "lat": 33.5801,
+   "lng": -79.9901
+ },
+ {
+   "city": "Honea Path",
+   "lat": 34.4476,
+   "lng": -82.395
+ },
+ {
+   "city": "Mount Carmel",
+   "lat": 34.0185,
+   "lng": -82.5044
+ },
+ {
+   "city": "Clinton",
+   "lat": 34.4777,
+   "lng": -81.8636
+ },
+ {
+   "city": "Hemingway",
+   "lat": 33.7533,
+   "lng": -79.4462
+ },
+ {
+   "city": "Enoree",
+   "lat": 34.6593,
+   "lng": -81.9609
+ },
+ {
+   "city": "Ware Shoals",
+   "lat": 34.3922,
+   "lng": -82.2421
+ },
+ {
+   "city": "Elko",
+   "lat": 33.3807,
+   "lng": -81.3805
+ },
+ {
+   "city": "Mulberry",
+   "lat": 33.9565,
+   "lng": -80.3315
+ },
+ {
+   "city": "Lydia",
+   "lat": 34.2866,
+   "lng": -80.1185
+ },
+ {
+   "city": "Beaufort",
+   "lat": 32.4606,
+   "lng": -80.7245
+ },
+ {
+   "city": "Govan",
+   "lat": 33.2227,
+   "lng": -81.1748
+ },
+ {
+   "city": "Estill",
+   "lat": 32.7538,
+   "lng": -81.2412
+ },
+ {
+   "city": "Bonneau",
+   "lat": 33.3081,
+   "lng": -79.9573
+ },
+ {
+   "city": "Lane",
+   "lat": 33.5251,
+   "lng": -79.8797
+ },
+ {
+   "city": "Summit",
+   "lat": 33.9246,
+   "lng": -81.4226
+ },
+ {
+   "city": "Buffalo",
+   "lat": 34.7245,
+   "lng": -81.6843
+ },
+ {
+   "city": "Hampton",
+   "lat": 32.8676,
+   "lng": -81.1092
+ },
+ {
+   "city": "Hilda",
+   "lat": 33.274,
+   "lng": -81.2466
+ },
+ {
+   "city": "Wagener",
+   "lat": 33.6521,
+   "lng": -81.3636
+ },
+ {
+   "city": "Sumter",
+   "lat": 33.9392,
+   "lng": -80.393
+ },
+ {
+   "city": "Nichols",
+   "lat": 34.2352,
+   "lng": -79.1492
+ },
+ {
+   "city": "Oak Grove",
+   "lat": 33.9809,
+   "lng": -81.1438
+ },
+ {
+   "city": "Olar",
+   "lat": 33.1799,
+   "lng": -81.1854
+ },
+ {
+   "city": "Eureka Mill",
+   "lat": 34.718,
+   "lng": -81.193
+ },
+ {
+   "city": "Kershaw",
+   "lat": 34.5462,
+   "lng": -80.5873
+ },
+ {
+   "city": "Cordova",
+   "lat": 33.4345,
+   "lng": -80.9211
+ },
+ {
+   "city": "Slater-Marietta",
+   "lat": 35.0348,
+   "lng": -82.4927
+ },
+ {
+   "city": "Whitmire",
+   "lat": 34.5041,
+   "lng": -81.6144
+ },
+ {
+   "city": "Springdale",
+   "lat": 33.9616,
+   "lng": -81.1119
+ },
+ {
+   "city": "Lake City",
+   "lat": 33.8676,
+   "lng": -79.7533
+ },
+ {
+   "city": "Spartanburg",
+   "lat": 34.9437,
+   "lng": -81.9256
+ },
+ {
+   "city": "Startex",
+   "lat": 34.9309,
+   "lng": -82.0941
+ },
+ {
+   "city": "Blacksburg",
+   "lat": 35.1221,
+   "lng": -81.5182
+ },
+ {
+   "city": "Promised Land",
+   "lat": 34.1276,
+   "lng": -82.2307
+ },
+ {
+   "city": "Inman",
+   "lat": 35.0468,
+   "lng": -82.0914
+ },
+ {
+   "city": "Taylors",
+   "lat": 34.9157,
+   "lng": -82.3124
+ },
+ {
+   "city": "Aiken",
+   "lat": 33.5304,
+   "lng": -81.727
+ },
+ {
+   "city": "Reevesville",
+   "lat": 33.2021,
+   "lng": -80.6456
+ },
+ {
+   "city": "Blythewood",
+   "lat": 34.2121,
+   "lng": -80.9921
+ },
+ {
+   "city": "Harleyville",
+   "lat": 33.2126,
+   "lng": -80.4478
+ },
+ {
+   "city": "Winnsboro Mills",
+   "lat": 34.3561,
+   "lng": -81.0709
+ },
+ {
+   "city": "Camden",
+   "lat": 34.2565,
+   "lng": -80.6087
+ },
+ {
+   "city": "Hanahan",
+   "lat": 32.9302,
+   "lng": -80.0031
+ },
+ {
+   "city": "South Sumter",
+   "lat": 33.8855,
+   "lng": -80.3378
+ },
+ {
+   "city": "Jamestown",
+   "lat": 33.2859,
+   "lng": -79.6945
+ },
+ {
+   "city": "York",
+   "lat": 34.9967,
+   "lng": -81.234
+ },
+ {
+   "city": "Murphys Estates",
+   "lat": 33.6003,
+   "lng": -81.9439
+ },
+ {
+   "city": "Lynchburg",
+   "lat": 34.06,
+   "lng": -80.077
+ },
+ {
+   "city": "Waterloo",
+   "lat": 34.3562,
+   "lng": -82.0571
+ },
+ {
+   "city": "Bowman",
+   "lat": 33.3483,
+   "lng": -80.6844
+ },
+ {
+   "city": "Georgetown",
+   "lat": 33.3595,
+   "lng": -79.2958
+ },
+ {
+   "city": "St. Stephen",
+   "lat": 33.4046,
+   "lng": -79.9264
+ },
+ {
+   "city": "Woodford",
+   "lat": 33.6687,
+   "lng": -81.112
+ },
+ {
+   "city": "Forestbrook",
+   "lat": 33.7243,
+   "lng": -78.9678
+ },
+ {
+   "city": "Clemson",
+   "lat": 34.6838,
+   "lng": -82.8124
+ },
+ {
+   "city": "Clio",
+   "lat": 34.5791,
+   "lng": -79.5461
+ },
+ {
+   "city": "Hardeeville",
+   "lat": 32.295,
+   "lng": -81.0318
+ },
+ {
+   "city": "Red Bank",
+   "lat": 33.9296,
+   "lng": -81.2321
+ },
+ {
+   "city": "Laurens",
+   "lat": 34.5022,
+   "lng": -82.0207
+ },
+ {
+   "city": "Pelion",
+   "lat": 33.7749,
+   "lng": -81.2502
+ },
+ {
+   "city": "Parker",
+   "lat": 34.8514,
+   "lng": -82.4512
+ },
+ {
+   "city": "Cottageville",
+   "lat": 32.9362,
+   "lng": -80.4803
+ },
+ {
+   "city": "Cane Savannah",
+   "lat": 33.8923,
+   "lng": -80.4395
+ },
+ {
+   "city": "Denmark",
+   "lat": 33.3152,
+   "lng": -81.1366
+ },
+ {
+   "city": "Glendale",
+   "lat": 34.9451,
+   "lng": -81.8364
+ },
+ {
+   "city": "Joanna",
+   "lat": 34.4149,
+   "lng": -81.8086
+ },
+ {
+   "city": "Chesnee",
+   "lat": 35.1459,
+   "lng": -81.8627
+ },
+ {
+   "city": "Dillon",
+   "lat": 34.423,
+   "lng": -79.369
+ },
+ {
+   "city": "Plum Branch",
+   "lat": 33.8481,
+   "lng": -82.2587
+ },
+ {
+   "city": "Gilbert",
+   "lat": 33.9245,
+   "lng": -81.3928
+ },
+ {
+   "city": "Edisto Beach",
+   "lat": 32.4922,
+   "lng": -80.3239
+ },
+ {
+   "city": "Oakland",
+   "lat": 33.9868,
+   "lng": -80.4972
+ },
+ {
+   "city": "East Sumter",
+   "lat": 33.9261,
+   "lng": -80.295
+ },
+ {
+   "city": "Mullins",
+   "lat": 34.2042,
+   "lng": -79.2535
+ },
+ {
+   "city": "Allendale",
+   "lat": 33.008,
+   "lng": -81.3092
+ },
+ {
+   "city": "Rock Hill",
+   "lat": 34.9413,
+   "lng": -81.025
+ },
+ {
+   "city": "Homeland Park",
+   "lat": 34.4644,
+   "lng": -82.6593
+ },
+ {
+   "city": "Belvedere",
+   "lat": 33.5369,
+   "lng": -81.9424
+ },
+ {
+   "city": "Brunson",
+   "lat": 32.9242,
+   "lng": -81.1886
+ },
+ {
+   "city": "Bamberg",
+   "lat": 33.2995,
+   "lng": -81.0323
+ },
+ {
+   "city": "Garden City",
+   "lat": 33.5927,
+   "lng": -79.007
+ },
+ {
+   "city": "Cherryvale",
+   "lat": 33.9543,
+   "lng": -80.4609
+ },
+ {
+   "city": "Landrum",
+   "lat": 35.1746,
+   "lng": -82.1849
+ },
+ {
+   "city": "Mauldin",
+   "lat": 34.7866,
+   "lng": -82.2997
+ },
+ {
+   "city": "Rowesville",
+   "lat": 33.3722,
+   "lng": -80.8361
+ },
+ {
+   "city": "Myrtle Beach",
+   "lat": 33.7096,
+   "lng": -78.8842
+ },
+ {
+   "city": "Utica",
+   "lat": 34.6778,
+   "lng": -82.925
+ },
+ {
+   "city": "Ridge Spring",
+   "lat": 33.8453,
+   "lng": -81.6617
+ },
+ {
+   "city": "Columbia",
+   "lat": 34.0376,
+   "lng": -80.9037
+ },
+ {
+   "city": "East Gaffney",
+   "lat": 35.0846,
+   "lng": -81.6219
+ },
+ {
+   "city": "Ridgeway",
+   "lat": 34.3066,
+   "lng": -80.9601
+ },
+ {
+   "city": "Blackville",
+   "lat": 33.3552,
+   "lng": -81.2835
+ },
+ {
+   "city": "Branchville",
+   "lat": 33.2516,
+   "lng": -80.8162
+ },
+ {
+   "city": "Shiloh",
+   "lat": 33.9461,
+   "lng": -80.0208
+ },
+ {
+   "city": "Holly Hill",
+   "lat": 33.3245,
+   "lng": -80.413
+ },
+ {
+   "city": "Gayle Mill",
+   "lat": 34.7022,
+   "lng": -81.2392
+ },
+ {
+   "city": "Sullivan's Island",
+   "lat": 32.7684,
+   "lng": -79.8354
+ },
+ {
+   "city": "Hartsville",
+   "lat": 34.3679,
+   "lng": -80.0829
+ },
+ {
+   "city": "Pageland",
+   "lat": 34.772,
+   "lng": -80.3897
+ },
+ {
+   "city": "McBee",
+   "lat": 34.467,
+   "lng": -80.2571
+ },
+ {
+   "city": "Conway",
+   "lat": 33.8403,
+   "lng": -79.0422
+ },
+ {
+   "city": "St. Andrews",
+   "lat": 34.051,
+   "lng": -81.1057
+ },
+ {
+   "city": "Alcolu",
+   "lat": 33.7546,
+   "lng": -80.2221
+ },
+ {
+   "city": "North",
+   "lat": 33.6164,
+   "lng": -81.1031
+ },
+ {
+   "city": "Turbeville",
+   "lat": 33.8896,
+   "lng": -80.0161
+ },
+ {
+   "city": "Cheraw",
+   "lat": 34.6954,
+   "lng": -79.9083
+ },
+ {
+   "city": "Walterboro",
+   "lat": 32.901,
+   "lng": -80.676
+ },
+ {
+   "city": "Westminster",
+   "lat": 34.6657,
+   "lng": -83.0911
+ },
+ {
+   "city": "Parksville",
+   "lat": 33.7866,
+   "lng": -82.2173
+ },
+ {
+   "city": "Richburg",
+   "lat": 34.7167,
+   "lng": -81.0197
+ }
+]

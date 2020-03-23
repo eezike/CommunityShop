@@ -1,0 +1,562 @@
+[
+ {
+   "city": "North Grosvenor Dale",
+   "lat": 41.9862,
+   "lng": -71.9034
+ },
+ {
+   "city": "Plantsville",
+   "lat": 41.5832,
+   "lng": -72.8915
+ },
+ {
+   "city": "Simsbury Center",
+   "lat": 41.8808,
+   "lng": -72.8111
+ },
+ {
+   "city": "Norwalk",
+   "lat": 41.1144,
+   "lng": -73.4215
+ },
+ {
+   "city": "Coventry Lake",
+   "lat": 41.7736,
+   "lng": -72.3287
+ },
+ {
+   "city": "Terramuggus",
+   "lat": 41.6342,
+   "lng": -72.4692
+ },
+ {
+   "city": "Bridgeport",
+   "lat": 41.1918,
+   "lng": -73.1953
+ },
+ {
+   "city": "Stamford",
+   "lat": 41.1035,
+   "lng": -73.5583
+ },
+ {
+   "city": "Hazardville",
+   "lat": 41.9899,
+   "lng": -72.5256
+ },
+ {
+   "city": "New London",
+   "lat": 41.3502,
+   "lng": -72.1023
+ },
+ {
+   "city": "Deep River Center",
+   "lat": 41.3823,
+   "lng": -72.4386
+ },
+ {
+   "city": "Litchfield",
+   "lat": 41.7457,
+   "lng": -73.1893
+ },
+ {
+   "city": "Oakville",
+   "lat": 41.5923,
+   "lng": -73.0858
+ },
+ {
+   "city": "Derby",
+   "lat": 41.3265,
+   "lng": -73.0833
+ },
+ {
+   "city": "Poquonock Bridge",
+   "lat": 41.3379,
+   "lng": -72.0175
+ },
+ {
+   "city": "Essex Village",
+   "lat": 41.3552,
+   "lng": -72.391
+ },
+ {
+   "city": "Old Greenwich",
+   "lat": 41.0253,
+   "lng": -73.5692
+ },
+ {
+   "city": "South Coventry",
+   "lat": 41.7695,
+   "lng": -72.3064
+ },
+ {
+   "city": "Meriden",
+   "lat": 41.5367,
+   "lng": -72.7944
+ },
+ {
+   "city": "Wilton Center",
+   "lat": 41.188,
+   "lng": -73.4298
+ },
+ {
+   "city": "Weatogue",
+   "lat": 41.8459,
+   "lng": -72.8294
+ },
+ {
+   "city": "Shelton",
+   "lat": 41.306,
+   "lng": -73.1383
+ },
+ {
+   "city": "Wauregan",
+   "lat": 41.7501,
+   "lng": -71.9091
+ },
+ {
+   "city": "Branford Center",
+   "lat": 41.2779,
+   "lng": -72.8148
+ },
+ {
+   "city": "North Granby",
+   "lat": 42.0152,
+   "lng": -72.844
+ },
+ {
+   "city": "Canton Valley",
+   "lat": 41.8316,
+   "lng": -72.8978
+ },
+ {
+   "city": "Higganum",
+   "lat": 41.49,
+   "lng": -72.5562
+ },
+ {
+   "city": "Bethlehem Village",
+   "lat": 41.6401,
+   "lng": -73.2031
+ },
+ {
+   "city": "Baltic",
+   "lat": 41.614,
+   "lng": -72.0866
+ },
+ {
+   "city": "Lake Pocotopaug",
+   "lat": 41.5961,
+   "lng": -72.5124
+ },
+ {
+   "city": "Jewett City",
+   "lat": 41.607,
+   "lng": -71.9806
+ },
+ {
+   "city": "Mansfield Center",
+   "lat": 41.7618,
+   "lng": -72.1944
+ },
+ {
+   "city": "Cheshire Village",
+   "lat": 41.5026,
+   "lng": -72.8993
+ },
+ {
+   "city": "Suffield Depot",
+   "lat": 41.983,
+   "lng": -72.6463
+ },
+ {
+   "city": "Rockville",
+   "lat": 41.8667,
+   "lng": -72.4528
+ },
+ {
+   "city": "West Simsbury",
+   "lat": 41.8748,
+   "lng": -72.8448
+ },
+ {
+   "city": "Long Hill",
+   "lat": 41.3536,
+   "lng": -72.0517
+ },
+ {
+   "city": "Kensington",
+   "lat": 41.6298,
+   "lng": -72.7714
+ },
+ {
+   "city": "Sherwood Manor",
+   "lat": 42.0125,
+   "lng": -72.566
+ },
+ {
+   "city": "Norwich",
+   "lat": 41.5495,
+   "lng": -72.0882
+ },
+ {
+   "city": "Woodmont",
+   "lat": 41.2282,
+   "lng": -72.993
+ },
+ {
+   "city": "Torrington",
+   "lat": 41.8349,
+   "lng": -73.1281
+ },
+ {
+   "city": "Groton",
+   "lat": 41.339,
+   "lng": -72.0727
+ },
+ {
+   "city": "Salmon Brook",
+   "lat": 41.9567,
+   "lng": -72.7931
+ },
+ {
+   "city": "Mashantucket",
+   "lat": 41.4644,
+   "lng": -71.9745
+ },
+ {
+   "city": "Pemberwick",
+   "lat": 41.0224,
+   "lng": -73.6564
+ },
+ {
+   "city": "Georgetown",
+   "lat": 41.2494,
+   "lng": -73.4343
+ },
+ {
+   "city": "Ansonia",
+   "lat": 41.3443,
+   "lng": -73.0689
+ },
+ {
+   "city": "Woodbury Center",
+   "lat": 41.5445,
+   "lng": -73.2047
+ },
+ {
+   "city": "Thompsonville",
+   "lat": 41.9916,
+   "lng": -72.5965
+ },
+ {
+   "city": "Middletown",
+   "lat": 41.5476,
+   "lng": -72.6549
+ },
+ {
+   "city": "Broad Brook",
+   "lat": 41.9097,
+   "lng": -72.5426
+ },
+ {
+   "city": "Naugatuck",
+   "lat": 41.489,
+   "lng": -73.0518
+ },
+ {
+   "city": "Guilford Center",
+   "lat": 41.2817,
+   "lng": -72.6762
+ },
+ {
+   "city": "Cannondale",
+   "lat": 41.2161,
+   "lng": -73.4248
+ },
+ {
+   "city": "Willimantic",
+   "lat": 41.7153,
+   "lng": -72.2173
+ },
+ {
+   "city": "Byram",
+   "lat": 41.0011,
+   "lng": -73.6528
+ },
+ {
+   "city": "Hartford",
+   "lat": 41.7661,
+   "lng": -72.6834
+ },
+ {
+   "city": "Chester Center",
+   "lat": 41.4014,
+   "lng": -72.4523
+ },
+ {
+   "city": "Southwood Acres",
+   "lat": 41.961,
+   "lng": -72.5719
+ },
+ {
+   "city": "Pawcatuck",
+   "lat": 41.3774,
+   "lng": -71.8492
+ },
+ {
+   "city": "South Woodstock",
+   "lat": 41.9275,
+   "lng": -71.9627
+ },
+ {
+   "city": "Plainfield Village",
+   "lat": 41.6766,
+   "lng": -71.925
+ },
+ {
+   "city": "Blue Hills",
+   "lat": 41.8134,
+   "lng": -72.6954
+ },
+ {
+   "city": "Niantic",
+   "lat": 41.3265,
+   "lng": -72.1949
+ },
+ {
+   "city": "Storrs",
+   "lat": 41.8045,
+   "lng": -72.2552
+ },
+ {
+   "city": "Bristol",
+   "lat": 41.6812,
+   "lng": -72.9407
+ },
+ {
+   "city": "Old Saybrook Center",
+   "lat": 41.2918,
+   "lng": -72.3682
+ },
+ {
+   "city": "New Britain",
+   "lat": 41.6758,
+   "lng": -72.7862
+ },
+ {
+   "city": "Moosup",
+   "lat": 41.7169,
+   "lng": -71.875
+ },
+ {
+   "city": "Conning Towers Nautilus Park",
+   "lat": 41.3855,
+   "lng": -72.0686
+ },
+ {
+   "city": "Waterbury",
+   "lat": 41.5583,
+   "lng": -73.0361
+ },
+ {
+   "city": "Madison Center",
+   "lat": 41.2794,
+   "lng": -72.6003
+ },
+ {
+   "city": "East Brooklyn",
+   "lat": 41.7948,
+   "lng": -71.8992
+ },
+ {
+   "city": "Mystic",
+   "lat": 41.3574,
+   "lng": -71.9548
+ },
+ {
+   "city": "Crystal Lake",
+   "lat": 41.9343,
+   "lng": -72.3756
+ },
+ {
+   "city": "Terryville",
+   "lat": 41.6784,
+   "lng": -73.0065
+ },
+ {
+   "city": "Lakeville",
+   "lat": 41.9594,
+   "lng": -73.4467
+ },
+ {
+   "city": "Stonington",
+   "lat": 41.3344,
+   "lng": -71.9033
+ },
+ {
+   "city": "Moodus",
+   "lat": 41.5043,
+   "lng": -72.4491
+ },
+ {
+   "city": "Glenville",
+   "lat": 41.0349,
+   "lng": -73.6656
+ },
+ {
+   "city": "Southport",
+   "lat": 41.1349,
+   "lng": -73.2874
+ },
+ {
+   "city": "Saybrook Manor",
+   "lat": 41.2825,
+   "lng": -72.4063
+ },
+ {
+   "city": "Groton Long Point",
+   "lat": 41.3145,
+   "lng": -72.0087
+ },
+ {
+   "city": "Westbrook Center",
+   "lat": 41.2811,
+   "lng": -72.4424
+ },
+ {
+   "city": "Wallingford Center",
+   "lat": 41.4499,
+   "lng": -72.8189
+ },
+ {
+   "city": "Cos Cob",
+   "lat": 41.0513,
+   "lng": -73.5931
+ },
+ {
+   "city": "Gales Ferry",
+   "lat": 41.4212,
+   "lng": -72.0859
+ },
+ {
+   "city": "Riverside",
+   "lat": 41.0319,
+   "lng": -73.5827
+ },
+ {
+   "city": "Tariffville",
+   "lat": 41.9076,
+   "lng": -72.7682
+ },
+ {
+   "city": "Glastonbury Center",
+   "lat": 41.7019,
+   "lng": -72.6002
+ },
+ {
+   "city": "Old Mystic",
+   "lat": 41.3854,
+   "lng": -71.985
+ },
+ {
+   "city": "Bantam",
+   "lat": 41.7247,
+   "lng": -73.2422
+ },
+ {
+   "city": "New Haven",
+   "lat": 41.3112,
+   "lng": -72.9246
+ },
+ {
+   "city": "New Preston",
+   "lat": 41.6813,
+   "lng": -73.3523
+ },
+ {
+   "city": "Noank",
+   "lat": 41.3339,
+   "lng": -71.9978
+ },
+ {
+   "city": "Quinebaug",
+   "lat": 42.0107,
+   "lng": -71.937
+ },
+ {
+   "city": "Stafford Springs",
+   "lat": 41.9595,
+   "lng": -72.3105
+ },
+ {
+   "city": "New Hartford Center",
+   "lat": 41.8802,
+   "lng": -72.9753
+ },
+ {
+   "city": "Winsted",
+   "lat": 41.9268,
+   "lng": -73.0674
+ },
+ {
+   "city": "West Haven",
+   "lat": 41.2739,
+   "lng": -72.9672
+ },
+ {
+   "city": "Oxoboxo River",
+   "lat": 41.4441,
+   "lng": -72.125
+ },
+ {
+   "city": "Danbury",
+   "lat": 41.4016,
+   "lng": -73.471
+ },
+ {
+   "city": "Newtown",
+   "lat": 41.4119,
+   "lng": -73.312
+ },
+ {
+   "city": "Danielson",
+   "lat": 41.8086,
+   "lng": -71.8854
+ },
+ {
+   "city": "Heritage Village",
+   "lat": 41.4845,
+   "lng": -73.2351
+ },
+ {
+   "city": "Collinsville",
+   "lat": 41.819,
+   "lng": -72.922
+ },
+ {
+   "city": "Falls Village",
+   "lat": 41.9576,
+   "lng": -73.3562
+ },
+ {
+   "city": "Fenwick",
+   "lat": 41.2711,
+   "lng": -72.3546
+ },
+ {
+   "city": "South Windham",
+   "lat": 41.685,
+   "lng": -72.1845
+ },
+ {
+   "city": "Milford city ",
+   "lat": 41.2255,
+   "lng": -73.0625
+ },
+ {
+   "city": "Northwest Harwinton",
+   "lat": 41.7769,
+   "lng": -73.0794
+ }
+]

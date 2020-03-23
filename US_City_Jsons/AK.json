@@ -1,0 +1,1767 @@
+[
+ {
+   "city": "Oscarville",
+   "lat": 60.7287,
+   "lng": -161.773
+ },
+ {
+   "city": "Kasaan",
+   "lat": 55.5573,
+   "lng": -132.4137
+ },
+ {
+   "city": "Mountain Village",
+   "lat": 62.0911,
+   "lng": -163.7209
+ },
+ {
+   "city": "Tanana",
+   "lat": 65.1746,
+   "lng": -152.0684
+ },
+ {
+   "city": "Rampart",
+   "lat": 65.4087,
+   "lng": -149.9916
+ },
+ {
+   "city": "Moose Pass",
+   "lat": 60.4997,
+   "lng": -149.4464
+ },
+ {
+   "city": "Deltana",
+   "lat": 63.8724,
+   "lng": -145.2158
+ },
+ {
+   "city": "Atka",
+   "lat": 52.2301,
+   "lng": -174.2133
+ },
+ {
+   "city": "Sitka",
+   "lat": 57.2401,
+   "lng": -135.3153
+ },
+ {
+   "city": "Petersburg",
+   "lat": 56.7566,
+   "lng": -132.8727
+ },
+ {
+   "city": "Aniak",
+   "lat": 61.5817,
+   "lng": -159.5451
+ },
+ {
+   "city": "Kiana",
+   "lat": 66.9726,
+   "lng": -160.4344
+ },
+ {
+   "city": "Hydaburg",
+   "lat": 55.2062,
+   "lng": -132.8208
+ },
+ {
+   "city": "Gulkana",
+   "lat": 62.2152,
+   "lng": -145.4449
+ },
+ {
+   "city": "Brevig Mission",
+   "lat": 65.3413,
+   "lng": -166.4953
+ },
+ {
+   "city": "False Pass",
+   "lat": 54.8415,
+   "lng": -163.348
+ },
+ {
+   "city": "Northway Village",
+   "lat": 62.9821,
+   "lng": -141.9294
+ },
+ {
+   "city": "Hobart Bay",
+   "lat": 57.4212,
+   "lng": -133.3231
+ },
+ {
+   "city": "Livengood",
+   "lat": 65.4817,
+   "lng": -148.4171
+ },
+ {
+   "city": "Nelson Lagoon",
+   "lat": 55.8451,
+   "lng": -161.6103
+ },
+ {
+   "city": "Savoonga",
+   "lat": 63.6797,
+   "lng": -170.4831
+ },
+ {
+   "city": "Lake Minchumina",
+   "lat": 63.798,
+   "lng": -152.3448
+ },
+ {
+   "city": "Wrangell",
+   "lat": 56.3317,
+   "lng": -132.0223
+ },
+ {
+   "city": "Pilot Station",
+   "lat": 61.9422,
+   "lng": -162.8828
+ },
+ {
+   "city": "Tanacross",
+   "lat": 63.3523,
+   "lng": -143.4318
+ },
+ {
+   "city": "Point MacKenzie",
+   "lat": 61.3463,
+   "lng": -150.0787
+ },
+ {
+   "city": "Mertarvik",
+   "lat": 60.811,
+   "lng": -164.4991
+ },
+ {
+   "city": "Susitna",
+   "lat": 61.497,
+   "lng": -150.622
+ },
+ {
+   "city": "Port Protection",
+   "lat": 56.3293,
+   "lng": -133.594
+ },
+ {
+   "city": "Coldfoot",
+   "lat": 67.2475,
+   "lng": -150.1079
+ },
+ {
+   "city": "Mosquito Lake",
+   "lat": 59.471,
+   "lng": -136.1458
+ },
+ {
+   "city": "Napaskiak",
+   "lat": 60.7019,
+   "lng": -161.7616
+ },
+ {
+   "city": "Anaktuvuk Pass",
+   "lat": 68.15,
+   "lng": -151.7162
+ },
+ {
+   "city": "Tuluksak",
+   "lat": 61.105,
+   "lng": -160.9493
+ },
+ {
+   "city": "Mendeltna",
+   "lat": 62.1359,
+   "lng": -146.5388
+ },
+ {
+   "city": "Golovin",
+   "lat": 64.5638,
+   "lng": -162.9988
+ },
+ {
+   "city": "Shageluk",
+   "lat": 62.6684,
+   "lng": -159.563
+ },
+ {
+   "city": "Noorvik",
+   "lat": 66.8292,
+   "lng": -161.0377
+ },
+ {
+   "city": "Seward",
+   "lat": 60.1124,
+   "lng": -149.3925
+ },
+ {
+   "city": "Nikolaevsk",
+   "lat": 59.8295,
+   "lng": -151.5964
+ },
+ {
+   "city": "Susitna North",
+   "lat": 62.1281,
+   "lng": -149.8593
+ },
+ {
+   "city": "Salamatof",
+   "lat": 60.6154,
+   "lng": -151.3159
+ },
+ {
+   "city": "Tazlina",
+   "lat": 62.0536,
+   "lng": -145.4362
+ },
+ {
+   "city": "Iliamna",
+   "lat": 59.7957,
+   "lng": -154.8698
+ },
+ {
+   "city": "Gambell",
+   "lat": 63.7538,
+   "lng": -171.6881
+ },
+ {
+   "city": "Nunapitchuk",
+   "lat": 60.8772,
+   "lng": -162.4615
+ },
+ {
+   "city": "Cooper Landing",
+   "lat": 60.4945,
+   "lng": -149.8409
+ },
+ {
+   "city": "Naukati Bay",
+   "lat": 55.8801,
+   "lng": -133.1992
+ },
+ {
+   "city": "Farmers Loop",
+   "lat": 64.9061,
+   "lng": -147.6957
+ },
+ {
+   "city": "Trapper Creek",
+   "lat": 62.3189,
+   "lng": -150.3965
+ },
+ {
+   "city": "Dot Lake",
+   "lat": 63.5749,
+   "lng": -144.1815
+ },
+ {
+   "city": "Chistochina",
+   "lat": 62.5921,
+   "lng": -144.8136
+ },
+ {
+   "city": "Denali Park",
+   "lat": 63.5909,
+   "lng": -148.7107
+ },
+ {
+   "city": "Kaltag",
+   "lat": 64.3223,
+   "lng": -158.7436
+ },
+ {
+   "city": "Glennallen",
+   "lat": 62.1278,
+   "lng": -145.7693
+ },
+ {
+   "city": "Beluga",
+   "lat": 61.1869,
+   "lng": -151.1637
+ },
+ {
+   "city": "King Salmon",
+   "lat": 58.753,
+   "lng": -156.5061
+ },
+ {
+   "city": "Point Possession",
+   "lat": 60.9228,
+   "lng": -150.6891
+ },
+ {
+   "city": "North Pole",
+   "lat": 64.753,
+   "lng": -147.36
+ },
+ {
+   "city": "Hooper Bay",
+   "lat": 61.5262,
+   "lng": -166.1146
+ },
+ {
+   "city": "Ferry",
+   "lat": 64.0496,
+   "lng": -148.9205
+ },
+ {
+   "city": "Talkeetna",
+   "lat": 62.2753,
+   "lng": -150.0814
+ },
+ {
+   "city": "St. Paul",
+   "lat": 57.1815,
+   "lng": -170.2743
+ },
+ {
+   "city": "Kotlik",
+   "lat": 63.0305,
+   "lng": -163.5531
+ },
+ {
+   "city": "Chignik Lagoon",
+   "lat": 56.3041,
+   "lng": -158.5004
+ },
+ {
+   "city": "Coffman Cove",
+   "lat": 56.0057,
+   "lng": -132.8395
+ },
+ {
+   "city": "White Mountain",
+   "lat": 64.6812,
+   "lng": -163.4228
+ },
+ {
+   "city": "Meadow Lakes",
+   "lat": 61.638,
+   "lng": -149.608
+ },
+ {
+   "city": "Port Lions",
+   "lat": 57.8754,
+   "lng": -152.8745
+ },
+ {
+   "city": "Bethel",
+   "lat": 60.7928,
+   "lng": -161.7917
+ },
+ {
+   "city": "Sutton-Alpine",
+   "lat": 61.7429,
+   "lng": -148.8542
+ },
+ {
+   "city": "Point Hope",
+   "lat": 68.3445,
+   "lng": -166.6738
+ },
+ {
+   "city": "Kwigillingok",
+   "lat": 59.8767,
+   "lng": -163.1717
+ },
+ {
+   "city": "Knik-Fairview",
+   "lat": 61.4964,
+   "lng": -149.6535
+ },
+ {
+   "city": "Nikiski",
+   "lat": 60.7152,
+   "lng": -151.2317
+ },
+ {
+   "city": "Sand Point",
+   "lat": 55.3227,
+   "lng": -160.4834
+ },
+ {
+   "city": "Kodiak",
+   "lat": 57.7934,
+   "lng": -152.406
+ },
+ {
+   "city": "Kachemak",
+   "lat": 59.6745,
+   "lng": -151.4364
+ },
+ {
+   "city": "Farm Loop",
+   "lat": 61.6394,
+   "lng": -149.1471
+ },
+ {
+   "city": "Houston",
+   "lat": 61.6159,
+   "lng": -149.8003
+ },
+ {
+   "city": "King Cove",
+   "lat": 55.0858,
+   "lng": -162.2979
+ },
+ {
+   "city": "Elim",
+   "lat": 64.6184,
+   "lng": -162.2762
+ },
+ {
+   "city": "Klukwan",
+   "lat": 59.3987,
+   "lng": -135.8886
+ },
+ {
+   "city": "Knik River",
+   "lat": 61.4606,
+   "lng": -148.9155
+ },
+ {
+   "city": "Bear Creek",
+   "lat": 60.2071,
+   "lng": -149.3524
+ },
+ {
+   "city": "Lake Louise",
+   "lat": 62.3131,
+   "lng": -146.5625
+ },
+ {
+   "city": "Lower Kalskag",
+   "lat": 61.5163,
+   "lng": -160.3556
+ },
+ {
+   "city": "Covenant Life",
+   "lat": 59.3998,
+   "lng": -136.0946
+ },
+ {
+   "city": "McGrath",
+   "lat": 62.9424,
+   "lng": -155.563
+ },
+ {
+   "city": "Shishmaref",
+   "lat": 66.2372,
+   "lng": -166.1027
+ },
+ {
+   "city": "Delta Junction",
+   "lat": 64.0604,
+   "lng": -145.7058
+ },
+ {
+   "city": "Fairbanks",
+   "lat": 64.8353,
+   "lng": -147.6534
+ },
+ {
+   "city": "Big Lake",
+   "lat": 61.526,
+   "lng": -149.9721
+ },
+ {
+   "city": "Venetie",
+   "lat": 67.0205,
+   "lng": -146.375
+ },
+ {
+   "city": "Wales",
+   "lat": 65.6119,
+   "lng": -168.0773
+ },
+ {
+   "city": "Paxson",
+   "lat": 63.0111,
+   "lng": -145.7312
+ },
+ {
+   "city": "Grayling",
+   "lat": 62.8998,
+   "lng": -160.1078
+ },
+ {
+   "city": "Kasigluk",
+   "lat": 60.8785,
+   "lng": -162.5272
+ },
+ {
+   "city": "Aleneva",
+   "lat": 58.059,
+   "lng": -152.9091
+ },
+ {
+   "city": "Napakiak",
+   "lat": 60.692,
+   "lng": -161.979
+ },
+ {
+   "city": "Portage Creek",
+   "lat": 58.9049,
+   "lng": -157.6691
+ },
+ {
+   "city": "Teller",
+   "lat": 65.2531,
+   "lng": -166.342
+ },
+ {
+   "city": "Nabesna",
+   "lat": 62.4606,
+   "lng": -143.0402
+ },
+ {
+   "city": "Thorne Bay",
+   "lat": 55.6652,
+   "lng": -132.5337
+ },
+ {
+   "city": "Akiachak",
+   "lat": 60.9209,
+   "lng": -161.402
+ },
+ {
+   "city": "Hollis",
+   "lat": 55.5113,
+   "lng": -132.7023
+ },
+ {
+   "city": "Chisana",
+   "lat": 62.0946,
+   "lng": -142.034
+ },
+ {
+   "city": "Stevens Village",
+   "lat": 66.025,
+   "lng": -149.0803
+ },
+ {
+   "city": "Kupreanof",
+   "lat": 56.8089,
+   "lng": -132.9889
+ },
+ {
+   "city": "Alcan Border",
+   "lat": 62.6727,
+   "lng": -141.1321
+ },
+ {
+   "city": "Stony River",
+   "lat": 61.7937,
+   "lng": -156.5861
+ },
+ {
+   "city": "Metlakatla",
+   "lat": 55.1182,
+   "lng": -131.5688
+ },
+ {
+   "city": "Chignik Lake",
+   "lat": 56.2631,
+   "lng": -158.8049
+ },
+ {
+   "city": "Galena",
+   "lat": 64.7381,
+   "lng": -156.8635
+ },
+ {
+   "city": "Kwethluk",
+   "lat": 60.7978,
+   "lng": -161.4147
+ },
+ {
+   "city": "Sunrise",
+   "lat": 60.8701,
+   "lng": -149.4678
+ },
+ {
+   "city": "McCarthy",
+   "lat": 61.4539,
+   "lng": -142.8648
+ },
+ {
+   "city": "Valdez",
+   "lat": 61.0963,
+   "lng": -146.2596
+ },
+ {
+   "city": "Wasilla",
+   "lat": 61.577,
+   "lng": -149.4661
+ },
+ {
+   "city": "Wainwright",
+   "lat": 70.638,
+   "lng": -159.9713
+ },
+ {
+   "city": "Eagle",
+   "lat": 64.7813,
+   "lng": -141.1978
+ },
+ {
+   "city": "New Stuyahok",
+   "lat": 59.4762,
+   "lng": -157.271
+ },
+ {
+   "city": "Saxman",
+   "lat": 55.3232,
+   "lng": -131.5891
+ },
+ {
+   "city": "Eagle Village",
+   "lat": 64.7434,
+   "lng": -141.1138
+ },
+ {
+   "city": "Unalakleet",
+   "lat": 63.8922,
+   "lng": -160.786
+ },
+ {
+   "city": "Sleetmute",
+   "lat": 61.6516,
+   "lng": -157.1251
+ },
+ {
+   "city": "Whittier",
+   "lat": 60.7852,
+   "lng": -148.6455
+ },
+ {
+   "city": "Ambler",
+   "lat": 67.0897,
+   "lng": -157.8725
+ },
+ {
+   "city": "Four Mile Road",
+   "lat": 64.6046,
+   "lng": -149.1223
+ },
+ {
+   "city": "Prudhoe Bay",
+   "lat": 70.3128,
+   "lng": -148.6957
+ },
+ {
+   "city": "Russian Mission",
+   "lat": 61.7825,
+   "lng": -161.3567
+ },
+ {
+   "city": "Nikolski",
+   "lat": 53.0133,
+   "lng": -168.7536
+ },
+ {
+   "city": "Pelican",
+   "lat": 57.9577,
+   "lng": -136.2176
+ },
+ {
+   "city": "Fort Yukon",
+   "lat": 66.5806,
+   "lng": -145.2416
+ },
+ {
+   "city": "Gustavus",
+   "lat": 58.4275,
+   "lng": -135.7492
+ },
+ {
+   "city": "Game Creek",
+   "lat": 58.0553,
+   "lng": -135.508
+ },
+ {
+   "city": "Koliganek",
+   "lat": 59.6971,
+   "lng": -157.2259
+ },
+ {
+   "city": "Goldstream",
+   "lat": 64.9339,
+   "lng": -148.0083
+ },
+ {
+   "city": "Kodiak Station",
+   "lat": 57.7451,
+   "lng": -152.5443
+ },
+ {
+   "city": "Northway Junction",
+   "lat": 63.0136,
+   "lng": -141.7725
+ },
+ {
+   "city": "Kivalina",
+   "lat": 67.733,
+   "lng": -164.5212
+ },
+ {
+   "city": "Nome",
+   "lat": 64.5213,
+   "lng": -165.4053
+ },
+ {
+   "city": "Atmautluak",
+   "lat": 60.8622,
+   "lng": -162.2858
+ },
+ {
+   "city": "Fox River",
+   "lat": 59.8722,
+   "lng": -150.9984
+ },
+ {
+   "city": "Tok",
+   "lat": 63.329,
+   "lng": -143.038
+ },
+ {
+   "city": "Manley Hot Springs",
+   "lat": 65.0188,
+   "lng": -150.6452
+ },
+ {
+   "city": "Whale Pass",
+   "lat": 56.1053,
+   "lng": -133.1244
+ },
+ {
+   "city": "Evansville",
+   "lat": 66.9205,
+   "lng": -151.4203
+ },
+ {
+   "city": "Ivanof Bay",
+   "lat": 55.9183,
+   "lng": -159.4933
+ },
+ {
+   "city": "Perryville",
+   "lat": 55.9315,
+   "lng": -159.1559
+ },
+ {
+   "city": "Haines",
+   "lat": 59.2417,
+   "lng": -135.4549
+ },
+ {
+   "city": "Ketchikan",
+   "lat": 55.3556,
+   "lng": -131.6698
+ },
+ {
+   "city": "Newhalen",
+   "lat": 59.727,
+   "lng": -154.897
+ },
+ {
+   "city": "Eielson AFB",
+   "lat": 64.6741,
+   "lng": -147.0605
+ },
+ {
+   "city": "Manokotak",
+   "lat": 58.8929,
+   "lng": -158.9109
+ },
+ {
+   "city": "Kaktovik",
+   "lat": 70.1231,
+   "lng": -143.6257
+ },
+ {
+   "city": "Port Clarence",
+   "lat": 65.1108,
+   "lng": -166.7683
+ },
+ {
+   "city": "Ekwok",
+   "lat": 59.3462,
+   "lng": -157.4861
+ },
+ {
+   "city": "College",
+   "lat": 64.8694,
+   "lng": -147.8217
+ },
+ {
+   "city": "Whitestone",
+   "lat": 64.1528,
+   "lng": -145.9061
+ },
+ {
+   "city": "Nikolai",
+   "lat": 63.0095,
+   "lng": -154.3763
+ },
+ {
+   "city": "Koyukuk",
+   "lat": 64.9008,
+   "lng": -157.6946
+ },
+ {
+   "city": "Northway",
+   "lat": 62.9479,
+   "lng": -141.8322
+ },
+ {
+   "city": "Craig",
+   "lat": 55.4913,
+   "lng": -133.1165
+ },
+ {
+   "city": "Old Harbor",
+   "lat": 57.2169,
+   "lng": -153.3252
+ },
+ {
+   "city": "Harding-Birch Lakes",
+   "lat": 64.3711,
+   "lng": -146.5999
+ },
+ {
+   "city": "Mekoryuk",
+   "lat": 60.3704,
+   "lng": -166.2668
+ },
+ {
+   "city": "Juneau",
+   "lat": 58.4546,
+   "lng": -134.1739
+ },
+ {
+   "city": "Aleknagik",
+   "lat": 59.2946,
+   "lng": -158.6896
+ },
+ {
+   "city": "Red Dog Mine",
+   "lat": 68.0645,
+   "lng": -162.8668
+ },
+ {
+   "city": "Nunam Iqua",
+   "lat": 62.511,
+   "lng": -164.8998
+ },
+ {
+   "city": "Goodnews Bay",
+   "lat": 59.1272,
+   "lng": -161.5754
+ },
+ {
+   "city": "Lime Village",
+   "lat": 61.327,
+   "lng": -155.318
+ },
+ {
+   "city": "Halibut Cove",
+   "lat": 59.5744,
+   "lng": -151.2296
+ },
+ {
+   "city": "Chitina",
+   "lat": 61.5276,
+   "lng": -144.2991
+ },
+ {
+   "city": "Minto",
+   "lat": 65.1033,
+   "lng": -149.5565
+ },
+ {
+   "city": "Fritz Creek",
+   "lat": 59.747,
+   "lng": -151.2884
+ },
+ {
+   "city": "Chalkyitsik",
+   "lat": 66.6468,
+   "lng": -143.7822
+ },
+ {
+   "city": "Alakanuk",
+   "lat": 62.6902,
+   "lng": -164.6305
+ },
+ {
+   "city": "Skwentna",
+   "lat": 61.9314,
+   "lng": -151.2095
+ },
+ {
+   "city": "Twin Hills",
+   "lat": 59.0815,
+   "lng": -160.2826
+ },
+ {
+   "city": "Lakes",
+   "lat": 61.6053,
+   "lng": -149.3067
+ },
+ {
+   "city": "Unalaska",
+   "lat": 53.8984,
+   "lng": -166.568
+ },
+ {
+   "city": "Eureka Roadhouse",
+   "lat": 61.9648,
+   "lng": -147.1523
+ },
+ {
+   "city": "Point Baker",
+   "lat": 56.3482,
+   "lng": -133.6167
+ },
+ {
+   "city": "Port Alsworth",
+   "lat": 60.1688,
+   "lng": -154.3233
+ },
+ {
+   "city": "Chicken",
+   "lat": 64.0877,
+   "lng": -141.8283
+ },
+ {
+   "city": "Karluk",
+   "lat": 57.5845,
+   "lng": -154.3255
+ },
+ {
+   "city": "Anvik",
+   "lat": 62.6541,
+   "lng": -160.214
+ },
+ {
+   "city": "Circle",
+   "lat": 65.7936,
+   "lng": -144.1813
+ },
+ {
+   "city": "Alatna",
+   "lat": 66.5638,
+   "lng": -152.8392
+ },
+ {
+   "city": "Hope",
+   "lat": 60.8924,
+   "lng": -149.6351
+ },
+ {
+   "city": "Kake",
+   "lat": 56.9727,
+   "lng": -133.9145
+ },
+ {
+   "city": "Lazy Mountain",
+   "lat": 61.6516,
+   "lng": -148.902
+ },
+ {
+   "city": "Anchor Point",
+   "lat": 59.7703,
+   "lng": -151.7052
+ },
+ {
+   "city": "Tonsina",
+   "lat": 61.5617,
+   "lng": -145.0656
+ },
+ {
+   "city": "Diamond Ridge",
+   "lat": 59.7024,
+   "lng": -151.5545
+ },
+ {
+   "city": "Silver Springs",
+   "lat": 62.0193,
+   "lng": -145.3584
+ },
+ {
+   "city": "Cordova",
+   "lat": 60.5348,
+   "lng": -145.6092
+ },
+ {
+   "city": "Chiniak",
+   "lat": 57.5775,
+   "lng": -152.2743
+ },
+ {
+   "city": "Whitestone Logging Camp",
+   "lat": 58.0652,
+   "lng": -135.42
+ },
+ {
+   "city": "Diomede",
+   "lat": 65.7536,
+   "lng": -168.9219
+ },
+ {
+   "city": "Salcha",
+   "lat": 64.5272,
+   "lng": -146.904
+ },
+ {
+   "city": "Kokhanok",
+   "lat": 59.4157,
+   "lng": -154.7454
+ },
+ {
+   "city": "Igiugig",
+   "lat": 59.3056,
+   "lng": -155.8737
+ },
+ {
+   "city": "Fort Greely",
+   "lat": 63.9678,
+   "lng": -145.7149
+ },
+ {
+   "city": "Kasilof",
+   "lat": 60.331,
+   "lng": -151.2293
+ },
+ {
+   "city": "Ninilchik",
+   "lat": 60.0745,
+   "lng": -151.3843
+ },
+ {
+   "city": "Tatitlek",
+   "lat": 60.8921,
+   "lng": -146.6727
+ },
+ {
+   "city": "Akutan",
+   "lat": 54.1594,
+   "lng": -165.7328
+ },
+ {
+   "city": "Port Alexander",
+   "lat": 56.2346,
+   "lng": -134.6532
+ },
+ {
+   "city": "Loring",
+   "lat": 55.6064,
+   "lng": -131.6405
+ },
+ {
+   "city": "Lowell Point",
+   "lat": 60.0629,
+   "lng": -149.4898
+ },
+ {
+   "city": "Akiak",
+   "lat": 60.9061,
+   "lng": -161.2122
+ },
+ {
+   "city": "Pleasant Valley",
+   "lat": 64.8854,
+   "lng": -146.8986
+ },
+ {
+   "city": "Badger",
+   "lat": 64.8006,
+   "lng": -147.3877
+ },
+ {
+   "city": "Yakutat",
+   "lat": 59.567,
+   "lng": -139.5966
+ },
+ {
+   "city": "Womens Bay",
+   "lat": 57.696,
+   "lng": -152.6276
+ },
+ {
+   "city": "Ouzinkie",
+   "lat": 57.9222,
+   "lng": -152.4674
+ },
+ {
+   "city": "Birch Creek",
+   "lat": 66.2686,
+   "lng": -145.8698
+ },
+ {
+   "city": "Butte",
+   "lat": 61.5539,
+   "lng": -149.0035
+ },
+ {
+   "city": "Bettles",
+   "lat": 66.9084,
+   "lng": -151.5369
+ },
+ {
+   "city": "Willow",
+   "lat": 61.8157,
+   "lng": -149.753
+ },
+ {
+   "city": "Soldotna",
+   "lat": 60.4862,
+   "lng": -151.0671
+ },
+ {
+   "city": "Scammon Bay",
+   "lat": 61.842,
+   "lng": -165.5833
+ },
+ {
+   "city": "St. George",
+   "lat": 56.5791,
+   "lng": -169.6114
+ },
+ {
+   "city": "Kalifornsky",
+   "lat": 60.4417,
+   "lng": -151.1972
+ },
+ {
+   "city": "Mentasta Lake",
+   "lat": 62.9867,
+   "lng": -143.5191
+ },
+ {
+   "city": "Healy",
+   "lat": 63.9454,
+   "lng": -149.0152
+ },
+ {
+   "city": "Kotzebue",
+   "lat": 66.8766,
+   "lng": -162.5231
+ },
+ {
+   "city": "Fishhook",
+   "lat": 61.711,
+   "lng": -149.2657
+ },
+ {
+   "city": "Platinum",
+   "lat": 58.978,
+   "lng": -161.7185
+ },
+ {
+   "city": "Cohoe",
+   "lat": 60.2681,
+   "lng": -151.2843
+ },
+ {
+   "city": "Pitkas Point",
+   "lat": 62.0374,
+   "lng": -163.2681
+ },
+ {
+   "city": "Stebbins",
+   "lat": 63.4705,
+   "lng": -162.2599
+ },
+ {
+   "city": "Steele Creek",
+   "lat": 64.9295,
+   "lng": -147.3955
+ },
+ {
+   "city": "Upper Kalskag",
+   "lat": 61.5416,
+   "lng": -160.3337
+ },
+ {
+   "city": "Ruby",
+   "lat": 64.7233,
+   "lng": -155.5005
+ },
+ {
+   "city": "Homer",
+   "lat": 59.653,
+   "lng": -151.5255
+ },
+ {
+   "city": "Akhiok",
+   "lat": 56.945,
+   "lng": -154.2151
+ },
+ {
+   "city": "Hughes",
+   "lat": 66.0452,
+   "lng": -154.2376
+ },
+ {
+   "city": "Egegik",
+   "lat": 58.2181,
+   "lng": -157.4036
+ },
+ {
+   "city": "Cold Bay",
+   "lat": 55.2122,
+   "lng": -162.7475
+ },
+ {
+   "city": "Nightmute",
+   "lat": 60.4874,
+   "lng": -164.8195
+ },
+ {
+   "city": "Chefornak",
+   "lat": 60.155,
+   "lng": -164.255
+ },
+ {
+   "city": "Nondalton",
+   "lat": 59.9711,
+   "lng": -154.8626
+ },
+ {
+   "city": "Beaver",
+   "lat": 66.383,
+   "lng": -147.3219
+ },
+ {
+   "city": "Noatak",
+   "lat": 67.5987,
+   "lng": -163.0309
+ },
+ {
+   "city": "Chase",
+   "lat": 62.4624,
+   "lng": -149.9371
+ },
+ {
+   "city": "Kipnuk",
+   "lat": 59.9363,
+   "lng": -164.0613
+ },
+ {
+   "city": "Dot Lake Village",
+   "lat": 63.6622,
+   "lng": -144.016
+ },
+ {
+   "city": "Clark's Point",
+   "lat": 58.8329,
+   "lng": -158.5276
+ },
+ {
+   "city": "Ester",
+   "lat": 64.8646,
+   "lng": -148.0916
+ },
+ {
+   "city": "Clam Gulch",
+   "lat": 60.2001,
+   "lng": -151.3939
+ },
+ {
+   "city": "Big Delta",
+   "lat": 64.1486,
+   "lng": -145.7453
+ },
+ {
+   "city": "Sterling",
+   "lat": 60.5405,
+   "lng": -150.8089
+ },
+ {
+   "city": "Hyder",
+   "lat": 55.9816,
+   "lng": -130.0383
+ },
+ {
+   "city": "Deering",
+   "lat": 66.0723,
+   "lng": -162.7437
+ },
+ {
+   "city": "Mud Bay",
+   "lat": 59.1517,
+   "lng": -135.3584
+ },
+ {
+   "city": "Ridgeway",
+   "lat": 60.5305,
+   "lng": -151.0301
+ },
+ {
+   "city": "Toksook Bay",
+   "lat": 60.5333,
+   "lng": -165.1557
+ },
+ {
+   "city": "Funny River",
+   "lat": 60.4873,
+   "lng": -150.7807
+ },
+ {
+   "city": "Chenega",
+   "lat": 60.0757,
+   "lng": -148.0194
+ },
+ {
+   "city": "Tununak",
+   "lat": 60.579,
+   "lng": -165.2077
+ },
+ {
+   "city": "Kobuk",
+   "lat": 66.931,
+   "lng": -156.8934
+ },
+ {
+   "city": "Newtok",
+   "lat": 60.9341,
+   "lng": -164.6385
+ },
+ {
+   "city": "Lutak",
+   "lat": 59.3997,
+   "lng": -135.6314
+ },
+ {
+   "city": "Pope-Vannoy Landing",
+   "lat": 59.5649,
+   "lng": -154.4652
+ },
+ {
+   "city": "Nuiqsut",
+   "lat": 70.2135,
+   "lng": -150.9897
+ },
+ {
+   "city": "Nulato",
+   "lat": 64.7052,
+   "lng": -158.2382
+ },
+ {
+   "city": "Edna Bay",
+   "lat": 55.964,
+   "lng": -133.6662
+ },
+ {
+   "city": "Wiseman",
+   "lat": 67.4371,
+   "lng": -150.1334
+ },
+ {
+   "city": "Nenana",
+   "lat": 64.5384,
+   "lng": -149.0859
+ },
+ {
+   "city": "Larsen Bay",
+   "lat": 57.5404,
+   "lng": -154.0056
+ },
+ {
+   "city": "South Naknek",
+   "lat": 58.6637,
+   "lng": -156.9908
+ },
+ {
+   "city": "Tuntutuliak",
+   "lat": 60.3843,
+   "lng": -162.6838
+ },
+ {
+   "city": "Hoonah",
+   "lat": 58.1116,
+   "lng": -135.4244
+ },
+ {
+   "city": "Tyonek",
+   "lat": 61.0734,
+   "lng": -151.3331
+ },
+ {
+   "city": "Chevak",
+   "lat": 61.5296,
+   "lng": -165.5941
+ },
+ {
+   "city": "Tolsona",
+   "lat": 62.0844,
+   "lng": -146.092
+ },
+ {
+   "city": "Eek",
+   "lat": 60.2164,
+   "lng": -162.0329
+ },
+ {
+   "city": "Emmonak",
+   "lat": 62.7762,
+   "lng": -164.5157
+ },
+ {
+   "city": "Kongiganak",
+   "lat": 59.958,
+   "lng": -162.8832
+ },
+ {
+   "city": "Seldovia",
+   "lat": 59.4396,
+   "lng": -151.7111
+ },
+ {
+   "city": "South Van Horn",
+   "lat": 64.8091,
+   "lng": -147.7854
+ },
+ {
+   "city": "Holy Cross",
+   "lat": 62.1868,
+   "lng": -159.8198
+ },
+ {
+   "city": "Tanaina",
+   "lat": 61.656,
+   "lng": -149.4272
+ },
+ {
+   "city": "Happy Valley",
+   "lat": 59.9137,
+   "lng": -151.6072
+ },
+ {
+   "city": "Pedro Bay",
+   "lat": 59.7822,
+   "lng": -154.1236
+ },
+ {
+   "city": "Fox",
+   "lat": 64.9749,
+   "lng": -147.609
+ },
+ {
+   "city": "Buckland",
+   "lat": 65.9784,
+   "lng": -161.1341
+ },
+ {
+   "city": "Gateway",
+   "lat": 61.5737,
+   "lng": -149.2388
+ },
+ {
+   "city": "Crown Point",
+   "lat": 60.4267,
+   "lng": -149.3529
+ },
+ {
+   "city": "Atqasuk",
+   "lat": 70.481,
+   "lng": -157.3835
+ },
+ {
+   "city": "Palmer",
+   "lat": 61.5971,
+   "lng": -149.1147
+ },
+ {
+   "city": "Willow Creek",
+   "lat": 61.8337,
+   "lng": -145.1837
+ },
+ {
+   "city": "Primrose",
+   "lat": 60.3497,
+   "lng": -149.3199
+ },
+ {
+   "city": "Central",
+   "lat": 65.5213,
+   "lng": -144.6409
+ },
+ {
+   "city": "Togiak",
+   "lat": 59.0693,
+   "lng": -160.4727
+ },
+ {
+   "city": "Tetlin",
+   "lat": 63.1481,
+   "lng": -142.4947
+ },
+ {
+   "city": "Anchorage",
+   "lat": 61.1508,
+   "lng": -149.1091
+ },
+ {
+   "city": "Dillingham",
+   "lat": 59.055,
+   "lng": -158.5379
+ },
+ {
+   "city": "Chignik",
+   "lat": 56.3003,
+   "lng": -158.4132
+ },
+ {
+   "city": "Marshall",
+   "lat": 61.8753,
+   "lng": -162.0487
+ },
+ {
+   "city": "Kenny Lake",
+   "lat": 61.6644,
+   "lng": -144.8662
+ },
+ {
+   "city": "St. Michael",
+   "lat": 63.4664,
+   "lng": -162.1324
+ },
+ {
+   "city": "Arctic Village",
+   "lat": 68.1421,
+   "lng": -145.4957
+ },
+ {
+   "city": "Petersville",
+   "lat": 62.4227,
+   "lng": -150.8441
+ },
+ {
+   "city": "Ugashik",
+   "lat": 57.5728,
+   "lng": -157.1219
+ },
+ {
+   "city": "Two Rivers",
+   "lat": 64.8908,
+   "lng": -147.0898
+ },
+ {
+   "city": "Red Devil",
+   "lat": 61.7735,
+   "lng": -157.346
+ },
+ {
+   "city": "Shungnak",
+   "lat": 66.8805,
+   "lng": -157.1499
+ },
+ {
+   "city": "Anderson",
+   "lat": 64.3074,
+   "lng": -149.1562
+ },
+ {
+   "city": "Chuathbaluk",
+   "lat": 61.5746,
+   "lng": -159.2489
+ },
+ {
+   "city": "Seldovia Village",
+   "lat": 59.453,
+   "lng": -151.5905
+ },
+ {
+   "city": "Selawik",
+   "lat": 66.5988,
+   "lng": -159.9995
+ },
+ {
+   "city": "Takotna",
+   "lat": 62.9823,
+   "lng": -156.0841
+ },
+ {
+   "city": "Attu Station",
+   "lat": 52.8955,
+   "lng": 173.123
+ },
+ {
+   "city": "Gakona",
+   "lat": 62.3608,
+   "lng": -145.2656
+ },
+ {
+   "city": "Copper Center",
+   "lat": 61.9845,
+   "lng": -145.3544
+ },
+ {
+   "city": "Moose Creek",
+   "lat": 64.714,
+   "lng": -147.1639
+ },
+ {
+   "city": "Klawock",
+   "lat": 55.5556,
+   "lng": -133.0868
+ },
+ {
+   "city": "Port Graham",
+   "lat": 59.34,
+   "lng": -151.8464
+ },
+ {
+   "city": "Naknek",
+   "lat": 58.7847,
+   "lng": -156.8966
+ },
+ {
+   "city": "Chena Ridge",
+   "lat": 64.7941,
+   "lng": -148.0357
+ },
+ {
+   "city": "Nelchina",
+   "lat": 61.9989,
+   "lng": -146.8112
+ },
+ {
+   "city": "Point Lay",
+   "lat": 69.7442,
+   "lng": -162.8678
+ },
+ {
+   "city": "Flat",
+   "lat": 62.4415,
+   "lng": -158.0405
+ },
+ {
+   "city": "Elfin Cove",
+   "lat": 58.1912,
+   "lng": -136.3129
+ },
+ {
+   "city": "Levelock",
+   "lat": 59.0683,
+   "lng": -156.9009
+ },
+ {
+   "city": "Dry Creek",
+   "lat": 63.6255,
+   "lng": -144.6364
+ },
+ {
+   "city": "Buffalo Soapstone",
+   "lat": 61.7073,
+   "lng": -149.1095
+ },
+ {
+   "city": "Port Heiden",
+   "lat": 56.9426,
+   "lng": -158.6047
+ },
+ {
+   "city": "Allakaket",
+   "lat": 66.5506,
+   "lng": -152.627
+ },
+ {
+   "city": "Tenakee Springs",
+   "lat": 57.7913,
+   "lng": -135.1955
+ },
+ {
+   "city": "Glacier View",
+   "lat": 61.8511,
+   "lng": -147.7764
+ },
+ {
+   "city": "Quinhagak",
+   "lat": 59.7511,
+   "lng": -161.8993
+ },
+ {
+   "city": "Cantwell",
+   "lat": 63.379,
+   "lng": -148.8158
+ },
+ {
+   "city": "Chickaloon",
+   "lat": 61.804,
+   "lng": -148.4103
+ },
+ {
+   "city": "Excursion Inlet",
+   "lat": 58.4355,
+   "lng": -135.373
+ },
+ {
+   "city": "Huslia",
+   "lat": 65.7002,
+   "lng": -156.3386
+ },
+ {
+   "city": "Healy Lake",
+   "lat": 64.0281,
+   "lng": -144.6331
+ },
+ {
+   "city": "St. Mary's",
+   "lat": 62.0718,
+   "lng": -163.2805
+ },
+ {
+   "city": "Pilot Point",
+   "lat": 57.5585,
+   "lng": -157.6798
+ },
+ {
+   "city": "Nanwalek",
+   "lat": 59.3302,
+   "lng": -151.911
+ },
+ {
+   "city": "Angoon",
+   "lat": 57.455,
+   "lng": -134.4978
+ },
+ {
+   "city": "Slana",
+   "lat": 62.6294,
+   "lng": -143.567
+ },
+ {
+   "city": "Kenai",
+   "lat": 60.5619,
+   "lng": -151.1985
+ },
+ {
+   "city": "Shaktoolik",
+   "lat": 64.3573,
+   "lng": -161.1983
+ },
+ {
+   "city": "Koyuk",
+   "lat": 64.9411,
+   "lng": -161.1454
+ },
+ {
+   "city": "Crooked Creek",
+   "lat": 61.8439,
+   "lng": -158.1082
+ },
+ {
+   "city": "Skagway",
+   "lat": 59.4566,
+   "lng": -135.2927
+ },
+ {
+   "city": "Adak",
+   "lat": 51.8815,
+   "lng": -176.6295
+ }
+]

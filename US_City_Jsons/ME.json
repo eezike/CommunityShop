@@ -1,0 +1,207 @@
+[
+ {
+   "city": "Sanford",
+   "lat": 43.4244,
+   "lng": -70.7573
+ },
+ {
+   "city": "Westbrook",
+   "lat": 43.6954,
+   "lng": -70.3539
+ },
+ {
+   "city": "Cousins Island",
+   "lat": 43.7631,
+   "lng": -70.1409
+ },
+ {
+   "city": "Lisbon Falls",
+   "lat": 44.0086,
+   "lng": -70.057
+ },
+ {
+   "city": "Gardiner",
+   "lat": 44.191,
+   "lng": -69.7921
+ },
+ {
+   "city": "Steep Falls",
+   "lat": 43.7905,
+   "lng": -70.6275
+ },
+ {
+   "city": "Lewiston",
+   "lat": 44.0915,
+   "lng": -70.1681
+ },
+ {
+   "city": "Waterville",
+   "lat": 44.5441,
+   "lng": -69.6624
+ },
+ {
+   "city": "Rockland",
+   "lat": 44.1274,
+   "lng": -69.1369
+ },
+ {
+   "city": "Brewer",
+   "lat": 44.7835,
+   "lng": -68.7352
+ },
+ {
+   "city": "Cape Neddick",
+   "lat": 43.1706,
+   "lng": -70.622
+ },
+ {
+   "city": "Hallowell",
+   "lat": 44.2904,
+   "lng": -69.8141
+ },
+ {
+   "city": "Belfast",
+   "lat": 44.428,
+   "lng": -69.0325
+ },
+ {
+   "city": "Bath",
+   "lat": 43.9346,
+   "lng": -69.8346
+ },
+ {
+   "city": "York Harbor",
+   "lat": 43.1435,
+   "lng": -70.649
+ },
+ {
+   "city": "South Paris",
+   "lat": 44.219,
+   "lng": -70.5113
+ },
+ {
+   "city": "Calais",
+   "lat": 45.134,
+   "lng": -67.224
+ },
+ {
+   "city": "Little Falls",
+   "lat": 43.7312,
+   "lng": -70.4301
+ },
+ {
+   "city": "Eastport",
+   "lat": 44.9137,
+   "lng": -67.0183
+ },
+ {
+   "city": "South Eliot",
+   "lat": 43.1287,
+   "lng": -70.7952
+ },
+ {
+   "city": "Falmouth Foreside",
+   "lat": 43.7348,
+   "lng": -70.2152
+ },
+ {
+   "city": "Old Town",
+   "lat": 44.9491,
+   "lng": -68.7249
+ },
+ {
+   "city": "South Portland",
+   "lat": 43.6309,
+   "lng": -70.2895
+ },
+ {
+   "city": "Cumberland Center",
+   "lat": 43.7982,
+   "lng": -70.2541
+ },
+ {
+   "city": "Kittery Point",
+   "lat": 43.0883,
+   "lng": -70.6988
+ },
+ {
+   "city": "Caribou",
+   "lat": 46.8662,
+   "lng": -67.9919
+ },
+ {
+   "city": "Bangor",
+   "lat": 44.8322,
+   "lng": -68.7906
+ },
+ {
+   "city": "Augusta",
+   "lat": 44.3341,
+   "lng": -69.7319
+ },
+ {
+   "city": "Brunswick Station",
+   "lat": 43.8866,
+   "lng": -69.9328
+ },
+ {
+   "city": "Littlejohn Island",
+   "lat": 43.7599,
+   "lng": -70.1284
+ },
+ {
+   "city": "West Kennebunk",
+   "lat": 43.4142,
+   "lng": -70.581
+ },
+ {
+   "city": "Auburn",
+   "lat": 44.085,
+   "lng": -70.2492
+ },
+ {
+   "city": "Portland",
+   "lat": 43.6773,
+   "lng": -70.2715
+ },
+ {
+   "city": "Presque Isle",
+   "lat": 46.6868,
+   "lng": -67.9874
+ },
+ {
+   "city": "Biddeford",
+   "lat": 43.4673,
+   "lng": -70.4511
+ },
+ {
+   "city": "North Windham",
+   "lat": 43.8238,
+   "lng": -70.4288
+ },
+ {
+   "city": "Saco",
+   "lat": 43.539,
+   "lng": -70.4624
+ },
+ {
+   "city": "Chisholm",
+   "lat": 44.4916,
+   "lng": -70.1923
+ },
+ {
+   "city": "Lake Arrowhead",
+   "lat": 43.6634,
+   "lng": -70.7382
+ },
+ {
+   "city": "Ellsworth",
+   "lat": 44.5847,
+   "lng": -68.4875
+ },
+ {
+   "city": "South Windham",
+   "lat": 43.738,
+   "lng": -70.4236
+ }
+]

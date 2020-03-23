@@ -1,0 +1,747 @@
+[
+ {
+   "city": "Paauilo",
+   "lat": 20.0397,
+   "lng": -155.3696
+ },
+ {
+   "city": "Discovery Harbour",
+   "lat": 19.0415,
+   "lng": -155.6254
+ },
+ {
+   "city": "Haena",
+   "lat": 22.2186,
+   "lng": -159.561
+ },
+ {
+   "city": "Ualapue",
+   "lat": 21.0704,
+   "lng": -156.8355
+ },
+ {
+   "city": "Waikane",
+   "lat": 21.4921,
+   "lng": -157.8721
+ },
+ {
+   "city": "Kapalua",
+   "lat": 20.9959,
+   "lng": -156.6418
+ },
+ {
+   "city": "Nanakuli",
+   "lat": 21.3892,
+   "lng": -158.1445
+ },
+ {
+   "city": "Puhi",
+   "lat": 21.9622,
+   "lng": -159.3918
+ },
+ {
+   "city": "West Loch Estate",
+   "lat": 21.3617,
+   "lng": -158.0246
+ },
+ {
+   "city": "Ewa Gentry",
+   "lat": 21.3344,
+   "lng": -158.0262
+ },
+ {
+   "city": "Keaau",
+   "lat": 19.6156,
+   "lng": -155.0372
+ },
+ {
+   "city": "Puako",
+   "lat": 19.9389,
+   "lng": -155.8604
+ },
+ {
+   "city": "Hauula",
+   "lat": 21.6111,
+   "lng": -157.9118
+ },
+ {
+   "city": "Omao",
+   "lat": 21.9236,
+   "lng": -159.4814
+ },
+ {
+   "city": "Makakilo",
+   "lat": 21.3591,
+   "lng": -158.0813
+ },
+ {
+   "city": "Schofield Barracks",
+   "lat": 21.4936,
+   "lng": -158.0617
+ },
+ {
+   "city": "Ewa Villages",
+   "lat": 21.3418,
+   "lng": -158.039
+ },
+ {
+   "city": "Kaaawa",
+   "lat": 21.5485,
+   "lng": -157.8534
+ },
+ {
+   "city": "Heeia",
+   "lat": 21.4211,
+   "lng": -157.8203
+ },
+ {
+   "city": "Waipahu",
+   "lat": 21.3858,
+   "lng": -158.0103
+ },
+ {
+   "city": "Kahului",
+   "lat": 20.8715,
+   "lng": -156.4603
+ },
+ {
+   "city": "Kahuku",
+   "lat": 21.6793,
+   "lng": -157.9473
+ },
+ {
+   "city": "Pearl City",
+   "lat": 21.4031,
+   "lng": -157.9566
+ },
+ {
+   "city": "Ahuimanu",
+   "lat": 21.4379,
+   "lng": -157.8404
+ },
+ {
+   "city": "Kalaheo",
+   "lat": 21.9159,
+   "lng": -159.5236
+ },
+ {
+   "city": "Maunaloa",
+   "lat": 21.1334,
+   "lng": -157.2123
+ },
+ {
+   "city": "Captain Cook",
+   "lat": 19.4995,
+   "lng": -155.8937
+ },
+ {
+   "city": "Kapaau",
+   "lat": 20.2267,
+   "lng": -155.805
+ },
+ {
+   "city": "Haiku-Pauwela",
+   "lat": 20.9156,
+   "lng": -156.3022
+ },
+ {
+   "city": "Hawi",
+   "lat": 20.2392,
+   "lng": -155.8305
+ },
+ {
+   "city": "Mililani Town",
+   "lat": 21.4465,
+   "lng": -158.0147
+ },
+ {
+   "city": "Wainiha",
+   "lat": 22.1983,
+   "lng": -159.5456
+ },
+ {
+   "city": "Papaikou",
+   "lat": 19.7917,
+   "lng": -155.0962
+ },
+ {
+   "city": "Kawela Bay",
+   "lat": 21.6991,
+   "lng": -158.0026
+ },
+ {
+   "city": "Honomu",
+   "lat": 19.8695,
+   "lng": -155.1124
+ },
+ {
+   "city": "Kahaluu",
+   "lat": 21.4576,
+   "lng": -157.8453
+ },
+ {
+   "city": "Halawa",
+   "lat": 21.3754,
+   "lng": -157.9185
+ },
+ {
+   "city": "Pahala",
+   "lat": 19.1995,
+   "lng": -155.4793
+ },
+ {
+   "city": "Lahaina",
+   "lat": 20.8848,
+   "lng": -156.6618
+ },
+ {
+   "city": "Hanalei",
+   "lat": 22.2041,
+   "lng": -159.4977
+ },
+ {
+   "city": "Honokaa",
+   "lat": 20.0746,
+   "lng": -155.4656
+ },
+ {
+   "city": "Volcano",
+   "lat": 19.48,
+   "lng": -155.2487
+ },
+ {
+   "city": "Pupukea",
+   "lat": 21.6511,
+   "lng": -158.0436
+ },
+ {
+   "city": "Laie",
+   "lat": 21.6443,
+   "lng": -157.928
+ },
+ {
+   "city": "Hilo",
+   "lat": 19.6886,
+   "lng": -155.0864
+ },
+ {
+   "city": "Hawaiian Beaches",
+   "lat": 19.5423,
+   "lng": -154.9223
+ },
+ {
+   "city": "Kaunakakai",
+   "lat": 21.0905,
+   "lng": -156.9981
+ },
+ {
+   "city": "Waimea",
+   "lat": 20.0124,
+   "lng": -155.6378
+ },
+ {
+   "city": "Punaluu",
+   "lat": 21.5811,
+   "lng": -157.8901
+ },
+ {
+   "city": "Makaha Valley",
+   "lat": 21.4842,
+   "lng": -158.1854
+ },
+ {
+   "city": "Kurtistown",
+   "lat": 19.5833,
+   "lng": -155.0721
+ },
+ {
+   "city": "Wailua",
+   "lat": 22.055,
+   "lng": -159.3406
+ },
+ {
+   "city": "Kapaa",
+   "lat": 22.091,
+   "lng": -159.352
+ },
+ {
+   "city": "Kaneohe Station",
+   "lat": 21.4451,
+   "lng": -157.7515
+ },
+ {
+   "city": "Pakala Village",
+   "lat": 21.9445,
+   "lng": -159.6436
+ },
+ {
+   "city": "Honolulu",
+   "lat": 21.3294,
+   "lng": -157.846
+ },
+ {
+   "city": "Wailea",
+   "lat": 20.6873,
+   "lng": -156.4291
+ },
+ {
+   "city": "Haleiwa",
+   "lat": 21.5871,
+   "lng": -158.1074
+ },
+ {
+   "city": "Fern Forest",
+   "lat": 19.4648,
+   "lng": -155.1324
+ },
+ {
+   "city": "Kahaluu-Keauhou",
+   "lat": 19.5726,
+   "lng": -155.958
+ },
+ {
+   "city": "Waimalu",
+   "lat": 21.3913,
+   "lng": -157.9345
+ },
+ {
+   "city": "Paia",
+   "lat": 20.9062,
+   "lng": -156.3678
+ },
+ {
+   "city": "Princeville",
+   "lat": 22.2177,
+   "lng": -159.4809
+ },
+ {
+   "city": "Waiohinu",
+   "lat": 19.0716,
+   "lng": -155.6143
+ },
+ {
+   "city": "Kukuihaele",
+   "lat": 20.1195,
+   "lng": -155.5654
+ },
+ {
+   "city": "Kapolei",
+   "lat": 21.3403,
+   "lng": -158.0665
+ },
+ {
+   "city": "Eleele",
+   "lat": 21.9088,
+   "lng": -159.5801
+ },
+ {
+   "city": "Paukaa",
+   "lat": 19.7625,
+   "lng": -155.0948
+ },
+ {
+   "city": "Kalaeloa",
+   "lat": 21.3215,
+   "lng": -158.0812
+ },
+ {
+   "city": "Whitmore Village",
+   "lat": 21.512,
+   "lng": -158.0273
+ },
+ {
+   "city": "Ewa Beach",
+   "lat": 21.3181,
+   "lng": -158.0073
+ },
+ {
+   "city": "Pahoa",
+   "lat": 19.4961,
+   "lng": -154.9454
+ },
+ {
+   "city": "Lihue",
+   "lat": 21.9728,
+   "lng": -159.3541
+ },
+ {
+   "city": "Wheeler AFB",
+   "lat": 21.4735,
+   "lng": -158.0346
+ },
+ {
+   "city": "Waianae",
+   "lat": 21.4569,
+   "lng": -158.1759
+ },
+ {
+   "city": "Fern Acres",
+   "lat": 19.5082,
+   "lng": -155.0785
+ },
+ {
+   "city": "Kaanapali",
+   "lat": 20.9276,
+   "lng": -156.6795
+ },
+ {
+   "city": "Haliimaile",
+   "lat": 20.8671,
+   "lng": -156.3381
+ },
+ {
+   "city": "Eden Roc",
+   "lat": 19.4917,
+   "lng": -155.0958
+ },
+ {
+   "city": "Honalo",
+   "lat": 19.5787,
+   "lng": -155.902
+ },
+ {
+   "city": "Maalaea",
+   "lat": 20.8047,
+   "lng": -156.4898
+ },
+ {
+   "city": "Launiupoko",
+   "lat": 20.8541,
+   "lng": -156.6424
+ },
+ {
+   "city": "Waikele",
+   "lat": 21.4025,
+   "lng": -158.0058
+ },
+ {
+   "city": "Aiea",
+   "lat": 21.3865,
+   "lng": -157.9232
+ },
+ {
+   "city": "Keokea",
+   "lat": 20.7211,
+   "lng": -156.3625
+ },
+ {
+   "city": "Nanawale Estates",
+   "lat": 19.5042,
+   "lng": -154.9117
+ },
+ {
+   "city": "Koloa",
+   "lat": 21.903,
+   "lng": -159.461
+ },
+ {
+   "city": "Ko Olina",
+   "lat": 21.3378,
+   "lng": -158.1188
+ },
+ {
+   "city": "Hawaiian Ocean View",
+   "lat": 19.0959,
+   "lng": -155.7749
+ },
+ {
+   "city": "Waikapu",
+   "lat": 20.8391,
+   "lng": -156.5221
+ },
+ {
+   "city": "Waimanalo",
+   "lat": 21.3421,
+   "lng": -157.7303
+ },
+ {
+   "city": "Honaunau-Napoopoo",
+   "lat": 19.4538,
+   "lng": -155.8588
+ },
+ {
+   "city": "East Honolulu",
+   "lat": 21.2975,
+   "lng": -157.7211
+ },
+ {
+   "city": "Hanapepe",
+   "lat": 21.914,
+   "lng": -159.5874
+ },
+ {
+   "city": "Hana",
+   "lat": 20.772,
+   "lng": -156.0107
+ },
+ {
+   "city": "Hawaiian Paradise Park",
+   "lat": 19.5828,
+   "lng": -154.9693
+ },
+ {
+   "city": "Naalehu",
+   "lat": 19.0698,
+   "lng": -155.5751
+ },
+ {
+   "city": "Waipio",
+   "lat": 21.4143,
+   "lng": -157.9966
+ },
+ {
+   "city": "Kekaha",
+   "lat": 21.9684,
+   "lng": -159.7141
+ },
+ {
+   "city": "Kualapuu",
+   "lat": 21.1563,
+   "lng": -157.0591
+ },
+ {
+   "city": "Kihei",
+   "lat": 20.7653,
+   "lng": -156.4454
+ },
+ {
+   "city": "Mountain View",
+   "lat": 19.5358,
+   "lng": -155.1596
+ },
+ {
+   "city": "Kaumakani",
+   "lat": 21.9187,
+   "lng": -159.6241
+ },
+ {
+   "city": "Olowalu",
+   "lat": 20.8222,
+   "lng": -156.6169
+ },
+ {
+   "city": "Wailua Homesteads",
+   "lat": 22.065,
+   "lng": -159.3771
+ },
+ {
+   "city": "Makawao",
+   "lat": 20.848,
+   "lng": -156.319
+ },
+ {
+   "city": "Pukalani",
+   "lat": 20.8329,
+   "lng": -156.3415
+ },
+ {
+   "city": "Manele",
+   "lat": 20.7419,
+   "lng": -156.9012
+ },
+ {
+   "city": "Orchidlands Estates",
+   "lat": 19.557,
+   "lng": -155.0142
+ },
+ {
+   "city": "Kula",
+   "lat": 20.7706,
+   "lng": -156.3284
+ },
+ {
+   "city": "Royal Kunia",
+   "lat": 21.4053,
+   "lng": -158.0318
+ },
+ {
+   "city": "Makaha",
+   "lat": 21.4735,
+   "lng": -158.2103
+ },
+ {
+   "city": "Mililani Mauka",
+   "lat": 21.4756,
+   "lng": -157.9947
+ },
+ {
+   "city": "Mokuleia",
+   "lat": 21.5775,
+   "lng": -158.1487
+ },
+ {
+   "city": "Makena",
+   "lat": 20.631,
+   "lng": -156.4252
+ },
+ {
+   "city": "Waihee-Waiehu",
+   "lat": 20.9188,
+   "lng": -156.5063
+ },
+ {
+   "city": "Ocean Pointe",
+   "lat": 21.3145,
+   "lng": -158.0289
+ },
+ {
+   "city": "Waimanalo Beach",
+   "lat": 21.3288,
+   "lng": -157.6975
+ },
+ {
+   "city": "Holualoa",
+   "lat": 19.6238,
+   "lng": -155.9269
+ },
+ {
+   "city": "Olinda",
+   "lat": 20.8261,
+   "lng": -156.2917
+ },
+ {
+   "city": "Kalaoa",
+   "lat": 19.7369,
+   "lng": -156.0122
+ },
+ {
+   "city": "Kealakekua",
+   "lat": 19.5286,
+   "lng": -155.9033
+ },
+ {
+   "city": "Kalihiwai",
+   "lat": 22.2165,
+   "lng": -159.4405
+ },
+ {
+   "city": "Pepeekeo",
+   "lat": 19.8316,
+   "lng": -155.1061
+ },
+ {
+   "city": "Kailua",
+   "lat": 21.392,
+   "lng": -157.7396
+ },
+ {
+   "city": "Kaneohe",
+   "lat": 21.4062,
+   "lng": -157.7904
+ },
+ {
+   "city": "Napili-Honokowai",
+   "lat": 20.9767,
+   "lng": -156.6646
+ },
+ {
+   "city": "Wainaku",
+   "lat": 19.7449,
+   "lng": -155.0985
+ },
+ {
+   "city": "Hickam Housing",
+   "lat": 21.3311,
+   "lng": -157.9475
+ },
+ {
+   "city": "Hawaiian Acres",
+   "lat": 19.5325,
+   "lng": -155.0497
+ },
+ {
+   "city": "Laupahoehoe",
+   "lat": 19.9749,
+   "lng": -155.238
+ },
+ {
+   "city": "Wailuku",
+   "lat": 20.8834,
+   "lng": -156.5059
+ },
+ {
+   "city": "Waialua",
+   "lat": 21.566,
+   "lng": -158.1198
+ },
+ {
+   "city": "Leilani Estates",
+   "lat": 19.4659,
+   "lng": -154.9157
+ },
+ {
+   "city": "Halaula",
+   "lat": 20.226,
+   "lng": -155.7816
+ },
+ {
+   "city": "Poipu",
+   "lat": 21.8834,
+   "lng": -159.46
+ },
+ {
+   "city": "Lawai",
+   "lat": 21.9203,
+   "lng": -159.5006
+ },
+ {
+   "city": "Maili",
+   "lat": 21.4134,
+   "lng": -158.1702
+ },
+ {
+   "city": "Anahola",
+   "lat": 22.1455,
+   "lng": -159.3151
+ },
+ {
+   "city": "Waipio Acres",
+   "lat": 21.4689,
+   "lng": -158.0173
+ },
+ {
+   "city": "Iroquois Point",
+   "lat": 21.3232,
+   "lng": -157.9775
+ },
+ {
+   "city": "Wahiawa",
+   "lat": 21.5004,
+   "lng": -158.0198
+ },
+ {
+   "city": "Ainaloa",
+   "lat": 19.5214,
+   "lng": -154.9944
+ },
+ {
+   "city": "Lanai City",
+   "lat": 20.8279,
+   "lng": -156.9147
+ },
+ {
+   "city": "Maunawili",
+   "lat": 21.3667,
+   "lng": -157.7713
+ },
+ {
+   "city": "Mahinahina",
+   "lat": 20.9539,
+   "lng": -156.6565
+ },
+ {
+   "city": "Kilauea",
+   "lat": 22.2108,
+   "lng": -159.3964
+ },
+ {
+   "city": "Hanamaulu",
+   "lat": 21.9954,
+   "lng": -159.3493
+ },
+ {
+   "city": "Waikoloa Village",
+   "lat": 19.9285,
+   "lng": -155.8185
+ }
+]

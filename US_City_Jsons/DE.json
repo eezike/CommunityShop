@@ -1,0 +1,387 @@
+[
+ {
+   "city": "Fenwick Island",
+   "lat": 38.4603,
+   "lng": -75.0542
+ },
+ {
+   "city": "Delmar",
+   "lat": 38.4651,
+   "lng": -75.5552
+ },
+ {
+   "city": "Ardencroft",
+   "lat": 39.8056,
+   "lng": -75.4862
+ },
+ {
+   "city": "Farmington",
+   "lat": 38.8699,
+   "lng": -75.579
+ },
+ {
+   "city": "Felton",
+   "lat": 39.0127,
+   "lng": -75.5764
+ },
+ {
+   "city": "Hartly",
+   "lat": 39.1683,
+   "lng": -75.7125
+ },
+ {
+   "city": "Pike Creek",
+   "lat": 39.7485,
+   "lng": -75.6953
+ },
+ {
+   "city": "Millville",
+   "lat": 38.5353,
+   "lng": -75.1287
+ },
+ {
+   "city": "Highland Acres",
+   "lat": 39.1162,
+   "lng": -75.5216
+ },
+ {
+   "city": "Rising Sun-Lebanon",
+   "lat": 39.0999,
+   "lng": -75.5048
+ },
+ {
+   "city": "Little Creek",
+   "lat": 39.1661,
+   "lng": -75.4481
+ },
+ {
+   "city": "Magnolia",
+   "lat": 39.0714,
+   "lng": -75.476
+ },
+ {
+   "city": "Greenville",
+   "lat": 39.7783,
+   "lng": -75.6049
+ },
+ {
+   "city": "Elsmere",
+   "lat": 39.7385,
+   "lng": -75.5946
+ },
+ {
+   "city": "Harrington",
+   "lat": 38.9244,
+   "lng": -75.5707
+ },
+ {
+   "city": "Seaford",
+   "lat": 38.6539,
+   "lng": -75.6117
+ },
+ {
+   "city": "Dover Base Housing",
+   "lat": 39.1179,
+   "lng": -75.4839
+ },
+ {
+   "city": "Dagsboro",
+   "lat": 38.5466,
+   "lng": -75.2467
+ },
+ {
+   "city": "Milford",
+   "lat": 38.9091,
+   "lng": -75.4224
+ },
+ {
+   "city": "Bridgeville",
+   "lat": 38.7247,
+   "lng": -75.6027
+ },
+ {
+   "city": "Bellefonte",
+   "lat": 39.7669,
+   "lng": -75.4982
+ },
+ {
+   "city": "Smyrna",
+   "lat": 39.2922,
+   "lng": -75.6076
+ },
+ {
+   "city": "Wilmington Manor",
+   "lat": 39.6858,
+   "lng": -75.5849
+ },
+ {
+   "city": "New Castle",
+   "lat": 39.6685,
+   "lng": -75.5692
+ },
+ {
+   "city": "Bowers",
+   "lat": 39.0602,
+   "lng": -75.4021
+ },
+ {
+   "city": "Bethel",
+   "lat": 38.5706,
+   "lng": -75.6194
+ },
+ {
+   "city": "Selbyville",
+   "lat": 38.4627,
+   "lng": -75.2083
+ },
+ {
+   "city": "Houston",
+   "lat": 38.9174,
+   "lng": -75.5039
+ },
+ {
+   "city": "Woodside East",
+   "lat": 39.0676,
+   "lng": -75.5376
+ },
+ {
+   "city": "Viola",
+   "lat": 39.0429,
+   "lng": -75.5714
+ },
+ {
+   "city": "Dewey Beach",
+   "lat": 38.6958,
+   "lng": -75.0749
+ },
+ {
+   "city": "Newport",
+   "lat": 39.7136,
+   "lng": -75.6052
+ },
+ {
+   "city": "Bethany Beach",
+   "lat": 38.5391,
+   "lng": -75.066
+ },
+ {
+   "city": "Edgemoor",
+   "lat": 39.7551,
+   "lng": -75.507
+ },
+ {
+   "city": "Townsend",
+   "lat": 39.3968,
+   "lng": -75.6945
+ },
+ {
+   "city": "Georgetown",
+   "lat": 38.6899,
+   "lng": -75.3872
+ },
+ {
+   "city": "Kenton",
+   "lat": 39.2272,
+   "lng": -75.6646
+ },
+ {
+   "city": "Greenwood",
+   "lat": 38.8069,
+   "lng": -75.5907
+ },
+ {
+   "city": "North Star",
+   "lat": 39.755,
+   "lng": -75.7331
+ },
+ {
+   "city": "Slaughter Beach",
+   "lat": 38.9143,
+   "lng": -75.3085
+ },
+ {
+   "city": "Middletown",
+   "lat": 39.4453,
+   "lng": -75.7166
+ },
+ {
+   "city": "Blades",
+   "lat": 38.6353,
+   "lng": -75.6024
+ },
+ {
+   "city": "Frederica",
+   "lat": 39.008,
+   "lng": -75.4667
+ },
+ {
+   "city": "Rehoboth Beach",
+   "lat": 38.7168,
+   "lng": -75.0843
+ },
+ {
+   "city": "Milton",
+   "lat": 38.7751,
+   "lng": -75.3104
+ },
+ {
+   "city": "Woodside",
+   "lat": 39.0712,
+   "lng": -75.5667
+ },
+ {
+   "city": "Bear",
+   "lat": 39.6188,
+   "lng": -75.6804
+ },
+ {
+   "city": "Wilmington",
+   "lat": 39.7415,
+   "lng": -75.5413
+ },
+ {
+   "city": "Pike Creek Valley",
+   "lat": 39.7296,
+   "lng": -75.6993
+ },
+ {
+   "city": "Rodney Village",
+   "lat": 39.1284,
+   "lng": -75.5395
+ },
+ {
+   "city": "Henlopen Acres",
+   "lat": 38.7257,
+   "lng": -75.0849
+ },
+ {
+   "city": "Frankford",
+   "lat": 38.5215,
+   "lng": -75.2342
+ },
+ {
+   "city": "Millsboro",
+   "lat": 38.5865,
+   "lng": -75.3019
+ },
+ {
+   "city": "Glasgow",
+   "lat": 39.6015,
+   "lng": -75.7474
+ },
+ {
+   "city": "Clayton",
+   "lat": 39.2846,
+   "lng": -75.6364
+ },
+ {
+   "city": "Cheswold",
+   "lat": 39.2189,
+   "lng": -75.5883
+ },
+ {
+   "city": "Odessa",
+   "lat": 39.4562,
+   "lng": -75.6605
+ },
+ {
+   "city": "Kent Acres",
+   "lat": 39.1325,
+   "lng": -75.516
+ },
+ {
+   "city": "St. Georges",
+   "lat": 39.5576,
+   "lng": -75.6533
+ },
+ {
+   "city": "Ardentown",
+   "lat": 39.8081,
+   "lng": -75.4807
+ },
+ {
+   "city": "Arden",
+   "lat": 39.8113,
+   "lng": -75.4886
+ },
+ {
+   "city": "Ellendale",
+   "lat": 38.8103,
+   "lng": -75.425
+ },
+ {
+   "city": "Lewes",
+   "lat": 38.7781,
+   "lng": -75.1454
+ },
+ {
+   "city": "Laurel",
+   "lat": 38.5696,
+   "lng": -75.5688
+ },
+ {
+   "city": "Brookside",
+   "lat": 39.6666,
+   "lng": -75.7153
+ },
+ {
+   "city": "Wyoming",
+   "lat": 39.1147,
+   "lng": -75.5631
+ },
+ {
+   "city": "Claymont",
+   "lat": 39.8032,
+   "lng": -75.4606
+ },
+ {
+   "city": "Newark",
+   "lat": 39.6776,
+   "lng": -75.7573
+ },
+ {
+   "city": "Long Neck",
+   "lat": 38.62,
+   "lng": -75.1511
+ },
+ {
+   "city": "Camden",
+   "lat": 39.0992,
+   "lng": -75.557
+ },
+ {
+   "city": "Leipsic",
+   "lat": 39.243,
+   "lng": -75.5155
+ },
+ {
+   "city": "Delaware City",
+   "lat": 39.5743,
+   "lng": -75.5939
+ },
+ {
+   "city": "Ocean View",
+   "lat": 38.5357,
+   "lng": -75.0991
+ },
+ {
+   "city": "South Bethany",
+   "lat": 38.5161,
+   "lng": -75.0591
+ },
+ {
+   "city": "Hockessin",
+   "lat": 39.7837,
+   "lng": -75.6815
+ },
+ {
+   "city": "Riverview",
+   "lat": 39.0293,
+   "lng": -75.5202
+ },
+ {
+   "city": "Dover",
+   "lat": 39.161,
+   "lng": -75.5203
+ }
+]

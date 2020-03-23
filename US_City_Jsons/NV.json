@@ -1,0 +1,657 @@
+[
+ {
+   "city": "Lamoille",
+   "lat": 40.7239,
+   "lng": -115.479
+ },
+ {
+   "city": "Humboldt River Ranch",
+   "lat": 40.4556,
+   "lng": -118.2676
+ },
+ {
+   "city": "Henderson",
+   "lat": 36.0146,
+   "lng": -115.0362
+ },
+ {
+   "city": "Minden",
+   "lat": 38.9609,
+   "lng": -119.7688
+ },
+ {
+   "city": "North Las Vegas",
+   "lat": 36.288,
+   "lng": -115.0901
+ },
+ {
+   "city": "Gerlach",
+   "lat": 40.6451,
+   "lng": -119.3614
+ },
+ {
+   "city": "Pioche",
+   "lat": 37.952,
+   "lng": -114.4434
+ },
+ {
+   "city": "Crescent Valley",
+   "lat": 40.4199,
+   "lng": -116.5753
+ },
+ {
+   "city": "Goodsprings",
+   "lat": 35.8303,
+   "lng": -115.4291
+ },
+ {
+   "city": "Fish Springs",
+   "lat": 38.9536,
+   "lng": -119.6511
+ },
+ {
+   "city": "Paradise Valley",
+   "lat": 41.49,
+   "lng": -117.5323
+ },
+ {
+   "city": "Fort McDermitt",
+   "lat": 41.9656,
+   "lng": -117.6392
+ },
+ {
+   "city": "Winnemucca",
+   "lat": 40.9645,
+   "lng": -117.7247
+ },
+ {
+   "city": "Zephyr Cove",
+   "lat": 39.0082,
+   "lng": -119.9307
+ },
+ {
+   "city": "Oasis",
+   "lat": 41.0286,
+   "lng": -114.4763
+ },
+ {
+   "city": "Walker Lake",
+   "lat": 38.6468,
+   "lng": -118.7572
+ },
+ {
+   "city": "Panaca",
+   "lat": 37.7889,
+   "lng": -114.3997
+ },
+ {
+   "city": "Cal-Nev-Ari",
+   "lat": 35.2996,
+   "lng": -114.8778
+ },
+ {
+   "city": "Moapa Town",
+   "lat": 36.7708,
+   "lng": -114.6473
+ },
+ {
+   "city": "Searchlight",
+   "lat": 35.4828,
+   "lng": -114.9157
+ },
+ {
+   "city": "Incline Village",
+   "lat": 39.2639,
+   "lng": -119.9453
+ },
+ {
+   "city": "Gabbs",
+   "lat": 38.8655,
+   "lng": -117.9238
+ },
+ {
+   "city": "Enterprise",
+   "lat": 36.0163,
+   "lng": -115.2207
+ },
+ {
+   "city": "Ursine",
+   "lat": 37.9771,
+   "lng": -114.2289
+ },
+ {
+   "city": "Gardnerville",
+   "lat": 38.939,
+   "lng": -119.7369
+ },
+ {
+   "city": "West Wendover",
+   "lat": 40.7407,
+   "lng": -114.0783
+ },
+ {
+   "city": "Bennett Springs",
+   "lat": 37.7104,
+   "lng": -114.4685
+ },
+ {
+   "city": "Logan Creek",
+   "lat": 39.0626,
+   "lng": -119.9294
+ },
+ {
+   "city": "Topaz Lake",
+   "lat": 38.6976,
+   "lng": -119.5427
+ },
+ {
+   "city": "Ruhenstroth",
+   "lat": 38.8912,
+   "lng": -119.6833
+ },
+ {
+   "city": "Owyhee",
+   "lat": 41.9166,
+   "lng": -116.1822
+ },
+ {
+   "city": "Virginia City",
+   "lat": 39.3075,
+   "lng": -119.6483
+ },
+ {
+   "city": "Gardnerville Ranchos",
+   "lat": 38.8872,
+   "lng": -119.7426
+ },
+ {
+   "city": "Genoa",
+   "lat": 39.0256,
+   "lng": -119.8309
+ },
+ {
+   "city": "Cold Springs",
+   "lat": 39.6927,
+   "lng": -119.9775
+ },
+ {
+   "city": "Schurz",
+   "lat": 38.9366,
+   "lng": -118.7925
+ },
+ {
+   "city": "Paradise",
+   "lat": 36.0807,
+   "lng": -115.1369
+ },
+ {
+   "city": "Golden Valley",
+   "lat": 39.6177,
+   "lng": -119.8231
+ },
+ {
+   "city": "Fallon Station",
+   "lat": 39.4151,
+   "lng": -118.7165
+ },
+ {
+   "city": "Beatty",
+   "lat": 36.9352,
+   "lng": -116.7025
+ },
+ {
+   "city": "Round Hill Village",
+   "lat": 38.9937,
+   "lng": -119.9233
+ },
+ {
+   "city": "Silver City",
+   "lat": 39.2639,
+   "lng": -119.6356
+ },
+ {
+   "city": "Austin",
+   "lat": 39.4978,
+   "lng": -117.0741
+ },
+ {
+   "city": "Rachel",
+   "lat": 37.6509,
+   "lng": -115.7341
+ },
+ {
+   "city": "Washoe Valley",
+   "lat": 39.2923,
+   "lng": -119.7767
+ },
+ {
+   "city": "Hiko",
+   "lat": 37.6063,
+   "lng": -115.2018
+ },
+ {
+   "city": "Mina",
+   "lat": 38.3897,
+   "lng": -118.1116
+ },
+ {
+   "city": "Preston",
+   "lat": 38.9157,
+   "lng": -115.0643
+ },
+ {
+   "city": "Summerlin South",
+   "lat": 36.1242,
+   "lng": -115.3324
+ },
+ {
+   "city": "Reno",
+   "lat": 39.5497,
+   "lng": -119.8483
+ },
+ {
+   "city": "Mesquite",
+   "lat": 36.8035,
+   "lng": -114.1325
+ },
+ {
+   "city": "Spring Valley",
+   "lat": 36.0987,
+   "lng": -115.2619
+ },
+ {
+   "city": "Spanish Springs",
+   "lat": 39.6567,
+   "lng": -119.6695
+ },
+ {
+   "city": "McGill",
+   "lat": 39.402,
+   "lng": -114.777
+ },
+ {
+   "city": "Dayton",
+   "lat": 39.258,
+   "lng": -119.5677
+ },
+ {
+   "city": "Wells",
+   "lat": 41.1132,
+   "lng": -114.9535
+ },
+ {
+   "city": "Spring Creek",
+   "lat": 40.7387,
+   "lng": -115.5972
+ },
+ {
+   "city": "Osino",
+   "lat": 40.941,
+   "lng": -115.661
+ },
+ {
+   "city": "Laughlin",
+   "lat": 35.1316,
+   "lng": -114.689
+ },
+ {
+   "city": "Sparks",
+   "lat": 39.5729,
+   "lng": -119.7157
+ },
+ {
+   "city": "Tonopah",
+   "lat": 38.0997,
+   "lng": -117.2483
+ },
+ {
+   "city": "Battle Mountain",
+   "lat": 40.6379,
+   "lng": -116.9485
+ },
+ {
+   "city": "Topaz Ranch Estates",
+   "lat": 38.7357,
+   "lng": -119.5008
+ },
+ {
+   "city": "Silver Springs",
+   "lat": 39.3826,
+   "lng": -119.2149
+ },
+ {
+   "city": "Blue Diamond",
+   "lat": 36.04,
+   "lng": -115.4128
+ },
+ {
+   "city": "Imlay",
+   "lat": 40.6581,
+   "lng": -118.144
+ },
+ {
+   "city": "Lovelock",
+   "lat": 40.1789,
+   "lng": -118.4773
+ },
+ {
+   "city": "Jackpot",
+   "lat": 41.9797,
+   "lng": -114.6645
+ },
+ {
+   "city": "Unionville",
+   "lat": 40.4437,
+   "lng": -118.1146
+ },
+ {
+   "city": "Glenbrook",
+   "lat": 39.0986,
+   "lng": -119.9341
+ },
+ {
+   "city": "Montello",
+   "lat": 41.2673,
+   "lng": -114.197
+ },
+ {
+   "city": "Sutcliffe",
+   "lat": 39.9461,
+   "lng": -119.6305
+ },
+ {
+   "city": "Las Vegas",
+   "lat": 36.2333,
+   "lng": -115.2654
+ },
+ {
+   "city": "McDermitt",
+   "lat": 41.9909,
+   "lng": -117.7044
+ },
+ {
+   "city": "Denio",
+   "lat": 41.97,
+   "lng": -118.6125
+ },
+ {
+   "city": "Lemmon Valley",
+   "lat": 39.6879,
+   "lng": -119.8364
+ },
+ {
+   "city": "Golconda",
+   "lat": 40.9614,
+   "lng": -117.5077
+ },
+ {
+   "city": "Mount Charleston",
+   "lat": 36.2625,
+   "lng": -115.6138
+ },
+ {
+   "city": "Smith Valley",
+   "lat": 38.7845,
+   "lng": -119.3444
+ },
+ {
+   "city": "Ely",
+   "lat": 39.2649,
+   "lng": -114.8709
+ },
+ {
+   "city": "Bunkerville",
+   "lat": 36.7198,
+   "lng": -114.1221
+ },
+ {
+   "city": "Moapa Valley",
+   "lat": 36.6078,
+   "lng": -114.4566
+ },
+ {
+   "city": "Kingston",
+   "lat": 39.2101,
+   "lng": -117.0679
+ },
+ {
+   "city": "Whitney",
+   "lat": 36.1005,
+   "lng": -115.038
+ },
+ {
+   "city": "Mogul",
+   "lat": 39.5164,
+   "lng": -119.923
+ },
+ {
+   "city": "Fallon",
+   "lat": 39.4738,
+   "lng": -118.7781
+ },
+ {
+   "city": "Sandy Valley",
+   "lat": 35.8423,
+   "lng": -115.6304
+ },
+ {
+   "city": "Fernley",
+   "lat": 39.5611,
+   "lng": -119.1926
+ },
+ {
+   "city": "Sunrise Manor",
+   "lat": 36.1785,
+   "lng": -115.049
+ },
+ {
+   "city": "Crystal Bay",
+   "lat": 39.2314,
+   "lng": -120.0017
+ },
+ {
+   "city": "Kingsbury",
+   "lat": 38.9909,
+   "lng": -119.8837
+ },
+ {
+   "city": "Skyland",
+   "lat": 39.0265,
+   "lng": -119.9221
+ },
+ {
+   "city": "Dry Valley",
+   "lat": 37.8843,
+   "lng": -114.3051
+ },
+ {
+   "city": "Ruth",
+   "lat": 39.2793,
+   "lng": -114.9899
+ },
+ {
+   "city": "Nellis AFB",
+   "lat": 36.2473,
+   "lng": -115.0574
+ },
+ {
+   "city": "Indian Springs",
+   "lat": 36.5719,
+   "lng": -115.7203
+ },
+ {
+   "city": "Eureka",
+   "lat": 39.5113,
+   "lng": -115.9668
+ },
+ {
+   "city": "Caliente",
+   "lat": 37.6436,
+   "lng": -114.4964
+ },
+ {
+   "city": "Yerington",
+   "lat": 38.9554,
+   "lng": -119.1101
+ },
+ {
+   "city": "Lakeridge",
+   "lat": 39.0382,
+   "lng": -119.9397
+ },
+ {
+   "city": "Empire",
+   "lat": 40.5759,
+   "lng": -119.3431
+ },
+ {
+   "city": "Johnson Lane",
+   "lat": 39.0489,
+   "lng": -119.7245
+ },
+ {
+   "city": "Winchester",
+   "lat": 36.1368,
+   "lng": -115.1299
+ },
+ {
+   "city": "Sun Valley",
+   "lat": 39.6106,
+   "lng": -119.7765
+ },
+ {
+   "city": "Carter Springs",
+   "lat": 38.8619,
+   "lng": -119.6413
+ },
+ {
+   "city": "Alamo",
+   "lat": 37.3648,
+   "lng": -115.1629
+ },
+ {
+   "city": "Stateline",
+   "lat": 38.9678,
+   "lng": -119.9439
+ },
+ {
+   "city": "Stagecoach",
+   "lat": 39.3656,
+   "lng": -119.3832
+ },
+ {
+   "city": "Elko",
+   "lat": 40.8387,
+   "lng": -115.7674
+ },
+ {
+   "city": "Valmy",
+   "lat": 40.7718,
+   "lng": -117.1309
+ },
+ {
+   "city": "Pahrump",
+   "lat": 36.2411,
+   "lng": -116.0176
+ },
+ {
+   "city": "Hawthorne",
+   "lat": 38.5249,
+   "lng": -118.627
+ },
+ {
+   "city": "Silver Peak",
+   "lat": 37.7577,
+   "lng": -117.6386
+ },
+ {
+   "city": "Nixon",
+   "lat": 39.828,
+   "lng": -119.3589
+ },
+ {
+   "city": "Lund",
+   "lat": 38.8654,
+   "lng": -115.0091
+ },
+ {
+   "city": "Wadsworth",
+   "lat": 39.6322,
+   "lng": -119.2901
+ },
+ {
+   "city": "Double Spring",
+   "lat": 38.7788,
+   "lng": -119.6154
+ },
+ {
+   "city": "Mount Wilson",
+   "lat": 38.235,
+   "lng": -114.4503
+ },
+ {
+   "city": "East Valley",
+   "lat": 38.9462,
+   "lng": -119.7003
+ },
+ {
+   "city": "Grass Valley",
+   "lat": 40.7971,
+   "lng": -117.7603
+ },
+ {
+   "city": "Verdi",
+   "lat": 39.5143,
+   "lng": -119.9769
+ },
+ {
+   "city": "Indian Hills",
+   "lat": 39.0894,
+   "lng": -119.7977
+ },
+ {
+   "city": "Goldfield",
+   "lat": 37.7121,
+   "lng": -117.2378
+ },
+ {
+   "city": "Orovada",
+   "lat": 41.561,
+   "lng": -117.7763
+ },
+ {
+   "city": "Nelson",
+   "lat": 35.7179,
+   "lng": -114.8313
+ },
+ {
+   "city": "Carson City",
+   "lat": 39.1511,
+   "lng": -119.7474
+ },
+ {
+   "city": "Beaverdam",
+   "lat": 37.6892,
+   "lng": -114.4489
+ },
+ {
+   "city": "Boulder City",
+   "lat": 35.8407,
+   "lng": -114.9257
+ },
+ {
+   "city": "Baker",
+   "lat": 39.015,
+   "lng": -114.1233
+ },
+ {
+   "city": "Carlin",
+   "lat": 40.719,
+   "lng": -116.108
+ },
+ {
+   "city": "Dyer",
+   "lat": 37.6493,
+   "lng": -118.0345
+ }
+]

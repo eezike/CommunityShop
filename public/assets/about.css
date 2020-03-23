@@ -1,0 +1,14 @@
+.btn.custom-btn {
+  border-radius: 0;
+  background-color: #efefef;
+  border-color: #efefef;
+  float:right
+}
+
+body {
+  background: #52b0b8; /* fallback for old browsers */
+  background: -webkit-linear-gradient(right, #6752b8, rgb(111, 184, 194));
+  background: -moz-linear-gradient(right, #6752b8, rgb(111, 184, 194));
+  background: -o-linear-gradient(right, #6752b8, rgb(111, 184, 194));
+  background: linear-gradient(to left, #6752b8, rgb(111, 184, 194));
+}

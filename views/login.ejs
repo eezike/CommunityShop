@@ -1,0 +1,118 @@
+<html>
+
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="/assets/login.css">
+</head>
+
+<body>
+  <div style="height:38px;background-color: #efefef;box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);">
+    <a href='/login'><button id="logingButton" class="btn btn-outline-primary custom-btn" >Login</button></a>
+    <a href='/about'><button class="btn btn-outline-secondary custom-btn" >About</button></a>
+    <a href='/'><button class="btn btn-outline-secondary custom-btn">Home</button></a>
+  </div>
+
+	<div class="login-page">
+		<div class="form">
+
+      <div class="login">
+        <form method="POST" action="/login2" class="login-form">
+
+          <div class="txtb">
+            <input name="email" type="text" placeholder="email"/>
+            <span data-placeholder="email><span>
+          </div>
+
+          <div class="txtb">
+            <input name="password" type="password" placeholder="password"/>
+            <span data-placeholder="password><span>
+          </div>
+
+          <button id="login">login</button>
+          <p>Not registered? <a href="#" id="createAccount">Create an account</a></p>
+        </form>
+      </div>
+
+
+      <div class="signup">
+        <form id="signupForm" name="signup" action="/create" method="POST" class="register-form">
+          <input name="email" type="text" placeholder="email address" />
+          <input name="pass" type="password" placeholder="password" />
+          <input name="cPass" type="password" placeholder="confirm password"/>
+          
+          <button id="continue" type="button">continue</button>
+          <p>Password must be 8 characters, have at least one number, and both uppercase and lowercase letters</p>
+
+          <p>Already registered? <a href="#" id="signIn">Sign In</a></p>
+      </div>
+    
+
+      <div class="info" style="display:none">
+          <input required name="name" type="text" placeholder="name"/>
+          <input required name="city" type="text" placeholder="city"/>
+          <select required name="state">
+            <option value="AL">Alabama</option>
+            <option value="AK">Alaska</option>
+            <option value="AZ">Arizona</option>
+            <option value="AR">Arkansas</option>
+            <option value="CA">California</option>
+            <option value="CO">Colorado</option>
+            <option value="CT">Connecticut</option>
+            <option value="DE">Delaware</option>
+            <option value="DC">District Of Columbia</option>
+            <option value="FL">Florida</option>
+            <option value="GA">Georgia</option>
+            <option value="HI">Hawaii</option>
+            <option value="ID">Idaho</option>
+            <option value="IL">Illinois</option>
+            <option value="IN">Indiana</option>
+            <option value="IA">Iowa</option>
+            <option value="KS">Kansas</option>
+            <option value="KY">Kentucky</option>
+            <option value="LA">Louisiana</option>
+            <option value="ME">Maine</option>
+            <option value="MD">Maryland</option>
+            <option value="MA">Massachusetts</option>
+            <option value="MI">Michigan</option>
+            <option value="MN">Minnesota</option>
+            <option value="MS">Mississippi</option>
+            <option value="MO">Missouri</option>
+            <option value="MT">Montana</option>
+            <option value="NE">Nebraska</option>
+            <option value="NV">Nevada</option>
+            <option value="NH">New Hampshire</option>
+            <option value="NJ">New Jersey</option>
+            <option value="NM">New Mexico</option>
+            <option value="NY">New York</option>
+            <option value="NC">North Carolina</option>
+            <option value="ND">North Dakota</option>
+            <option value="OH">Ohio</option>
+            <option value="OK">Oklahoma</option>
+            <option value="OR">Oregon</option>
+            <option value="PA">Pennsylvania</option>
+            <option value="RI">Rhode Island</option>
+            <option value="SC">South Carolina</option>
+            <option value="SD">South Dakota</option>
+            <option value="TN">Tennessee</option>
+            <option value="TX">Texas</option>
+            <option value="UT">Utah</option>
+            <option value="VT">Vermont</option>
+            <option value="VA">Virginia</option>
+            <option value="WA">Washington</option>
+            <option value="WV">West Virginia</option>
+            <option value="WI">Wisconsin</option>
+            <option value="WY">Wyoming</option>
+          </select>				
+          <p>Please provide a way for people to contact you.</p>
+          <textarea required name="desc" form="signupForm" placeholder="Limit 500 Characters" maxlength=500></textarea>
+          <button id="create">Create Account</button>
+        </form>
+      </div>
+
+    </div>
+  </div>
+    
+	<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+  <script src="/login.js"></script>
+</body>
+</html>

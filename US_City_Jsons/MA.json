@@ -1,0 +1,707 @@
+[
+ {
+   "city": "West Falmouth",
+   "lat": 41.6012,
+   "lng": -70.6364
+ },
+ {
+   "city": "Peabody",
+   "lat": 42.5335,
+   "lng": -70.9724
+ },
+ {
+   "city": "Amherst Center",
+   "lat": 42.3757,
+   "lng": -72.5188
+ },
+ {
+   "city": "Siasconset",
+   "lat": 41.2636,
+   "lng": -69.9718
+ },
+ {
+   "city": "South Dennis",
+   "lat": 41.7051,
+   "lng": -70.1537
+ },
+ {
+   "city": "Methuen Town",
+   "lat": 42.734,
+   "lng": -71.1889
+ },
+ {
+   "city": "Shelburne Falls",
+   "lat": 42.6063,
+   "lng": -72.7434
+ },
+ {
+   "city": "West Concord",
+   "lat": 42.4518,
+   "lng": -71.4035
+ },
+ {
+   "city": "North Scituate",
+   "lat": 42.2121,
+   "lng": -70.7652
+ },
+ {
+   "city": "White Island Shores",
+   "lat": 41.7933,
+   "lng": -70.6389
+ },
+ {
+   "city": "Holyoke",
+   "lat": 42.2125,
+   "lng": -72.6411
+ },
+ {
+   "city": "North Amherst",
+   "lat": 42.4073,
+   "lng": -72.5227
+ },
+ {
+   "city": "Gloucester",
+   "lat": 42.626,
+   "lng": -70.6897
+ },
+ {
+   "city": "Boston",
+   "lat": 42.3188,
+   "lng": -71.0846
+ },
+ {
+   "city": "Devens",
+   "lat": 42.5438,
+   "lng": -71.6147
+ },
+ {
+   "city": "North Lakeville",
+   "lat": 41.8619,
+   "lng": -70.9411
+ },
+ {
+   "city": "Sagamore",
+   "lat": 41.7842,
+   "lng": -70.5332
+ },
+ {
+   "city": "Haverhill",
+   "lat": 42.7838,
+   "lng": -71.0871
+ },
+ {
+   "city": "Forestdale",
+   "lat": 41.6846,
+   "lng": -70.5082
+ },
+ {
+   "city": "West Springfield Town",
+   "lat": 42.1253,
+   "lng": -72.6503
+ },
+ {
+   "city": "Southbridge Town",
+   "lat": 42.0604,
+   "lng": -72.0338
+ },
+ {
+   "city": "Everett",
+   "lat": 42.4064,
+   "lng": -71.0545
+ },
+ {
+   "city": "Woburn",
+   "lat": 42.4869,
+   "lng": -71.1543
+ },
+ {
+   "city": "Newton",
+   "lat": 42.3316,
+   "lng": -71.2085
+ },
+ {
+   "city": "Somerville",
+   "lat": 42.3908,
+   "lng": -71.1013
+ },
+ {
+   "city": "Pinehurst",
+   "lat": 42.5334,
+   "lng": -71.234
+ },
+ {
+   "city": "Woods Hole",
+   "lat": 41.5303,
+   "lng": -70.6614
+ },
+ {
+   "city": "Cochituate",
+   "lat": 42.329,
+   "lng": -71.3576
+ },
+ {
+   "city": "Monument Beach",
+   "lat": 41.7192,
+   "lng": -70.6061
+ },
+ {
+   "city": "Leominster",
+   "lat": 42.5209,
+   "lng": -71.7717
+ },
+ {
+   "city": "Harwich Center",
+   "lat": 41.6924,
+   "lng": -70.0694
+ },
+ {
+   "city": "Northwest Harwich",
+   "lat": 41.6917,
+   "lng": -70.1027
+ },
+ {
+   "city": "North Plymouth",
+   "lat": 41.9728,
+   "lng": -70.6882
+ },
+ {
+   "city": "Norton Center",
+   "lat": 41.9726,
+   "lng": -71.1854
+ },
+ {
+   "city": "Fitchburg",
+   "lat": 42.5912,
+   "lng": -71.8156
+ },
+ {
+   "city": "South Ashburnham",
+   "lat": 42.6138,
+   "lng": -71.9384
+ },
+ {
+   "city": "West Wareham",
+   "lat": 41.79,
+   "lng": -70.755
+ },
+ {
+   "city": "The Pinehills",
+   "lat": 41.8882,
+   "lng": -70.6
+ },
+ {
+   "city": "Marshfield Hills",
+   "lat": 42.1487,
+   "lng": -70.7315
+ },
+ {
+   "city": "Ocean Grove",
+   "lat": 41.7281,
+   "lng": -71.2098
+ },
+ {
+   "city": "Winthrop Town",
+   "lat": 42.3751,
+   "lng": -70.9847
+ },
+ {
+   "city": "Southfield",
+   "lat": 42.1498,
+   "lng": -70.9289
+ },
+ {
+   "city": "Taunton",
+   "lat": 41.9036,
+   "lng": -71.0943
+ },
+ {
+   "city": "Amesbury Town",
+   "lat": 42.853,
+   "lng": -70.9446
+ },
+ {
+   "city": "Agawam Town",
+   "lat": 42.0657,
+   "lng": -72.6526
+ },
+ {
+   "city": "East Falmouth",
+   "lat": 41.5707,
+   "lng": -70.5556
+ },
+ {
+   "city": "Springfield",
+   "lat": 42.1155,
+   "lng": -72.5395
+ },
+ {
+   "city": "Northampton",
+   "lat": 42.3266,
+   "lng": -72.6745
+ },
+ {
+   "city": "Revere",
+   "lat": 42.4191,
+   "lng": -71.0035
+ },
+ {
+   "city": "Millis-Clicquot",
+   "lat": 42.1648,
+   "lng": -71.3544
+ },
+ {
+   "city": "South Deerfield",
+   "lat": 42.4795,
+   "lng": -72.5947
+ },
+ {
+   "city": "Worcester",
+   "lat": 42.2705,
+   "lng": -71.8079
+ },
+ {
+   "city": "West Yarmouth",
+   "lat": 41.6496,
+   "lng": -70.2487
+ },
+ {
+   "city": "Bliss Corner",
+   "lat": 41.6054,
+   "lng": -70.9421
+ },
+ {
+   "city": "Littleton Common",
+   "lat": 42.5352,
+   "lng": -71.4727
+ },
+ {
+   "city": "New Seabury",
+   "lat": 41.5689,
+   "lng": -70.4811
+ },
+ {
+   "city": "Marlborough",
+   "lat": 42.3494,
+   "lng": -71.5468
+ },
+ {
+   "city": "Hanscom AFB",
+   "lat": 42.4582,
+   "lng": -71.2793
+ },
+ {
+   "city": "Popponesset Island",
+   "lat": 41.5855,
+   "lng": -70.4591
+ },
+ {
+   "city": "New Bedford",
+   "lat": 41.6697,
+   "lng": -70.9428
+ },
+ {
+   "city": "Mansfield Center",
+   "lat": 42.0225,
+   "lng": -71.218
+ },
+ {
+   "city": "Monomoscoy Island",
+   "lat": 41.5712,
+   "lng": -70.5026
+ },
+ {
+   "city": "Ocean Bluff-Brant Rock",
+   "lat": 42.1006,
+   "lng": -70.6625
+ },
+ {
+   "city": "Raynham Center",
+   "lat": 41.9327,
+   "lng": -71.0431
+ },
+ {
+   "city": "West Chatham",
+   "lat": 41.6804,
+   "lng": -69.9918
+ },
+ {
+   "city": "Marion Center",
+   "lat": 41.7042,
+   "lng": -70.7629
+ },
+ {
+   "city": "Watertown Town",
+   "lat": 42.37,
+   "lng": -71.1774
+ },
+ {
+   "city": "Fall River",
+   "lat": 41.7137,
+   "lng": -71.1014
+ },
+ {
+   "city": "North Adams",
+   "lat": 42.6844,
+   "lng": -73.1166
+ },
+ {
+   "city": "Pocasset",
+   "lat": 41.6877,
+   "lng": -70.6202
+ },
+ {
+   "city": "Seconsett Island",
+   "lat": 41.5661,
+   "lng": -70.5123
+ },
+ {
+   "city": "Salem",
+   "lat": 42.5129,
+   "lng": -70.902
+ },
+ {
+   "city": "Easthampton Town",
+   "lat": 42.2652,
+   "lng": -72.672
+ },
+ {
+   "city": "Green Harbor-Cedar Crest",
+   "lat": 42.0747,
+   "lng": -70.659
+ },
+ {
+   "city": "Harwich Port",
+   "lat": 41.6723,
+   "lng": -70.0641
+ },
+ {
+   "city": "South Lancaster",
+   "lat": 42.4373,
+   "lng": -71.692
+ },
+ {
+   "city": "Greenfield Town",
+   "lat": 42.614,
+   "lng": -72.5985
+ },
+ {
+   "city": "Barnstable Town",
+   "lat": 41.6722,
+   "lng": -70.3599
+ },
+ {
+   "city": "Popponesset",
+   "lat": 41.5737,
+   "lng": -70.4636
+ },
+ {
+   "city": "Lawrence",
+   "lat": 42.7003,
+   "lng": -71.1626
+ },
+ {
+   "city": "Madaket",
+   "lat": 41.2826,
+   "lng": -70.1855
+ },
+ {
+   "city": "East Douglas",
+   "lat": 42.0779,
+   "lng": -71.7121
+ },
+ {
+   "city": "Smith Mills",
+   "lat": 41.6432,
+   "lng": -70.992
+ },
+ {
+   "city": "Lowell",
+   "lat": 42.6389,
+   "lng": -71.3217
+ },
+ {
+   "city": "North Eastham",
+   "lat": 41.8539,
+   "lng": -69.9968
+ },
+ {
+   "city": "Medford",
+   "lat": 42.4234,
+   "lng": -71.1087
+ },
+ {
+   "city": "Randolph",
+   "lat": 42.1778,
+   "lng": -71.0539
+ },
+ {
+   "city": "Quincy",
+   "lat": 42.2516,
+   "lng": -71.0183
+ },
+ {
+   "city": "South Amherst",
+   "lat": 42.3389,
+   "lng": -72.5195
+ },
+ {
+   "city": "North Falmouth",
+   "lat": 41.6395,
+   "lng": -70.626
+ },
+ {
+   "city": "Turners Falls",
+   "lat": 42.5976,
+   "lng": -72.5572
+ },
+ {
+   "city": "Onset",
+   "lat": 41.7481,
+   "lng": -70.6669
+ },
+ {
+   "city": "Baldwinville",
+   "lat": 42.6049,
+   "lng": -72.0771
+ },
+ {
+   "city": "Cordaville",
+   "lat": 42.2727,
+   "lng": -71.5221
+ },
+ {
+   "city": "Framingham",
+   "lat": 42.3085,
+   "lng": -71.4368
+ },
+ {
+   "city": "Bridgewater",
+   "lat": 41.9888,
+   "lng": -70.9718
+ },
+ {
+   "city": "Attleboro",
+   "lat": 41.9311,
+   "lng": -71.295
+ },
+ {
+   "city": "South Yarmouth",
+   "lat": 41.6692,
+   "lng": -70.2005
+ },
+ {
+   "city": "Malden",
+   "lat": 42.4305,
+   "lng": -71.0576
+ },
+ {
+   "city": "Pittsfield",
+   "lat": 42.4517,
+   "lng": -73.2605
+ },
+ {
+   "city": "Brockton",
+   "lat": 42.0821,
+   "lng": -71.0242
+ },
+ {
+   "city": "Housatonic",
+   "lat": 42.2487,
+   "lng": -73.3626
+ },
+ {
+   "city": "Mattapoisett Center",
+   "lat": 41.6667,
+   "lng": -70.8054
+ },
+ {
+   "city": "East Sandwich",
+   "lat": 41.7365,
+   "lng": -70.4341
+ },
+ {
+   "city": "East Harwich",
+   "lat": 41.7081,
+   "lng": -70.0339
+ },
+ {
+   "city": "Beverly",
+   "lat": 42.5681,
+   "lng": -70.8627
+ },
+ {
+   "city": "Weymouth Town",
+   "lat": 42.1984,
+   "lng": -70.9466
+ },
+ {
+   "city": "Weweantic",
+   "lat": 41.7398,
+   "lng": -70.7351
+ },
+ {
+   "city": "Whitinsville",
+   "lat": 42.1146,
+   "lng": -71.6688
+ },
+ {
+   "city": "Chelsea",
+   "lat": 42.3959,
+   "lng": -71.0325
+ },
+ {
+   "city": "Palmer Town",
+   "lat": 42.1888,
+   "lng": -72.3112
+ },
+ {
+   "city": "North Westport",
+   "lat": 41.6539,
+   "lng": -71.0927
+ },
+ {
+   "city": "Chicopee",
+   "lat": 42.1764,
+   "lng": -72.5719
+ },
+ {
+   "city": "North Seekonk",
+   "lat": 41.8882,
+   "lng": -71.3297
+ },
+ {
+   "city": "Monson Center",
+   "lat": 42.099,
+   "lng": -72.3048
+ },
+ {
+   "city": "Acushnet Center",
+   "lat": 41.685,
+   "lng": -70.9065
+ },
+ {
+   "city": "Vineyard Haven",
+   "lat": 41.4565,
+   "lng": -70.6069
+ },
+ {
+   "city": "Gardner",
+   "lat": 42.5845,
+   "lng": -71.9867
+ },
+ {
+   "city": "Cambridge",
+   "lat": 42.3759,
+   "lng": -71.1185
+ },
+ {
+   "city": "Franklin Town",
+   "lat": 42.0862,
+   "lng": -71.4113
+ },
+ {
+   "city": "Dennis Port",
+   "lat": 41.6677,
+   "lng": -70.1358
+ },
+ {
+   "city": "Buzzards Bay",
+   "lat": 41.7551,
+   "lng": -70.6129
+ },
+ {
+   "city": "Braintree Town",
+   "lat": 42.2039,
+   "lng": -71.0022
+ },
+ {
+   "city": "Mashpee Neck",
+   "lat": 41.6118,
+   "lng": -70.4667
+ },
+ {
+   "city": "West Dennis",
+   "lat": 41.6666,
+   "lng": -70.1656
+ },
+ {
+   "city": "East Dennis",
+   "lat": 41.7391,
+   "lng": -70.1577
+ },
+ {
+   "city": "Middleborough Center",
+   "lat": 41.8945,
+   "lng": -70.926
+ },
+ {
+   "city": "North Pembroke",
+   "lat": 42.0989,
+   "lng": -70.7823
+ },
+ {
+   "city": "Seabrook",
+   "lat": 41.5831,
+   "lng": -70.4992
+ },
+ {
+   "city": "Melrose",
+   "lat": 42.4556,
+   "lng": -71.059
+ },
+ {
+   "city": "Teaticket",
+   "lat": 41.5624,
+   "lng": -70.5858
+ },
+ {
+   "city": "South Duxbury",
+   "lat": 42.0203,
+   "lng": -70.6913
+ },
+ {
+   "city": "Waltham",
+   "lat": 42.3889,
+   "lng": -71.2423
+ },
+ {
+   "city": "Yarmouth Port",
+   "lat": 41.71,
+   "lng": -70.2257
+ },
+ {
+   "city": "Newburyport",
+   "lat": 42.8124,
+   "lng": -70.8879
+ },
+ {
+   "city": "Wareham Center",
+   "lat": 41.751,
+   "lng": -70.7198
+ },
+ {
+   "city": "East Pepperell",
+   "lat": 42.6654,
+   "lng": -71.5635
+ },
+ {
+   "city": "Fiskdale",
+   "lat": 42.1227,
+   "lng": -72.1087
+ },
+ {
+   "city": "Lynn",
+   "lat": 42.4779,
+   "lng": -70.9663
+ },
+ {
+   "city": "Millers Falls",
+   "lat": 42.5792,
+   "lng": -72.4925
+ },
+ {
+   "city": "Westfield",
+   "lat": 42.1382,
+   "lng": -72.7561
+ }
+]

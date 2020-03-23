@@ -1,0 +1,57 @@
+body, html{
+  height: 95vh;
+  background-color: #efefef;
+}
+
+#map { 
+  height: 150%; 
+  width: 100%; 
+  top: -100px;
+  float:left;
+  position: absolute;
+  z-index:1;
+} 
+
+.btn.custom-btn {
+  border-radius: 0;
+  background-color: #efefef;
+  border-color: #efefef;
+  float:right;
+}
+
+#mapView {
+  position: absolute;
+  height: 95%;
+  width: 100%;
+  overflow: hidden;
+  z-index:1;
+}
+
+#overlay {
+  overflow-y: scroll;
+  overflow-wrap: break-word;
+  padding: 10px;
+  border-style: solid;
+  border-radius: 2px;
+  position: absolute;
+  width: 25%;
+  height: 90%;
+  background-color: #ffffff;
+  border-color: rgba(98, 154, 213, 0.832);
+  opacity: 0.9;
+  top: 30px;
+  left: 10px;
+  z-index:2;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#mainTitle{
+  float:left
+}

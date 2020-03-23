@@ -1,0 +1,4552 @@
+[
+ {
+   "city": "North Key Largo",
+   "lat": 25.2574,
+   "lng": -80.3242
+ },
+ {
+   "city": "Trenton",
+   "lat": 29.6092,
+   "lng": -82.8146
+ },
+ {
+   "city": "Wilton Manors",
+   "lat": 26.1593,
+   "lng": -80.1395
+ },
+ {
+   "city": "Chumuckla",
+   "lat": 30.7826,
+   "lng": -87.2309
+ },
+ {
+   "city": "Sanford",
+   "lat": 28.7893,
+   "lng": -81.276
+ },
+ {
+   "city": "Micanopy",
+   "lat": 29.506,
+   "lng": -82.2806
+ },
+ {
+   "city": "Tamarac",
+   "lat": 26.2057,
+   "lng": -80.2549
+ },
+ {
+   "city": "Asbury Lake",
+   "lat": 30.0472,
+   "lng": -81.7855
+ },
+ {
+   "city": "Wausau",
+   "lat": 30.6332,
+   "lng": -85.5874
+ },
+ {
+   "city": "Mary Esther",
+   "lat": 30.4127,
+   "lng": -86.6588
+ },
+ {
+   "city": "Timber Pines",
+   "lat": 28.469,
+   "lng": -82.5999
+ },
+ {
+   "city": "Surfside",
+   "lat": 25.8787,
+   "lng": -80.125
+ },
+ {
+   "city": "Waldo",
+   "lat": 29.7925,
+   "lng": -82.1663
+ },
+ {
+   "city": "Sawgrass",
+   "lat": 30.19,
+   "lng": -81.3704
+ },
+ {
+   "city": "Mims",
+   "lat": 28.6928,
+   "lng": -80.8468
+ },
+ {
+   "city": "Royal Palm Estates",
+   "lat": 26.6815,
+   "lng": -80.1265
+ },
+ {
+   "city": "Roeville",
+   "lat": 30.6838,
+   "lng": -86.994
+ },
+ {
+   "city": "Parkland",
+   "lat": 26.3218,
+   "lng": -80.2533
+ },
+ {
+   "city": "Oak Ridge",
+   "lat": 28.4727,
+   "lng": -81.4169
+ },
+ {
+   "city": "Fidelis",
+   "lat": 30.9343,
+   "lng": -87.0246
+ },
+ {
+   "city": "Niceville",
+   "lat": 30.529,
+   "lng": -86.4753
+ },
+ {
+   "city": "Crystal Springs",
+   "lat": 28.183,
+   "lng": -82.1539
+ },
+ {
+   "city": "Laurel Hill",
+   "lat": 30.964,
+   "lng": -86.4561
+ },
+ {
+   "city": "Munson",
+   "lat": 30.8418,
+   "lng": -86.887
+ },
+ {
+   "city": "High Point",
+   "lat": 28.5474,
+   "lng": -82.5206
+ },
+ {
+   "city": "Beacon Square",
+   "lat": 28.2118,
+   "lng": -82.7504
+ },
+ {
+   "city": "Ruskin",
+   "lat": 27.7065,
+   "lng": -82.4209
+ },
+ {
+   "city": "Olympia Heights",
+   "lat": 25.7241,
+   "lng": -80.339
+ },
+ {
+   "city": "Midway",
+   "lat": 30.4992,
+   "lng": -84.4582
+ },
+ {
+   "city": "Brownsville",
+   "lat": 25.8216,
+   "lng": -80.2417
+ },
+ {
+   "city": "Palm Beach Gardens",
+   "lat": 26.8486,
+   "lng": -80.166
+ },
+ {
+   "city": "Marianna",
+   "lat": 30.7943,
+   "lng": -85.226
+ },
+ {
+   "city": "Aucilla",
+   "lat": 30.477,
+   "lng": -83.7604
+ },
+ {
+   "city": "Heathrow",
+   "lat": 28.7754,
+   "lng": -81.3721
+ },
+ {
+   "city": "South Highpoint",
+   "lat": 27.9087,
+   "lng": -82.7162
+ },
+ {
+   "city": "Live Oak",
+   "lat": 30.2956,
+   "lng": -82.9847
+ },
+ {
+   "city": "West Vero Corridor",
+   "lat": 27.6378,
+   "lng": -80.4855
+ },
+ {
+   "city": "Fruitville",
+   "lat": 27.3328,
+   "lng": -82.4616
+ },
+ {
+   "city": "Pine Castle",
+   "lat": 28.4651,
+   "lng": -81.374
+ },
+ {
+   "city": "Progress Village",
+   "lat": 27.8832,
+   "lng": -82.3593
+ },
+ {
+   "city": "Panacea",
+   "lat": 30.0282,
+   "lng": -84.3936
+ },
+ {
+   "city": "Wewahitchka",
+   "lat": 30.1148,
+   "lng": -85.1935
+ },
+ {
+   "city": "Vamo",
+   "lat": 27.2254,
+   "lng": -82.4944
+ },
+ {
+   "city": "Tampa",
+   "lat": 27.9942,
+   "lng": -82.4451
+ },
+ {
+   "city": "Rio",
+   "lat": 27.2161,
+   "lng": -80.24
+ },
+ {
+   "city": "Laguna Beach",
+   "lat": 30.2549,
+   "lng": -85.9511
+ },
+ {
+   "city": "DeBary",
+   "lat": 28.8815,
+   "lng": -81.324
+ },
+ {
+   "city": "Cooper City",
+   "lat": 26.0463,
+   "lng": -80.2862
+ },
+ {
+   "city": "Inverness Highlands South",
+   "lat": 28.8006,
+   "lng": -82.3372
+ },
+ {
+   "city": "Myrtle Grove",
+   "lat": 30.4158,
+   "lng": -87.3028
+ },
+ {
+   "city": "Raleigh",
+   "lat": 29.4479,
+   "lng": -82.468
+ },
+ {
+   "city": "Lely Resort",
+   "lat": 26.0889,
+   "lng": -81.7031
+ },
+ {
+   "city": "Kenneth City",
+   "lat": 27.8155,
+   "lng": -82.7162
+ },
+ {
+   "city": "Campbellton",
+   "lat": 30.9505,
+   "lng": -85.4025
+ },
+ {
+   "city": "Center Hill",
+   "lat": 28.6335,
+   "lng": -81.9986
+ },
+ {
+   "city": "Nokomis",
+   "lat": 27.1227,
+   "lng": -82.437
+ },
+ {
+   "city": "West DeLand",
+   "lat": 29.0162,
+   "lng": -81.3343
+ },
+ {
+   "city": "Margate",
+   "lat": 26.2466,
+   "lng": -80.2119
+ },
+ {
+   "city": "Harlem",
+   "lat": 26.7325,
+   "lng": -80.9518
+ },
+ {
+   "city": "Lockhart",
+   "lat": 28.6271,
+   "lng": -81.4354
+ },
+ {
+   "city": "Venice Gardens",
+   "lat": 27.0694,
+   "lng": -82.4054
+ },
+ {
+   "city": "Plantation",
+   "lat": 26.126,
+   "lng": -80.2617
+ },
+ {
+   "city": "Lake Worth",
+   "lat": 26.6195,
+   "lng": -80.0591
+ },
+ {
+   "city": "Berrydale",
+   "lat": 30.8982,
+   "lng": -87.035
+ },
+ {
+   "city": "Hypoluxo",
+   "lat": 26.5634,
+   "lng": -80.0531
+ },
+ {
+   "city": "Lecanto",
+   "lat": 28.8359,
+   "lng": -82.488
+ },
+ {
+   "city": "Hernando",
+   "lat": 28.9451,
+   "lng": -82.3781
+ },
+ {
+   "city": "Glencoe",
+   "lat": 28.9999,
+   "lng": -80.9602
+ },
+ {
+   "city": "Buenaventura Lakes",
+   "lat": 28.3349,
+   "lng": -81.3539
+ },
+ {
+   "city": "Astor",
+   "lat": 29.1635,
+   "lng": -81.5349
+ },
+ {
+   "city": "Bartow",
+   "lat": 27.8868,
+   "lng": -81.8213
+ },
+ {
+   "city": "Suncoast Estates",
+   "lat": 26.7123,
+   "lng": -81.8684
+ },
+ {
+   "city": "Kensington Park",
+   "lat": 27.3591,
+   "lng": -82.4932
+ },
+ {
+   "city": "Coconut Creek",
+   "lat": 26.2802,
+   "lng": -80.1842
+ },
+ {
+   "city": "Sunny Isles Beach",
+   "lat": 25.9385,
+   "lng": -80.1246
+ },
+ {
+   "city": "Pensacola",
+   "lat": 30.4427,
+   "lng": -87.1886
+ },
+ {
+   "city": "Horseshoe Beach",
+   "lat": 29.4498,
+   "lng": -83.2819
+ },
+ {
+   "city": "Ponce de Leon",
+   "lat": 30.7234,
+   "lng": -85.9374
+ },
+ {
+   "city": "St. James City",
+   "lat": 26.5507,
+   "lng": -82.098
+ },
+ {
+   "city": "Fort Pierce South",
+   "lat": 27.4096,
+   "lng": -80.3538
+ },
+ {
+   "city": "Miami Gardens",
+   "lat": 25.9433,
+   "lng": -80.2426
+ },
+ {
+   "city": "Largo",
+   "lat": 27.9088,
+   "lng": -82.7712
+ },
+ {
+   "city": "Cabana Colony",
+   "lat": 26.8554,
+   "lng": -80.0864
+ },
+ {
+   "city": "Country Club",
+   "lat": 25.9407,
+   "lng": -80.3102
+ },
+ {
+   "city": "St. Augustine South",
+   "lat": 29.8449,
+   "lng": -81.3156
+ },
+ {
+   "city": "Lake Panasoffkee",
+   "lat": 28.7878,
+   "lng": -82.1318
+ },
+ {
+   "city": "Montverde",
+   "lat": 28.5971,
+   "lng": -81.6787
+ },
+ {
+   "city": "Ridge Wood Heights",
+   "lat": 27.2874,
+   "lng": -82.5137
+ },
+ {
+   "city": "Feather Sound",
+   "lat": 27.9061,
+   "lng": -82.6813
+ },
+ {
+   "city": "Gulfport",
+   "lat": 27.7463,
+   "lng": -82.71
+ },
+ {
+   "city": "Hollywood",
+   "lat": 26.0294,
+   "lng": -80.1679
+ },
+ {
+   "city": "South Palm Beach",
+   "lat": 26.5899,
+   "lng": -80.039
+ },
+ {
+   "city": "Geneva",
+   "lat": 28.7377,
+   "lng": -81.1143
+ },
+ {
+   "city": "Gulf Breeze",
+   "lat": 30.3685,
+   "lng": -87.1769
+ },
+ {
+   "city": "Kissimmee",
+   "lat": 28.3042,
+   "lng": -81.4164
+ },
+ {
+   "city": "Elfers",
+   "lat": 28.214,
+   "lng": -82.723
+ },
+ {
+   "city": "Princeton",
+   "lat": 25.5396,
+   "lng": -80.3971
+ },
+ {
+   "city": "Lake Lindsey",
+   "lat": 28.6322,
+   "lng": -82.3616
+ },
+ {
+   "city": "Medley",
+   "lat": 25.8646,
+   "lng": -80.3516
+ },
+ {
+   "city": "Lake Sarasota",
+   "lat": 27.2916,
+   "lng": -82.437
+ },
+ {
+   "city": "Esto",
+   "lat": 30.9819,
+   "lng": -85.6429
+ },
+ {
+   "city": "Manatee Road",
+   "lat": 29.5147,
+   "lng": -82.9186
+ },
+ {
+   "city": "Indian Creek",
+   "lat": 25.8783,
+   "lng": -80.137
+ },
+ {
+   "city": "Brandon",
+   "lat": 27.9367,
+   "lng": -82.3
+ },
+ {
+   "city": "Pebble Creek",
+   "lat": 28.1583,
+   "lng": -82.3411
+ },
+ {
+   "city": "North Miami Beach",
+   "lat": 25.9302,
+   "lng": -80.166
+ },
+ {
+   "city": "Lake Hart",
+   "lat": 28.3851,
+   "lng": -81.2322
+ },
+ {
+   "city": "Virginia Gardens",
+   "lat": 25.8095,
+   "lng": -80.2974
+ },
+ {
+   "city": "East Palatka",
+   "lat": 29.6502,
+   "lng": -81.5998
+ },
+ {
+   "city": "Shalimar",
+   "lat": 30.4434,
+   "lng": -86.5831
+ },
+ {
+   "city": "Sewall's Point",
+   "lat": 27.197,
+   "lng": -80.1982
+ },
+ {
+   "city": "Milton",
+   "lat": 30.6286,
+   "lng": -87.0522
+ },
+ {
+   "city": "Medulla",
+   "lat": 27.957,
+   "lng": -81.9866
+ },
+ {
+   "city": "The Hammocks",
+   "lat": 25.67,
+   "lng": -80.4483
+ },
+ {
+   "city": "Merritt Island",
+   "lat": 28.3146,
+   "lng": -80.6713
+ },
+ {
+   "city": "Silver Lake",
+   "lat": 28.8436,
+   "lng": -81.8009
+ },
+ {
+   "city": "Goulding",
+   "lat": 30.4396,
+   "lng": -87.23
+ },
+ {
+   "city": "Mulat",
+   "lat": 30.5595,
+   "lng": -87.1297
+ },
+ {
+   "city": "Steinhatchee",
+   "lat": 29.6795,
+   "lng": -83.3837
+ },
+ {
+   "city": "Franklin Park",
+   "lat": 26.134,
+   "lng": -80.1762
+ },
+ {
+   "city": "Tildenville",
+   "lat": 28.5385,
+   "lng": -81.6026
+ },
+ {
+   "city": "Ebro",
+   "lat": 30.4369,
+   "lng": -85.8791
+ },
+ {
+   "city": "Jasmine Estates",
+   "lat": 28.293,
+   "lng": -82.6907
+ },
+ {
+   "city": "Orlovista",
+   "lat": 28.5441,
+   "lng": -81.4629
+ },
+ {
+   "city": "Manasota Key",
+   "lat": 26.9226,
+   "lng": -82.3537
+ },
+ {
+   "city": "Waukeenah",
+   "lat": 30.402,
+   "lng": -83.96
+ },
+ {
+   "city": "Naples Park",
+   "lat": 26.2633,
+   "lng": -81.8094
+ },
+ {
+   "city": "McIntosh",
+   "lat": 29.4494,
+   "lng": -82.2211
+ },
+ {
+   "city": "Haverhill",
+   "lat": 26.6909,
+   "lng": -80.1217
+ },
+ {
+   "city": "Vernon",
+   "lat": 30.6197,
+   "lng": -85.7062
+ },
+ {
+   "city": "Doctor Phillips",
+   "lat": 28.4476,
+   "lng": -81.4922
+ },
+ {
+   "city": "Lighthouse Point",
+   "lat": 26.2785,
+   "lng": -80.0891
+ },
+ {
+   "city": "Bunnell",
+   "lat": 29.4198,
+   "lng": -81.3235
+ },
+ {
+   "city": "Apollo Beach",
+   "lat": 27.7618,
+   "lng": -82.4002
+ },
+ {
+   "city": "Fanning Springs",
+   "lat": 29.5873,
+   "lng": -82.9245
+ },
+ {
+   "city": "Williston Highlands",
+   "lat": 29.3336,
+   "lng": -82.5357
+ },
+ {
+   "city": "Lake Harbor",
+   "lat": 26.6885,
+   "lng": -80.8079
+ },
+ {
+   "city": "St. George Island",
+   "lat": 29.652,
+   "lng": -84.8881
+ },
+ {
+   "city": "Celebration",
+   "lat": 28.3102,
+   "lng": -81.551
+ },
+ {
+   "city": "Homeland",
+   "lat": 27.8181,
+   "lng": -81.8269
+ },
+ {
+   "city": "South Bay",
+   "lat": 26.6784,
+   "lng": -80.7269
+ },
+ {
+   "city": "New Port Richey",
+   "lat": 28.2468,
+   "lng": -82.7169
+ },
+ {
+   "city": "Black Hammock",
+   "lat": 28.7107,
+   "lng": -81.1801
+ },
+ {
+   "city": "Seville",
+   "lat": 29.3364,
+   "lng": -81.5065
+ },
+ {
+   "city": "Oakland Park",
+   "lat": 26.178,
+   "lng": -80.1528
+ },
+ {
+   "city": "Davenport",
+   "lat": 28.1588,
+   "lng": -81.6084
+ },
+ {
+   "city": "Poinciana",
+   "lat": 28.1217,
+   "lng": -81.482
+ },
+ {
+   "city": "Edgewater",
+   "lat": 28.962,
+   "lng": -80.9415
+ },
+ {
+   "city": "Briny Breezes",
+   "lat": 26.5091,
+   "lng": -80.0543
+ },
+ {
+   "city": "Windsor",
+   "lat": 27.7869,
+   "lng": -80.4141
+ },
+ {
+   "city": "Matlacha",
+   "lat": 26.6304,
+   "lng": -82.0719
+ },
+ {
+   "city": "Ocoee",
+   "lat": 28.5787,
+   "lng": -81.5337
+ },
+ {
+   "city": "Melbourne Beach",
+   "lat": 28.0668,
+   "lng": -80.561
+ },
+ {
+   "city": "Brooksville",
+   "lat": 28.5405,
+   "lng": -82.3903
+ },
+ {
+   "city": "Pine Island Center",
+   "lat": 26.6352,
+   "lng": -82.1253
+ },
+ {
+   "city": "De Leon Springs",
+   "lat": 29.1172,
+   "lng": -81.3517
+ },
+ {
+   "city": "Cape Canaveral",
+   "lat": 28.3933,
+   "lng": -80.605
+ },
+ {
+   "city": "South Apopka",
+   "lat": 28.6569,
+   "lng": -81.5056
+ },
+ {
+   "city": "Flagler Beach",
+   "lat": 29.4714,
+   "lng": -81.1302
+ },
+ {
+   "city": "Cross City",
+   "lat": 29.6386,
+   "lng": -83.1248
+ },
+ {
+   "city": "Campbell",
+   "lat": 28.2603,
+   "lng": -81.4525
+ },
+ {
+   "city": "Heritage Pines",
+   "lat": 28.4267,
+   "lng": -82.6254
+ },
+ {
+   "city": "Tavernier",
+   "lat": 25.0188,
+   "lng": -80.5132
+ },
+ {
+   "city": "Richmond Heights",
+   "lat": 25.6347,
+   "lng": -80.372
+ },
+ {
+   "city": "Gretna",
+   "lat": 30.5901,
+   "lng": -84.686
+ },
+ {
+   "city": "Wright",
+   "lat": 30.4444,
+   "lng": -86.642
+ },
+ {
+   "city": "Gladeview",
+   "lat": 25.8395,
+   "lng": -80.2368
+ },
+ {
+   "city": "Charlotte Park",
+   "lat": 26.9031,
+   "lng": -82.0486
+ },
+ {
+   "city": "Mayo",
+   "lat": 30.0511,
+   "lng": -83.1768
+ },
+ {
+   "city": "Bal Harbour",
+   "lat": 25.8935,
+   "lng": -80.1258
+ },
+ {
+   "city": "Lake Mystic",
+   "lat": 30.3906,
+   "lng": -84.9857
+ },
+ {
+   "city": "West Pensacola",
+   "lat": 30.4263,
+   "lng": -87.2679
+ },
+ {
+   "city": "Bonifay",
+   "lat": 30.7826,
+   "lng": -85.6845
+ },
+ {
+   "city": "Bay Harbor Islands",
+   "lat": 25.8878,
+   "lng": -80.1335
+ },
+ {
+   "city": "Orlando",
+   "lat": 28.4772,
+   "lng": -81.3369
+ },
+ {
+   "city": "St. Petersburg",
+   "lat": 27.793,
+   "lng": -82.6652
+ },
+ {
+   "city": "Cheval",
+   "lat": 28.1459,
+   "lng": -82.5185
+ },
+ {
+   "city": "Yeehaw Junction",
+   "lat": 27.6993,
+   "lng": -80.8871
+ },
+ {
+   "city": "Altoona",
+   "lat": 28.9681,
+   "lng": -81.6482
+ },
+ {
+   "city": "Captiva",
+   "lat": 26.5205,
+   "lng": -82.191
+ },
+ {
+   "city": "Taylor Creek",
+   "lat": 27.2172,
+   "lng": -80.7927
+ },
+ {
+   "city": "St. Pete Beach",
+   "lat": 27.7235,
+   "lng": -82.7387
+ },
+ {
+   "city": "Siesta Key",
+   "lat": 27.2779,
+   "lng": -82.5516
+ },
+ {
+   "city": "Titusville",
+   "lat": 28.5727,
+   "lng": -80.8193
+ },
+ {
+   "city": "Glenvar Heights",
+   "lat": 25.709,
+   "lng": -80.3156
+ },
+ {
+   "city": "Christmas",
+   "lat": 28.5606,
+   "lng": -81.0201
+ },
+ {
+   "city": "Lake Helen",
+   "lat": 28.9828,
+   "lng": -81.2306
+ },
+ {
+   "city": "Hallandale Beach",
+   "lat": 25.9854,
+   "lng": -80.1423
+ },
+ {
+   "city": "Naranja",
+   "lat": 25.5164,
+   "lng": -80.4221
+ },
+ {
+   "city": "Crestview",
+   "lat": 30.7481,
+   "lng": -86.5784
+ },
+ {
+   "city": "Ives Estates",
+   "lat": 25.9632,
+   "lng": -80.183
+ },
+ {
+   "city": "June Park",
+   "lat": 28.0718,
+   "lng": -80.6874
+ },
+ {
+   "city": "Point Baker",
+   "lat": 30.6851,
+   "lng": -87.0522
+ },
+ {
+   "city": "Port Salerno",
+   "lat": 27.1461,
+   "lng": -80.1895
+ },
+ {
+   "city": "Palatka",
+   "lat": 29.6493,
+   "lng": -81.6704
+ },
+ {
+   "city": "Ensley",
+   "lat": 30.5261,
+   "lng": -87.2735
+ },
+ {
+   "city": "Palm Beach",
+   "lat": 26.6932,
+   "lng": -80.0406
+ },
+ {
+   "city": "Crystal River",
+   "lat": 28.8964,
+   "lng": -82.5991
+ },
+ {
+   "city": "Daytona Beach",
+   "lat": 29.1994,
+   "lng": -81.0982
+ },
+ {
+   "city": "Palm Springs",
+   "lat": 26.6349,
+   "lng": -80.0968
+ },
+ {
+   "city": "Ponce Inlet",
+   "lat": 29.0928,
+   "lng": -80.9474
+ },
+ {
+   "city": "Buckingham",
+   "lat": 26.6615,
+   "lng": -81.7399
+ },
+ {
+   "city": "Holmes Beach",
+   "lat": 27.5107,
+   "lng": -82.7152
+ },
+ {
+   "city": "Palmetto",
+   "lat": 27.5251,
+   "lng": -82.5751
+ },
+ {
+   "city": "Fort Myers Shores",
+   "lat": 26.7135,
+   "lng": -81.7383
+ },
+ {
+   "city": "Jupiter",
+   "lat": 26.9199,
+   "lng": -80.1128
+ },
+ {
+   "city": "Fish Hawk",
+   "lat": 27.8511,
+   "lng": -82.2164
+ },
+ {
+   "city": "Highland Park",
+   "lat": 27.8614,
+   "lng": -81.5618
+ },
+ {
+   "city": "Miami Shores",
+   "lat": 25.867,
+   "lng": -80.1779
+ },
+ {
+   "city": "Riverview",
+   "lat": 27.8227,
+   "lng": -82.3023
+ },
+ {
+   "city": "Orchid",
+   "lat": 27.7733,
+   "lng": -80.4182
+ },
+ {
+   "city": "San Antonio",
+   "lat": 28.3394,
+   "lng": -82.2787
+ },
+ {
+   "city": "Auburndale",
+   "lat": 28.0962,
+   "lng": -81.8011
+ },
+ {
+   "city": "Solana",
+   "lat": 26.9388,
+   "lng": -82.0278
+ },
+ {
+   "city": "Viera East",
+   "lat": 28.261,
+   "lng": -80.715
+ },
+ {
+   "city": "Lake Hamilton",
+   "lat": 28.0478,
+   "lng": -81.627
+ },
+ {
+   "city": "Highland City",
+   "lat": 27.9633,
+   "lng": -81.8781
+ },
+ {
+   "city": "Fort Myers",
+   "lat": 26.6195,
+   "lng": -81.8303
+ },
+ {
+   "city": "Venice",
+   "lat": 27.1164,
+   "lng": -82.4135
+ },
+ {
+   "city": "Island Walk",
+   "lat": 26.251,
+   "lng": -81.711
+ },
+ {
+   "city": "Oakleaf Plantation",
+   "lat": 30.1689,
+   "lng": -81.8337
+ },
+ {
+   "city": "Union Park",
+   "lat": 28.5645,
+   "lng": -81.2354
+ },
+ {
+   "city": "Tavares",
+   "lat": 28.7926,
+   "lng": -81.7366
+ },
+ {
+   "city": "Zephyrhills",
+   "lat": 28.2405,
+   "lng": -82.1796
+ },
+ {
+   "city": "Plant City",
+   "lat": 28.014,
+   "lng": -82.1201
+ },
+ {
+   "city": "Harbour Heights",
+   "lat": 26.9928,
+   "lng": -82.0072
+ },
+ {
+   "city": "Lantana",
+   "lat": 26.5834,
+   "lng": -80.0564
+ },
+ {
+   "city": "Fort Myers Beach",
+   "lat": 26.4323,
+   "lng": -81.9167
+ },
+ {
+   "city": "South Sarasota",
+   "lat": 27.2856,
+   "lng": -82.5333
+ },
+ {
+   "city": "Caryville",
+   "lat": 30.7753,
+   "lng": -85.812
+ },
+ {
+   "city": "East Williston",
+   "lat": 29.3883,
+   "lng": -82.4165
+ },
+ {
+   "city": "Daytona Beach Shores",
+   "lat": 29.1725,
+   "lng": -80.981
+ },
+ {
+   "city": "Tequesta",
+   "lat": 26.9618,
+   "lng": -80.1011
+ },
+ {
+   "city": "Yankeetown",
+   "lat": 29.0334,
+   "lng": -82.7326
+ },
+ {
+   "city": "Acacia Villas",
+   "lat": 26.6458,
+   "lng": -80.1104
+ },
+ {
+   "city": "Paradise Heights",
+   "lat": 28.6237,
+   "lng": -81.5439
+ },
+ {
+   "city": "Wacissa",
+   "lat": 30.3566,
+   "lng": -83.9937
+ },
+ {
+   "city": "Grant-Valkaria",
+   "lat": 27.9322,
+   "lng": -80.5655
+ },
+ {
+   "city": "Egypt Lake-Leto",
+   "lat": 28.0177,
+   "lng": -82.5062
+ },
+ {
+   "city": "Southgate",
+   "lat": 27.3082,
+   "lng": -82.5096
+ },
+ {
+   "city": "South Miami Heights",
+   "lat": 25.5886,
+   "lng": -80.3862
+ },
+ {
+   "city": "Frostproof",
+   "lat": 27.7494,
+   "lng": -81.5252
+ },
+ {
+   "city": "The Villages",
+   "lat": 28.9021,
+   "lng": -81.9888
+ },
+ {
+   "city": "Arcadia",
+   "lat": 27.2214,
+   "lng": -81.8587
+ },
+ {
+   "city": "Istachatta",
+   "lat": 28.6633,
+   "lng": -82.2726
+ },
+ {
+   "city": "Ellenton",
+   "lat": 27.5266,
+   "lng": -82.5261
+ },
+ {
+   "city": "Immokalee",
+   "lat": 26.4253,
+   "lng": -81.4251
+ },
+ {
+   "city": "East Milton",
+   "lat": 30.6175,
+   "lng": -86.9636
+ },
+ {
+   "city": "Eustis",
+   "lat": 28.856,
+   "lng": -81.6781
+ },
+ {
+   "city": "Paxton",
+   "lat": 30.9746,
+   "lng": -86.3099
+ },
+ {
+   "city": "San Castle",
+   "lat": 26.5651,
+   "lng": -80.0611
+ },
+ {
+   "city": "Branford",
+   "lat": 29.962,
+   "lng": -82.9238
+ },
+ {
+   "city": "Cypress Lake",
+   "lat": 26.5391,
+   "lng": -81.9
+ },
+ {
+   "city": "Sharpes",
+   "lat": 28.4368,
+   "lng": -80.7555
+ },
+ {
+   "city": "Westwood Lakes",
+   "lat": 25.7237,
+   "lng": -80.3717
+ },
+ {
+   "city": "Westview",
+   "lat": 25.8826,
+   "lng": -80.2415
+ },
+ {
+   "city": "Wabasso",
+   "lat": 27.7478,
+   "lng": -80.4363
+ },
+ {
+   "city": "Ocean Ridge",
+   "lat": 26.5287,
+   "lng": -80.0499
+ },
+ {
+   "city": "Orange Park",
+   "lat": 30.1706,
+   "lng": -81.7041
+ },
+ {
+   "city": "Reddick",
+   "lat": 29.3687,
+   "lng": -82.1976
+ },
+ {
+   "city": "Osprey",
+   "lat": 27.1914,
+   "lng": -82.48
+ },
+ {
+   "city": "Winter Park",
+   "lat": 28.5987,
+   "lng": -81.3438
+ },
+ {
+   "city": "Webster",
+   "lat": 28.6115,
+   "lng": -82.0509
+ },
+ {
+   "city": "Islamorada, Village of Islands",
+   "lat": 24.9408,
+   "lng": -80.6097
+ },
+ {
+   "city": "Altamonte Springs",
+   "lat": 28.6615,
+   "lng": -81.3953
+ },
+ {
+   "city": "Madeira Beach",
+   "lat": 27.7985,
+   "lng": -82.7887
+ },
+ {
+   "city": "East Lake-Orient Park",
+   "lat": 27.9971,
+   "lng": -82.3653
+ },
+ {
+   "city": "Callaway",
+   "lat": 30.1346,
+   "lng": -85.5572
+ },
+ {
+   "city": "Crawfordville",
+   "lat": 30.1996,
+   "lng": -84.3634
+ },
+ {
+   "city": "Belleview",
+   "lat": 29.0611,
+   "lng": -82.0565
+ },
+ {
+   "city": "Fruitland Park",
+   "lat": 28.8601,
+   "lng": -81.9191
+ },
+ {
+   "city": "Coleman",
+   "lat": 28.8013,
+   "lng": -82.0699
+ },
+ {
+   "city": "Springfield",
+   "lat": 30.1713,
+   "lng": -85.6089
+ },
+ {
+   "city": "St. Augustine Beach",
+   "lat": 29.8414,
+   "lng": -81.2713
+ },
+ {
+   "city": "Tierra Verde",
+   "lat": 27.6684,
+   "lng": -82.73
+ },
+ {
+   "city": "Dade City North",
+   "lat": 28.3837,
+   "lng": -82.1943
+ },
+ {
+   "city": "Lely",
+   "lat": 26.1032,
+   "lng": -81.7297
+ },
+ {
+   "city": "Fernandina Beach",
+   "lat": 30.658,
+   "lng": -81.4504
+ },
+ {
+   "city": "Azalea Park",
+   "lat": 28.5474,
+   "lng": -81.2956
+ },
+ {
+   "city": "Mango",
+   "lat": 27.9915,
+   "lng": -82.307
+ },
+ {
+   "city": "Fort Walton Beach",
+   "lat": 30.4249,
+   "lng": -86.6193
+ },
+ {
+   "city": "Belleair Shore",
+   "lat": 27.9173,
+   "lng": -82.8455
+ },
+ {
+   "city": "Spring Hill",
+   "lat": 28.4797,
+   "lng": -82.53
+ },
+ {
+   "city": "Bear Creek",
+   "lat": 27.7542,
+   "lng": -82.7285
+ },
+ {
+   "city": "Big Pine Key",
+   "lat": 24.6893,
+   "lng": -81.3676
+ },
+ {
+   "city": "Estero",
+   "lat": 26.4277,
+   "lng": -81.7951
+ },
+ {
+   "city": "Cobbtown",
+   "lat": 30.8823,
+   "lng": -87.1212
+ },
+ {
+   "city": "Wallace",
+   "lat": 30.6746,
+   "lng": -87.1996
+ },
+ {
+   "city": "Gulf Gate Estates",
+   "lat": 27.2587,
+   "lng": -82.5065
+ },
+ {
+   "city": "Mount Plymouth",
+   "lat": 28.8024,
+   "lng": -81.5351
+ },
+ {
+   "city": "Trilby",
+   "lat": 28.4564,
+   "lng": -82.194
+ },
+ {
+   "city": "South Venice",
+   "lat": 27.0435,
+   "lng": -82.4152
+ },
+ {
+   "city": "Cypress Quarters",
+   "lat": 27.2479,
+   "lng": -80.8115
+ },
+ {
+   "city": "Forest City",
+   "lat": 28.6619,
+   "lng": -81.4443
+ },
+ {
+   "city": "Eastpoint",
+   "lat": 29.7548,
+   "lng": -84.8693
+ },
+ {
+   "city": "Palm Beach Shores",
+   "lat": 26.7774,
+   "lng": -80.0368
+ },
+ {
+   "city": "Pine Hills",
+   "lat": 28.5818,
+   "lng": -81.4693
+ },
+ {
+   "city": "Marineland",
+   "lat": 29.6656,
+   "lng": -81.2138
+ },
+ {
+   "city": "Lehigh Acres",
+   "lat": 26.612,
+   "lng": -81.6388
+ },
+ {
+   "city": "Safety Harbor",
+   "lat": 28.008,
+   "lng": -82.6965
+ },
+ {
+   "city": "Oviedo",
+   "lat": 28.658,
+   "lng": -81.1872
+ },
+ {
+   "city": "Ridgecrest",
+   "lat": 27.8952,
+   "lng": -82.8064
+ },
+ {
+   "city": "Belle Glade",
+   "lat": 26.6919,
+   "lng": -80.6672
+ },
+ {
+   "city": "Sunrise",
+   "lat": 26.1547,
+   "lng": -80.2997
+ },
+ {
+   "city": "Gonzalez",
+   "lat": 30.5822,
+   "lng": -87.2906
+ },
+ {
+   "city": "Royal Palm Beach",
+   "lat": 26.7038,
+   "lng": -80.2241
+ },
+ {
+   "city": "Pea Ridge",
+   "lat": 30.6029,
+   "lng": -87.1022
+ },
+ {
+   "city": "Wauchula",
+   "lat": 27.5469,
+   "lng": -81.8103
+ },
+ {
+   "city": "Dunedin",
+   "lat": 28.0329,
+   "lng": -82.7863
+ },
+ {
+   "city": "Hialeah Gardens",
+   "lat": 25.8878,
+   "lng": -80.3569
+ },
+ {
+   "city": "Wahneta",
+   "lat": 27.9574,
+   "lng": -81.7288
+ },
+ {
+   "city": "Malabar",
+   "lat": 27.9885,
+   "lng": -80.5781
+ },
+ {
+   "city": "Ona",
+   "lat": 27.483,
+   "lng": -81.9098
+ },
+ {
+   "city": "Westlake",
+   "lat": 26.7549,
+   "lng": -80.2984
+ },
+ {
+   "city": "Pinellas Park",
+   "lat": 27.8589,
+   "lng": -82.7076
+ },
+ {
+   "city": "Lady Lake",
+   "lat": 28.924,
+   "lng": -81.93
+ },
+ {
+   "city": "Fisher Island",
+   "lat": 25.7607,
+   "lng": -80.1416
+ },
+ {
+   "city": "Palmetto Bay",
+   "lat": 25.622,
+   "lng": -80.3222
+ },
+ {
+   "city": "Florida Ridge",
+   "lat": 27.5805,
+   "lng": -80.3848
+ },
+ {
+   "city": "Eatonville",
+   "lat": 28.6169,
+   "lng": -81.3911
+ },
+ {
+   "city": "Hilliard",
+   "lat": 30.6865,
+   "lng": -81.9212
+ },
+ {
+   "city": "Fort Pierce",
+   "lat": 27.4256,
+   "lng": -80.343
+ },
+ {
+   "city": "Belleair Beach",
+   "lat": 27.9242,
+   "lng": -82.8358
+ },
+ {
+   "city": "Port Orange",
+   "lat": 29.1084,
+   "lng": -81.0137
+ },
+ {
+   "city": "Limestone Creek",
+   "lat": 26.9433,
+   "lng": -80.1408
+ },
+ {
+   "city": "Newberry",
+   "lat": 29.6351,
+   "lng": -82.6047
+ },
+ {
+   "city": "Greenwood",
+   "lat": 30.8727,
+   "lng": -85.1612
+ },
+ {
+   "city": "White Springs",
+   "lat": 30.3317,
+   "lng": -82.7562
+ },
+ {
+   "city": "Indialantic",
+   "lat": 28.087,
+   "lng": -80.57
+ },
+ {
+   "city": "Orange City",
+   "lat": 28.9349,
+   "lng": -81.2882
+ },
+ {
+   "city": "Marathon",
+   "lat": 24.7262,
+   "lng": -81.0376
+ },
+ {
+   "city": "Clearwater",
+   "lat": 27.9788,
+   "lng": -82.7624
+ },
+ {
+   "city": "Crescent Beach",
+   "lat": 29.7357,
+   "lng": -81.2414
+ },
+ {
+   "city": "Wedgefield",
+   "lat": 28.4847,
+   "lng": -81.0808
+ },
+ {
+   "city": "Port St. Joe",
+   "lat": 29.8267,
+   "lng": -85.3069
+ },
+ {
+   "city": "Valrico",
+   "lat": 27.9193,
+   "lng": -82.2293
+ },
+ {
+   "city": "Villas",
+   "lat": 26.5505,
+   "lng": -81.8678
+ },
+ {
+   "city": "Lynn Haven",
+   "lat": 30.2362,
+   "lng": -85.6387
+ },
+ {
+   "city": "Richmond West",
+   "lat": 25.6105,
+   "lng": -80.4297
+ },
+ {
+   "city": "Neptune Beach",
+   "lat": 30.3165,
+   "lng": -81.4118
+ },
+ {
+   "city": "Sunset",
+   "lat": 25.7061,
+   "lng": -80.353
+ },
+ {
+   "city": "Cortez",
+   "lat": 27.4668,
+   "lng": -82.6688
+ },
+ {
+   "city": "Madison",
+   "lat": 30.4716,
+   "lng": -83.413
+ },
+ {
+   "city": "Panama City Beach",
+   "lat": 30.2369,
+   "lng": -85.8774
+ },
+ {
+   "city": "Chuluota",
+   "lat": 28.638,
+   "lng": -81.1158
+ },
+ {
+   "city": "Aventura",
+   "lat": 25.9565,
+   "lng": -80.1372
+ },
+ {
+   "city": "Williston",
+   "lat": 29.3734,
+   "lng": -82.4578
+ },
+ {
+   "city": "Fuller Heights",
+   "lat": 27.9226,
+   "lng": -81.9978
+ },
+ {
+   "city": "North Bay Village",
+   "lat": 25.8487,
+   "lng": -80.1535
+ },
+ {
+   "city": "DeFuniak Springs",
+   "lat": 30.7122,
+   "lng": -86.1208
+ },
+ {
+   "city": "Greenbriar",
+   "lat": 28.0112,
+   "lng": -82.7523
+ },
+ {
+   "city": "Rockledge",
+   "lat": 28.3201,
+   "lng": -80.732
+ },
+ {
+   "city": "Key Biscayne",
+   "lat": 25.6908,
+   "lng": -80.1653
+ },
+ {
+   "city": "Homestead",
+   "lat": 25.4665,
+   "lng": -80.4472
+ },
+ {
+   "city": "Fountainebleau",
+   "lat": 25.7723,
+   "lng": -80.3458
+ },
+ {
+   "city": "Roosevelt Gardens",
+   "lat": 26.1407,
+   "lng": -80.1809
+ },
+ {
+   "city": "Dickerson City",
+   "lat": 30.4826,
+   "lng": -87.0651
+ },
+ {
+   "city": "Bithlo",
+   "lat": 28.5644,
+   "lng": -81.1074
+ },
+ {
+   "city": "Lake Belvedere Estates",
+   "lat": 26.6888,
+   "lng": -80.1371
+ },
+ {
+   "city": "Raiford",
+   "lat": 30.0638,
+   "lng": -82.239
+ },
+ {
+   "city": "Southeast Arcadia",
+   "lat": 27.1862,
+   "lng": -81.8521
+ },
+ {
+   "city": "Pretty Bayou",
+   "lat": 30.1976,
+   "lng": -85.6975
+ },
+ {
+   "city": "Juno Beach",
+   "lat": 26.8754,
+   "lng": -80.0589
+ },
+ {
+   "city": "Ocala",
+   "lat": 29.178,
+   "lng": -82.1511
+ },
+ {
+   "city": "North Port",
+   "lat": 27.0577,
+   "lng": -82.1975
+ },
+ {
+   "city": "Bay Lake",
+   "lat": 28.3869,
+   "lng": -81.5756
+ },
+ {
+   "city": "East Lake",
+   "lat": 28.1205,
+   "lng": -82.6868
+ },
+ {
+   "city": "Indian Shores",
+   "lat": 27.8536,
+   "lng": -82.8438
+ },
+ {
+   "city": "Stock Island",
+   "lat": 24.5658,
+   "lng": -81.7351
+ },
+ {
+   "city": "Hutchinson Island South",
+   "lat": 27.3243,
+   "lng": -80.2425
+ },
+ {
+   "city": "Cedar Grove",
+   "lat": 30.1812,
+   "lng": -85.6268
+ },
+ {
+   "city": "Miramar Beach",
+   "lat": 30.3854,
+   "lng": -86.3443
+ },
+ {
+   "city": "Nassau Village-Ratliff",
+   "lat": 30.5109,
+   "lng": -81.8088
+ },
+ {
+   "city": "East Bronson",
+   "lat": 29.4593,
+   "lng": -82.5905
+ },
+ {
+   "city": "Longboat Key",
+   "lat": 27.3926,
+   "lng": -82.6341
+ },
+ {
+   "city": "Sun City Center",
+   "lat": 27.7149,
+   "lng": -82.3569
+ },
+ {
+   "city": "Weeki Wachee Gardens",
+   "lat": 28.5375,
+   "lng": -82.6208
+ },
+ {
+   "city": "Golden Gate",
+   "lat": 26.1844,
+   "lng": -81.7031
+ },
+ {
+   "city": "San Carlos Park",
+   "lat": 26.4765,
+   "lng": -81.8193
+ },
+ {
+   "city": "Lake Mack-Forest Hills",
+   "lat": 29.0006,
+   "lng": -81.424
+ },
+ {
+   "city": "Riviera Beach",
+   "lat": 26.7812,
+   "lng": -80.0741
+ },
+ {
+   "city": "Odessa",
+   "lat": 28.182,
+   "lng": -82.553
+ },
+ {
+   "city": "Hillsboro Pines",
+   "lat": 26.3253,
+   "lng": -80.1947
+ },
+ {
+   "city": "West Park",
+   "lat": 25.984,
+   "lng": -80.1923
+ },
+ {
+   "city": "Avon Park",
+   "lat": 27.5908,
+   "lng": -81.5081
+ },
+ {
+   "city": "Zephyrhills West",
+   "lat": 28.2312,
+   "lng": -82.2052
+ },
+ {
+   "city": "Alva",
+   "lat": 26.7188,
+   "lng": -81.6269
+ },
+ {
+   "city": "Olga",
+   "lat": 26.7113,
+   "lng": -81.695
+ },
+ {
+   "city": "Keystone Heights",
+   "lat": 29.7812,
+   "lng": -82.034
+ },
+ {
+   "city": "South Bradenton",
+   "lat": 27.4612,
+   "lng": -82.5821
+ },
+ {
+   "city": "Sweetwater",
+   "lat": 25.7786,
+   "lng": -80.376
+ },
+ {
+   "city": "Destin",
+   "lat": 30.395,
+   "lng": -86.4701
+ },
+ {
+   "city": "Brownsdale",
+   "lat": 30.8859,
+   "lng": -87.2218
+ },
+ {
+   "city": "McGregor",
+   "lat": 26.5611,
+   "lng": -81.9134
+ },
+ {
+   "city": "Silver Springs Shores",
+   "lat": 29.1031,
+   "lng": -82.005
+ },
+ {
+   "city": "Lutz",
+   "lat": 28.1396,
+   "lng": -82.4467
+ },
+ {
+   "city": "Lake Magdalene",
+   "lat": 28.0875,
+   "lng": -82.4791
+ },
+ {
+   "city": "Alturas",
+   "lat": 27.8419,
+   "lng": -81.6952
+ },
+ {
+   "city": "Belleair",
+   "lat": 27.9365,
+   "lng": -82.8114
+ },
+ {
+   "city": "Bay Hill",
+   "lat": 28.4558,
+   "lng": -81.5122
+ },
+ {
+   "city": "Big Coppitt Key",
+   "lat": 24.5915,
+   "lng": -81.6574
+ },
+ {
+   "city": "Palm Bay",
+   "lat": 27.955,
+   "lng": -80.6628
+ },
+ {
+   "city": "Whitfield",
+   "lat": 27.4116,
+   "lng": -82.5659
+ },
+ {
+   "city": "Dover",
+   "lat": 27.9927,
+   "lng": -82.2198
+ },
+ {
+   "city": "Key Colony Beach",
+   "lat": 24.7233,
+   "lng": -81.0215
+ },
+ {
+   "city": "Horizon West",
+   "lat": 28.4417,
+   "lng": -81.6145
+ },
+ {
+   "city": "Hill 'n Dale",
+   "lat": 28.519,
+   "lng": -82.2918
+ },
+ {
+   "city": "Cottondale",
+   "lat": 30.7891,
+   "lng": -85.3643
+ },
+ {
+   "city": "Baldwin",
+   "lat": 30.3051,
+   "lng": -81.9744
+ },
+ {
+   "city": "Starke",
+   "lat": 29.9474,
+   "lng": -82.1129
+ },
+ {
+   "city": "Viera West",
+   "lat": 28.243,
+   "lng": -80.7368
+ },
+ {
+   "city": "Three Oaks",
+   "lat": 26.4738,
+   "lng": -81.796
+ },
+ {
+   "city": "Lemon Grove",
+   "lat": 27.5765,
+   "lng": -81.636
+ },
+ {
+   "city": "Apopka",
+   "lat": 28.7013,
+   "lng": -81.5303
+ },
+ {
+   "city": "Fleming Island",
+   "lat": 30.0988,
+   "lng": -81.7124
+ },
+ {
+   "city": "Ferndale",
+   "lat": 28.622,
+   "lng": -81.7014
+ },
+ {
+   "city": "Englewood",
+   "lat": 26.9603,
+   "lng": -82.3535
+ },
+ {
+   "city": "Grove City",
+   "lat": 26.9071,
+   "lng": -82.3258
+ },
+ {
+   "city": "Boulevard Gardens",
+   "lat": 26.1252,
+   "lng": -80.1822
+ },
+ {
+   "city": "Moore Haven",
+   "lat": 26.8338,
+   "lng": -81.0985
+ },
+ {
+   "city": "West Lealman",
+   "lat": 27.8191,
+   "lng": -82.7385
+ },
+ {
+   "city": "South Pasadena",
+   "lat": 27.7526,
+   "lng": -82.7394
+ },
+ {
+   "city": "Fort Green Springs",
+   "lat": 27.5876,
+   "lng": -81.9402
+ },
+ {
+   "city": "Pioneer",
+   "lat": 26.7258,
+   "lng": -81.219
+ },
+ {
+   "city": "Miami Lakes",
+   "lat": 25.9125,
+   "lng": -80.3214
+ },
+ {
+   "city": "North Miami",
+   "lat": 25.9007,
+   "lng": -80.1686
+ },
+ {
+   "city": "Cutler Bay",
+   "lat": 25.5765,
+   "lng": -80.3356
+ },
+ {
+   "city": "Jennings",
+   "lat": 30.5968,
+   "lng": -83.107
+ },
+ {
+   "city": "Lake Buena Vista",
+   "lat": 28.379,
+   "lng": -81.5262
+ },
+ {
+   "city": "Winter Haven",
+   "lat": 28.0118,
+   "lng": -81.7017
+ },
+ {
+   "city": "Vero Beach",
+   "lat": 27.6463,
+   "lng": -80.393
+ },
+ {
+   "city": "Haines City",
+   "lat": 28.11,
+   "lng": -81.6157
+ },
+ {
+   "city": "Punta Rassa",
+   "lat": 26.5036,
+   "lng": -81.9998
+ },
+ {
+   "city": "Jasper",
+   "lat": 30.5064,
+   "lng": -82.9541
+ },
+ {
+   "city": "Ormond-by-the-Sea",
+   "lat": 29.3437,
+   "lng": -81.0677
+ },
+ {
+   "city": "Southwest Ranches",
+   "lat": 26.0477,
+   "lng": -80.3752
+ },
+ {
+   "city": "Glen Ridge",
+   "lat": 26.6715,
+   "lng": -80.0753
+ },
+ {
+   "city": "Otter Creek",
+   "lat": 29.3238,
+   "lng": -82.7734
+ },
+ {
+   "city": "Eglin AFB",
+   "lat": 30.4592,
+   "lng": -86.5499
+ },
+ {
+   "city": "Warrington",
+   "lat": 30.3821,
+   "lng": -87.2944
+ },
+ {
+   "city": "Golden Beach",
+   "lat": 25.966,
+   "lng": -80.121
+ },
+ {
+   "city": "Willow Oak",
+   "lat": 27.9216,
+   "lng": -82.0244
+ },
+ {
+   "city": "Buckhead Ridge",
+   "lat": 27.133,
+   "lng": -80.8868
+ },
+ {
+   "city": "Beverly Hills",
+   "lat": 28.9175,
+   "lng": -82.4541
+ },
+ {
+   "city": "Pine Ridge",
+   "lat": 28.933,
+   "lng": -82.4761
+ },
+ {
+   "city": "Lake Mary",
+   "lat": 28.7592,
+   "lng": -81.336
+ },
+ {
+   "city": "Watertown",
+   "lat": 30.1855,
+   "lng": -82.6026
+ },
+ {
+   "city": "Allentown",
+   "lat": 30.7736,
+   "lng": -87.0808
+ },
+ {
+   "city": "South Brooksville",
+   "lat": 28.5243,
+   "lng": -82.4158
+ },
+ {
+   "city": "Middleburg",
+   "lat": 30.0502,
+   "lng": -81.9011
+ },
+ {
+   "city": "St. Augustine",
+   "lat": 29.8977,
+   "lng": -81.31
+ },
+ {
+   "city": "Hawthorne",
+   "lat": 29.5922,
+   "lng": -82.0916
+ },
+ {
+   "city": "Havana",
+   "lat": 30.6298,
+   "lng": -84.4133
+ },
+ {
+   "city": "Maitland",
+   "lat": 28.6295,
+   "lng": -81.3718
+ },
+ {
+   "city": "Marco Island",
+   "lat": 25.933,
+   "lng": -81.6993
+ },
+ {
+   "city": "Key West",
+   "lat": 24.5637,
+   "lng": -81.7768
+ },
+ {
+   "city": "Biscayne Park",
+   "lat": 25.8817,
+   "lng": -80.1813
+ },
+ {
+   "city": "Waverly",
+   "lat": 27.9841,
+   "lng": -81.6197
+ },
+ {
+   "city": "Penney Farms",
+   "lat": 29.9807,
+   "lng": -81.8108
+ },
+ {
+   "city": "Chattahoochee",
+   "lat": 30.6977,
+   "lng": -84.8341
+ },
+ {
+   "city": "Indian Harbour Beach",
+   "lat": 28.1529,
+   "lng": -80.5976
+ },
+ {
+   "city": "Atlantic Beach",
+   "lat": 30.3372,
+   "lng": -81.4128
+ },
+ {
+   "city": "Inwood",
+   "lat": 28.0391,
+   "lng": -81.7677
+ },
+ {
+   "city": "Rio Pinar",
+   "lat": 28.5271,
+   "lng": -81.2628
+ },
+ {
+   "city": "Holden Heights",
+   "lat": 28.5013,
+   "lng": -81.3877
+ },
+ {
+   "city": "Freeport",
+   "lat": 30.504,
+   "lng": -86.139
+ },
+ {
+   "city": "Hialeah",
+   "lat": 25.8696,
+   "lng": -80.3046
+ },
+ {
+   "city": "Zellwood",
+   "lat": 28.7301,
+   "lng": -81.5915
+ },
+ {
+   "city": "Northdale",
+   "lat": 28.1058,
+   "lng": -82.5263
+ },
+ {
+   "city": "Greenville",
+   "lat": 30.4667,
+   "lng": -83.6352
+ },
+ {
+   "city": "Sarasota",
+   "lat": 27.3386,
+   "lng": -82.543
+ },
+ {
+   "city": "Andrews",
+   "lat": 29.5482,
+   "lng": -82.888
+ },
+ {
+   "city": "Gibsonton",
+   "lat": 27.826,
+   "lng": -82.3761
+ },
+ {
+   "city": "Miami Beach",
+   "lat": 25.8171,
+   "lng": -80.1396
+ },
+ {
+   "city": "Bellair-Meadowbrook Terrace",
+   "lat": 30.1796,
+   "lng": -81.7375
+ },
+ {
+   "city": "Westgate",
+   "lat": 26.6994,
+   "lng": -80.0989
+ },
+ {
+   "city": "Land O' Lakes",
+   "lat": 28.2075,
+   "lng": -82.4476
+ },
+ {
+   "city": "Bellview",
+   "lat": 30.462,
+   "lng": -87.312
+ },
+ {
+   "city": "Seminole",
+   "lat": 27.8434,
+   "lng": -82.7839
+ },
+ {
+   "city": "Zephyrhills North",
+   "lat": 28.2519,
+   "lng": -82.1653
+ },
+ {
+   "city": "Inverness",
+   "lat": 28.8397,
+   "lng": -82.3437
+ },
+ {
+   "city": "Nobleton",
+   "lat": 28.6451,
+   "lng": -82.262
+ },
+ {
+   "city": "Melbourne Village",
+   "lat": 28.088,
+   "lng": -80.6652
+ },
+ {
+   "city": "Bardmoor",
+   "lat": 27.8575,
+   "lng": -82.7534
+ },
+ {
+   "city": "Navarre Beach",
+   "lat": 30.383,
+   "lng": -86.8879
+ },
+ {
+   "city": "Tangelo Park",
+   "lat": 28.456,
+   "lng": -81.4465
+ },
+ {
+   "city": "Charleston Park",
+   "lat": 26.7057,
+   "lng": -81.5806
+ },
+ {
+   "city": "Coral Terrace",
+   "lat": 25.7464,
+   "lng": -80.3049
+ },
+ {
+   "city": "Valparaiso",
+   "lat": 30.4926,
+   "lng": -86.5079
+ },
+ {
+   "city": "Kenwood Estates",
+   "lat": 26.6276,
+   "lng": -80.1151
+ },
+ {
+   "city": "Key Largo",
+   "lat": 25.1224,
+   "lng": -80.412
+ },
+ {
+   "city": "Pahokee",
+   "lat": 26.8202,
+   "lng": -80.6622
+ },
+ {
+   "city": "Jensen Beach",
+   "lat": 27.2438,
+   "lng": -80.2423
+ },
+ {
+   "city": "Aripeka",
+   "lat": 28.4308,
+   "lng": -82.6669
+ },
+ {
+   "city": "Eagle Lake",
+   "lat": 27.976,
+   "lng": -81.7573
+ },
+ {
+   "city": "Florida City",
+   "lat": 25.4418,
+   "lng": -80.4685
+ },
+ {
+   "city": "Garcon Point",
+   "lat": 30.4759,
+   "lng": -87.0899
+ },
+ {
+   "city": "Cape Coral",
+   "lat": 26.6445,
+   "lng": -81.9955
+ },
+ {
+   "city": "Pinewood",
+   "lat": 25.8697,
+   "lng": -80.2174
+ },
+ {
+   "city": "Citrus Springs",
+   "lat": 28.9931,
+   "lng": -82.4595
+ },
+ {
+   "city": "Pinecrest",
+   "lat": 25.665,
+   "lng": -80.3042
+ },
+ {
+   "city": "Wildwood",
+   "lat": 28.8014,
+   "lng": -82.0058
+ },
+ {
+   "city": "Tallahassee",
+   "lat": 30.4551,
+   "lng": -84.2527
+ },
+ {
+   "city": "St. Augustine Shores",
+   "lat": 29.8039,
+   "lng": -81.3086
+ },
+ {
+   "city": "Chipley",
+   "lat": 30.7752,
+   "lng": -85.5406
+ },
+ {
+   "city": "St. Leo",
+   "lat": 28.3361,
+   "lng": -82.259
+ },
+ {
+   "city": "Alachua",
+   "lat": 29.7781,
+   "lng": -82.4828
+ },
+ {
+   "city": "Ocean City",
+   "lat": 30.4398,
+   "lng": -86.6071
+ },
+ {
+   "city": "Fern Park",
+   "lat": 28.6484,
+   "lng": -81.3457
+ },
+ {
+   "city": "Seffner",
+   "lat": 27.9981,
+   "lng": -82.2735
+ },
+ {
+   "city": "Citrus Hills",
+   "lat": 28.887,
+   "lng": -82.4311
+ },
+ {
+   "city": "Jupiter Inlet Colony",
+   "lat": 26.948,
+   "lng": -80.0755
+ },
+ {
+   "city": "South Beach",
+   "lat": 27.5883,
+   "lng": -80.3435
+ },
+ {
+   "city": "Yulee",
+   "lat": 30.635,
+   "lng": -81.5678
+ },
+ {
+   "city": "Pittman",
+   "lat": 28.9967,
+   "lng": -81.6462
+ },
+ {
+   "city": "University Park",
+   "lat": 25.7469,
+   "lng": -80.3684
+ },
+ {
+   "city": "Alford",
+   "lat": 30.6967,
+   "lng": -85.3952
+ },
+ {
+   "city": "Sarasota Springs",
+   "lat": 27.3092,
+   "lng": -82.4788
+ },
+ {
+   "city": "Malone",
+   "lat": 30.9589,
+   "lng": -85.1622
+ },
+ {
+   "city": "White City",
+   "lat": 27.3722,
+   "lng": -80.3403
+ },
+ {
+   "city": "West Samoset",
+   "lat": 27.4703,
+   "lng": -82.5552
+ },
+ {
+   "city": "Taft",
+   "lat": 28.4283,
+   "lng": -81.3677
+ },
+ {
+   "city": "Deltona",
+   "lat": 28.905,
+   "lng": -81.2136
+ },
+ {
+   "city": "Gifford",
+   "lat": 27.6747,
+   "lng": -80.4102
+ },
+ {
+   "city": "Bee Ridge",
+   "lat": 27.2855,
+   "lng": -82.4731
+ },
+ {
+   "city": "Perry",
+   "lat": 30.109,
+   "lng": -83.5821
+ },
+ {
+   "city": "Quincy",
+   "lat": 30.5659,
+   "lng": -84.5857
+ },
+ {
+   "city": "Casselberry",
+   "lat": 28.6625,
+   "lng": -81.3218
+ },
+ {
+   "city": "Homosassa Springs",
+   "lat": 28.8118,
+   "lng": -82.5392
+ },
+ {
+   "city": "Cocoa West",
+   "lat": 28.3595,
+   "lng": -80.7712
+ },
+ {
+   "city": "Beverly Beach",
+   "lat": 29.5165,
+   "lng": -81.1475
+ },
+ {
+   "city": "Weeki Wachee",
+   "lat": 28.517,
+   "lng": -82.5774
+ },
+ {
+   "city": "Thonotosassa",
+   "lat": 28.0464,
+   "lng": -82.291
+ },
+ {
+   "city": "Flagler Estates",
+   "lat": 29.6442,
+   "lng": -81.457
+ },
+ {
+   "city": "Delray Beach",
+   "lat": 26.455,
+   "lng": -80.0905
+ },
+ {
+   "city": "Limestone",
+   "lat": 27.3672,
+   "lng": -81.9048
+ },
+ {
+   "city": "Palm Shores",
+   "lat": 28.1918,
+   "lng": -80.6593
+ },
+ {
+   "city": "Noma",
+   "lat": 30.9802,
+   "lng": -85.6223
+ },
+ {
+   "city": "Samoset",
+   "lat": 27.4752,
+   "lng": -82.543
+ },
+ {
+   "city": "Schall Circle",
+   "lat": 26.7152,
+   "lng": -80.1143
+ },
+ {
+   "city": "Mexico Beach",
+   "lat": 29.948,
+   "lng": -85.4157
+ },
+ {
+   "city": "Everglades",
+   "lat": 25.8579,
+   "lng": -81.3862
+ },
+ {
+   "city": "Sebastian",
+   "lat": 27.7883,
+   "lng": -80.4815
+ },
+ {
+   "city": "Whiskey Creek",
+   "lat": 26.5733,
+   "lng": -81.8903
+ },
+ {
+   "city": "Wellington",
+   "lat": 26.6464,
+   "lng": -80.2706
+ },
+ {
+   "city": "Lauderhill",
+   "lat": 26.1605,
+   "lng": -80.2242
+ },
+ {
+   "city": "Jupiter Island",
+   "lat": 27.0451,
+   "lng": -80.1101
+ },
+ {
+   "city": "Tamiami",
+   "lat": 25.7556,
+   "lng": -80.4016
+ },
+ {
+   "city": "Roseland",
+   "lat": 27.8361,
+   "lng": -80.4884
+ },
+ {
+   "city": "Winter Garden",
+   "lat": 28.5421,
+   "lng": -81.5966
+ },
+ {
+   "city": "Loughman",
+   "lat": 28.238,
+   "lng": -81.5682
+ },
+ {
+   "city": "Woodlawn Beach",
+   "lat": 30.3861,
+   "lng": -86.9931
+ },
+ {
+   "city": "North Sarasota",
+   "lat": 27.3711,
+   "lng": -82.5177
+ },
+ {
+   "city": "Grenelefe",
+   "lat": 28.0579,
+   "lng": -81.5538
+ },
+ {
+   "city": "Bayshore Gardens",
+   "lat": 27.4345,
+   "lng": -82.5794
+ },
+ {
+   "city": "North River Shores",
+   "lat": 27.2223,
+   "lng": -80.2738
+ },
+ {
+   "city": "Lakeland Highlands",
+   "lat": 27.9572,
+   "lng": -81.9496
+ },
+ {
+   "city": "Golf",
+   "lat": 26.5043,
+   "lng": -80.109
+ },
+ {
+   "city": "Hunters Creek",
+   "lat": 28.3611,
+   "lng": -81.4357
+ },
+ {
+   "city": "Lacoochee",
+   "lat": 28.4655,
+   "lng": -82.1698
+ },
+ {
+   "city": "Fussels Corner",
+   "lat": 28.0574,
+   "lng": -81.861
+ },
+ {
+   "city": "Lake Park",
+   "lat": 26.7998,
+   "lng": -80.0685
+ },
+ {
+   "city": "Washington Park",
+   "lat": 26.1304,
+   "lng": -80.1801
+ },
+ {
+   "city": "Cypress Gardens",
+   "lat": 28.0036,
+   "lng": -81.6858
+ },
+ {
+   "city": "Lake Clarke Shores",
+   "lat": 26.646,
+   "lng": -80.0752
+ },
+ {
+   "city": "Key Vista",
+   "lat": 28.1946,
+   "lng": -82.7703
+ },
+ {
+   "city": "Dade City",
+   "lat": 28.3568,
+   "lng": -82.1941
+ },
+ {
+   "city": "DeLand Southwest",
+   "lat": 29.0076,
+   "lng": -81.3113
+ },
+ {
+   "city": "Micco",
+   "lat": 27.8683,
+   "lng": -80.51
+ },
+ {
+   "city": "Howey-in-the-Hills",
+   "lat": 28.7098,
+   "lng": -81.7798
+ },
+ {
+   "city": "Brooker",
+   "lat": 29.8877,
+   "lng": -82.3327
+ },
+ {
+   "city": "Umatilla",
+   "lat": 28.9274,
+   "lng": -81.6651
+ },
+ {
+   "city": "Wabasso Beach",
+   "lat": 27.7569,
+   "lng": -80.3992
+ },
+ {
+   "city": "Windermere",
+   "lat": 28.5035,
+   "lng": -81.541
+ },
+ {
+   "city": "Westville",
+   "lat": 30.7697,
+   "lng": -85.8465
+ },
+ {
+   "city": "Callahan",
+   "lat": 30.5619,
+   "lng": -81.832
+ },
+ {
+   "city": "Laurel",
+   "lat": 27.1446,
+   "lng": -82.4618
+ },
+ {
+   "city": "Paisley",
+   "lat": 28.985,
+   "lng": -81.5404
+ },
+ {
+   "city": "Leisure City",
+   "lat": 25.4937,
+   "lng": -80.4369
+ },
+ {
+   "city": "LaBelle",
+   "lat": 26.7219,
+   "lng": -81.4506
+ },
+ {
+   "city": "Pembroke Pines",
+   "lat": 26.0128,
+   "lng": -80.3382
+ },
+ {
+   "city": "North Palm Beach",
+   "lat": 26.8217,
+   "lng": -80.0577
+ },
+ {
+   "city": "Bell",
+   "lat": 29.7569,
+   "lng": -82.862
+ },
+ {
+   "city": "Sorrento",
+   "lat": 28.8087,
+   "lng": -81.5631
+ },
+ {
+   "city": "Pasadena Hills",
+   "lat": 28.288,
+   "lng": -82.2379
+ },
+ {
+   "city": "Punta Gorda",
+   "lat": 26.8934,
+   "lng": -82.0516
+ },
+ {
+   "city": "North Fort Myers",
+   "lat": 26.7243,
+   "lng": -81.8491
+ },
+ {
+   "city": "West Melbourne",
+   "lat": 28.0693,
+   "lng": -80.6734
+ },
+ {
+   "city": "Sneads",
+   "lat": 30.7085,
+   "lng": -84.9249
+ },
+ {
+   "city": "Springhill",
+   "lat": 30.7566,
+   "lng": -86.9329
+ },
+ {
+   "city": "Pace",
+   "lat": 30.6187,
+   "lng": -87.1667
+ },
+ {
+   "city": "Temple Terrace",
+   "lat": 28.0437,
+   "lng": -82.3774
+ },
+ {
+   "city": "Century",
+   "lat": 30.9766,
+   "lng": -87.2629
+ },
+ {
+   "city": "Lawtey",
+   "lat": 30.0484,
+   "lng": -82.0724
+ },
+ {
+   "city": "Fellsmere",
+   "lat": 27.7241,
+   "lng": -80.5974
+ },
+ {
+   "city": "Minneola",
+   "lat": 28.6067,
+   "lng": -81.7321
+ },
+ {
+   "city": "Masaryktown",
+   "lat": 28.4417,
+   "lng": -82.461
+ },
+ {
+   "city": "Orangetree",
+   "lat": 26.293,
+   "lng": -81.5786
+ },
+ {
+   "city": "North Brooksville",
+   "lat": 28.5731,
+   "lng": -82.3745
+ },
+ {
+   "city": "Hillcrest Heights",
+   "lat": 27.8083,
+   "lng": -81.5695
+ },
+ {
+   "city": "Combee Settlement",
+   "lat": 28.0596,
+   "lng": -81.9053
+ },
+ {
+   "city": "Juno Ridge",
+   "lat": 26.8491,
+   "lng": -80.062
+ },
+ {
+   "city": "Satellite Beach",
+   "lat": 28.1782,
+   "lng": -80.6019
+ },
+ {
+   "city": "Okeechobee",
+   "lat": 27.2414,
+   "lng": -80.8298
+ },
+ {
+   "city": "Monticello",
+   "lat": 30.5422,
+   "lng": -83.8722
+ },
+ {
+   "city": "North Lauderdale",
+   "lat": 26.2113,
+   "lng": -80.2209
+ },
+ {
+   "city": "Yalaha",
+   "lat": 28.7509,
+   "lng": -81.8194
+ },
+ {
+   "city": "Clermont",
+   "lat": 28.5403,
+   "lng": -81.7296
+ },
+ {
+   "city": "Floral City",
+   "lat": 28.7065,
+   "lng": -82.309
+ },
+ {
+   "city": "Hastings",
+   "lat": 29.7104,
+   "lng": -81.5102
+ },
+ {
+   "city": "Sugarmill Woods",
+   "lat": 28.7321,
+   "lng": -82.4986
+ },
+ {
+   "city": "Connerton",
+   "lat": 28.3022,
+   "lng": -82.4624
+ },
+ {
+   "city": "Winter Springs",
+   "lat": 28.6889,
+   "lng": -81.2704
+ },
+ {
+   "city": "St. Lucie Village",
+   "lat": 27.4966,
+   "lng": -80.3416
+ },
+ {
+   "city": "Doral",
+   "lat": 25.8151,
+   "lng": -80.3565
+ },
+ {
+   "city": "El Portal",
+   "lat": 25.8556,
+   "lng": -80.1954
+ },
+ {
+   "city": "Fort Denaud",
+   "lat": 26.7404,
+   "lng": -81.5241
+ },
+ {
+   "city": "Canal Point",
+   "lat": 26.8626,
+   "lng": -80.6222
+ },
+ {
+   "city": "Carrabelle",
+   "lat": 29.8555,
+   "lng": -84.6685
+ },
+ {
+   "city": "Palmona Park",
+   "lat": 26.6892,
+   "lng": -81.8946
+ },
+ {
+   "city": "Garden Grove",
+   "lat": 28.4716,
+   "lng": -82.4348
+ },
+ {
+   "city": "Astatula",
+   "lat": 28.7065,
+   "lng": -81.7346
+ },
+ {
+   "city": "Wesley Chapel",
+   "lat": 28.2106,
+   "lng": -82.3238
+ },
+ {
+   "city": "Golden Glades",
+   "lat": 25.9129,
+   "lng": -80.2013
+ },
+ {
+   "city": "Jacksonville",
+   "lat": 30.3322,
+   "lng": -81.6749
+ },
+ {
+   "city": "Morriston",
+   "lat": 29.2811,
+   "lng": -82.44
+ },
+ {
+   "city": "West Perrine",
+   "lat": 25.6061,
+   "lng": -80.3639
+ },
+ {
+   "city": "Sebring",
+   "lat": 27.477,
+   "lng": -81.453
+ },
+ {
+   "city": "La Crosse",
+   "lat": 29.8395,
+   "lng": -82.3783
+ },
+ {
+   "city": "Port Richey",
+   "lat": 28.2758,
+   "lng": -82.725
+ },
+ {
+   "city": "Pine Island",
+   "lat": 28.5727,
+   "lng": -82.6545
+ },
+ {
+   "city": "Molino",
+   "lat": 30.7123,
+   "lng": -87.324
+ },
+ {
+   "city": "Brent",
+   "lat": 30.4729,
+   "lng": -87.2496
+ },
+ {
+   "city": "Inglis",
+   "lat": 29.0321,
+   "lng": -82.6602
+ },
+ {
+   "city": "Indiantown",
+   "lat": 27.0375,
+   "lng": -80.4913
+ },
+ {
+   "city": "Mount Carmel",
+   "lat": 30.9868,
+   "lng": -87.121
+ },
+ {
+   "city": "Broadview Park",
+   "lat": 26.0979,
+   "lng": -80.2088
+ },
+ {
+   "city": "St. Marks",
+   "lat": 30.1656,
+   "lng": -84.2078
+ },
+ {
+   "city": "Melbourne",
+   "lat": 28.1085,
+   "lng": -80.6627
+ },
+ {
+   "city": "Stuart",
+   "lat": 27.1958,
+   "lng": -80.2438
+ },
+ {
+   "city": "Crescent City",
+   "lat": 29.4375,
+   "lng": -81.5173
+ },
+ {
+   "city": "Sopchoppy",
+   "lat": 30.0598,
+   "lng": -84.4854
+ },
+ {
+   "city": "Dunnellon",
+   "lat": 29.0529,
+   "lng": -82.441
+ },
+ {
+   "city": "Lake City",
+   "lat": 30.1901,
+   "lng": -82.6471
+ },
+ {
+   "city": "Port Charlotte",
+   "lat": 26.9918,
+   "lng": -82.114
+ },
+ {
+   "city": "Kathleen",
+   "lat": 28.1224,
+   "lng": -82.0387
+ },
+ {
+   "city": "Spring Lake",
+   "lat": 28.4952,
+   "lng": -82.3017
+ },
+ {
+   "city": "Wimauma",
+   "lat": 27.6964,
+   "lng": -82.3034
+ },
+ {
+   "city": "Atlantis",
+   "lat": 26.5962,
+   "lng": -80.103
+ },
+ {
+   "city": "Mulberry",
+   "lat": 27.9058,
+   "lng": -81.9873
+ },
+ {
+   "city": "High Springs",
+   "lat": 29.808,
+   "lng": -82.5949
+ },
+ {
+   "city": "Spring Ridge",
+   "lat": 29.8218,
+   "lng": -82.7245
+ },
+ {
+   "city": "Seminole Manor",
+   "lat": 26.584,
+   "lng": -80.1001
+ },
+ {
+   "city": "Quail Ridge",
+   "lat": 28.3451,
+   "lng": -82.5535
+ },
+ {
+   "city": "Longwood",
+   "lat": 28.7014,
+   "lng": -81.3487
+ },
+ {
+   "city": "Southchase",
+   "lat": 28.3793,
+   "lng": -81.3903
+ },
+ {
+   "city": "Pembroke Park",
+   "lat": 25.9852,
+   "lng": -80.1777
+ },
+ {
+   "city": "Montura",
+   "lat": 26.6429,
+   "lng": -81.0938
+ },
+ {
+   "city": "Graceville",
+   "lat": 30.9609,
+   "lng": -85.5123
+ },
+ {
+   "city": "Patrick AFB",
+   "lat": 28.2346,
+   "lng": -80.6079
+ },
+ {
+   "city": "Panama City",
+   "lat": 30.1995,
+   "lng": -85.6003
+ },
+ {
+   "city": "Lauderdale Lakes",
+   "lat": 26.1682,
+   "lng": -80.2017
+ },
+ {
+   "city": "Coral Springs",
+   "lat": 26.2702,
+   "lng": -80.2591
+ },
+ {
+   "city": "Clarcona",
+   "lat": 28.6201,
+   "lng": -81.5002
+ },
+ {
+   "city": "Gainesville",
+   "lat": 29.6804,
+   "lng": -82.3458
+ },
+ {
+   "city": "Hosford",
+   "lat": 30.3944,
+   "lng": -84.8034
+ },
+ {
+   "city": "The Acreage",
+   "lat": 26.7741,
+   "lng": -80.2779
+ },
+ {
+   "city": "South Gate Ridge",
+   "lat": 27.2856,
+   "lng": -82.497
+ },
+ {
+   "city": "Interlachen",
+   "lat": 29.6203,
+   "lng": -81.8965
+ },
+ {
+   "city": "Apalachicola",
+   "lat": 29.7282,
+   "lng": -84.994
+ },
+ {
+   "city": "Watergate",
+   "lat": 26.3359,
+   "lng": -80.2126
+ },
+ {
+   "city": "Hampton",
+   "lat": 29.8643,
+   "lng": -82.138
+ },
+ {
+   "city": "Green Cove Springs",
+   "lat": 29.9904,
+   "lng": -81.6807
+ },
+ {
+   "city": "Groveland",
+   "lat": 28.6021,
+   "lng": -81.8205
+ },
+ {
+   "city": "Lake Butler",
+   "lat": 30.018,
+   "lng": -82.3424
+ },
+ {
+   "city": "Kendall West",
+   "lat": 25.7065,
+   "lng": -80.4388
+ },
+ {
+   "city": "North DeLand",
+   "lat": 29.0484,
+   "lng": -81.2966
+ },
+ {
+   "city": "Samsula-Spruce Creek",
+   "lat": 29.0484,
+   "lng": -81.0628
+ },
+ {
+   "city": "Cinco Bayou",
+   "lat": 30.4223,
+   "lng": -86.6095
+ },
+ {
+   "city": "North Weeki Wachee",
+   "lat": 28.5591,
+   "lng": -82.5537
+ },
+ {
+   "city": "Avalon",
+   "lat": 30.5365,
+   "lng": -87.1009
+ },
+ {
+   "city": "Glen St. Mary",
+   "lat": 30.2752,
+   "lng": -82.1603
+ },
+ {
+   "city": "Chiefland",
+   "lat": 29.4892,
+   "lng": -82.8663
+ },
+ {
+   "city": "Inverness Highlands North",
+   "lat": 28.8642,
+   "lng": -82.3768
+ },
+ {
+   "city": "West Bradenton",
+   "lat": 27.5016,
+   "lng": -82.6146
+ },
+ {
+   "city": "Bloomingdale",
+   "lat": 27.8784,
+   "lng": -82.2624
+ },
+ {
+   "city": "Moon Lake",
+   "lat": 28.2993,
+   "lng": -82.6049
+ },
+ {
+   "city": "Indian River Estates",
+   "lat": 27.3564,
+   "lng": -80.2984
+ },
+ {
+   "city": "Black Diamond",
+   "lat": 28.9066,
+   "lng": -82.4947
+ },
+ {
+   "city": "Cloud Lake",
+   "lat": 26.6743,
+   "lng": -80.0731
+ },
+ {
+   "city": "Ormond Beach",
+   "lat": 29.296,
+   "lng": -81.1003
+ },
+ {
+   "city": "Redington Beach",
+   "lat": 27.8128,
+   "lng": -82.8096
+ },
+ {
+   "city": "Palm Coast",
+   "lat": 29.5392,
+   "lng": -81.246
+ },
+ {
+   "city": "Duck Key",
+   "lat": 24.771,
+   "lng": -80.9132
+ },
+ {
+   "city": "Homosassa",
+   "lat": 28.7849,
+   "lng": -82.6079
+ },
+ {
+   "city": "Lee",
+   "lat": 30.4115,
+   "lng": -83.3003
+ },
+ {
+   "city": "Iona",
+   "lat": 26.516,
+   "lng": -81.9601
+ },
+ {
+   "city": "Fairview Shores",
+   "lat": 28.6021,
+   "lng": -81.3946
+ },
+ {
+   "city": "Fort Pierce North",
+   "lat": 27.4736,
+   "lng": -80.3594
+ },
+ {
+   "city": "Sanibel",
+   "lat": 26.4534,
+   "lng": -82.1023
+ },
+ {
+   "city": "DeLand",
+   "lat": 29.0224,
+   "lng": -81.2873
+ },
+ {
+   "city": "Altha",
+   "lat": 30.5722,
+   "lng": -85.1264
+ },
+ {
+   "city": "Pineland",
+   "lat": 26.6643,
+   "lng": -82.1477
+ },
+ {
+   "city": "The Meadows",
+   "lat": 27.3653,
+   "lng": -82.4725
+ },
+ {
+   "city": "Gateway",
+   "lat": 26.5804,
+   "lng": -81.7453
+ },
+ {
+   "city": "Meadow Oaks",
+   "lat": 28.3465,
+   "lng": -82.6025
+ },
+ {
+   "city": "Winter Beach",
+   "lat": 27.712,
+   "lng": -80.4254
+ },
+ {
+   "city": "Worthington Springs",
+   "lat": 29.933,
+   "lng": -82.4148
+ },
+ {
+   "city": "Hudson",
+   "lat": 28.3594,
+   "lng": -82.6888
+ },
+ {
+   "city": "Fruit Cove",
+   "lat": 30.0972,
+   "lng": -81.6176
+ },
+ {
+   "city": "Ocean Breeze Park",
+   "lat": 27.2359,
+   "lng": -80.2206
+ },
+ {
+   "city": "Jacob City",
+   "lat": 30.8925,
+   "lng": -85.4108
+ },
+ {
+   "city": "Lower Grand Lagoon",
+   "lat": 30.1444,
+   "lng": -85.7525
+ },
+ {
+   "city": "Edgewood",
+   "lat": 28.4878,
+   "lng": -81.3772
+ },
+ {
+   "city": "Bay Pines",
+   "lat": 27.8139,
+   "lng": -82.7747
+ },
+ {
+   "city": "Tangerine",
+   "lat": 28.7589,
+   "lng": -81.6341
+ },
+ {
+   "city": "Wekiwa Springs",
+   "lat": 28.6984,
+   "lng": -81.4251
+ },
+ {
+   "city": "Ridge Manor",
+   "lat": 28.4988,
+   "lng": -82.1832
+ },
+ {
+   "city": "Goulds",
+   "lat": 25.5614,
+   "lng": -80.388
+ },
+ {
+   "city": "Archer",
+   "lat": 29.54,
+   "lng": -82.5186
+ },
+ {
+   "city": "Jan Phyl Village",
+   "lat": 28.0201,
+   "lng": -81.7933
+ },
+ {
+   "city": "Dixonville",
+   "lat": 30.9865,
+   "lng": -87.0416
+ },
+ {
+   "city": "Alafaya",
+   "lat": 28.5278,
+   "lng": -81.1865
+ },
+ {
+   "city": "Gulf Stream",
+   "lat": 26.489,
+   "lng": -80.0575
+ },
+ {
+   "city": "Lauderdale-by-the-Sea",
+   "lat": 26.199,
+   "lng": -80.0972
+ },
+ {
+   "city": "Lake Placid",
+   "lat": 27.2977,
+   "lng": -81.3715
+ },
+ {
+   "city": "Oak Hill",
+   "lat": 28.8784,
+   "lng": -80.8351
+ },
+ {
+   "city": "Coral Gables",
+   "lat": 25.7037,
+   "lng": -80.2715
+ },
+ {
+   "city": "Bushnell",
+   "lat": 28.6856,
+   "lng": -82.1159
+ },
+ {
+   "city": "Williamsburg",
+   "lat": 28.4015,
+   "lng": -81.4461
+ },
+ {
+   "city": "Palm River-Clair Mel",
+   "lat": 27.9239,
+   "lng": -82.3791
+ },
+ {
+   "city": "Boynton Beach",
+   "lat": 26.5281,
+   "lng": -80.0811
+ },
+ {
+   "city": "Bagdad",
+   "lat": 30.5824,
+   "lng": -87.0447
+ },
+ {
+   "city": "Gardner",
+   "lat": 27.3537,
+   "lng": -81.7895
+ },
+ {
+   "city": "Town 'n' Country",
+   "lat": 28.0108,
+   "lng": -82.576
+ },
+ {
+   "city": "Vineyards",
+   "lat": 26.2279,
+   "lng": -81.728
+ },
+ {
+   "city": "Floridatown",
+   "lat": 30.5828,
+   "lng": -87.1615
+ },
+ {
+   "city": "Greensboro",
+   "lat": 30.5705,
+   "lng": -84.7324
+ },
+ {
+   "city": "Brookridge",
+   "lat": 28.5483,
+   "lng": -82.4897
+ },
+ {
+   "city": "Mangonia Park",
+   "lat": 26.7586,
+   "lng": -80.0761
+ },
+ {
+   "city": "Mascotte",
+   "lat": 28.611,
+   "lng": -81.9106
+ },
+ {
+   "city": "Lake Alfred",
+   "lat": 28.1041,
+   "lng": -81.7264
+ },
+ {
+   "city": "Zephyrhills South",
+   "lat": 28.2153,
+   "lng": -82.1886
+ },
+ {
+   "city": "Conway",
+   "lat": 28.4968,
+   "lng": -81.3316
+ },
+ {
+   "city": "Lake Mary Jane",
+   "lat": 28.3853,
+   "lng": -81.1709
+ },
+ {
+   "city": "Westchase",
+   "lat": 28.0597,
+   "lng": -82.611
+ },
+ {
+   "city": "Holiday",
+   "lat": 28.1864,
+   "lng": -82.7429
+ },
+ {
+   "city": "University",
+   "lat": 28.0771,
+   "lng": -82.4335
+ },
+ {
+   "city": "Sky Lake",
+   "lat": 28.4611,
+   "lng": -81.3912
+ },
+ {
+   "city": "Day",
+   "lat": 30.195,
+   "lng": -83.2909
+ },
+ {
+   "city": "Cocoa",
+   "lat": 28.382,
+   "lng": -80.7674
+ },
+ {
+   "city": "Goldenrod",
+   "lat": 28.6114,
+   "lng": -81.2916
+ },
+ {
+   "city": "Burnt Store Marina",
+   "lat": 26.7645,
+   "lng": -82.0507
+ },
+ {
+   "city": "Carrollwood",
+   "lat": 28.0577,
+   "lng": -82.5149
+ },
+ {
+   "city": "Cudjoe Key",
+   "lat": 24.6746,
+   "lng": -81.4986
+ },
+ {
+   "city": "Vero Beach South",
+   "lat": 27.6164,
+   "lng": -80.413
+ },
+ {
+   "city": "Homestead Base",
+   "lat": 25.4936,
+   "lng": -80.3911
+ },
+ {
+   "city": "Three Lakes",
+   "lat": 25.6415,
+   "lng": -80.4
+ },
+ {
+   "city": "Villano Beach",
+   "lat": 29.936,
+   "lng": -81.3021
+ },
+ {
+   "city": "Fort White",
+   "lat": 29.9224,
+   "lng": -82.7135
+ },
+ {
+   "city": "Harold",
+   "lat": 30.6772,
+   "lng": -86.831
+ },
+ {
+   "city": "Charlotte Harbor",
+   "lat": 26.9629,
+   "lng": -82.0571
+ },
+ {
+   "city": "Palm Valley",
+   "lat": 30.2011,
+   "lng": -81.3949
+ },
+ {
+   "city": "Fort Meade",
+   "lat": 27.7645,
+   "lng": -81.8058
+ },
+ {
+   "city": "New Port Richey East",
+   "lat": 28.2605,
+   "lng": -82.693
+ },
+ {
+   "city": "Bayonet Point",
+   "lat": 28.3255,
+   "lng": -82.6834
+ },
+ {
+   "city": "Davie",
+   "lat": 26.0789,
+   "lng": -80.287
+ },
+ {
+   "city": "Pine Air",
+   "lat": 26.6588,
+   "lng": -80.1073
+ },
+ {
+   "city": "Port St. Lucie",
+   "lat": 27.2796,
+   "lng": -80.3884
+ },
+ {
+   "city": "Kendall",
+   "lat": 25.6697,
+   "lng": -80.3556
+ },
+ {
+   "city": "Redington Shores",
+   "lat": 27.8293,
+   "lng": -82.8278
+ },
+ {
+   "city": "Sumatra",
+   "lat": 30.023,
+   "lng": -84.9825
+ },
+ {
+   "city": "Hillsboro Beach",
+   "lat": 26.2837,
+   "lng": -80.0796
+ },
+ {
+   "city": "Leesburg",
+   "lat": 28.7658,
+   "lng": -81.8995
+ },
+ {
+   "city": "Lochmoor Waterway Estates",
+   "lat": 26.6437,
+   "lng": -81.9098
+ },
+ {
+   "city": "Lamont",
+   "lat": 30.3796,
+   "lng": -83.8135
+ },
+ {
+   "city": "Meadow Woods",
+   "lat": 28.3698,
+   "lng": -81.3467
+ },
+ {
+   "city": "Polk City",
+   "lat": 28.1804,
+   "lng": -81.8295
+ },
+ {
+   "city": "Shady Hills",
+   "lat": 28.4042,
+   "lng": -82.5467
+ },
+ {
+   "city": "Five Points",
+   "lat": 30.2224,
+   "lng": -82.6464
+ },
+ {
+   "city": "Crooked Lake Park",
+   "lat": 27.8295,
+   "lng": -81.5897
+ },
+ {
+   "city": "Lake Wales",
+   "lat": 27.9195,
+   "lng": -81.5961
+ },
+ {
+   "city": "Dania Beach",
+   "lat": 26.0593,
+   "lng": -80.1638
+ },
+ {
+   "city": "Stacey Street",
+   "lat": 26.6978,
+   "lng": -80.1238
+ },
+ {
+   "city": "Lisbon",
+   "lat": 28.8823,
+   "lng": -81.7812
+ },
+ {
+   "city": "Layton",
+   "lat": 24.8247,
+   "lng": -80.8129
+ },
+ {
+   "city": "Indian Rocks Beach",
+   "lat": 27.8961,
+   "lng": -82.8444
+ },
+ {
+   "city": "Pine Manor",
+   "lat": 26.5727,
+   "lng": -81.8775
+ },
+ {
+   "city": "West Little River",
+   "lat": 25.857,
+   "lng": -80.2367
+ },
+ {
+   "city": "Lake Kathryn",
+   "lat": 29.0072,
+   "lng": -81.4906
+ },
+ {
+   "city": "Indian River Shores",
+   "lat": 27.7084,
+   "lng": -80.3851
+ },
+ {
+   "city": "Babson Park",
+   "lat": 27.8342,
+   "lng": -81.5281
+ },
+ {
+   "city": "Tiger Point",
+   "lat": 30.3775,
+   "lng": -87.0578
+ },
+ {
+   "city": "Macclenny",
+   "lat": 30.2818,
+   "lng": -82.125
+ },
+ {
+   "city": "Bascom",
+   "lat": 30.9278,
+   "lng": -85.1181
+ },
+ {
+   "city": "Loxahatchee Groves",
+   "lat": 26.7106,
+   "lng": -80.2764
+ },
+ {
+   "city": "Parker",
+   "lat": 30.1289,
+   "lng": -85.6008
+ },
+ {
+   "city": "Pelican Bay",
+   "lat": 26.2326,
+   "lng": -81.8108
+ },
+ {
+   "city": "World Golf Village",
+   "lat": 29.9653,
+   "lng": -81.4898
+ },
+ {
+   "city": "Lloyd",
+   "lat": 30.4822,
+   "lng": -84.0244
+ },
+ {
+   "city": "Clewiston",
+   "lat": 26.7529,
+   "lng": -80.9399
+ },
+ {
+   "city": "Jay",
+   "lat": 30.9504,
+   "lng": -87.1523
+ },
+ {
+   "city": "Port LaBelle",
+   "lat": 26.7493,
+   "lng": -81.3876
+ },
+ {
+   "city": "Sea Ranch Lakes",
+   "lat": 26.2007,
+   "lng": -80.0981
+ },
+ {
+   "city": "Jacksonville Beach",
+   "lat": 30.2782,
+   "lng": -81.4045
+ },
+ {
+   "city": "Westchester",
+   "lat": 25.7474,
+   "lng": -80.3358
+ },
+ {
+   "city": "Chokoloskee",
+   "lat": 25.8146,
+   "lng": -81.3603
+ },
+ {
+   "city": "Bradenton",
+   "lat": 27.49,
+   "lng": -82.574
+ },
+ {
+   "city": "Palm Harbor",
+   "lat": 28.0847,
+   "lng": -82.7481
+ },
+ {
+   "city": "Ojus",
+   "lat": 25.9563,
+   "lng": -80.1606
+ },
+ {
+   "city": "Navarre",
+   "lat": 30.4174,
+   "lng": -86.8907
+ },
+ {
+   "city": "Oldsmar",
+   "lat": 28.0507,
+   "lng": -82.6697
+ },
+ {
+   "city": "Port St. John",
+   "lat": 28.4771,
+   "lng": -80.7874
+ },
+ {
+   "city": "St. Cloud",
+   "lat": 28.2294,
+   "lng": -81.2829
+ },
+ {
+   "city": "Tyndall AFB",
+   "lat": 30.0856,
+   "lng": -85.6075
+ },
+ {
+   "city": "Belleair Bluffs",
+   "lat": 27.9197,
+   "lng": -82.8193
+ },
+ {
+   "city": "Fort Lauderdale",
+   "lat": 26.1412,
+   "lng": -80.1464
+ },
+ {
+   "city": "Oriole Beach",
+   "lat": 30.3687,
+   "lng": -87.0962
+ },
+ {
+   "city": "Dundee",
+   "lat": 28.0115,
+   "lng": -81.5995
+ },
+ {
+   "city": "Desoto Lakes",
+   "lat": 27.373,
+   "lng": -82.4968
+ },
+ {
+   "city": "Lazy Lake",
+   "lat": 26.1563,
+   "lng": -80.1452
+ },
+ {
+   "city": "Wiscon",
+   "lat": 28.5409,
+   "lng": -82.4664
+ },
+ {
+   "city": "Harbor Bluffs",
+   "lat": 27.908,
+   "lng": -82.827
+ },
+ {
+   "city": "South Patrick Shores",
+   "lat": 28.202,
+   "lng": -80.6137
+ },
+ {
+   "city": "Bristol",
+   "lat": 30.4256,
+   "lng": -84.9773
+ },
+ {
+   "city": "Bradley Junction",
+   "lat": 27.7942,
+   "lng": -81.9784
+ },
+ {
+   "city": "Pine Level",
+   "lat": 30.8887,
+   "lng": -87.1687
+ },
+ {
+   "city": "Bronson",
+   "lat": 29.4501,
+   "lng": -82.6391
+ },
+ {
+   "city": "Hernando Beach",
+   "lat": 28.4753,
+   "lng": -82.6612
+ },
+ {
+   "city": "Oakland",
+   "lat": 28.5536,
+   "lng": -81.6358
+ },
+ {
+   "city": "Greenacres",
+   "lat": 26.6272,
+   "lng": -80.1372
+ },
+ {
+   "city": "Bokeelia",
+   "lat": 26.68,
+   "lng": -82.1409
+ },
+ {
+   "city": "Naples",
+   "lat": 26.1505,
+   "lng": -81.7936
+ },
+ {
+   "city": "Trinity",
+   "lat": 28.1809,
+   "lng": -82.6581
+ },
+ {
+   "city": "Mount Dora",
+   "lat": 28.8143,
+   "lng": -81.6344
+ },
+ {
+   "city": "Grand Ridge",
+   "lat": 30.7083,
+   "lng": -85.0207
+ },
+ {
+   "city": "Opa-locka",
+   "lat": 25.8997,
+   "lng": -80.2551
+ },
+ {
+   "city": "Plantation Island",
+   "lat": 25.8475,
+   "lng": -81.3754
+ },
+ {
+   "city": "Fort Green",
+   "lat": 27.6255,
+   "lng": -81.9397
+ },
+ {
+   "city": "Bowling Green",
+   "lat": 27.638,
+   "lng": -81.8244
+ },
+ {
+   "city": "Citrus Park",
+   "lat": 28.073,
+   "lng": -82.5628
+ },
+ {
+   "city": "Harlem Heights",
+   "lat": 26.516,
+   "lng": -81.9293
+ },
+ {
+   "city": "Miami Springs",
+   "lat": 25.8195,
+   "lng": -80.2894
+ },
+ {
+   "city": "Lakeside",
+   "lat": 30.1356,
+   "lng": -81.7674
+ },
+ {
+   "city": "Crystal Lake",
+   "lat": 28.0371,
+   "lng": -81.9063
+ },
+ {
+   "city": "Gotha",
+   "lat": 28.5307,
+   "lng": -81.5191
+ },
+ {
+   "city": "Tarpon Springs",
+   "lat": 28.1493,
+   "lng": -82.7623
+ },
+ {
+   "city": "The Crossings",
+   "lat": 25.6708,
+   "lng": -80.4018
+ },
+ {
+   "city": "Balm",
+   "lat": 27.7541,
+   "lng": -82.2882
+ },
+ {
+   "city": "Okahumpka",
+   "lat": 28.7459,
+   "lng": -81.8962
+ },
+ {
+   "city": "Kendale Lakes",
+   "lat": 25.7081,
+   "lng": -80.4078
+ },
+ {
+   "city": "Palmetto Estates",
+   "lat": 25.6211,
+   "lng": -80.3616
+ },
+ {
+   "city": "New Smyrna Beach",
+   "lat": 29.0249,
+   "lng": -80.965
+ },
+ {
+   "city": "Anna Maria",
+   "lat": 27.5296,
+   "lng": -82.7338
+ },
+ {
+   "city": "Holly Hill",
+   "lat": 29.2443,
+   "lng": -81.0462
+ },
+ {
+   "city": "Pine Lakes",
+   "lat": 28.939,
+   "lng": -81.4308
+ },
+ {
+   "city": "Treasure Island",
+   "lat": 27.774,
+   "lng": -82.7663
+ },
+ {
+   "city": "Miramar",
+   "lat": 25.9773,
+   "lng": -80.3351
+ },
+ {
+   "city": "Tice",
+   "lat": 26.6758,
+   "lng": -81.8171
+ },
+ {
+   "city": "River Park",
+   "lat": 27.3214,
+   "lng": -80.3307
+ },
+ {
+   "city": "Miami",
+   "lat": 25.7839,
+   "lng": -80.2102
+ },
+ {
+   "city": "Blountstown",
+   "lat": 30.443,
+   "lng": -85.0455
+ },
+ {
+   "city": "River Ridge",
+   "lat": 28.2669,
+   "lng": -82.6257
+ },
+ {
+   "city": "Rotonda",
+   "lat": 26.8845,
+   "lng": -82.2791
+ },
+ {
+   "city": "Woodville",
+   "lat": 30.3114,
+   "lng": -84.2595
+ },
+ {
+   "city": "Lake Lorraine",
+   "lat": 30.4407,
+   "lng": -86.5657
+ },
+ {
+   "city": "Ferry Pass",
+   "lat": 30.5203,
+   "lng": -87.1904
+ },
+ {
+   "city": "Cleveland",
+   "lat": 26.9529,
+   "lng": -81.9925
+ },
+ {
+   "city": "Holley",
+   "lat": 30.454,
+   "lng": -86.9036
+ },
+ {
+   "city": "West Miami",
+   "lat": 25.7578,
+   "lng": -80.2969
+ },
+ {
+   "city": "West Palm Beach",
+   "lat": 26.7469,
+   "lng": -80.1316
+ },
+ {
+   "city": "Keystone",
+   "lat": 28.1312,
+   "lng": -82.5999
+ },
+ {
+   "city": "Gun Club Estates",
+   "lat": 26.6753,
+   "lng": -80.108
+ },
+ {
+   "city": "Cedar Key",
+   "lat": 29.1459,
+   "lng": -83.0387
+ },
+ {
+   "city": "Welaka",
+   "lat": 29.4823,
+   "lng": -81.6658
+ },
+ {
+   "city": "Highland Beach",
+   "lat": 26.4088,
+   "lng": -80.0661
+ },
+ {
+   "city": "Warm Mineral Springs",
+   "lat": 27.0469,
+   "lng": -82.2702
+ },
+ {
+   "city": "Goodland",
+   "lat": 25.9252,
+   "lng": -81.648
+ },
+ {
+   "city": "Boca Raton",
+   "lat": 26.3749,
+   "lng": -80.1077
+ },
+ {
+   "city": "Bradenton Beach",
+   "lat": 27.4649,
+   "lng": -82.6957
+ },
+ {
+   "city": "Country Walk",
+   "lat": 25.6331,
+   "lng": -80.4353
+ },
+ {
+   "city": "Pompano Beach",
+   "lat": 26.2428,
+   "lng": -80.1312
+ },
+ {
+   "city": "Hobe Sound",
+   "lat": 27.0729,
+   "lng": -80.1425
+ },
+ {
+   "city": "Palm Springs North",
+   "lat": 25.9351,
+   "lng": -80.3339
+ },
+ {
+   "city": "North Redington Beach",
+   "lat": 27.8213,
+   "lng": -82.819
+ },
+ {
+   "city": "Butler Beach",
+   "lat": 29.798,
+   "lng": -81.2653
+ },
+ {
+   "city": "Deerfield Beach",
+   "lat": 26.3049,
+   "lng": -80.1277
+ },
+ {
+   "city": "Memphis",
+   "lat": 27.5435,
+   "lng": -82.5607
+ },
+ {
+   "city": "South Daytona",
+   "lat": 29.1656,
+   "lng": -81.0056
+ },
+ {
+   "city": "Naples Manor",
+   "lat": 26.0892,
+   "lng": -81.7254
+ },
+ {
+   "city": "Cocoa Beach",
+   "lat": 28.3326,
+   "lng": -80.6274
+ },
+ {
+   "city": "Lakewood Park",
+   "lat": 27.539,
+   "lng": -80.3865
+ },
+ {
+   "city": "Pomona Park",
+   "lat": 29.5015,
+   "lng": -81.5936
+ },
+ {
+   "city": "Matlacha Isles-Matlacha Shores",
+   "lat": 26.634,
+   "lng": -82.0589
+ },
+ {
+   "city": "Bonita Springs",
+   "lat": 26.3559,
+   "lng": -81.7861
+ },
+ {
+   "city": "Weston",
+   "lat": 26.1007,
+   "lng": -80.4054
+ },
+ {
+   "city": "Lealman",
+   "lat": 27.8197,
+   "lng": -82.6847
+ },
+ {
+   "city": "Page Park",
+   "lat": 26.5782,
+   "lng": -81.8615
+ },
+ {
+   "city": "Upper Grand Lagoon",
+   "lat": 30.169,
+   "lng": -85.7407
+ },
+ {
+   "city": "Zolfo Springs",
+   "lat": 27.4926,
+   "lng": -81.7869
+ },
+ {
+   "city": "Manalapan",
+   "lat": 26.5621,
+   "lng": -80.0439
+ },
+ {
+   "city": "Palm City",
+   "lat": 27.1736,
+   "lng": -80.2861
+ },
+ {
+   "city": "Nocatee",
+   "lat": 30.0918,
+   "lng": -81.4097
+ },
+ {
+   "city": "Belle Isle",
+   "lat": 28.4724,
+   "lng": -81.3491
+ },
+ {
+   "city": "Lakeland",
+   "lat": 28.0557,
+   "lng": -81.9545
+ },
+ {
+   "city": "South Miami",
+   "lat": 25.7079,
+   "lng": -80.2952
+ },
+ {
+   "city": "Verona Walk",
+   "lat": 26.0839,
+   "lng": -81.6794
+ },
+ {
+   "city": "Bayport",
+   "lat": 28.5468,
+   "lng": -82.6456
+ },
+ {
+   "city": "Pierson",
+   "lat": 29.2401,
+   "lng": -81.456
+ },
+ {
+   "city": "Jupiter Farms",
+   "lat": 26.9224,
+   "lng": -80.2187
+ }
+]

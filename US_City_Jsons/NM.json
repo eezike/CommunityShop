@@ -1,0 +1,2192 @@
+[
+ {
+   "city": "El Cerro Mission",
+   "lat": 34.7687,
+   "lng": -106.6447
+ },
+ {
+   "city": "Red River",
+   "lat": 36.7041,
+   "lng": -105.4064
+ },
+ {
+   "city": "Roy",
+   "lat": 35.9451,
+   "lng": -104.1963
+ },
+ {
+   "city": "Causey",
+   "lat": 33.8609,
+   "lng": -103.1071
+ },
+ {
+   "city": "Corrales",
+   "lat": 35.2366,
+   "lng": -106.6191
+ },
+ {
+   "city": "Sena",
+   "lat": 35.3037,
+   "lng": -105.3913
+ },
+ {
+   "city": "Glen Acres",
+   "lat": 32.3748,
+   "lng": -108.7161
+ },
+ {
+   "city": "Cuyamungue Grant",
+   "lat": 35.8464,
+   "lng": -105.9948
+ },
+ {
+   "city": "Carnuel",
+   "lat": 35.0609,
+   "lng": -106.4587
+ },
+ {
+   "city": "Cañones",
+   "lat": 36.1769,
+   "lng": -106.4245
+ },
+ {
+   "city": "Conchas Dam",
+   "lat": 35.3623,
+   "lng": -104.2042
+ },
+ {
+   "city": "Rio Communities",
+   "lat": 34.6459,
+   "lng": -106.7164
+ },
+ {
+   "city": "North Acomita Village",
+   "lat": 35.0659,
+   "lng": -107.5676
+ },
+ {
+   "city": "Encinal",
+   "lat": 35.1308,
+   "lng": -107.4368
+ },
+ {
+   "city": "Keeler Farm",
+   "lat": 32.3161,
+   "lng": -107.7602
+ },
+ {
+   "city": "Newcomb",
+   "lat": 36.2834,
+   "lng": -108.7082
+ },
+ {
+   "city": "Los Luceros",
+   "lat": 36.1151,
+   "lng": -106.0371
+ },
+ {
+   "city": "Pueblo",
+   "lat": 35.3273,
+   "lng": -105.4354
+ },
+ {
+   "city": "Taos Ski Valley",
+   "lat": 36.59,
+   "lng": -105.4369
+ },
+ {
+   "city": "La Puebla",
+   "lat": 35.989,
+   "lng": -105.9987
+ },
+ {
+   "city": "Chamizal",
+   "lat": 34.2183,
+   "lng": -106.9151
+ },
+ {
+   "city": "Ojo Amarillo",
+   "lat": 36.6942,
+   "lng": -108.3704
+ },
+ {
+   "city": "Mesquite",
+   "lat": 32.167,
+   "lng": -106.6885
+ },
+ {
+   "city": "Bloomfield",
+   "lat": 36.7398,
+   "lng": -107.9733
+ },
+ {
+   "city": "South Acomita Village",
+   "lat": 35.0534,
+   "lng": -107.561
+ },
+ {
+   "city": "Magdalena",
+   "lat": 34.1095,
+   "lng": -107.2319
+ },
+ {
+   "city": "Santa Clara",
+   "lat": 32.7773,
+   "lng": -108.154
+ },
+ {
+   "city": "Los Alamos",
+   "lat": 35.8926,
+   "lng": -106.2862
+ },
+ {
+   "city": "Rivers",
+   "lat": 33.6757,
+   "lng": -108.7768
+ },
+ {
+   "city": "Rio Lucio",
+   "lat": 36.1922,
+   "lng": -105.72
+ },
+ {
+   "city": "San Luis",
+   "lat": 35.7009,
+   "lng": -107.0431
+ },
+ {
+   "city": "Zuni Pueblo",
+   "lat": 35.0708,
+   "lng": -108.8484
+ },
+ {
+   "city": "Paradise Hills",
+   "lat": 35.1982,
+   "lng": -106.7024
+ },
+ {
+   "city": "Arroyo Seco",
+   "lat": 36.5215,
+   "lng": -105.586
+ },
+ {
+   "city": "Bernalillo",
+   "lat": 35.3127,
+   "lng": -106.5537
+ },
+ {
+   "city": "Crownpoint",
+   "lat": 35.688,
+   "lng": -108.1494
+ },
+ {
+   "city": "Pueblitos",
+   "lat": 34.6109,
+   "lng": -106.7817
+ },
+ {
+   "city": "Capitan",
+   "lat": 33.5392,
+   "lng": -105.5983
+ },
+ {
+   "city": "Watrous",
+   "lat": 35.79,
+   "lng": -104.9821
+ },
+ {
+   "city": "Whites City",
+   "lat": 32.1767,
+   "lng": -104.3739
+ },
+ {
+   "city": "Cordova",
+   "lat": 36.0128,
+   "lng": -105.8566
+ },
+ {
+   "city": "Sanostee",
+   "lat": 36.4329,
+   "lng": -108.873
+ },
+ {
+   "city": "Raton",
+   "lat": 36.8849,
+   "lng": -104.4396
+ },
+ {
+   "city": "Young Place",
+   "lat": 36.9934,
+   "lng": -107.493
+ },
+ {
+   "city": "Pinos Altos",
+   "lat": 32.8665,
+   "lng": -108.2221
+ },
+ {
+   "city": "Chupadero",
+   "lat": 35.8144,
+   "lng": -105.9198
+ },
+ {
+   "city": "Cuyamungue",
+   "lat": 35.8648,
+   "lng": -106.0096
+ },
+ {
+   "city": "Eunice",
+   "lat": 32.4465,
+   "lng": -103.2009
+ },
+ {
+   "city": "Albuquerque",
+   "lat": 35.1053,
+   "lng": -106.6464
+ },
+ {
+   "city": "Sombrillo",
+   "lat": 35.9802,
+   "lng": -106.0354
+ },
+ {
+   "city": "Canova",
+   "lat": 36.1648,
+   "lng": -105.9857
+ },
+ {
+   "city": "Dora",
+   "lat": 33.9322,
+   "lng": -103.3369
+ },
+ {
+   "city": "Agua Fria",
+   "lat": 35.6615,
+   "lng": -106.0149
+ },
+ {
+   "city": "Rio Rancho",
+   "lat": 35.2872,
+   "lng": -106.6981
+ },
+ {
+   "city": "Tatum",
+   "lat": 33.2553,
+   "lng": -103.3112
+ },
+ {
+   "city": "El Valle de Arroyo Seco",
+   "lat": 35.9526,
+   "lng": -106.0262
+ },
+ {
+   "city": "San Miguel",
+   "lat": 32.1535,
+   "lng": -106.7269
+ },
+ {
+   "city": "Ensenada",
+   "lat": 36.7309,
+   "lng": -106.5367
+ },
+ {
+   "city": "Farmington",
+   "lat": 36.7555,
+   "lng": -108.1823
+ },
+ {
+   "city": "Truth or Consequences",
+   "lat": 33.1864,
+   "lng": -107.2589
+ },
+ {
+   "city": "White Sands",
+   "lat": 32.3808,
+   "lng": -106.4837
+ },
+ {
+   "city": "Santa Rosa",
+   "lat": 34.936,
+   "lng": -104.6769
+ },
+ {
+   "city": "Sandia Knolls",
+   "lat": 35.1604,
+   "lng": -106.2987
+ },
+ {
+   "city": "Chical",
+   "lat": 34.8657,
+   "lng": -106.667
+ },
+ {
+   "city": "Hachita",
+   "lat": 31.9153,
+   "lng": -108.3251
+ },
+ {
+   "city": "Las Nutrias",
+   "lat": 34.47,
+   "lng": -106.7708
+ },
+ {
+   "city": "Chamita",
+   "lat": 36.0706,
+   "lng": -106.0974
+ },
+ {
+   "city": "Berino",
+   "lat": 32.0689,
+   "lng": -106.6219
+ },
+ {
+   "city": "Pleasanton",
+   "lat": 33.2758,
+   "lng": -108.8792
+ },
+ {
+   "city": "Estancia",
+   "lat": 34.7669,
+   "lng": -106.0313
+ },
+ {
+   "city": "Lemitar",
+   "lat": 34.1551,
+   "lng": -106.9122
+ },
+ {
+   "city": "Mora",
+   "lat": 35.9634,
+   "lng": -105.3313
+ },
+ {
+   "city": "Loving",
+   "lat": 32.2867,
+   "lng": -104.0972
+ },
+ {
+   "city": "Edgewood",
+   "lat": 35.1318,
+   "lng": -106.2151
+ },
+ {
+   "city": "Winston",
+   "lat": 33.3461,
+   "lng": -107.6488
+ },
+ {
+   "city": "Santa Clara Pueblo",
+   "lat": 35.9726,
+   "lng": -106.0927
+ },
+ {
+   "city": "Peak Place",
+   "lat": 35.7911,
+   "lng": -105.9432
+ },
+ {
+   "city": "Hot Springs Landing",
+   "lat": 33.2047,
+   "lng": -107.21
+ },
+ {
+   "city": "Floyd",
+   "lat": 34.2289,
+   "lng": -103.5519
+ },
+ {
+   "city": "Casa Colorada",
+   "lat": 34.5534,
+   "lng": -106.742
+ },
+ {
+   "city": "Coyote",
+   "lat": 36.1616,
+   "lng": -106.6067
+ },
+ {
+   "city": "Tajique",
+   "lat": 34.76,
+   "lng": -106.301
+ },
+ {
+   "city": "Sandia Heights",
+   "lat": 35.1746,
+   "lng": -106.4884
+ },
+ {
+   "city": "Glorieta",
+   "lat": 35.584,
+   "lng": -105.7629
+ },
+ {
+   "city": "Anzac Village",
+   "lat": 35.0613,
+   "lng": -107.7456
+ },
+ {
+   "city": "Ponderosa Pine",
+   "lat": 34.972,
+   "lng": -106.3369
+ },
+ {
+   "city": "Buckhorn",
+   "lat": 33.0315,
+   "lng": -108.6944
+ },
+ {
+   "city": "Cochiti Lake",
+   "lat": 35.6478,
+   "lng": -106.3425
+ },
+ {
+   "city": "Ranchos de Taos",
+   "lat": 36.3619,
+   "lng": -105.6016
+ },
+ {
+   "city": "Loco Hills",
+   "lat": 32.8197,
+   "lng": -103.9783
+ },
+ {
+   "city": "Bent",
+   "lat": 33.1473,
+   "lng": -105.859
+ },
+ {
+   "city": "Pastura",
+   "lat": 34.785,
+   "lng": -104.9422
+ },
+ {
+   "city": "Lower Frisco",
+   "lat": 33.6514,
+   "lng": -108.7894
+ },
+ {
+   "city": "Thoreau",
+   "lat": 35.4209,
+   "lng": -108.2235
+ },
+ {
+   "city": "Rosedale",
+   "lat": 32.7693,
+   "lng": -108.2417
+ },
+ {
+   "city": "Williamsburg",
+   "lat": 33.1159,
+   "lng": -107.2951
+ },
+ {
+   "city": "Manzano Springs",
+   "lat": 34.9614,
+   "lng": -106.2328
+ },
+ {
+   "city": "Lamy",
+   "lat": 35.4854,
+   "lng": -105.8863
+ },
+ {
+   "city": "Hillsboro",
+   "lat": 32.9218,
+   "lng": -107.5777
+ },
+ {
+   "city": "Llano del Medio",
+   "lat": 35.1881,
+   "lng": -105.1162
+ },
+ {
+   "city": "Timberon",
+   "lat": 32.6359,
+   "lng": -105.6925
+ },
+ {
+   "city": "Paguate",
+   "lat": 35.1356,
+   "lng": -107.364
+ },
+ {
+   "city": "El Rito",
+   "lat": 36.338,
+   "lng": -106.1844
+ },
+ {
+   "city": "Sausal",
+   "lat": 34.6804,
+   "lng": -106.7592
+ },
+ {
+   "city": "Youngsville",
+   "lat": 36.1928,
+   "lng": -106.566
+ },
+ {
+   "city": "Hagerman",
+   "lat": 33.1146,
+   "lng": -104.3285
+ },
+ {
+   "city": "La Huerta",
+   "lat": 32.4487,
+   "lng": -104.2224
+ },
+ {
+   "city": "Playas",
+   "lat": 31.9126,
+   "lng": -108.5363
+ },
+ {
+   "city": "Spencerville",
+   "lat": 36.8191,
+   "lng": -108.056
+ },
+ {
+   "city": "Monterey Park",
+   "lat": 34.7511,
+   "lng": -106.653
+ },
+ {
+   "city": "Brimhall Nizhoni",
+   "lat": 35.7785,
+   "lng": -108.6322
+ },
+ {
+   "city": "La Mesilla",
+   "lat": 35.9461,
+   "lng": -106.0719
+ },
+ {
+   "city": "Tohatchi",
+   "lat": 35.841,
+   "lng": -108.7506
+ },
+ {
+   "city": "Mountainair",
+   "lat": 34.5199,
+   "lng": -106.243
+ },
+ {
+   "city": "San Pablo",
+   "lat": 32.2506,
+   "lng": -106.7626
+ },
+ {
+   "city": "Logan",
+   "lat": 35.3581,
+   "lng": -103.4449
+ },
+ {
+   "city": "Luis Lopez",
+   "lat": 33.9904,
+   "lng": -106.8878
+ },
+ {
+   "city": "Radium Springs",
+   "lat": 32.4783,
+   "lng": -106.9031
+ },
+ {
+   "city": "Anton Chico",
+   "lat": 35.1948,
+   "lng": -105.1439
+ },
+ {
+   "city": "Cochiti",
+   "lat": 35.6104,
+   "lng": -106.3502
+ },
+ {
+   "city": "Navajo",
+   "lat": 35.9024,
+   "lng": -109.0321
+ },
+ {
+   "city": "Santa Cruz",
+   "lat": 35.9939,
+   "lng": -106.0358
+ },
+ {
+   "city": "Ribera",
+   "lat": 35.37,
+   "lng": -105.4441
+ },
+ {
+   "city": "Kirtland",
+   "lat": 36.7502,
+   "lng": -108.3587
+ },
+ {
+   "city": "Abeytas",
+   "lat": 34.4652,
+   "lng": -106.8137
+ },
+ {
+   "city": "Tecolotito",
+   "lat": 35.2307,
+   "lng": -105.1631
+ },
+ {
+   "city": "Pajarito Mesa",
+   "lat": 34.9795,
+   "lng": -106.7979
+ },
+ {
+   "city": "Talpa",
+   "lat": 36.3421,
+   "lng": -105.5923
+ },
+ {
+   "city": "Homestead",
+   "lat": 34.1488,
+   "lng": -107.8818
+ },
+ {
+   "city": "University Park",
+   "lat": 32.2767,
+   "lng": -106.7462
+ },
+ {
+   "city": "Nogal",
+   "lat": 33.5382,
+   "lng": -105.7119
+ },
+ {
+   "city": "Datil",
+   "lat": 34.1424,
+   "lng": -107.8424
+ },
+ {
+   "city": "Angel Fire",
+   "lat": 36.3821,
+   "lng": -105.2718
+ },
+ {
+   "city": "City of the Sun",
+   "lat": 31.8466,
+   "lng": -107.6504
+ },
+ {
+   "city": "San Rafael",
+   "lat": 35.0878,
+   "lng": -107.8895
+ },
+ {
+   "city": "Cañada de los Alamos",
+   "lat": 35.5926,
+   "lng": -105.8597
+ },
+ {
+   "city": "Vadito",
+   "lat": 36.1929,
+   "lng": -105.6754
+ },
+ {
+   "city": "Mescalero",
+   "lat": 33.1448,
+   "lng": -105.7897
+ },
+ {
+   "city": "Las Maravillas",
+   "lat": 34.734,
+   "lng": -106.669
+ },
+ {
+   "city": "Naschitti",
+   "lat": 36.0625,
+   "lng": -108.68
+ },
+ {
+   "city": "House",
+   "lat": 34.6492,
+   "lng": -103.9039
+ },
+ {
+   "city": "Chama",
+   "lat": 36.8926,
+   "lng": -106.5843
+ },
+ {
+   "city": "North Valley",
+   "lat": 35.1737,
+   "lng": -106.6231
+ },
+ {
+   "city": "San Felipe Pueblo",
+   "lat": 35.4338,
+   "lng": -106.425
+ },
+ {
+   "city": "Folsom",
+   "lat": 36.8481,
+   "lng": -103.9186
+ },
+ {
+   "city": "Sedillo",
+   "lat": 35.0906,
+   "lng": -106.2869
+ },
+ {
+   "city": "Rio en Medio",
+   "lat": 35.8221,
+   "lng": -105.901
+ },
+ {
+   "city": "Vado",
+   "lat": 32.1279,
+   "lng": -106.6571
+ },
+ {
+   "city": "La Plata",
+   "lat": 36.9232,
+   "lng": -108.1932
+ },
+ {
+   "city": "Mimbres",
+   "lat": 32.8332,
+   "lng": -107.9559
+ },
+ {
+   "city": "Taos",
+   "lat": 36.3871,
+   "lng": -105.5803
+ },
+ {
+   "city": "Rancho Grande",
+   "lat": 33.6827,
+   "lng": -108.8581
+ },
+ {
+   "city": "Puerto de Luna",
+   "lat": 34.8297,
+   "lng": -104.6223
+ },
+ {
+   "city": "Las Palomas",
+   "lat": 33.0589,
+   "lng": -107.2982
+ },
+ {
+   "city": "Shiprock",
+   "lat": 36.7924,
+   "lng": -108.7005
+ },
+ {
+   "city": "Oasis",
+   "lat": 32.9277,
+   "lng": -107.3164
+ },
+ {
+   "city": "La Joya",
+   "lat": 34.345,
+   "lng": -106.8465
+ },
+ {
+   "city": "Las Cruces",
+   "lat": 32.3265,
+   "lng": -106.7893
+ },
+ {
+   "city": "Arroyo Hondo",
+   "lat": 36.5346,
+   "lng": -105.6666
+ },
+ {
+   "city": "Manzano",
+   "lat": 34.6437,
+   "lng": -106.367
+ },
+ {
+   "city": "Los Cerrillos",
+   "lat": 35.4272,
+   "lng": -106.1211
+ },
+ {
+   "city": "Gallina",
+   "lat": 36.2297,
+   "lng": -106.8089
+ },
+ {
+   "city": "Silver City",
+   "lat": 32.7784,
+   "lng": -108.2698
+ },
+ {
+   "city": "Pecan Park",
+   "lat": 32.2704,
+   "lng": -107.674
+ },
+ {
+   "city": "Newkirk",
+   "lat": 35.0635,
+   "lng": -104.2715
+ },
+ {
+   "city": "Elephant Butte",
+   "lat": 33.1806,
+   "lng": -107.2269
+ },
+ {
+   "city": "Roswell",
+   "lat": 33.373,
+   "lng": -104.5294
+ },
+ {
+   "city": "San Ildefonso Pueblo",
+   "lat": 35.8955,
+   "lng": -106.1225
+ },
+ {
+   "city": "Grady",
+   "lat": 34.8217,
+   "lng": -103.3157
+ },
+ {
+   "city": "Morningside",
+   "lat": 32.861,
+   "lng": -104.3971
+ },
+ {
+   "city": "Boles Acres",
+   "lat": 32.8196,
+   "lng": -105.9782
+ },
+ {
+   "city": "Lovington",
+   "lat": 32.9125,
+   "lng": -103.3277
+ },
+ {
+   "city": "Cannon AFB",
+   "lat": 34.3885,
+   "lng": -103.3185
+ },
+ {
+   "city": "La Villita",
+   "lat": 36.1001,
+   "lng": -106.0514
+ },
+ {
+   "city": "Rowe",
+   "lat": 35.4922,
+   "lng": -105.6715
+ },
+ {
+   "city": "Deming",
+   "lat": 32.2631,
+   "lng": -107.7525
+ },
+ {
+   "city": "Moriarty",
+   "lat": 35.0052,
+   "lng": -106.046
+ },
+ {
+   "city": "Highland Meadows",
+   "lat": 34.9399,
+   "lng": -107.1655
+ },
+ {
+   "city": "Ventura",
+   "lat": 32.2438,
+   "lng": -107.6832
+ },
+ {
+   "city": "La Cueva",
+   "lat": 35.8694,
+   "lng": -106.6485
+ },
+ {
+   "city": "Hurley",
+   "lat": 32.6982,
+   "lng": -108.1321
+ },
+ {
+   "city": "Pueblo of Sandia Village",
+   "lat": 35.2536,
+   "lng": -106.5706
+ },
+ {
+   "city": "Aragon",
+   "lat": 33.8899,
+   "lng": -108.5201
+ },
+ {
+   "city": "San Fidel",
+   "lat": 35.1025,
+   "lng": -107.5975
+ },
+ {
+   "city": "Holloman AFB",
+   "lat": 32.8483,
+   "lng": -106.0998
+ },
+ {
+   "city": "Madrid",
+   "lat": 35.4033,
+   "lng": -106.1538
+ },
+ {
+   "city": "Glenwood",
+   "lat": 33.3188,
+   "lng": -108.8811
+ },
+ {
+   "city": "Garfield",
+   "lat": 32.7568,
+   "lng": -107.2665
+ },
+ {
+   "city": "Corona",
+   "lat": 34.2501,
+   "lng": -105.597
+ },
+ {
+   "city": "Beclabito",
+   "lat": 36.8335,
+   "lng": -109.004
+ },
+ {
+   "city": "Ramah",
+   "lat": 35.1375,
+   "lng": -108.4861
+ },
+ {
+   "city": "Middle Frisco",
+   "lat": 33.6949,
+   "lng": -108.7639
+ },
+ {
+   "city": "Blanco",
+   "lat": 36.7211,
+   "lng": -107.8332
+ },
+ {
+   "city": "Alamogordo",
+   "lat": 32.8837,
+   "lng": -105.9624
+ },
+ {
+   "city": "Hatch",
+   "lat": 32.6682,
+   "lng": -107.1641
+ },
+ {
+   "city": "East Pecos",
+   "lat": 35.5765,
+   "lng": -105.6499
+ },
+ {
+   "city": "Nakaibito",
+   "lat": 35.7826,
+   "lng": -108.8039
+ },
+ {
+   "city": "Placitas",
+   "lat": 35.3226,
+   "lng": -106.4436
+ },
+ {
+   "city": "Yah-ta-hey",
+   "lat": 35.6216,
+   "lng": -108.7919
+ },
+ {
+   "city": "Ruidoso",
+   "lat": 33.3648,
+   "lng": -105.6432
+ },
+ {
+   "city": "Taos Pueblo",
+   "lat": 36.4656,
+   "lng": -105.5635
+ },
+ {
+   "city": "Texico",
+   "lat": 34.3897,
+   "lng": -103.0513
+ },
+ {
+   "city": "Jarales",
+   "lat": 34.6146,
+   "lng": -106.7631
+ },
+ {
+   "city": "Costilla",
+   "lat": 36.9786,
+   "lng": -105.5353
+ },
+ {
+   "city": "Nadine",
+   "lat": 32.6232,
+   "lng": -103.1078
+ },
+ {
+   "city": "Fence Lake",
+   "lat": 34.669,
+   "lng": -108.6801
+ },
+ {
+   "city": "Villanueva",
+   "lat": 35.266,
+   "lng": -105.3602
+ },
+ {
+   "city": "Arenas Valley",
+   "lat": 32.7765,
+   "lng": -108.203
+ },
+ {
+   "city": "Cobre",
+   "lat": 32.7804,
+   "lng": -108.1107
+ },
+ {
+   "city": "La Cienega",
+   "lat": 35.5801,
+   "lng": -106.1127
+ },
+ {
+   "city": "Arrey",
+   "lat": 32.8472,
+   "lng": -107.3204
+ },
+ {
+   "city": "Chaparral",
+   "lat": 32.0442,
+   "lng": -106.4061
+ },
+ {
+   "city": "Orogrande",
+   "lat": 32.3875,
+   "lng": -106.1003
+ },
+ {
+   "city": "San Antonito",
+   "lat": 35.1575,
+   "lng": -106.3475
+ },
+ {
+   "city": "Santa Ana Pueblo",
+   "lat": 35.3495,
+   "lng": -106.5202
+ },
+ {
+   "city": "Pueblito",
+   "lat": 36.0727,
+   "lng": -106.081
+ },
+ {
+   "city": "Jal",
+   "lat": 32.1148,
+   "lng": -103.19
+ },
+ {
+   "city": "Encino",
+   "lat": 34.6518,
+   "lng": -105.4586
+ },
+ {
+   "city": "Cedar Crest",
+   "lat": 35.1114,
+   "lng": -106.3802
+ },
+ {
+   "city": "Peña Blanca",
+   "lat": 35.5709,
+   "lng": -106.3319
+ },
+ {
+   "city": "Hope",
+   "lat": 32.8158,
+   "lng": -104.736
+ },
+ {
+   "city": "North San Ysidro",
+   "lat": 35.4746,
+   "lng": -105.5661
+ },
+ {
+   "city": "Lake Sumner",
+   "lat": 34.6186,
+   "lng": -104.3801
+ },
+ {
+   "city": "Doña Ana",
+   "lat": 32.394,
+   "lng": -106.8177
+ },
+ {
+   "city": "Cuba",
+   "lat": 36.0146,
+   "lng": -106.968
+ },
+ {
+   "city": "Ute Park",
+   "lat": 36.5467,
+   "lng": -105.1038
+ },
+ {
+   "city": "Cimarron",
+   "lat": 36.5087,
+   "lng": -104.9115
+ },
+ {
+   "city": "Rodey",
+   "lat": 32.6538,
+   "lng": -107.1358
+ },
+ {
+   "city": "Eagle Nest",
+   "lat": 36.5495,
+   "lng": -105.2593
+ },
+ {
+   "city": "Apache Creek",
+   "lat": 33.8486,
+   "lng": -108.6141
+ },
+ {
+   "city": "Laguna",
+   "lat": 35.0504,
+   "lng": -107.4071
+ },
+ {
+   "city": "Ruidoso Downs",
+   "lat": 33.3312,
+   "lng": -105.5969
+ },
+ {
+   "city": "Organ",
+   "lat": 32.4251,
+   "lng": -106.6024
+ },
+ {
+   "city": "Ohkay Owingeh",
+   "lat": 36.0439,
+   "lng": -106.0565
+ },
+ {
+   "city": "Bluewater Village",
+   "lat": 35.2379,
+   "lng": -107.981
+ },
+ {
+   "city": "McIntosh",
+   "lat": 34.8804,
+   "lng": -106.0577
+ },
+ {
+   "city": "Lordsburg",
+   "lat": 32.3438,
+   "lng": -108.7021
+ },
+ {
+   "city": "Pinon",
+   "lat": 32.6182,
+   "lng": -105.3867
+ },
+ {
+   "city": "Bibo",
+   "lat": 35.1807,
+   "lng": -107.4178
+ },
+ {
+   "city": "Aztec",
+   "lat": 36.819,
+   "lng": -107.9826
+ },
+ {
+   "city": "Dexter",
+   "lat": 33.1954,
+   "lng": -104.3687
+ },
+ {
+   "city": "Bosque Farms",
+   "lat": 34.8538,
+   "lng": -106.7011
+ },
+ {
+   "city": "Zia Pueblo",
+   "lat": 35.52,
+   "lng": -106.715
+ },
+ {
+   "city": "Cubero",
+   "lat": 35.0903,
+   "lng": -107.5264
+ },
+ {
+   "city": "Eldorado at Santa Fe",
+   "lat": 35.5273,
+   "lng": -105.934
+ },
+ {
+   "city": "Willard",
+   "lat": 34.5948,
+   "lng": -106.0314
+ },
+ {
+   "city": "Nara Visa",
+   "lat": 35.6068,
+   "lng": -103.1043
+ },
+ {
+   "city": "Melrose",
+   "lat": 34.429,
+   "lng": -103.6296
+ },
+ {
+   "city": "Bayard",
+   "lat": 32.7583,
+   "lng": -108.1336
+ },
+ {
+   "city": "Pueblo Pintado",
+   "lat": 35.9453,
+   "lng": -107.6161
+ },
+ {
+   "city": "White Signal",
+   "lat": 32.5724,
+   "lng": -108.3512
+ },
+ {
+   "city": "El Cerro",
+   "lat": 34.7807,
+   "lng": -106.6956
+ },
+ {
+   "city": "Clayton",
+   "lat": 36.4439,
+   "lng": -103.159
+ },
+ {
+   "city": "Nenahnezad",
+   "lat": 36.7354,
+   "lng": -108.4253
+ },
+ {
+   "city": "Brazos",
+   "lat": 36.7528,
+   "lng": -106.5598
+ },
+ {
+   "city": "Escondida",
+   "lat": 34.1012,
+   "lng": -106.8974
+ },
+ {
+   "city": "Dixon",
+   "lat": 36.1886,
+   "lng": -105.8784
+ },
+ {
+   "city": "Abiquiu",
+   "lat": 36.2017,
+   "lng": -106.3239
+ },
+ {
+   "city": "Questa",
+   "lat": 36.7114,
+   "lng": -105.5935
+ },
+ {
+   "city": "Faywood",
+   "lat": 32.6247,
+   "lng": -107.8723
+ },
+ {
+   "city": "Navajo Dam",
+   "lat": 36.7981,
+   "lng": -107.7045
+ },
+ {
+   "city": "Las Vegas",
+   "lat": 35.6011,
+   "lng": -105.2206
+ },
+ {
+   "city": "Lee Acres",
+   "lat": 36.7103,
+   "lng": -108.0725
+ },
+ {
+   "city": "Caballo",
+   "lat": 32.9806,
+   "lng": -107.3075
+ },
+ {
+   "city": "Quemado",
+   "lat": 34.3415,
+   "lng": -108.506
+ },
+ {
+   "city": "Cedro",
+   "lat": 35.018,
+   "lng": -106.3508
+ },
+ {
+   "city": "Los Lunas",
+   "lat": 34.8115,
+   "lng": -106.7803
+ },
+ {
+   "city": "Escudilla Bonita",
+   "lat": 34.1122,
+   "lng": -109.0231
+ },
+ {
+   "city": "Happy Valley",
+   "lat": 32.4235,
+   "lng": -104.2903
+ },
+ {
+   "city": "La Union",
+   "lat": 31.9508,
+   "lng": -106.6621
+ },
+ {
+   "city": "Tucumcari",
+   "lat": 35.1701,
+   "lng": -103.7042
+ },
+ {
+   "city": "Lake Valley",
+   "lat": 36.0902,
+   "lng": -108.1642
+ },
+ {
+   "city": "Tyrone",
+   "lat": 32.7099,
+   "lng": -108.3028
+ },
+ {
+   "city": "Chamberino",
+   "lat": 32.0364,
+   "lng": -106.6776
+ },
+ {
+   "city": "La Mesa",
+   "lat": 32.1244,
+   "lng": -106.709
+ },
+ {
+   "city": "Hobbs",
+   "lat": 32.7282,
+   "lng": -103.16
+ },
+ {
+   "city": "Torreon",
+   "lat": 35.7932,
+   "lng": -107.2124
+ },
+ {
+   "city": "Church Rock",
+   "lat": 35.5309,
+   "lng": -108.6234
+ },
+ {
+   "city": "Los Ranchos de Albuquerque",
+   "lat": 35.1626,
+   "lng": -106.6481
+ },
+ {
+   "city": "Hernandez",
+   "lat": 36.0567,
+   "lng": -106.1186
+ },
+ {
+   "city": "White Rock",
+   "lat": 35.8075,
+   "lng": -106.2067
+ },
+ {
+   "city": "Napi Headquarters",
+   "lat": 36.6538,
+   "lng": -108.2186
+ },
+ {
+   "city": "Rincon",
+   "lat": 32.6729,
+   "lng": -107.0764
+ },
+ {
+   "city": "Indian Hills",
+   "lat": 34.9832,
+   "lng": -106.1398
+ },
+ {
+   "city": "Carrizozo",
+   "lat": 33.6433,
+   "lng": -105.8411
+ },
+ {
+   "city": "Chili",
+   "lat": 36.1028,
+   "lng": -106.1529
+ },
+ {
+   "city": "Atoka",
+   "lat": 32.7783,
+   "lng": -104.3931
+ },
+ {
+   "city": "Alcalde",
+   "lat": 36.0854,
+   "lng": -106.0575
+ },
+ {
+   "city": "Twin Forks",
+   "lat": 32.9463,
+   "lng": -105.6374
+ },
+ {
+   "city": "Waterflow",
+   "lat": 36.7575,
+   "lng": -108.4711
+ },
+ {
+   "city": "Salem",
+   "lat": 32.7122,
+   "lng": -107.2044
+ },
+ {
+   "city": "Lake Arthur",
+   "lat": 32.9994,
+   "lng": -104.3637
+ },
+ {
+   "city": "Duran",
+   "lat": 34.4636,
+   "lng": -105.3807
+ },
+ {
+   "city": "Des Moines",
+   "lat": 36.7625,
+   "lng": -103.8357
+ },
+ {
+   "city": "Tecolote",
+   "lat": 35.4605,
+   "lng": -105.2842
+ },
+ {
+   "city": "Cañon",
+   "lat": 35.6718,
+   "lng": -106.7527
+ },
+ {
+   "city": "Chilili",
+   "lat": 34.8974,
+   "lng": -106.2332
+ },
+ {
+   "city": "Alamillo",
+   "lat": 34.2519,
+   "lng": -106.9158
+ },
+ {
+   "city": "Meadow Lake",
+   "lat": 34.8024,
+   "lng": -106.5701
+ },
+ {
+   "city": "Ponderosa",
+   "lat": 35.6555,
+   "lng": -106.6544
+ },
+ {
+   "city": "Socorro",
+   "lat": 34.0543,
+   "lng": -106.9066
+ },
+ {
+   "city": "San Mateo",
+   "lat": 35.3317,
+   "lng": -107.6469
+ },
+ {
+   "city": "Nambe",
+   "lat": 35.8984,
+   "lng": -105.9667
+ },
+ {
+   "city": "Paraje",
+   "lat": 35.0444,
+   "lng": -107.4681
+ },
+ {
+   "city": "Galisteo",
+   "lat": 35.395,
+   "lng": -105.9569
+ },
+ {
+   "city": "Polvadera",
+   "lat": 34.2021,
+   "lng": -106.9171
+ },
+ {
+   "city": "Adelino",
+   "lat": 34.7066,
+   "lng": -106.7302
+ },
+ {
+   "city": "South Valley",
+   "lat": 35.0093,
+   "lng": -106.6819
+ },
+ {
+   "city": "Sacramento",
+   "lat": 32.7917,
+   "lng": -105.5723
+ },
+ {
+   "city": "Weed",
+   "lat": 32.8025,
+   "lng": -105.5248
+ },
+ {
+   "city": "Wagon Mound",
+   "lat": 36.0048,
+   "lng": -104.7091
+ },
+ {
+   "city": "North Light Plant",
+   "lat": 36.8751,
+   "lng": -108.0458
+ },
+ {
+   "city": "Malaga",
+   "lat": 32.2227,
+   "lng": -104.0692
+ },
+ {
+   "city": "Jemez Pueblo",
+   "lat": 35.6068,
+   "lng": -106.7332
+ },
+ {
+   "city": "Tijeras",
+   "lat": 35.0884,
+   "lng": -106.3761
+ },
+ {
+   "city": "Midway",
+   "lat": 33.2958,
+   "lng": -104.4518
+ },
+ {
+   "city": "Belen",
+   "lat": 34.6803,
+   "lng": -106.7875
+ },
+ {
+   "city": "Bluewater Acres",
+   "lat": 35.2667,
+   "lng": -108.1351
+ },
+ {
+   "city": "Livingston Wheeler",
+   "lat": 32.3944,
+   "lng": -104.1981
+ },
+ {
+   "city": "West Hammond",
+   "lat": 36.6812,
+   "lng": -108.0491
+ },
+ {
+   "city": "El Duende",
+   "lat": 36.0738,
+   "lng": -106.1269
+ },
+ {
+   "city": "Sheep Springs",
+   "lat": 36.1564,
+   "lng": -108.6905
+ },
+ {
+   "city": "Los Chaves",
+   "lat": 34.7332,
+   "lng": -106.7632
+ },
+ {
+   "city": "Pie Town",
+   "lat": 34.34,
+   "lng": -108.1708
+ },
+ {
+   "city": "Truchas",
+   "lat": 36.0338,
+   "lng": -105.8095
+ },
+ {
+   "city": "Upper Fruitland",
+   "lat": 36.7205,
+   "lng": -108.3234
+ },
+ {
+   "city": "Mesilla",
+   "lat": 32.2691,
+   "lng": -106.8086
+ },
+ {
+   "city": "Vaughn",
+   "lat": 34.6072,
+   "lng": -105.2126
+ },
+ {
+   "city": "Mountain View",
+   "lat": 32.2288,
+   "lng": -107.7462
+ },
+ {
+   "city": "Jaconita",
+   "lat": 35.8857,
+   "lng": -106.0611
+ },
+ {
+   "city": "Golden",
+   "lat": 35.2637,
+   "lng": -106.223
+ },
+ {
+   "city": "Lumberton",
+   "lat": 36.9328,
+   "lng": -106.9354
+ },
+ {
+   "city": "Clovis",
+   "lat": 34.4376,
+   "lng": -103.1923
+ },
+ {
+   "city": "Edith Endave",
+   "lat": 35.2104,
+   "lng": -106.589
+ },
+ {
+   "city": "San Acacia",
+   "lat": 34.255,
+   "lng": -106.9023
+ },
+ {
+   "city": "Chamisal",
+   "lat": 36.1725,
+   "lng": -105.7459
+ },
+ {
+   "city": "San Cristobal",
+   "lat": 36.6101,
+   "lng": -105.6318
+ },
+ {
+   "city": "Peñasco",
+   "lat": 36.1703,
+   "lng": -105.6907
+ },
+ {
+   "city": "Seama",
+   "lat": 35.0441,
+   "lng": -107.5271
+ },
+ {
+   "city": "Sunland Park",
+   "lat": 31.8194,
+   "lng": -106.5943
+ },
+ {
+   "city": "Santa Teresa",
+   "lat": 31.8701,
+   "lng": -106.6714
+ },
+ {
+   "city": "Skyline-Ganipa",
+   "lat": 35.0328,
+   "lng": -107.614
+ },
+ {
+   "city": "La Luz",
+   "lat": 32.9698,
+   "lng": -105.9388
+ },
+ {
+   "city": "North Hobbs",
+   "lat": 32.7731,
+   "lng": -103.125
+ },
+ {
+   "city": "Chimayo",
+   "lat": 35.9976,
+   "lng": -105.9363
+ },
+ {
+   "city": "Artesia",
+   "lat": 32.8492,
+   "lng": -104.4275
+ },
+ {
+   "city": "Flora Vista",
+   "lat": 36.8056,
+   "lng": -108.0856
+ },
+ {
+   "city": "Alamo",
+   "lat": 34.4184,
+   "lng": -107.5125
+ },
+ {
+   "city": "Grants",
+   "lat": 35.1538,
+   "lng": -107.8335
+ },
+ {
+   "city": "Cedar Grove",
+   "lat": 35.168,
+   "lng": -106.1616
+ },
+ {
+   "city": "San Jon",
+   "lat": 35.1141,
+   "lng": -103.3353
+ },
+ {
+   "city": "San Ysidro",
+   "lat": 35.5606,
+   "lng": -106.7735
+ },
+ {
+   "city": "Tesuque",
+   "lat": 35.7486,
+   "lng": -105.921
+ },
+ {
+   "city": "Springer",
+   "lat": 36.3662,
+   "lng": -104.5932
+ },
+ {
+   "city": "Santo Domingo Pueblo",
+   "lat": 35.5174,
+   "lng": -106.367
+ },
+ {
+   "city": "Veguita",
+   "lat": 34.5147,
+   "lng": -106.7678
+ },
+ {
+   "city": "La Madera",
+   "lat": 36.3807,
+   "lng": -106.042
+ },
+ {
+   "city": "Carlsbad",
+   "lat": 32.4013,
+   "lng": -104.2388
+ },
+ {
+   "city": "Los Ojos",
+   "lat": 36.7361,
+   "lng": -106.5668
+ },
+ {
+   "city": "Jemez Springs",
+   "lat": 35.7732,
+   "lng": -106.6909
+ },
+ {
+   "city": "Pecos",
+   "lat": 35.5754,
+   "lng": -105.6787
+ },
+ {
+   "city": "La Jara",
+   "lat": 36.1055,
+   "lng": -106.9419
+ },
+ {
+   "city": "Sandia Park",
+   "lat": 35.1648,
+   "lng": -106.3657
+ },
+ {
+   "city": "McCartys Village",
+   "lat": 35.0636,
+   "lng": -107.6836
+ },
+ {
+   "city": "Cuartelez",
+   "lat": 35.9928,
+   "lng": -106.0197
+ },
+ {
+   "city": "Columbus",
+   "lat": 31.8273,
+   "lng": -107.6423
+ },
+ {
+   "city": "Mosquero",
+   "lat": 35.7743,
+   "lng": -103.9544
+ },
+ {
+   "city": "Mayhill",
+   "lat": 32.8962,
+   "lng": -105.496
+ },
+ {
+   "city": "Twin Lakes",
+   "lat": 35.6834,
+   "lng": -108.7709
+ },
+ {
+   "city": "Gila",
+   "lat": 32.9485,
+   "lng": -108.5762
+ },
+ {
+   "city": "Pulpotio Bareas",
+   "lat": 32.2179,
+   "lng": -107.7728
+ },
+ {
+   "city": "Black Rock",
+   "lat": 35.0833,
+   "lng": -108.7979
+ },
+ {
+   "city": "Lake Roberts Heights",
+   "lat": 33.0271,
+   "lng": -108.1382
+ },
+ {
+   "city": "Nageezi",
+   "lat": 36.2488,
+   "lng": -107.7471
+ },
+ {
+   "city": "El Rancho",
+   "lat": 35.8928,
+   "lng": -106.0856
+ },
+ {
+   "city": "High Rolls",
+   "lat": 32.9388,
+   "lng": -105.8214
+ },
+ {
+   "city": "Tularosa",
+   "lat": 33.0753,
+   "lng": -106.0175
+ },
+ {
+   "city": "Rodeo",
+   "lat": 31.8396,
+   "lng": -109.0265
+ },
+ {
+   "city": "Pojoaque",
+   "lat": 35.8962,
+   "lng": -106.0105
+ },
+ {
+   "city": "Fairacres",
+   "lat": 32.3047,
+   "lng": -106.8366
+ },
+ {
+   "city": "Fort Sumner",
+   "lat": 34.479,
+   "lng": -104.2331
+ },
+ {
+   "city": "Cedar Hill",
+   "lat": 36.9296,
+   "lng": -107.8871
+ },
+ {
+   "city": "Portales",
+   "lat": 34.1753,
+   "lng": -103.3566
+ },
+ {
+   "city": "Maxwell",
+   "lat": 36.5411,
+   "lng": -104.5431
+ },
+ {
+   "city": "Soham",
+   "lat": 35.4168,
+   "lng": -105.4985
+ },
+ {
+   "city": "Luna",
+   "lat": 33.8181,
+   "lng": -108.9435
+ },
+ {
+   "city": "Isleta Village Proper",
+   "lat": 34.9065,
+   "lng": -106.6935
+ },
+ {
+   "city": "Pinehill",
+   "lat": 35.0031,
+   "lng": -108.408
+ },
+ {
+   "city": "Capulin",
+   "lat": 36.7445,
+   "lng": -103.9958
+ },
+ {
+   "city": "Cloudcroft",
+   "lat": 32.9532,
+   "lng": -105.7329
+ },
+ {
+   "city": "Windmill",
+   "lat": 31.9769,
+   "lng": -108.6315
+ },
+ {
+   "city": "Acomita Lake",
+   "lat": 35.066,
+   "lng": -107.6173
+ },
+ {
+   "city": "Milan",
+   "lat": 35.195,
+   "lng": -107.8947
+ },
+ {
+   "city": "Valencia",
+   "lat": 34.8053,
+   "lng": -106.6869
+ },
+ {
+   "city": "Hanover",
+   "lat": 32.8149,
+   "lng": -108.0897
+ },
+ {
+   "city": "La Hacienda",
+   "lat": 32.206,
+   "lng": -107.725
+ },
+ {
+   "city": "Grenville",
+   "lat": 36.5931,
+   "lng": -103.6135
+ },
+ {
+   "city": "Kingston",
+   "lat": 32.9173,
+   "lng": -107.7098
+ },
+ {
+   "city": "Dulce",
+   "lat": 36.9399,
+   "lng": -107.0049
+ },
+ {
+   "city": "Jacona",
+   "lat": 35.8887,
+   "lng": -106.0386
+ },
+ {
+   "city": "Gallup",
+   "lat": 35.5183,
+   "lng": -108.7423
+ },
+ {
+   "city": "Española",
+   "lat": 36.0041,
+   "lng": -106.0669
+ },
+ {
+   "city": "Velarde",
+   "lat": 36.1607,
+   "lng": -105.966
+ },
+ {
+   "city": "Tierra Amarilla",
+   "lat": 36.7061,
+   "lng": -106.5599
+ },
+ {
+   "city": "Algodones",
+   "lat": 35.3802,
+   "lng": -106.4731
+ },
+ {
+   "city": "North Hurley",
+   "lat": 32.7198,
+   "lng": -108.1285
+ },
+ {
+   "city": "Elida",
+   "lat": 33.9469,
+   "lng": -103.6531
+ },
+ {
+   "city": "Cundiyo",
+   "lat": 35.9565,
+   "lng": -105.8971
+ },
+ {
+   "city": "Santa Fe",
+   "lat": 35.6619,
+   "lng": -105.9819
+ },
+ {
+   "city": "Peralta",
+   "lat": 34.8283,
+   "lng": -106.686
+ },
+ {
+   "city": "Crystal",
+   "lat": 36.028,
+   "lng": -108.9911
+ },
+ {
+   "city": "San Lorenzo",
+   "lat": 32.8086,
+   "lng": -107.9221
+ },
+ {
+   "city": "Monument",
+   "lat": 32.6243,
+   "lng": -103.2776
+ },
+ {
+   "city": "Lyden",
+   "lat": 36.1537,
+   "lng": -106.0147
+ },
+ {
+   "city": "Moquino",
+   "lat": 35.1801,
+   "lng": -107.3701
+ },
+ {
+   "city": "Cruzville",
+   "lat": 33.81,
+   "lng": -108.6684
+ },
+ {
+   "city": "Mesita",
+   "lat": 35.0133,
+   "lng": -107.3296
+ },
+ {
+   "city": "Tesuque Pueblo",
+   "lat": 35.8091,
+   "lng": -105.9752
+ },
+ {
+   "city": "Canjilon",
+   "lat": 36.484,
+   "lng": -106.4335
+ },
+ {
+   "city": "Tse Bonito",
+   "lat": 35.6525,
+   "lng": -109.0361
+ },
+ {
+   "city": "Trout Valley",
+   "lat": 33.0363,
+   "lng": -108.1893
+ },
+ {
+   "city": "Rock Springs",
+   "lat": 35.6088,
+   "lng": -108.8293
+ },
+ {
+   "city": "Madrone",
+   "lat": 34.5792,
+   "lng": -106.7285
+ },
+ {
+   "city": "Tome",
+   "lat": 34.7397,
+   "lng": -106.723
+ },
+ {
+   "city": "San Antonio",
+   "lat": 33.9161,
+   "lng": -106.87
+ },
+ {
+   "city": "Virden",
+   "lat": 32.6886,
+   "lng": -109.001
+ },
+ {
+   "city": "Sunshine",
+   "lat": 32.1344,
+   "lng": -107.7838
+ },
+ {
+   "city": "San Jose",
+   "lat": 36.0367,
+   "lng": -106.1004
+ },
+ {
+   "city": "Animas",
+   "lat": 31.9449,
+   "lng": -108.8065
+ },
+ {
+   "city": "Regina",
+   "lat": 36.1947,
+   "lng": -106.9453
+ },
+ {
+   "city": "Picuris Pueblo",
+   "lat": 36.1995,
+   "lng": -105.7133
+ },
+ {
+   "city": "Seboyeta",
+   "lat": 35.2241,
+   "lng": -107.4049
+ },
+ {
+   "city": "San Pedro",
+   "lat": 35.228,
+   "lng": -106.1848
+ },
+ {
+   "city": "Cliff",
+   "lat": 32.966,
+   "lng": -108.6176
+ },
+ {
+   "city": "Anthony",
+   "lat": 32.0132,
+   "lng": -106.5984
+ },
+ {
+   "city": "Lake Roberts",
+   "lat": 33.0313,
+   "lng": -108.1689
+ },
+ {
+   "city": "Cotton City",
+   "lat": 32.1101,
+   "lng": -108.8805
+ },
+ {
+   "city": "Reserve",
+   "lat": 33.709,
+   "lng": -108.7614
+ }
+]

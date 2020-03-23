@@ -1,0 +1,7527 @@
+[
+ {
+   "city": "El Dorado Hills",
+   "lat": 38.675,
+   "lng": -121.049
+ },
+ {
+   "city": "Lemon Cove",
+   "lat": 36.379,
+   "lng": -119.0312
+ },
+ {
+   "city": "Dillon Beach",
+   "lat": 38.2436,
+   "lng": -122.956
+ },
+ {
+   "city": "Patterson Tract",
+   "lat": 36.3795,
+   "lng": -119.2956
+ },
+ {
+   "city": "Redcrest",
+   "lat": 40.3987,
+   "lng": -123.9474
+ },
+ {
+   "city": "Madera",
+   "lat": 36.964,
+   "lng": -120.0803
+ },
+ {
+   "city": "Brooktrails",
+   "lat": 39.4429,
+   "lng": -123.3963
+ },
+ {
+   "city": "Geyserville",
+   "lat": 38.7173,
+   "lng": -122.9034
+ },
+ {
+   "city": "Delhi",
+   "lat": 37.4306,
+   "lng": -120.7759
+ },
+ {
+   "city": "Stanton",
+   "lat": 33.8002,
+   "lng": -117.9935
+ },
+ {
+   "city": "Cobb",
+   "lat": 38.8356,
+   "lng": -122.723
+ },
+ {
+   "city": "Amador City",
+   "lat": 38.419,
+   "lng": -120.8232
+ },
+ {
+   "city": "Vallejo",
+   "lat": 38.1133,
+   "lng": -122.2359
+ },
+ {
+   "city": "Scotts Valley",
+   "lat": 37.0555,
+   "lng": -122.0118
+ },
+ {
+   "city": "Fish Camp",
+   "lat": 37.4797,
+   "lng": -119.6374
+ },
+ {
+   "city": "Alpine",
+   "lat": 32.8439,
+   "lng": -116.7585
+ },
+ {
+   "city": "Rowland Heights",
+   "lat": 33.9716,
+   "lng": -117.8911
+ },
+ {
+   "city": "Alta",
+   "lat": 39.2138,
+   "lng": -120.8033
+ },
+ {
+   "city": "North San Juan",
+   "lat": 39.3718,
+   "lng": -121.106
+ },
+ {
+   "city": "Mountain Mesa",
+   "lat": 35.6411,
+   "lng": -118.4047
+ },
+ {
+   "city": "Shafter",
+   "lat": 35.4794,
+   "lng": -119.2013
+ },
+ {
+   "city": "Bombay Beach",
+   "lat": 33.3548,
+   "lng": -115.7306
+ },
+ {
+   "city": "Fairfax",
+   "lat": 37.9884,
+   "lng": -122.595
+ },
+ {
+   "city": "Round Mountain",
+   "lat": 40.8005,
+   "lng": -121.9375
+ },
+ {
+   "city": "Avocado Heights",
+   "lat": 34.0381,
+   "lng": -118.0026
+ },
+ {
+   "city": "Dunnigan",
+   "lat": 38.8926,
+   "lng": -121.9741
+ },
+ {
+   "city": "Strathmore",
+   "lat": 36.1438,
+   "lng": -119.0612
+ },
+ {
+   "city": "Inglewood",
+   "lat": 33.9566,
+   "lng": -118.3444
+ },
+ {
+   "city": "Randsburg",
+   "lat": 35.368,
+   "lng": -117.6607
+ },
+ {
+   "city": "Granite Hills",
+   "lat": 32.8033,
+   "lng": -116.9056
+ },
+ {
+   "city": "Burlingame",
+   "lat": 37.586,
+   "lng": -122.3669
+ },
+ {
+   "city": "Keddie",
+   "lat": 40.0059,
+   "lng": -120.9525
+ },
+ {
+   "city": "Lodi",
+   "lat": 38.1218,
+   "lng": -121.2933
+ },
+ {
+   "city": "Saticoy",
+   "lat": 34.2819,
+   "lng": -119.1452
+ },
+ {
+   "city": "Avery",
+   "lat": 38.1939,
+   "lng": -120.379
+ },
+ {
+   "city": "Spreckels",
+   "lat": 36.6247,
+   "lng": -121.6465
+ },
+ {
+   "city": "South Whittier",
+   "lat": 33.9336,
+   "lng": -118.0311
+ },
+ {
+   "city": "Boron",
+   "lat": 35.0164,
+   "lng": -117.6659
+ },
+ {
+   "city": "Cherry Valley",
+   "lat": 33.9797,
+   "lng": -116.9694
+ },
+ {
+   "city": "Milpitas",
+   "lat": 37.434,
+   "lng": -121.8921
+ },
+ {
+   "city": "El Sobrante",
+   "lat": 33.8724,
+   "lng": -117.4624
+ },
+ {
+   "city": "Exeter",
+   "lat": 36.294,
+   "lng": -119.1459
+ },
+ {
+   "city": "Whitewater",
+   "lat": 33.9356,
+   "lng": -116.6873
+ },
+ {
+   "city": "Inyokern",
+   "lat": 35.6546,
+   "lng": -117.8213
+ },
+ {
+   "city": "Rackerby",
+   "lat": 39.4261,
+   "lng": -121.3542
+ },
+ {
+   "city": "Pajaro Dunes",
+   "lat": 36.8722,
+   "lng": -121.8101
+ },
+ {
+   "city": "Adin",
+   "lat": 41.1964,
+   "lng": -120.9494
+ },
+ {
+   "city": "Lake Nacimiento",
+   "lat": 35.7309,
+   "lng": -120.8702
+ },
+ {
+   "city": "Live Oak",
+   "lat": 39.2788,
+   "lng": -121.6624
+ },
+ {
+   "city": "Fort Jones",
+   "lat": 41.6086,
+   "lng": -122.8409
+ },
+ {
+   "city": "Rancho Cordova",
+   "lat": 38.574,
+   "lng": -121.2523
+ },
+ {
+   "city": "Black Point-Green Point",
+   "lat": 38.112,
+   "lng": -122.519
+ },
+ {
+   "city": "Manhattan Beach",
+   "lat": 33.8895,
+   "lng": -118.3972
+ },
+ {
+   "city": "Montecito",
+   "lat": 34.4382,
+   "lng": -119.6286
+ },
+ {
+   "city": "El Monte",
+   "lat": 34.0739,
+   "lng": -118.0291
+ },
+ {
+   "city": "Bostonia",
+   "lat": 32.8189,
+   "lng": -116.9479
+ },
+ {
+   "city": "Palo Cedro",
+   "lat": 40.5511,
+   "lng": -122.2363
+ },
+ {
+   "city": "Belmont",
+   "lat": 37.5154,
+   "lng": -122.2955
+ },
+ {
+   "city": "Robbins",
+   "lat": 38.8672,
+   "lng": -121.7055
+ },
+ {
+   "city": "Woodacre",
+   "lat": 38.0052,
+   "lng": -122.6384
+ },
+ {
+   "city": "Sugarloaf Mountain Park",
+   "lat": 35.8379,
+   "lng": -118.6039
+ },
+ {
+   "city": "Willowbrook",
+   "lat": 33.9199,
+   "lng": -118.2362
+ },
+ {
+   "city": "Mather",
+   "lat": 38.5489,
+   "lng": -121.2832
+ },
+ {
+   "city": "Los Berros",
+   "lat": 35.0809,
+   "lng": -120.5451
+ },
+ {
+   "city": "Waterloo",
+   "lat": 38.0365,
+   "lng": -121.1846
+ },
+ {
+   "city": "Callender",
+   "lat": 35.048,
+   "lng": -120.5759
+ },
+ {
+   "city": "Carmet",
+   "lat": 38.3743,
+   "lng": -123.072
+ },
+ {
+   "city": "Yosemite Lakes",
+   "lat": 37.1886,
+   "lng": -119.7723
+ },
+ {
+   "city": "Buckhorn",
+   "lat": 38.4532,
+   "lng": -120.5354
+ },
+ {
+   "city": "Edmundson Acres",
+   "lat": 35.2273,
+   "lng": -118.8233
+ },
+ {
+   "city": "Grenada",
+   "lat": 41.6406,
+   "lng": -122.526
+ },
+ {
+   "city": "Montclair",
+   "lat": 34.0714,
+   "lng": -117.6981
+ },
+ {
+   "city": "Buck Meadows",
+   "lat": 37.8127,
+   "lng": -120.0653
+ },
+ {
+   "city": "Grimes",
+   "lat": 39.0742,
+   "lng": -121.8988
+ },
+ {
+   "city": "Hayfork",
+   "lat": 40.561,
+   "lng": -123.1299
+ },
+ {
+   "city": "Indio",
+   "lat": 33.7346,
+   "lng": -116.2346
+ },
+ {
+   "city": "Sierra City",
+   "lat": 39.574,
+   "lng": -120.6297
+ },
+ {
+   "city": "Mission Hills",
+   "lat": 34.6861,
+   "lng": -120.4405
+ },
+ {
+   "city": "Valley Acres",
+   "lat": 35.2087,
+   "lng": -119.4106
+ },
+ {
+   "city": "Montebello",
+   "lat": 34.0155,
+   "lng": -118.1108
+ },
+ {
+   "city": "Newell",
+   "lat": 41.8898,
+   "lng": -121.3675
+ },
+ {
+   "city": "Parksdale",
+   "lat": 36.9462,
+   "lng": -120.0218
+ },
+ {
+   "city": "Graton",
+   "lat": 38.4376,
+   "lng": -122.866
+ },
+ {
+   "city": "Livingston",
+   "lat": 37.3875,
+   "lng": -120.7248
+ },
+ {
+   "city": "Traver",
+   "lat": 36.4526,
+   "lng": -119.4824
+ },
+ {
+   "city": "Floriston",
+   "lat": 39.393,
+   "lng": -120.0145
+ },
+ {
+   "city": "Montague",
+   "lat": 41.7275,
+   "lng": -122.5302
+ },
+ {
+   "city": "Mesa",
+   "lat": 37.4189,
+   "lng": -118.5424
+ },
+ {
+   "city": "Lompico",
+   "lat": 37.1101,
+   "lng": -122.0523
+ },
+ {
+   "city": "Hidden Meadows",
+   "lat": 33.2236,
+   "lng": -117.1198
+ },
+ {
+   "city": "La Vina",
+   "lat": 36.8799,
+   "lng": -120.1147
+ },
+ {
+   "city": "Lindsay",
+   "lat": 36.2082,
+   "lng": -119.0897
+ },
+ {
+   "city": "Bass Lake",
+   "lat": 37.328,
+   "lng": -119.5668
+ },
+ {
+   "city": "Calimesa",
+   "lat": 33.9874,
+   "lng": -117.0542
+ },
+ {
+   "city": "Thousand Palms",
+   "lat": 33.815,
+   "lng": -116.3545
+ },
+ {
+   "city": "Modesto",
+   "lat": 37.6374,
+   "lng": -121.0028
+ },
+ {
+   "city": "Pico Rivera",
+   "lat": 33.9902,
+   "lng": -118.0888
+ },
+ {
+   "city": "East Rancho Dominguez",
+   "lat": 33.8949,
+   "lng": -118.1956
+ },
+ {
+   "city": "Maricopa",
+   "lat": 35.0517,
+   "lng": -119.4054
+ },
+ {
+   "city": "Wilton",
+   "lat": 38.413,
+   "lng": -121.2127
+ },
+ {
+   "city": "Ocotillo",
+   "lat": 32.7431,
+   "lng": -116.002
+ },
+ {
+   "city": "Klamath",
+   "lat": 41.5322,
+   "lng": -124.0063
+ },
+ {
+   "city": "Costa Mesa",
+   "lat": 33.6667,
+   "lng": -117.9135
+ },
+ {
+   "city": "Oceano",
+   "lat": 35.1019,
+   "lng": -120.609
+ },
+ {
+   "city": "Robinson Mill",
+   "lat": 39.4857,
+   "lng": -121.3202
+ },
+ {
+   "city": "Colusa",
+   "lat": 39.2049,
+   "lng": -122.0096
+ },
+ {
+   "city": "Meadowbrook",
+   "lat": 33.7254,
+   "lng": -117.2851
+ },
+ {
+   "city": "Hidden Valley Lake",
+   "lat": 38.8003,
+   "lng": -122.5505
+ },
+ {
+   "city": "Caruthers",
+   "lat": 36.5399,
+   "lng": -119.845
+ },
+ {
+   "city": "Potrero",
+   "lat": 32.6131,
+   "lng": -116.6068
+ },
+ {
+   "city": "Laton",
+   "lat": 36.4338,
+   "lng": -119.6916
+ },
+ {
+   "city": "Hiouchi",
+   "lat": 41.7937,
+   "lng": -124.0661
+ },
+ {
+   "city": "Fuller Acres",
+   "lat": 35.3023,
+   "lng": -118.9143
+ },
+ {
+   "city": "Herald",
+   "lat": 38.2913,
+   "lng": -121.2318
+ },
+ {
+   "city": "Furnace Creek",
+   "lat": 36.4277,
+   "lng": -116.8747
+ },
+ {
+   "city": "Lucerne Valley",
+   "lat": 34.4427,
+   "lng": -116.9021
+ },
+ {
+   "city": "Volcano",
+   "lat": 38.4456,
+   "lng": -120.6306
+ },
+ {
+   "city": "Redding",
+   "lat": 40.5698,
+   "lng": -122.365
+ },
+ {
+   "city": "Concord",
+   "lat": 37.9722,
+   "lng": -122.0016
+ },
+ {
+   "city": "West Modesto",
+   "lat": 37.618,
+   "lng": -121.0343
+ },
+ {
+   "city": "Golden Hills",
+   "lat": 35.1512,
+   "lng": -118.5024
+ },
+ {
+   "city": "Santa Fe Springs",
+   "lat": 33.933,
+   "lng": -118.0625
+ },
+ {
+   "city": "Fellows",
+   "lat": 35.178,
+   "lng": -119.5472
+ },
+ {
+   "city": "Forestville",
+   "lat": 38.4825,
+   "lng": -122.8899
+ },
+ {
+   "city": "Los Molinos",
+   "lat": 40.027,
+   "lng": -122.0981
+ },
+ {
+   "city": "Banning",
+   "lat": 33.9461,
+   "lng": -116.8991
+ },
+ {
+   "city": "Sacramento",
+   "lat": 38.5667,
+   "lng": -121.4683
+ },
+ {
+   "city": "Independence",
+   "lat": 36.8275,
+   "lng": -118.2133
+ },
+ {
+   "city": "Spring Valley Lake",
+   "lat": 34.4988,
+   "lng": -117.2684
+ },
+ {
+   "city": "Valley Ford",
+   "lat": 38.3246,
+   "lng": -122.9148
+ },
+ {
+   "city": "Plumas Eureka",
+   "lat": 39.7982,
+   "lng": -120.6645
+ },
+ {
+   "city": "Westside",
+   "lat": 36.4042,
+   "lng": -120.1344
+ },
+ {
+   "city": "Country Club",
+   "lat": 37.9687,
+   "lng": -121.3408
+ },
+ {
+   "city": "East Quincy",
+   "lat": 39.9165,
+   "lng": -120.9189
+ },
+ {
+   "city": "Rancho San Diego",
+   "lat": 32.7624,
+   "lng": -116.9197
+ },
+ {
+   "city": "Lewiston",
+   "lat": 40.6969,
+   "lng": -122.8225
+ },
+ {
+   "city": "Bonadelle Ranchos-Madera Ranchos",
+   "lat": 36.9596,
+   "lng": -119.8893
+ },
+ {
+   "city": "Teviston",
+   "lat": 35.929,
+   "lng": -119.2783
+ },
+ {
+   "city": "Lagunitas-Forest Knolls",
+   "lat": 38.018,
+   "lng": -122.6914
+ },
+ {
+   "city": "Palo Alto",
+   "lat": 37.3913,
+   "lng": -122.1467
+ },
+ {
+   "city": "Pearsonville",
+   "lat": 35.8188,
+   "lng": -117.8755
+ },
+ {
+   "city": "Bonita",
+   "lat": 32.6652,
+   "lng": -117.0296
+ },
+ {
+   "city": "Del Rio",
+   "lat": 37.7432,
+   "lng": -121.0091
+ },
+ {
+   "city": "Danville",
+   "lat": 37.8121,
+   "lng": -121.9698
+ },
+ {
+   "city": "Casa de Oro-Mount Helix",
+   "lat": 32.764,
+   "lng": -116.9687
+ },
+ {
+   "city": "Cloverdale",
+   "lat": 38.7962,
+   "lng": -123.0154
+ },
+ {
+   "city": "La Quinta",
+   "lat": 33.6536,
+   "lng": -116.2785
+ },
+ {
+   "city": "Roseland",
+   "lat": 38.4178,
+   "lng": -122.7298
+ },
+ {
+   "city": "Big Bear City",
+   "lat": 34.2536,
+   "lng": -116.7903
+ },
+ {
+   "city": "Chinese Camp",
+   "lat": 37.8703,
+   "lng": -120.4443
+ },
+ {
+   "city": "Washington",
+   "lat": 39.3591,
+   "lng": -120.7906
+ },
+ {
+   "city": "San Jacinto",
+   "lat": 33.797,
+   "lng": -116.9915
+ },
+ {
+   "city": "Carrick",
+   "lat": 41.4467,
+   "lng": -122.3635
+ },
+ {
+   "city": "Meadow Vista",
+   "lat": 39.0029,
+   "lng": -121.0304
+ },
+ {
+   "city": "Old Fig Garden",
+   "lat": 36.7989,
+   "lng": -119.8051
+ },
+ {
+   "city": "Likely",
+   "lat": 41.2254,
+   "lng": -120.5033
+ },
+ {
+   "city": "Sugarloaf Saw Mill",
+   "lat": 35.8343,
+   "lng": -118.6166
+ },
+ {
+   "city": "Riverdale Park",
+   "lat": 37.6028,
+   "lng": -121.0425
+ },
+ {
+   "city": "Tulelake",
+   "lat": 41.9533,
+   "lng": -121.4753
+ },
+ {
+   "city": "Las Flores",
+   "lat": 33.5838,
+   "lng": -117.6235
+ },
+ {
+   "city": "Biola",
+   "lat": 36.8006,
+   "lng": -120.0199
+ },
+ {
+   "city": "Los Ranchos",
+   "lat": 35.2102,
+   "lng": -120.6291
+ },
+ {
+   "city": "San Mateo",
+   "lat": 37.5522,
+   "lng": -122.3122
+ },
+ {
+   "city": "Livermore",
+   "lat": 37.6861,
+   "lng": -121.7608
+ },
+ {
+   "city": "Diablo Grande",
+   "lat": 37.4006,
+   "lng": -121.2699
+ },
+ {
+   "city": "Idyllwild-Pine Cove",
+   "lat": 33.7443,
+   "lng": -116.7257
+ },
+ {
+   "city": "Morongo Valley",
+   "lat": 34.0724,
+   "lng": -116.5627
+ },
+ {
+   "city": "Thornton",
+   "lat": 38.231,
+   "lng": -121.4249
+ },
+ {
+   "city": "San Diego",
+   "lat": 32.8312,
+   "lng": -117.1225
+ },
+ {
+   "city": "Bermuda Dunes",
+   "lat": 33.7435,
+   "lng": -116.2874
+ },
+ {
+   "city": "Copperopolis",
+   "lat": 37.9365,
+   "lng": -120.6277
+ },
+ {
+   "city": "La Crescenta-Montrose",
+   "lat": 34.2323,
+   "lng": -118.2353
+ },
+ {
+   "city": "Pine Canyon",
+   "lat": 36.1757,
+   "lng": -121.1498
+ },
+ {
+   "city": "Brookdale",
+   "lat": 37.1058,
+   "lng": -122.1106
+ },
+ {
+   "city": "Signal Hill",
+   "lat": 33.8029,
+   "lng": -118.1681
+ },
+ {
+   "city": "Stirling City",
+   "lat": 39.9064,
+   "lng": -121.5361
+ },
+ {
+   "city": "Loma Rica",
+   "lat": 39.3204,
+   "lng": -121.4038
+ },
+ {
+   "city": "Tamalpais-Homestead Valley",
+   "lat": 37.8793,
+   "lng": -122.5382
+ },
+ {
+   "city": "Tuttle",
+   "lat": 37.2965,
+   "lng": -120.3789
+ },
+ {
+   "city": "West Park",
+   "lat": 36.7055,
+   "lng": -119.8516
+ },
+ {
+   "city": "Pleasanton",
+   "lat": 37.6663,
+   "lng": -121.8805
+ },
+ {
+   "city": "March ARB",
+   "lat": 33.8888,
+   "lng": -117.2777
+ },
+ {
+   "city": "Big Lagoon",
+   "lat": 41.1592,
+   "lng": -124.1303
+ },
+ {
+   "city": "Muscoy",
+   "lat": 34.1548,
+   "lng": -117.3482
+ },
+ {
+   "city": "West Covina",
+   "lat": 34.0555,
+   "lng": -117.9112
+ },
+ {
+   "city": "Bellflower",
+   "lat": 33.888,
+   "lng": -118.1271
+ },
+ {
+   "city": "Allensworth",
+   "lat": 35.8499,
+   "lng": -119.3892
+ },
+ {
+   "city": "Lemon Hill",
+   "lat": 38.5172,
+   "lng": -121.4573
+ },
+ {
+   "city": "Fort Dick",
+   "lat": 41.8663,
+   "lng": -124.1526
+ },
+ {
+   "city": "Rancho Cucamonga",
+   "lat": 34.1248,
+   "lng": -117.5666
+ },
+ {
+   "city": "Rio del Mar",
+   "lat": 36.9608,
+   "lng": -121.8808
+ },
+ {
+   "city": "Agoura Hills",
+   "lat": 34.151,
+   "lng": -118.7608
+ },
+ {
+   "city": "St. Helena",
+   "lat": 38.5063,
+   "lng": -122.4682
+ },
+ {
+   "city": "Dorris",
+   "lat": 41.9643,
+   "lng": -121.9208
+ },
+ {
+   "city": "Lenwood",
+   "lat": 34.8861,
+   "lng": -117.1078
+ },
+ {
+   "city": "Garberville",
+   "lat": 40.1003,
+   "lng": -123.7948
+ },
+ {
+   "city": "Carmichael",
+   "lat": 38.6337,
+   "lng": -121.323
+ },
+ {
+   "city": "Richvale",
+   "lat": 39.4937,
+   "lng": -121.7507
+ },
+ {
+   "city": "New Cuyama",
+   "lat": 34.9421,
+   "lng": -119.6806
+ },
+ {
+   "city": "Tomales",
+   "lat": 38.247,
+   "lng": -122.9054
+ },
+ {
+   "city": "Anza",
+   "lat": 33.5679,
+   "lng": -116.6967
+ },
+ {
+   "city": "Rodriguez Camp",
+   "lat": 35.809,
+   "lng": -119.1388
+ },
+ {
+   "city": "Ballard",
+   "lat": 34.634,
+   "lng": -120.1156
+ },
+ {
+   "city": "Jacumba",
+   "lat": 32.6278,
+   "lng": -116.1827
+ },
+ {
+   "city": "Westley",
+   "lat": 37.5444,
+   "lng": -121.2035
+ },
+ {
+   "city": "Romoland",
+   "lat": 33.7648,
+   "lng": -117.1572
+ },
+ {
+   "city": "Santa Ana",
+   "lat": 33.7366,
+   "lng": -117.8819
+ },
+ {
+   "city": "Sunol",
+   "lat": 37.5894,
+   "lng": -121.8854
+ },
+ {
+   "city": "Lancaster",
+   "lat": 34.6934,
+   "lng": -118.1753
+ },
+ {
+   "city": "Moorpark",
+   "lat": 34.2855,
+   "lng": -118.877
+ },
+ {
+   "city": "Graeagle",
+   "lat": 39.7572,
+   "lng": -120.6486
+ },
+ {
+   "city": "Descanso",
+   "lat": 32.8696,
+   "lng": -116.6279
+ },
+ {
+   "city": "Isleton",
+   "lat": 38.1617,
+   "lng": -121.6051
+ },
+ {
+   "city": "Orange Cove",
+   "lat": 36.6211,
+   "lng": -119.3188
+ },
+ {
+   "city": "Pollock Pines",
+   "lat": 38.7564,
+   "lng": -120.5904
+ },
+ {
+   "city": "Macdoel",
+   "lat": 41.8256,
+   "lng": -122.0058
+ },
+ {
+   "city": "Vernon",
+   "lat": 34.0019,
+   "lng": -118.2106
+ },
+ {
+   "city": "West Sacramento",
+   "lat": 38.5557,
+   "lng": -121.5504
+ },
+ {
+   "city": "San Geronimo",
+   "lat": 38.0067,
+   "lng": -122.6634
+ },
+ {
+   "city": "Parlier",
+   "lat": 36.6085,
+   "lng": -119.5435
+ },
+ {
+   "city": "Long Barn",
+   "lat": 38.0957,
+   "lng": -120.1285
+ },
+ {
+   "city": "Calexico",
+   "lat": 32.6849,
+   "lng": -115.4944
+ },
+ {
+   "city": "Fairhaven",
+   "lat": 40.7885,
+   "lng": -124.2013
+ },
+ {
+   "city": "Compton",
+   "lat": 33.893,
+   "lng": -118.2275
+ },
+ {
+   "city": "San Andreas",
+   "lat": 38.1912,
+   "lng": -120.6763
+ },
+ {
+   "city": "Courtland",
+   "lat": 38.3329,
+   "lng": -121.557
+ },
+ {
+   "city": "Herlong",
+   "lat": 40.1419,
+   "lng": -120.1399
+ },
+ {
+   "city": "Desert Edge",
+   "lat": 33.9223,
+   "lng": -116.4401
+ },
+ {
+   "city": "Chester",
+   "lat": 40.3017,
+   "lng": -121.2339
+ },
+ {
+   "city": "Fort Bragg",
+   "lat": 39.44,
+   "lng": -123.8013
+ },
+ {
+   "city": "Bootjack",
+   "lat": 37.4672,
+   "lng": -119.8887
+ },
+ {
+   "city": "Wheatland",
+   "lat": 39.0287,
+   "lng": -121.39
+ },
+ {
+   "city": "Chino",
+   "lat": 33.9836,
+   "lng": -117.6654
+ },
+ {
+   "city": "Valley Ranch",
+   "lat": 39.7403,
+   "lng": -120.565
+ },
+ {
+   "city": "Valley Center",
+   "lat": 33.2331,
+   "lng": -117.0158
+ },
+ {
+   "city": "Prunedale",
+   "lat": 36.8064,
+   "lng": -121.6555
+ },
+ {
+   "city": "Taft Heights",
+   "lat": 35.1337,
+   "lng": -119.4711
+ },
+ {
+   "city": "Twain",
+   "lat": 40.0355,
+   "lng": -121.0404
+ },
+ {
+   "city": "Grizzly Flats",
+   "lat": 38.6357,
+   "lng": -120.5354
+ },
+ {
+   "city": "Junction City",
+   "lat": 40.7274,
+   "lng": -123.0615
+ },
+ {
+   "city": "Victorville",
+   "lat": 34.5277,
+   "lng": -117.3536
+ },
+ {
+   "city": "Taft Mosswood",
+   "lat": 37.914,
+   "lng": -121.2831
+ },
+ {
+   "city": "Cedarville",
+   "lat": 41.528,
+   "lng": -120.1748
+ },
+ {
+   "city": "West Goshen",
+   "lat": 36.349,
+   "lng": -119.4516
+ },
+ {
+   "city": "Onyx",
+   "lat": 35.6839,
+   "lng": -118.2102
+ },
+ {
+   "city": "Downieville",
+   "lat": 39.57,
+   "lng": -120.8213
+ },
+ {
+   "city": "Rolling Hills",
+   "lat": 33.76,
+   "lng": -118.3471
+ },
+ {
+   "city": "Mesa Verde",
+   "lat": 33.5957,
+   "lng": -114.7317
+ },
+ {
+   "city": "Sheridan",
+   "lat": 38.969,
+   "lng": -121.356
+ },
+ {
+   "city": "Hickman",
+   "lat": 37.6227,
+   "lng": -120.7532
+ },
+ {
+   "city": "Mission Canyon",
+   "lat": 34.4534,
+   "lng": -119.7125
+ },
+ {
+   "city": "Running Springs",
+   "lat": 34.2104,
+   "lng": -117.1147
+ },
+ {
+   "city": "Davenport",
+   "lat": 37.0176,
+   "lng": -122.1882
+ },
+ {
+   "city": "La Honda",
+   "lat": 37.3182,
+   "lng": -122.2651
+ },
+ {
+   "city": "Posey",
+   "lat": 35.8038,
+   "lng": -118.6786
+ },
+ {
+   "city": "Jamul",
+   "lat": 32.7184,
+   "lng": -116.8709
+ },
+ {
+   "city": "Ladera Heights",
+   "lat": 33.9972,
+   "lng": -118.374
+ },
+ {
+   "city": "Searles Valley",
+   "lat": 35.7701,
+   "lng": -117.3967
+ },
+ {
+   "city": "Kingsburg",
+   "lat": 36.5242,
+   "lng": -119.5608
+ },
+ {
+   "city": "Leona Valley",
+   "lat": 34.6147,
+   "lng": -118.299
+ },
+ {
+   "city": "Oakville",
+   "lat": 38.4384,
+   "lng": -122.4067
+ },
+ {
+   "city": "Elmira",
+   "lat": 38.3523,
+   "lng": -121.9077
+ },
+ {
+   "city": "Auburn Lake Trails",
+   "lat": 38.8917,
+   "lng": -120.9849
+ },
+ {
+   "city": "Lake Almanor Peninsula",
+   "lat": 40.2812,
+   "lng": -121.1345
+ },
+ {
+   "city": "Eldridge",
+   "lat": 38.3339,
+   "lng": -122.5065
+ },
+ {
+   "city": "Shoshone",
+   "lat": 35.951,
+   "lng": -116.3056
+ },
+ {
+   "city": "Coachella",
+   "lat": 33.6905,
+   "lng": -116.143
+ },
+ {
+   "city": "Toro Canyon",
+   "lat": 34.4235,
+   "lng": -119.5568
+ },
+ {
+   "city": "Greenview",
+   "lat": 41.5471,
+   "lng": -122.9185
+ },
+ {
+   "city": "Villa Park",
+   "lat": 33.818,
+   "lng": -117.8103
+ },
+ {
+   "city": "Campo",
+   "lat": 32.6394,
+   "lng": -116.4745
+ },
+ {
+   "city": "Morgan Hill",
+   "lat": 37.1324,
+   "lng": -121.641
+ },
+ {
+   "city": "Imperial Beach",
+   "lat": 32.5689,
+   "lng": -117.1184
+ },
+ {
+   "city": "Norco",
+   "lat": 33.9253,
+   "lng": -117.55
+ },
+ {
+   "city": "Riverdale",
+   "lat": 36.4304,
+   "lng": -119.867
+ },
+ {
+   "city": "Los Altos",
+   "lat": 37.3685,
+   "lng": -122.0966
+ },
+ {
+   "city": "Rolling Hills Estates",
+   "lat": 33.7783,
+   "lng": -118.3508
+ },
+ {
+   "city": "Middletown",
+   "lat": 38.7519,
+   "lng": -122.6221
+ },
+ {
+   "city": "Sun Village",
+   "lat": 34.5596,
+   "lng": -117.9559
+ },
+ {
+   "city": "Pismo Beach",
+   "lat": 35.1492,
+   "lng": -120.6506
+ },
+ {
+   "city": "Campbell",
+   "lat": 37.2801,
+   "lng": -121.9538
+ },
+ {
+   "city": "Fountain Valley",
+   "lat": 33.7105,
+   "lng": -117.9514
+ },
+ {
+   "city": "Trona",
+   "lat": 35.815,
+   "lng": -117.3449
+ },
+ {
+   "city": "Keeler",
+   "lat": 36.4846,
+   "lng": -117.872
+ },
+ {
+   "city": "Carmel Valley Village",
+   "lat": 36.4824,
+   "lng": -121.7198
+ },
+ {
+   "city": "El Centro",
+   "lat": 32.7867,
+   "lng": -115.5586
+ },
+ {
+   "city": "Torrance",
+   "lat": 33.8346,
+   "lng": -118.3417
+ },
+ {
+   "city": "Oakdale",
+   "lat": 37.7616,
+   "lng": -120.8471
+ },
+ {
+   "city": "San Juan Bautista",
+   "lat": 36.8457,
+   "lng": -121.5384
+ },
+ {
+   "city": "Holtville",
+   "lat": 32.8129,
+   "lng": -115.3779
+ },
+ {
+   "city": "East Orosi",
+   "lat": 36.5481,
+   "lng": -119.2599
+ },
+ {
+   "city": "Newcastle",
+   "lat": 38.8678,
+   "lng": -121.1318
+ },
+ {
+   "city": "Clearlake Riviera",
+   "lat": 38.9512,
+   "lng": -122.7207
+ },
+ {
+   "city": "Vacaville",
+   "lat": 38.359,
+   "lng": -121.968
+ },
+ {
+   "city": "Quartz Hill",
+   "lat": 34.6527,
+   "lng": -118.2163
+ },
+ {
+   "city": "Chualar",
+   "lat": 36.5711,
+   "lng": -121.5103
+ },
+ {
+   "city": "Palermo",
+   "lat": 39.4313,
+   "lng": -121.5226
+ },
+ {
+   "city": "Nice",
+   "lat": 39.1266,
+   "lng": -122.8525
+ },
+ {
+   "city": "Seaside",
+   "lat": 36.6224,
+   "lng": -121.8191
+ },
+ {
+   "city": "Simi Valley",
+   "lat": 34.2663,
+   "lng": -118.749
+ },
+ {
+   "city": "Plainview",
+   "lat": 36.1423,
+   "lng": -119.1375
+ },
+ {
+   "city": "Beckwourth",
+   "lat": 39.8485,
+   "lng": -120.4111
+ },
+ {
+   "city": "Willows",
+   "lat": 39.5149,
+   "lng": -122.1995
+ },
+ {
+   "city": "Menlo Park",
+   "lat": 37.4686,
+   "lng": -122.1672
+ },
+ {
+   "city": "Valley Home",
+   "lat": 37.8272,
+   "lng": -120.9143
+ },
+ {
+   "city": "North Highlands",
+   "lat": 38.6713,
+   "lng": -121.3721
+ },
+ {
+   "city": "Indianola",
+   "lat": 40.8133,
+   "lng": -124.0808
+ },
+ {
+   "city": "Mission Viejo",
+   "lat": 33.6095,
+   "lng": -117.655
+ },
+ {
+   "city": "Alamo",
+   "lat": 37.8546,
+   "lng": -122.0131
+ },
+ {
+   "city": "Rail Road Flat",
+   "lat": 38.3168,
+   "lng": -120.491
+ },
+ {
+   "city": "Thermalito",
+   "lat": 39.4909,
+   "lng": -121.615
+ },
+ {
+   "city": "Lomita",
+   "lat": 33.7933,
+   "lng": -118.3175
+ },
+ {
+   "city": "Potter Valley",
+   "lat": 39.319,
+   "lng": -123.1123
+ },
+ {
+   "city": "Indian Wells",
+   "lat": 33.7036,
+   "lng": -116.3396
+ },
+ {
+   "city": "Lower Lake",
+   "lat": 38.9118,
+   "lng": -122.6084
+ },
+ {
+   "city": "Burbank",
+   "lat": 34.1879,
+   "lng": -118.3235
+ },
+ {
+   "city": "Casa Conejo",
+   "lat": 34.1847,
+   "lng": -118.9445
+ },
+ {
+   "city": "Rosedale",
+   "lat": 35.3887,
+   "lng": -119.2058
+ },
+ {
+   "city": "Coronado",
+   "lat": 32.664,
+   "lng": -117.16
+ },
+ {
+   "city": "Warm Springs",
+   "lat": 33.7067,
+   "lng": -117.3344
+ },
+ {
+   "city": "Dustin Acres",
+   "lat": 35.2159,
+   "lng": -119.375
+ },
+ {
+   "city": "Yucca Valley",
+   "lat": 34.1234,
+   "lng": -116.4216
+ },
+ {
+   "city": "Maxwell",
+   "lat": 39.2771,
+   "lng": -122.1946
+ },
+ {
+   "city": "Patton Village",
+   "lat": 40.1401,
+   "lng": -120.1778
+ },
+ {
+   "city": "Upland",
+   "lat": 34.1178,
+   "lng": -117.6604
+ },
+ {
+   "city": "El Cerrito",
+   "lat": 37.9197,
+   "lng": -122.3025
+ },
+ {
+   "city": "Shingletown",
+   "lat": 40.5035,
+   "lng": -121.86
+ },
+ {
+   "city": "Anderson",
+   "lat": 40.451,
+   "lng": -122.2962
+ },
+ {
+   "city": "Bloomington",
+   "lat": 34.0601,
+   "lng": -117.4013
+ },
+ {
+   "city": "Palm Springs",
+   "lat": 33.8017,
+   "lng": -116.5382
+ },
+ {
+   "city": "Atherton",
+   "lat": 37.4539,
+   "lng": -122.2032
+ },
+ {
+   "city": "Needles",
+   "lat": 34.8164,
+   "lng": -114.6189
+ },
+ {
+   "city": "Clipper Mills",
+   "lat": 39.5324,
+   "lng": -121.1666
+ },
+ {
+   "city": "Weldon",
+   "lat": 35.6431,
+   "lng": -118.3103
+ },
+ {
+   "city": "Altadena",
+   "lat": 34.1928,
+   "lng": -118.1345
+ },
+ {
+   "city": "National City",
+   "lat": 32.6654,
+   "lng": -117.0983
+ },
+ {
+   "city": "Foresthill",
+   "lat": 39.0053,
+   "lng": -120.8313
+ },
+ {
+   "city": "Daphnedale Park",
+   "lat": 41.5089,
+   "lng": -120.5507
+ },
+ {
+   "city": "American Canyon",
+   "lat": 38.1796,
+   "lng": -122.2583
+ },
+ {
+   "city": "Plymouth",
+   "lat": 38.4776,
+   "lng": -120.8584
+ },
+ {
+   "city": "Rialto",
+   "lat": 34.1175,
+   "lng": -117.3894
+ },
+ {
+   "city": "Rohnert Park",
+   "lat": 38.348,
+   "lng": -122.6964
+ },
+ {
+   "city": "Dinuba",
+   "lat": 36.5453,
+   "lng": -119.3987
+ },
+ {
+   "city": "Pacific Grove",
+   "lat": 36.6191,
+   "lng": -121.9255
+ },
+ {
+   "city": "Rosamond",
+   "lat": 34.8658,
+   "lng": -118.2154
+ },
+ {
+   "city": "Roseville",
+   "lat": 38.7691,
+   "lng": -121.3178
+ },
+ {
+   "city": "Angels",
+   "lat": 38.0706,
+   "lng": -120.5501
+ },
+ {
+   "city": "Occidental",
+   "lat": 38.4004,
+   "lng": -122.9349
+ },
+ {
+   "city": "Vista",
+   "lat": 33.1896,
+   "lng": -117.2386
+ },
+ {
+   "city": "Phelan",
+   "lat": 34.4398,
+   "lng": -117.5248
+ },
+ {
+   "city": "Sunnyside",
+   "lat": 36.7294,
+   "lng": -119.6945
+ },
+ {
+   "city": "Johnstonville",
+   "lat": 40.3789,
+   "lng": -120.5846
+ },
+ {
+   "city": "Inverness",
+   "lat": 38.0821,
+   "lng": -122.8471
+ },
+ {
+   "city": "Acton",
+   "lat": 34.4956,
+   "lng": -118.1858
+ },
+ {
+   "city": "Pasadena",
+   "lat": 34.1597,
+   "lng": -118.139
+ },
+ {
+   "city": "Alleghany",
+   "lat": 39.4666,
+   "lng": -120.841
+ },
+ {
+   "city": "Tres Pinos",
+   "lat": 36.7904,
+   "lng": -121.3106
+ },
+ {
+   "city": "Castaic",
+   "lat": 34.4818,
+   "lng": -118.6317
+ },
+ {
+   "city": "Stonyford",
+   "lat": 39.3703,
+   "lng": -122.5445
+ },
+ {
+   "city": "Covelo",
+   "lat": 39.8025,
+   "lng": -123.2499
+ },
+ {
+   "city": "Vandenberg Village",
+   "lat": 34.7111,
+   "lng": -120.4623
+ },
+ {
+   "city": "Cambria",
+   "lat": 35.5523,
+   "lng": -121.0847
+ },
+ {
+   "city": "Miranda",
+   "lat": 40.2289,
+   "lng": -123.8174
+ },
+ {
+   "city": "Silverado Resort",
+   "lat": 38.3536,
+   "lng": -122.2556
+ },
+ {
+   "city": "Amesti",
+   "lat": 36.9583,
+   "lng": -121.7805
+ },
+ {
+   "city": "Planada",
+   "lat": 37.2892,
+   "lng": -120.3207
+ },
+ {
+   "city": "Hyampom",
+   "lat": 40.6262,
+   "lng": -123.4689
+ },
+ {
+   "city": "Gold Mountain",
+   "lat": 39.7613,
+   "lng": -120.5191
+ },
+ {
+   "city": "China Lake Acres",
+   "lat": 35.6387,
+   "lng": -117.7667
+ },
+ {
+   "city": "Valle Vista",
+   "lat": 33.7436,
+   "lng": -116.8872
+ },
+ {
+   "city": "Los Alamos",
+   "lat": 34.7375,
+   "lng": -120.2783
+ },
+ {
+   "city": "Pine Flat",
+   "lat": 35.8737,
+   "lng": -118.6427
+ },
+ {
+   "city": "Newark",
+   "lat": 37.5204,
+   "lng": -122.0312
+ },
+ {
+   "city": "Santee",
+   "lat": 32.8554,
+   "lng": -116.9851
+ },
+ {
+   "city": "Mi-Wuk Village",
+   "lat": 38.057,
+   "lng": -120.179
+ },
+ {
+   "city": "Sereno del Mar",
+   "lat": 38.3836,
+   "lng": -123.0732
+ },
+ {
+   "city": "Walnut Park",
+   "lat": 33.9683,
+   "lng": -118.222
+ },
+ {
+   "city": "Santa Paula",
+   "lat": 34.3521,
+   "lng": -119.0698
+ },
+ {
+   "city": "San Ardo",
+   "lat": 36.0238,
+   "lng": -120.9074
+ },
+ {
+   "city": "Del Rey",
+   "lat": 36.6562,
+   "lng": -119.5993
+ },
+ {
+   "city": "Mono Vista",
+   "lat": 38.0124,
+   "lng": -120.2697
+ },
+ {
+   "city": "Lake Forest",
+   "lat": 33.6606,
+   "lng": -117.6712
+ },
+ {
+   "city": "Sonora",
+   "lat": 37.9819,
+   "lng": -120.3828
+ },
+ {
+   "city": "Dobbins",
+   "lat": 39.3657,
+   "lng": -121.2128
+ },
+ {
+   "city": "Newport Beach",
+   "lat": 33.6151,
+   "lng": -117.8669
+ },
+ {
+   "city": "Peters",
+   "lat": 37.9763,
+   "lng": -121.0439
+ },
+ {
+   "city": "Santa Clara",
+   "lat": 37.3646,
+   "lng": -121.968
+ },
+ {
+   "city": "Pine Valley",
+   "lat": 32.8415,
+   "lng": -116.5107
+ },
+ {
+   "city": "Laguna Woods",
+   "lat": 33.6099,
+   "lng": -117.7299
+ },
+ {
+   "city": "Penngrove",
+   "lat": 38.3005,
+   "lng": -122.6707
+ },
+ {
+   "city": "Elizabeth Lake",
+   "lat": 34.659,
+   "lng": -118.3783
+ },
+ {
+   "city": "Montara",
+   "lat": 37.5482,
+   "lng": -122.4924
+ },
+ {
+   "city": "Lennox",
+   "lat": 33.938,
+   "lng": -118.3586
+ },
+ {
+   "city": "Barstow",
+   "lat": 34.8661,
+   "lng": -117.0472
+ },
+ {
+   "city": "Walnut Grove",
+   "lat": 38.2477,
+   "lng": -121.528
+ },
+ {
+   "city": "Redway",
+   "lat": 40.1209,
+   "lng": -123.822
+ },
+ {
+   "city": "Desert Palms",
+   "lat": 33.779,
+   "lng": -116.293
+ },
+ {
+   "city": "Pajaro",
+   "lat": 36.9016,
+   "lng": -121.7417
+ },
+ {
+   "city": "Mesa Vista",
+   "lat": 38.8103,
+   "lng": -119.8033
+ },
+ {
+   "city": "Azusa",
+   "lat": 34.1386,
+   "lng": -117.9124
+ },
+ {
+   "city": "Half Moon Bay",
+   "lat": 37.4688,
+   "lng": -122.4383
+ },
+ {
+   "city": "Los Gatos",
+   "lat": 37.2302,
+   "lng": -121.956
+ },
+ {
+   "city": "Pinole",
+   "lat": 37.9931,
+   "lng": -122.2834
+ },
+ {
+   "city": "Hoopa",
+   "lat": 41.0803,
+   "lng": -123.6972
+ },
+ {
+   "city": "San Anselmo",
+   "lat": 37.9821,
+   "lng": -122.5699
+ },
+ {
+   "city": "San Martin",
+   "lat": 37.0829,
+   "lng": -121.5963
+ },
+ {
+   "city": "Auberry",
+   "lat": 37.0754,
+   "lng": -119.49
+ },
+ {
+   "city": "Sky Valley",
+   "lat": 33.8912,
+   "lng": -116.3551
+ },
+ {
+   "city": "Easton",
+   "lat": 36.6524,
+   "lng": -119.7908
+ },
+ {
+   "city": "McKinleyville",
+   "lat": 40.9489,
+   "lng": -124.0857
+ },
+ {
+   "city": "Alto",
+   "lat": 37.9056,
+   "lng": -122.5187
+ },
+ {
+   "city": "Sausalito",
+   "lat": 37.858,
+   "lng": -122.4932
+ },
+ {
+   "city": "Highlands-Baywood Park",
+   "lat": 37.5227,
+   "lng": -122.3448
+ },
+ {
+   "city": "Allendale",
+   "lat": 38.4426,
+   "lng": -121.9814
+ },
+ {
+   "city": "Rosemont",
+   "lat": 38.5477,
+   "lng": -121.3553
+ },
+ {
+   "city": "Dublin",
+   "lat": 37.7161,
+   "lng": -121.8964
+ },
+ {
+   "city": "Tarpey Village",
+   "lat": 36.7941,
+   "lng": -119.7012
+ },
+ {
+   "city": "San Lorenzo",
+   "lat": 37.6737,
+   "lng": -122.1349
+ },
+ {
+   "city": "Day Valley",
+   "lat": 37.0255,
+   "lng": -121.8559
+ },
+ {
+   "city": "Paxton",
+   "lat": 40.0334,
+   "lng": -121.003
+ },
+ {
+   "city": "Cedar Slope",
+   "lat": 36.1436,
+   "lng": -118.5771
+ },
+ {
+   "city": "Seacliff",
+   "lat": 36.977,
+   "lng": -121.9176
+ },
+ {
+   "city": "Stockton",
+   "lat": 37.9766,
+   "lng": -121.3111
+ },
+ {
+   "city": "Angwin",
+   "lat": 38.5776,
+   "lng": -122.4512
+ },
+ {
+   "city": "Tecopa",
+   "lat": 35.835,
+   "lng": -116.2074
+ },
+ {
+   "city": "Durham",
+   "lat": 39.6232,
+   "lng": -121.7875
+ },
+ {
+   "city": "Orcutt",
+   "lat": 34.8668,
+   "lng": -120.4269
+ },
+ {
+   "city": "Emerald Lake Hills",
+   "lat": 37.4663,
+   "lng": -122.2675
+ },
+ {
+   "city": "Guinda",
+   "lat": 38.8274,
+   "lng": -122.1985
+ },
+ {
+   "city": "Salton Sea Beach",
+   "lat": 33.3759,
+   "lng": -116.0113
+ },
+ {
+   "city": "Fairfield",
+   "lat": 38.2594,
+   "lng": -122.0319
+ },
+ {
+   "city": "Vineyard",
+   "lat": 38.4744,
+   "lng": -121.319
+ },
+ {
+   "city": "Acalanes Ridge",
+   "lat": 37.9045,
+   "lng": -122.0786
+ },
+ {
+   "city": "North Edwards",
+   "lat": 35.0474,
+   "lng": -117.8093
+ },
+ {
+   "city": "Rosemead",
+   "lat": 34.0688,
+   "lng": -118.0823
+ },
+ {
+   "city": "Milford",
+   "lat": 40.1634,
+   "lng": -120.3686
+ },
+ {
+   "city": "Honcut",
+   "lat": 39.3326,
+   "lng": -121.5387
+ },
+ {
+   "city": "Escalon",
+   "lat": 37.7912,
+   "lng": -120.9981
+ },
+ {
+   "city": "Rossmoor",
+   "lat": 33.7886,
+   "lng": -118.0803
+ },
+ {
+   "city": "Ojai",
+   "lat": 34.4487,
+   "lng": -119.2469
+ },
+ {
+   "city": "Placerville",
+   "lat": 38.7308,
+   "lng": -120.7978
+ },
+ {
+   "city": "South El Monte",
+   "lat": 34.0493,
+   "lng": -118.0484
+ },
+ {
+   "city": "Millville",
+   "lat": 40.5576,
+   "lng": -122.1696
+ },
+ {
+   "city": "Temescal Valley",
+   "lat": 33.7581,
+   "lng": -117.4677
+ },
+ {
+   "city": "Diablo",
+   "lat": 37.8408,
+   "lng": -121.9565
+ },
+ {
+   "city": "Panorama Heights",
+   "lat": 35.8068,
+   "lng": -118.627
+ },
+ {
+   "city": "Fulton",
+   "lat": 38.4937,
+   "lng": -122.7734
+ },
+ {
+   "city": "Rancho Mirage",
+   "lat": 33.7634,
+   "lng": -116.4271
+ },
+ {
+   "city": "Yuba City",
+   "lat": 39.1357,
+   "lng": -121.6381
+ },
+ {
+   "city": "San Diego Country Estates",
+   "lat": 33.0093,
+   "lng": -116.7874
+ },
+ {
+   "city": "Capitola",
+   "lat": 36.9772,
+   "lng": -121.9539
+ },
+ {
+   "city": "Lanare",
+   "lat": 36.4377,
+   "lng": -119.9322
+ },
+ {
+   "city": "Contra Costa Centre",
+   "lat": 37.9261,
+   "lng": -122.0539
+ },
+ {
+   "city": "Kennedy Meadows",
+   "lat": 36.0076,
+   "lng": -118.11
+ },
+ {
+   "city": "Rancho Santa Margarita",
+   "lat": 33.6317,
+   "lng": -117.5989
+ },
+ {
+   "city": "North Shore",
+   "lat": 33.5157,
+   "lng": -115.9092
+ },
+ {
+   "city": "Interlaken",
+   "lat": 36.9505,
+   "lng": -121.7363
+ },
+ {
+   "city": "Homestead Valley",
+   "lat": 34.273,
+   "lng": -116.4145
+ },
+ {
+   "city": "Coleville",
+   "lat": 38.5834,
+   "lng": -119.516
+ },
+ {
+   "city": "Knightsen",
+   "lat": 37.9633,
+   "lng": -121.6511
+ },
+ {
+   "city": "Mendocino",
+   "lat": 39.311,
+   "lng": -123.7908
+ },
+ {
+   "city": "Dunsmuir",
+   "lat": 41.2319,
+   "lng": -122.2714
+ },
+ {
+   "city": "Kings Beach",
+   "lat": 39.249,
+   "lng": -120.0201
+ },
+ {
+   "city": "Myers Flat",
+   "lat": 40.2666,
+   "lng": -123.8737
+ },
+ {
+   "city": "Corona",
+   "lat": 33.862,
+   "lng": -117.5641
+ },
+ {
+   "city": "East Shore",
+   "lat": 40.2451,
+   "lng": -121.0768
+ },
+ {
+   "city": "Yreka",
+   "lat": 41.7292,
+   "lng": -122.6311
+ },
+ {
+   "city": "Beaumont",
+   "lat": 33.907,
+   "lng": -116.9762
+ },
+ {
+   "city": "Bear Creek",
+   "lat": 37.2966,
+   "lng": -120.4177
+ },
+ {
+   "city": "San Pablo",
+   "lat": 37.9628,
+   "lng": -122.3425
+ },
+ {
+   "city": "Alpine Village",
+   "lat": 38.7856,
+   "lng": -119.8009
+ },
+ {
+   "city": "Dorrington",
+   "lat": 38.2949,
+   "lng": -120.2706
+ },
+ {
+   "city": "Smith River",
+   "lat": 41.925,
+   "lng": -124.1494
+ },
+ {
+   "city": "Oakley",
+   "lat": 37.9929,
+   "lng": -121.6951
+ },
+ {
+   "city": "Agua Dulce",
+   "lat": 34.5044,
+   "lng": -118.316
+ },
+ {
+   "city": "McArthur",
+   "lat": 41.0415,
+   "lng": -121.4068
+ },
+ {
+   "city": "Oroville East",
+   "lat": 39.4947,
+   "lng": -121.4866
+ },
+ {
+   "city": "Meridian",
+   "lat": 39.1404,
+   "lng": -121.9079
+ },
+ {
+   "city": "Dixon Lane-Meadow Creek",
+   "lat": 37.3864,
+   "lng": -118.4153
+ },
+ {
+   "city": "Chino Hills",
+   "lat": 33.9507,
+   "lng": -117.7253
+ },
+ {
+   "city": "Bonsall",
+   "lat": 33.2761,
+   "lng": -117.1942
+ },
+ {
+   "city": "Folsom",
+   "lat": 38.6669,
+   "lng": -121.1422
+ },
+ {
+   "city": "Susanville",
+   "lat": 40.4205,
+   "lng": -120.6129
+ },
+ {
+   "city": "San Rafael",
+   "lat": 37.9904,
+   "lng": -122.5222
+ },
+ {
+   "city": "Calabasas",
+   "lat": 34.1375,
+   "lng": -118.6689
+ },
+ {
+   "city": "Cuyama",
+   "lat": 34.9312,
+   "lng": -119.6148
+ },
+ {
+   "city": "Wawona",
+   "lat": 37.5482,
+   "lng": -119.6395
+ },
+ {
+   "city": "Concow",
+   "lat": 39.7733,
+   "lng": -121.5196
+ },
+ {
+   "city": "Westlake Village",
+   "lat": 34.1369,
+   "lng": -118.8221
+ },
+ {
+   "city": "Sisquoc",
+   "lat": 34.8622,
+   "lng": -120.2942
+ },
+ {
+   "city": "Jackson",
+   "lat": 38.3485,
+   "lng": -120.7728
+ },
+ {
+   "city": "Trowbridge",
+   "lat": 38.9263,
+   "lng": -121.5148
+ },
+ {
+   "city": "Calistoga",
+   "lat": 38.5818,
+   "lng": -122.5824
+ },
+ {
+   "city": "Ladera Ranch",
+   "lat": 33.5491,
+   "lng": -117.6416
+ },
+ {
+   "city": "Cleone",
+   "lat": 39.4927,
+   "lng": -123.7812
+ },
+ {
+   "city": "Ford City",
+   "lat": 35.1647,
+   "lng": -119.4584
+ },
+ {
+   "city": "University of California-Davis",
+   "lat": 38.5374,
+   "lng": -121.7576
+ },
+ {
+   "city": "Oasis",
+   "lat": 33.5275,
+   "lng": -116.1261
+ },
+ {
+   "city": "Marina",
+   "lat": 36.6812,
+   "lng": -121.7894
+ },
+ {
+   "city": "San Clemente",
+   "lat": 33.4498,
+   "lng": -117.6103
+ },
+ {
+   "city": "Whittier",
+   "lat": 33.9678,
+   "lng": -118.0188
+ },
+ {
+   "city": "Mono City",
+   "lat": 38.0412,
+   "lng": -119.1466
+ },
+ {
+   "city": "Laguna Beach",
+   "lat": 33.5449,
+   "lng": -117.7613
+ },
+ {
+   "city": "Kernville",
+   "lat": 35.7531,
+   "lng": -118.4321
+ },
+ {
+   "city": "Silver City",
+   "lat": 36.4638,
+   "lng": -118.6508
+ },
+ {
+   "city": "Ripon",
+   "lat": 37.7415,
+   "lng": -121.1309
+ },
+ {
+   "city": "Mexican Colony",
+   "lat": 35.4689,
+   "lng": -119.2687
+ },
+ {
+   "city": "Bella Vista",
+   "lat": 40.6502,
+   "lng": -122.245
+ },
+ {
+   "city": "Hydesville",
+   "lat": 40.5579,
+   "lng": -124.0822
+ },
+ {
+   "city": "Niland",
+   "lat": 33.2387,
+   "lng": -115.5146
+ },
+ {
+   "city": "Bodega Bay",
+   "lat": 38.325,
+   "lng": -123.0308
+ },
+ {
+   "city": "Calpine",
+   "lat": 39.6633,
+   "lng": -120.4436
+ },
+ {
+   "city": "Hat Creek",
+   "lat": 40.8101,
+   "lng": -121.4809
+ },
+ {
+   "city": "Boulevard",
+   "lat": 32.664,
+   "lng": -116.2896
+ },
+ {
+   "city": "Carson",
+   "lat": 33.8374,
+   "lng": -118.2559
+ },
+ {
+   "city": "Guadalupe",
+   "lat": 34.9608,
+   "lng": -120.5735
+ },
+ {
+   "city": "Elkhorn",
+   "lat": 36.8103,
+   "lng": -121.7211
+ },
+ {
+   "city": "Delleker",
+   "lat": 39.8101,
+   "lng": -120.4968
+ },
+ {
+   "city": "Huntington Beach",
+   "lat": 33.696,
+   "lng": -118.0025
+ },
+ {
+   "city": "Williams",
+   "lat": 39.1487,
+   "lng": -122.1373
+ },
+ {
+   "city": "Solvang",
+   "lat": 34.5936,
+   "lng": -120.1401
+ },
+ {
+   "city": "Sebastopol",
+   "lat": 38.4,
+   "lng": -122.8277
+ },
+ {
+   "city": "Elk Grove",
+   "lat": 38.416,
+   "lng": -121.384
+ },
+ {
+   "city": "Ripley",
+   "lat": 33.5238,
+   "lng": -114.653
+ },
+ {
+   "city": "Corning",
+   "lat": 39.9282,
+   "lng": -122.182
+ },
+ {
+   "city": "Cherokee Strip",
+   "lat": 35.4698,
+   "lng": -119.2617
+ },
+ {
+   "city": "Crestline",
+   "lat": 34.2486,
+   "lng": -117.289
+ },
+ {
+   "city": "Blacklake",
+   "lat": 35.0497,
+   "lng": -120.5387
+ },
+ {
+   "city": "Irvine",
+   "lat": 33.6772,
+   "lng": -117.7738
+ },
+ {
+   "city": "San Marino",
+   "lat": 34.1224,
+   "lng": -118.1132
+ },
+ {
+   "city": "Cherryland",
+   "lat": 37.6792,
+   "lng": -122.1038
+ },
+ {
+   "city": "Baldwin Park",
+   "lat": 34.0829,
+   "lng": -117.9721
+ },
+ {
+   "city": "Bertsch-Oceanview",
+   "lat": 41.7524,
+   "lng": -124.1594
+ },
+ {
+   "city": "Fair Oaks",
+   "lat": 38.6504,
+   "lng": -121.2497
+ },
+ {
+   "city": "Arroyo Grande",
+   "lat": 35.1242,
+   "lng": -120.5845
+ },
+ {
+   "city": "Sunnyside-Tahoe City",
+   "lat": 39.1504,
+   "lng": -120.1613
+ },
+ {
+   "city": "Orland",
+   "lat": 39.7461,
+   "lng": -122.1855
+ },
+ {
+   "city": "Alhambra Valley",
+   "lat": 37.9665,
+   "lng": -122.132
+ },
+ {
+   "city": "Hughson",
+   "lat": 37.602,
+   "lng": -120.866
+ },
+ {
+   "city": "Santa Nella",
+   "lat": 37.1014,
+   "lng": -121.0153
+ },
+ {
+   "city": "Mendota",
+   "lat": 36.7555,
+   "lng": -120.3777
+ },
+ {
+   "city": "Zayante",
+   "lat": 37.0889,
+   "lng": -122.0414
+ },
+ {
+   "city": "Bonny Doon",
+   "lat": 37.0435,
+   "lng": -122.1369
+ },
+ {
+   "city": "Marysville",
+   "lat": 39.1518,
+   "lng": -121.5836
+ },
+ {
+   "city": "Tracy",
+   "lat": 37.726,
+   "lng": -121.444
+ },
+ {
+   "city": "Winters",
+   "lat": 38.532,
+   "lng": -121.9781
+ },
+ {
+   "city": "Rose Hills",
+   "lat": 34.009,
+   "lng": -118.042
+ },
+ {
+   "city": "Tehachapi",
+   "lat": 35.127,
+   "lng": -118.475
+ },
+ {
+   "city": "Mabie",
+   "lat": 39.7771,
+   "lng": -120.5447
+ },
+ {
+   "city": "East Whittier",
+   "lat": 33.9244,
+   "lng": -117.9887
+ },
+ {
+   "city": "Florence-Graham",
+   "lat": 33.9682,
+   "lng": -118.2447
+ },
+ {
+   "city": "Los Alamitos",
+   "lat": 33.7972,
+   "lng": -118.0594
+ },
+ {
+   "city": "Mad River",
+   "lat": 40.4325,
+   "lng": -123.4917
+ },
+ {
+   "city": "Madison",
+   "lat": 38.675,
+   "lng": -121.9702
+ },
+ {
+   "city": "Salida",
+   "lat": 37.7145,
+   "lng": -121.087
+ },
+ {
+   "city": "Ivanhoe",
+   "lat": 36.3886,
+   "lng": -119.2202
+ },
+ {
+   "city": "San Carlos",
+   "lat": 37.4982,
+   "lng": -122.268
+ },
+ {
+   "city": "Wasco",
+   "lat": 35.5938,
+   "lng": -119.3671
+ },
+ {
+   "city": "Magalia",
+   "lat": 39.8228,
+   "lng": -121.6078
+ },
+ {
+   "city": "North Richmond",
+   "lat": 37.9642,
+   "lng": -122.3711
+ },
+ {
+   "city": "Cassel",
+   "lat": 40.9213,
+   "lng": -121.5515
+ },
+ {
+   "city": "Hesperia",
+   "lat": 34.3975,
+   "lng": -117.3147
+ },
+ {
+   "city": "Tupman",
+   "lat": 35.2987,
+   "lng": -119.3576
+ },
+ {
+   "city": "Prattville",
+   "lat": 40.206,
+   "lng": -121.1575
+ },
+ {
+   "city": "Home Garden",
+   "lat": 36.303,
+   "lng": -119.637
+ },
+ {
+   "city": "Fairview",
+   "lat": 37.6761,
+   "lng": -122.0481
+ },
+ {
+   "city": "Storrie",
+   "lat": 39.9239,
+   "lng": -121.3188
+ },
+ {
+   "city": "Homewood Canyon",
+   "lat": 35.89,
+   "lng": -117.3863
+ },
+ {
+   "city": "Almanor",
+   "lat": 40.2146,
+   "lng": -121.1762
+ },
+ {
+   "city": "San Marcos",
+   "lat": 33.135,
+   "lng": -117.1743
+ },
+ {
+   "city": "El Segundo",
+   "lat": 33.9169,
+   "lng": -118.4021
+ },
+ {
+   "city": "Poso Park",
+   "lat": 35.8114,
+   "lng": -118.6363
+ },
+ {
+   "city": "Keyes",
+   "lat": 37.5618,
+   "lng": -120.9088
+ },
+ {
+   "city": "Mineral",
+   "lat": 40.3755,
+   "lng": -121.5694
+ },
+ {
+   "city": "La Palma",
+   "lat": 33.8504,
+   "lng": -118.0406
+ },
+ {
+   "city": "Meiners Oaks",
+   "lat": 34.4505,
+   "lng": -119.2731
+ },
+ {
+   "city": "Broadmoor",
+   "lat": 37.6914,
+   "lng": -122.4811
+ },
+ {
+   "city": "Darwin",
+   "lat": 36.2688,
+   "lng": -117.5891
+ },
+ {
+   "city": "Little Valley",
+   "lat": 40.893,
+   "lng": -121.1781
+ },
+ {
+   "city": "Weott",
+   "lat": 40.3226,
+   "lng": -123.9209
+ },
+ {
+   "city": "August",
+   "lat": 37.9796,
+   "lng": -121.2625
+ },
+ {
+   "city": "Fowler",
+   "lat": 36.6246,
+   "lng": -119.6739
+ },
+ {
+   "city": "Yountville",
+   "lat": 38.3963,
+   "lng": -122.3671
+ },
+ {
+   "city": "Willits",
+   "lat": 39.4047,
+   "lng": -123.3494
+ },
+ {
+   "city": "Big Bear Lake",
+   "lat": 34.2429,
+   "lng": -116.895
+ },
+ {
+   "city": "Clayton",
+   "lat": 37.9403,
+   "lng": -121.9301
+ },
+ {
+   "city": "Camarillo",
+   "lat": 34.223,
+   "lng": -119.0322
+ },
+ {
+   "city": "Mayflower Village",
+   "lat": 34.1159,
+   "lng": -118.0096
+ },
+ {
+   "city": "Piru",
+   "lat": 34.4075,
+   "lng": -118.7999
+ },
+ {
+   "city": "Buena Vista",
+   "lat": 38.2974,
+   "lng": -120.9179
+ },
+ {
+   "city": "Saratoga",
+   "lat": 37.2684,
+   "lng": -122.0263
+ },
+ {
+   "city": "Bodega",
+   "lat": 38.3488,
+   "lng": -122.9712
+ },
+ {
+   "city": "La Presa",
+   "lat": 32.711,
+   "lng": -117.0027
+ },
+ {
+   "city": "Channel Islands Beach",
+   "lat": 34.1586,
+   "lng": -119.2231
+ },
+ {
+   "city": "Del Aire",
+   "lat": 33.9168,
+   "lng": -118.3693
+ },
+ {
+   "city": "Shaver Lake",
+   "lat": 37.0971,
+   "lng": -119.3245
+ },
+ {
+   "city": "Stinson Beach",
+   "lat": 37.9051,
+   "lng": -122.6457
+ },
+ {
+   "city": "Oxnard",
+   "lat": 34.1962,
+   "lng": -119.1819
+ },
+ {
+   "city": "Valley Springs",
+   "lat": 38.1837,
+   "lng": -120.815
+ },
+ {
+   "city": "San Luis Obispo",
+   "lat": 35.267,
+   "lng": -120.6689
+ },
+ {
+   "city": "Yucaipa",
+   "lat": 34.0336,
+   "lng": -117.043
+ },
+ {
+   "city": "Gilroy",
+   "lat": 37.0047,
+   "lng": -121.5856
+ },
+ {
+   "city": "Temecula",
+   "lat": 33.4928,
+   "lng": -117.1315
+ },
+ {
+   "city": "Kenwood",
+   "lat": 38.4153,
+   "lng": -122.5387
+ },
+ {
+   "city": "La Mesa",
+   "lat": 32.7703,
+   "lng": -117.0204
+ },
+ {
+   "city": "Escondido",
+   "lat": 33.1347,
+   "lng": -117.0723
+ },
+ {
+   "city": "Hilmar-Irwin",
+   "lat": 37.4045,
+   "lng": -120.8504
+ },
+ {
+   "city": "Verdi",
+   "lat": 39.5237,
+   "lng": -120.0164
+ },
+ {
+   "city": "Penryn",
+   "lat": 38.8478,
+   "lng": -121.1699
+ },
+ {
+   "city": "Arnold",
+   "lat": 38.2423,
+   "lng": -120.3547
+ },
+ {
+   "city": "Blackhawk",
+   "lat": 37.816,
+   "lng": -121.9071
+ },
+ {
+   "city": "Greeley Hill",
+   "lat": 37.7569,
+   "lng": -120.129
+ },
+ {
+   "city": "King City",
+   "lat": 36.2166,
+   "lng": -121.133
+ },
+ {
+   "city": "Sierra Village",
+   "lat": 38.0768,
+   "lng": -120.1624
+ },
+ {
+   "city": "North Gate",
+   "lat": 37.9062,
+   "lng": -121.9981
+ },
+ {
+   "city": "Alta Sierra",
+   "lat": 39.1237,
+   "lng": -121.0523
+ },
+ {
+   "city": "Centerville",
+   "lat": 36.7361,
+   "lng": -119.496
+ },
+ {
+   "city": "Wilsonia",
+   "lat": 36.7346,
+   "lng": -118.9558
+ },
+ {
+   "city": "Woodland",
+   "lat": 38.6712,
+   "lng": -121.75
+ },
+ {
+   "city": "Tiburon",
+   "lat": 37.8854,
+   "lng": -122.4637
+ },
+ {
+   "city": "Manila",
+   "lat": 40.8513,
+   "lng": -124.1631
+ },
+ {
+   "city": "Santa Margarita",
+   "lat": 35.3894,
+   "lng": -120.6084
+ },
+ {
+   "city": "Camp Nelson",
+   "lat": 36.142,
+   "lng": -118.6107
+ },
+ {
+   "city": "Oceanside",
+   "lat": 33.2247,
+   "lng": -117.3083
+ },
+ {
+   "city": "South San Jose Hills",
+   "lat": 34.0123,
+   "lng": -117.9041
+ },
+ {
+   "city": "Weed",
+   "lat": 41.4128,
+   "lng": -122.3816
+ },
+ {
+   "city": "Mountain House",
+   "lat": 37.774,
+   "lng": -121.5452
+ },
+ {
+   "city": "Big Bend",
+   "lat": 41.0108,
+   "lng": -121.9239
+ },
+ {
+   "city": "Boyes Hot Springs",
+   "lat": 38.3126,
+   "lng": -122.4888
+ },
+ {
+   "city": "Lake Davis",
+   "lat": 39.8564,
+   "lng": -120.463
+ },
+ {
+   "city": "Alturas",
+   "lat": 41.4898,
+   "lng": -120.5516
+ },
+ {
+   "city": "Monson",
+   "lat": 36.4927,
+   "lng": -119.3358
+ },
+ {
+   "city": "Daly City",
+   "lat": 37.6863,
+   "lng": -122.4684
+ },
+ {
+   "city": "Sierra Brooks",
+   "lat": 39.6426,
+   "lng": -120.2153
+ },
+ {
+   "city": "London",
+   "lat": 36.481,
+   "lng": -119.444
+ },
+ {
+   "city": "Eureka",
+   "lat": 40.7941,
+   "lng": -124.1568
+ },
+ {
+   "city": "Aliso Viejo",
+   "lat": 33.5792,
+   "lng": -117.7289
+ },
+ {
+   "city": "Sunnyvale",
+   "lat": 37.3836,
+   "lng": -122.0257
+ },
+ {
+   "city": "Soda Bay",
+   "lat": 39.0024,
+   "lng": -122.7794
+ },
+ {
+   "city": "Cathedral City",
+   "lat": 33.8363,
+   "lng": -116.4642
+ },
+ {
+   "city": "East Richmond Heights",
+   "lat": 37.9451,
+   "lng": -122.314
+ },
+ {
+   "city": "Hermosa Beach",
+   "lat": 33.8654,
+   "lng": -118.3966
+ },
+ {
+   "city": "Lake Almanor Country Club",
+   "lat": 40.2578,
+   "lng": -121.147
+ },
+ {
+   "city": "Brisbane",
+   "lat": 37.6898,
+   "lng": -122.4019
+ },
+ {
+   "city": "Cerritos",
+   "lat": 33.8677,
+   "lng": -118.0686
+ },
+ {
+   "city": "Corte Madera",
+   "lat": 37.9238,
+   "lng": -122.5129
+ },
+ {
+   "city": "Reliez Valley",
+   "lat": 37.9399,
+   "lng": -122.1026
+ },
+ {
+   "city": "Tobin",
+   "lat": 39.9361,
+   "lng": -121.2959
+ },
+ {
+   "city": "Mountain View",
+   "lat": 37.4,
+   "lng": -122.0796
+ },
+ {
+   "city": "Pleasure Point",
+   "lat": 36.9618,
+   "lng": -121.9715
+ },
+ {
+   "city": "Ross",
+   "lat": 37.9638,
+   "lng": -122.5615
+ },
+ {
+   "city": "Ponderosa",
+   "lat": 36.105,
+   "lng": -118.5293
+ },
+ {
+   "city": "Firebaugh",
+   "lat": 36.8534,
+   "lng": -120.4537
+ },
+ {
+   "city": "Selma",
+   "lat": 36.5744,
+   "lng": -119.6156
+ },
+ {
+   "city": "Portola Valley",
+   "lat": 37.3713,
+   "lng": -122.2203
+ },
+ {
+   "city": "Lodoga",
+   "lat": 39.3041,
+   "lng": -122.5058
+ },
+ {
+   "city": "Sugarloaf Village",
+   "lat": 35.8269,
+   "lng": -118.6355
+ },
+ {
+   "city": "Walnut Creek",
+   "lat": 37.9025,
+   "lng": -122.0398
+ },
+ {
+   "city": "Ferndale",
+   "lat": 40.5799,
+   "lng": -124.2619
+ },
+ {
+   "city": "Fortuna",
+   "lat": 40.586,
+   "lng": -124.1424
+ },
+ {
+   "city": "Artesia",
+   "lat": 33.8676,
+   "lng": -118.0806
+ },
+ {
+   "city": "Kennedy",
+   "lat": 37.929,
+   "lng": -121.2457
+ },
+ {
+   "city": "Salinas",
+   "lat": 36.6884,
+   "lng": -121.6317
+ },
+ {
+   "city": "Rancho Santa Fe",
+   "lat": 33.024,
+   "lng": -117.1992
+ },
+ {
+   "city": "Burnt Ranch",
+   "lat": 40.8111,
+   "lng": -123.5082
+ },
+ {
+   "city": "Clay",
+   "lat": 38.314,
+   "lng": -121.1596
+ },
+ {
+   "city": "Rio Vista",
+   "lat": 38.1761,
+   "lng": -121.7034
+ },
+ {
+   "city": "Hayward",
+   "lat": 37.6328,
+   "lng": -122.0772
+ },
+ {
+   "city": "Butte Creek Canyon",
+   "lat": 39.7489,
+   "lng": -121.6969
+ },
+ {
+   "city": "Jamestown",
+   "lat": 37.9574,
+   "lng": -120.411
+ },
+ {
+   "city": "San Miguel",
+   "lat": 37.8867,
+   "lng": -122.0369
+ },
+ {
+   "city": "College City",
+   "lat": 39.0063,
+   "lng": -122.0068
+ },
+ {
+   "city": "Colfax",
+   "lat": 39.0938,
+   "lng": -120.9532
+ },
+ {
+   "city": "June Lake",
+   "lat": 37.7677,
+   "lng": -119.1022
+ },
+ {
+   "city": "Yankee Hill",
+   "lat": 39.7007,
+   "lng": -121.5147
+ },
+ {
+   "city": "Lucas Valley-Marinwood",
+   "lat": 38.0405,
+   "lng": -122.5765
+ },
+ {
+   "city": "Douglas City",
+   "lat": 40.6636,
+   "lng": -122.9261
+ },
+ {
+   "city": "Pioneer",
+   "lat": 38.4355,
+   "lng": -120.5848
+ },
+ {
+   "city": "Eucalyptus Hills",
+   "lat": 32.885,
+   "lng": -116.9453
+ },
+ {
+   "city": "Boulder Creek",
+   "lat": 37.1341,
+   "lng": -122.1271
+ },
+ {
+   "city": "McFarland",
+   "lat": 35.6781,
+   "lng": -119.2414
+ },
+ {
+   "city": "Mountain Center",
+   "lat": 33.7112,
+   "lng": -116.7248
+ },
+ {
+   "city": "Tonyville",
+   "lat": 36.2474,
+   "lng": -119.0903
+ },
+ {
+   "city": "El Paso de Robles",
+   "lat": 35.6394,
+   "lng": -120.656
+ },
+ {
+   "city": "Palmdale",
+   "lat": 34.5944,
+   "lng": -118.1057
+ },
+ {
+   "city": "Nicasio",
+   "lat": 38.0606,
+   "lng": -122.7008
+ },
+ {
+   "city": "McClellan Park",
+   "lat": 38.6631,
+   "lng": -121.4015
+ },
+ {
+   "city": "Industry",
+   "lat": 34.0175,
+   "lng": -117.9268
+ },
+ {
+   "city": "Chilcoot-Vinton",
+   "lat": 39.8067,
+   "lng": -120.1388
+ },
+ {
+   "city": "Garnet",
+   "lat": 33.9179,
+   "lng": -116.4796
+ },
+ {
+   "city": "Lake Riverside",
+   "lat": 33.5173,
+   "lng": -116.8107
+ },
+ {
+   "city": "Lakeview",
+   "lat": 33.8285,
+   "lng": -117.1233
+ },
+ {
+   "city": "Duarte",
+   "lat": 34.1609,
+   "lng": -117.9504
+ },
+ {
+   "city": "San Juan Capistrano",
+   "lat": 33.5009,
+   "lng": -117.6544
+ },
+ {
+   "city": "Wofford Heights",
+   "lat": 35.7127,
+   "lng": -118.4731
+ },
+ {
+   "city": "Arvin",
+   "lat": 35.1944,
+   "lng": -118.8306
+ },
+ {
+   "city": "Monterey Park",
+   "lat": 34.0497,
+   "lng": -118.1326
+ },
+ {
+   "city": "Turlock",
+   "lat": 37.5053,
+   "lng": -120.8587
+ },
+ {
+   "city": "Indio Hills",
+   "lat": 33.8411,
+   "lng": -116.2484
+ },
+ {
+   "city": "Mecca",
+   "lat": 33.5767,
+   "lng": -116.0645
+ },
+ {
+   "city": "Downey",
+   "lat": 33.9379,
+   "lng": -118.1312
+ },
+ {
+   "city": "Alameda",
+   "lat": 37.767,
+   "lng": -122.2673
+ },
+ {
+   "city": "Three Rivers",
+   "lat": 36.4319,
+   "lng": -118.8806
+ },
+ {
+   "city": "Pine Mountain Club",
+   "lat": 34.8446,
+   "lng": -119.1669
+ },
+ {
+   "city": "Pasatiempo",
+   "lat": 37.0035,
+   "lng": -122.0265
+ },
+ {
+   "city": "Salton City",
+   "lat": 33.2994,
+   "lng": -115.9609
+ },
+ {
+   "city": "Sleepy Hollow",
+   "lat": 38.012,
+   "lng": -122.5877
+ },
+ {
+   "city": "Lake Mathews",
+   "lat": 33.825,
+   "lng": -117.3683
+ },
+ {
+   "city": "McGee Creek",
+   "lat": 37.5727,
+   "lng": -118.791
+ },
+ {
+   "city": "Rouse",
+   "lat": 37.6195,
+   "lng": -121.0084
+ },
+ {
+   "city": "Hornitos",
+   "lat": 37.5034,
+   "lng": -120.242
+ },
+ {
+   "city": "Tipton",
+   "lat": 36.0585,
+   "lng": -119.313
+ },
+ {
+   "city": "Stanford",
+   "lat": 37.4252,
+   "lng": -122.1674
+ },
+ {
+   "city": "Beverly Hills",
+   "lat": 34.0786,
+   "lng": -118.4021
+ },
+ {
+   "city": "Benton",
+   "lat": 37.8189,
+   "lng": -118.4845
+ },
+ {
+   "city": "Strawberry",
+   "lat": 37.8925,
+   "lng": -122.5078
+ },
+ {
+   "city": "Los Altos Hills",
+   "lat": 37.3672,
+   "lng": -122.139
+ },
+ {
+   "city": "Little River",
+   "lat": 39.2703,
+   "lng": -123.7817
+ },
+ {
+   "city": "Bucks Lake",
+   "lat": 39.8798,
+   "lng": -121.1941
+ },
+ {
+   "city": "Chowchilla",
+   "lat": 37.1095,
+   "lng": -120.2349
+ },
+ {
+   "city": "Bishop",
+   "lat": 37.3665,
+   "lng": -118.3958
+ },
+ {
+   "city": "University of California-Merced",
+   "lat": 37.3666,
+   "lng": -120.419
+ },
+ {
+   "city": "Hartley",
+   "lat": 38.4203,
+   "lng": -121.9521
+ },
+ {
+   "city": "Valinda",
+   "lat": 34.04,
+   "lng": -117.9301
+ },
+ {
+   "city": "Commerce",
+   "lat": 33.9963,
+   "lng": -118.1519
+ },
+ {
+   "city": "Vandenberg AFB",
+   "lat": 34.7483,
+   "lng": -120.5182
+ },
+ {
+   "city": "Thermal",
+   "lat": 33.6262,
+   "lng": -116.1309
+ },
+ {
+   "city": "Topanga",
+   "lat": 34.0964,
+   "lng": -118.6053
+ },
+ {
+   "city": "Temelec",
+   "lat": 38.2577,
+   "lng": -122.4982
+ },
+ {
+   "city": "Hasley Canyon",
+   "lat": 34.4817,
+   "lng": -118.6665
+ },
+ {
+   "city": "Paynes Creek",
+   "lat": 40.341,
+   "lng": -121.9174
+ },
+ {
+   "city": "Malaga",
+   "lat": 36.6816,
+   "lng": -119.7318
+ },
+ {
+   "city": "Hawthorne",
+   "lat": 33.9146,
+   "lng": -118.3476
+ },
+ {
+   "city": "Cantua Creek",
+   "lat": 36.5001,
+   "lng": -120.3164
+ },
+ {
+   "city": "Rancho Tehama Reserve",
+   "lat": 40.001,
+   "lng": -122.4418
+ },
+ {
+   "city": "Spring Valley",
+   "lat": 32.7317,
+   "lng": -116.9766
+ },
+ {
+   "city": "Belden",
+   "lat": 40.004,
+   "lng": -121.2541
+ },
+ {
+   "city": "Lakehead",
+   "lat": 40.9007,
+   "lng": -122.3924
+ },
+ {
+   "city": "San Pasqual",
+   "lat": 34.1392,
+   "lng": -118.1025
+ },
+ {
+   "city": "Santa Barbara",
+   "lat": 34.4285,
+   "lng": -119.7202
+ },
+ {
+   "city": "Highgrove",
+   "lat": 34.0106,
+   "lng": -117.3098
+ },
+ {
+   "city": "Nipinnawasee",
+   "lat": 37.4031,
+   "lng": -119.7293
+ },
+ {
+   "city": "Kensington",
+   "lat": 37.9084,
+   "lng": -122.2805
+ },
+ {
+   "city": "Cazadero",
+   "lat": 38.5265,
+   "lng": -123.0978
+ },
+ {
+   "city": "Winton",
+   "lat": 37.3854,
+   "lng": -120.6173
+ },
+ {
+   "city": "Garey",
+   "lat": 34.8869,
+   "lng": -120.3141
+ },
+ {
+   "city": "Tahoma",
+   "lat": 39.0633,
+   "lng": -120.1438
+ },
+ {
+   "city": "Rancho Murieta",
+   "lat": 38.5085,
+   "lng": -121.0716
+ },
+ {
+   "city": "Stallion Springs",
+   "lat": 35.0935,
+   "lng": -118.6477
+ },
+ {
+   "city": "Mettler",
+   "lat": 35.0635,
+   "lng": -118.9729
+ },
+ {
+   "city": "Healdsburg",
+   "lat": 38.6229,
+   "lng": -122.8651
+ },
+ {
+   "city": "Farmington",
+   "lat": 37.9299,
+   "lng": -121.0044
+ },
+ {
+   "city": "Mayfair",
+   "lat": 36.7694,
+   "lng": -119.7612
+ },
+ {
+   "city": "Coronita",
+   "lat": 33.876,
+   "lng": -117.611
+ },
+ {
+   "city": "Felton",
+   "lat": 37.0392,
+   "lng": -122.0804
+ },
+ {
+   "city": "Hillsborough",
+   "lat": 37.5573,
+   "lng": -122.3587
+ },
+ {
+   "city": "Point Reyes Station",
+   "lat": 38.0847,
+   "lng": -122.8093
+ },
+ {
+   "city": "Tranquillity",
+   "lat": 36.648,
+   "lng": -120.2526
+ },
+ {
+   "city": "Nord",
+   "lat": 39.7739,
+   "lng": -121.9548
+ },
+ {
+   "city": "La Habra Heights",
+   "lat": 33.9603,
+   "lng": -117.9509
+ },
+ {
+   "city": "Madera Acres",
+   "lat": 37.0123,
+   "lng": -120.0799
+ },
+ {
+   "city": "Crest",
+   "lat": 32.8,
+   "lng": -116.8671
+ },
+ {
+   "city": "Lakewood",
+   "lat": 33.8471,
+   "lng": -118.1221
+ },
+ {
+   "city": "Paradise",
+   "lat": 39.7558,
+   "lng": -121.6063
+ },
+ {
+   "city": "Rollingwood",
+   "lat": 37.9655,
+   "lng": -122.3305
+ },
+ {
+   "city": "Bridgeport",
+   "lat": 38.2561,
+   "lng": -119.2123
+ },
+ {
+   "city": "Bangor",
+   "lat": 39.3761,
+   "lng": -121.4117
+ },
+ {
+   "city": "Oak Hills",
+   "lat": 34.3912,
+   "lng": -117.4125
+ },
+ {
+   "city": "Freeport",
+   "lat": 38.4636,
+   "lng": -121.5022
+ },
+ {
+   "city": "Samoa",
+   "lat": 40.8146,
+   "lng": -124.1893
+ },
+ {
+   "city": "Cottonwood",
+   "lat": 40.3904,
+   "lng": -122.2861
+ },
+ {
+   "city": "Trinity Center",
+   "lat": 40.9841,
+   "lng": -122.7083
+ },
+ {
+   "city": "Lynwood",
+   "lat": 33.924,
+   "lng": -118.2017
+ },
+ {
+   "city": "Paskenta",
+   "lat": 39.8834,
+   "lng": -122.5457
+ },
+ {
+   "city": "Clear Creek",
+   "lat": 40.3023,
+   "lng": -121.0531
+ },
+ {
+   "city": "Eastvale",
+   "lat": 33.9617,
+   "lng": -117.5802
+ },
+ {
+   "city": "Greenville",
+   "lat": 40.1336,
+   "lng": -120.9454
+ },
+ {
+   "city": "Dollar Point",
+   "lat": 39.1905,
+   "lng": -120.1089
+ },
+ {
+   "city": "Tulare",
+   "lat": 36.1996,
+   "lng": -119.3401
+ },
+ {
+   "city": "Sunny Slopes",
+   "lat": 37.5694,
+   "lng": -118.6759
+ },
+ {
+   "city": "Norwalk",
+   "lat": 33.9069,
+   "lng": -118.0829
+ },
+ {
+   "city": "Alpaugh",
+   "lat": 35.8876,
+   "lng": -119.4873
+ },
+ {
+   "city": "Point Arena",
+   "lat": 38.9123,
+   "lng": -123.6954
+ },
+ {
+   "city": "Coto de Caza",
+   "lat": 33.5961,
+   "lng": -117.5862
+ },
+ {
+   "city": "Carpinteria",
+   "lat": 34.3962,
+   "lng": -119.5117
+ },
+ {
+   "city": "Berkeley",
+   "lat": 37.8723,
+   "lng": -122.276
+ },
+ {
+   "city": "Heber",
+   "lat": 32.7318,
+   "lng": -115.5204
+ },
+ {
+   "city": "Airport",
+   "lat": 37.6324,
+   "lng": -120.9774
+ },
+ {
+   "city": "Taft",
+   "lat": 35.1267,
+   "lng": -119.4243
+ },
+ {
+   "city": "Bystrom",
+   "lat": 37.6199,
+   "lng": -120.9827
+ },
+ {
+   "city": "Discovery Bay",
+   "lat": 37.9071,
+   "lng": -121.6076
+ },
+ {
+   "city": "Canby",
+   "lat": 41.4477,
+   "lng": -120.8843
+ },
+ {
+   "city": "Huntington Park",
+   "lat": 33.98,
+   "lng": -118.2167
+ },
+ {
+   "city": "Goleta",
+   "lat": 34.436,
+   "lng": -119.8595
+ },
+ {
+   "city": "Gerber",
+   "lat": 40.0614,
+   "lng": -122.1482
+ },
+ {
+   "city": "Fruitridge Pocket",
+   "lat": 38.5326,
+   "lng": -121.4558
+ },
+ {
+   "city": "Moss Beach",
+   "lat": 37.5185,
+   "lng": -122.5036
+ },
+ {
+   "city": "Good Hope",
+   "lat": 33.7706,
+   "lng": -117.2772
+ },
+ {
+   "city": "Reedley",
+   "lat": 36.5983,
+   "lng": -119.4473
+ },
+ {
+   "city": "Chula Vista",
+   "lat": 32.6281,
+   "lng": -117.0145
+ },
+ {
+   "city": "Linden",
+   "lat": 38.0186,
+   "lng": -121.0994
+ },
+ {
+   "city": "Scotia",
+   "lat": 40.4774,
+   "lng": -124.1032
+ },
+ {
+   "city": "Ramona",
+   "lat": 33.0474,
+   "lng": -116.8767
+ },
+ {
+   "city": "Camp Pendleton South",
+   "lat": 33.2284,
+   "lng": -117.3791
+ },
+ {
+   "city": "Benbow",
+   "lat": 40.0603,
+   "lng": -123.7653
+ },
+ {
+   "city": "East Oakdale",
+   "lat": 37.7854,
+   "lng": -120.8007
+ },
+ {
+   "city": "Riverbank",
+   "lat": 37.7268,
+   "lng": -120.9402
+ },
+ {
+   "city": "Flournoy",
+   "lat": 39.9284,
+   "lng": -122.4461
+ },
+ {
+   "city": "Long Beach",
+   "lat": 33.798,
+   "lng": -118.1675
+ },
+ {
+   "city": "Petaluma",
+   "lat": 38.2423,
+   "lng": -122.6267
+ },
+ {
+   "city": "Bodfish",
+   "lat": 35.5765,
+   "lng": -118.4764
+ },
+ {
+   "city": "Santa Susana",
+   "lat": 34.258,
+   "lng": -118.6662
+ },
+ {
+   "city": "Novato",
+   "lat": 38.092,
+   "lng": -122.5576
+ },
+ {
+   "city": "Nevada City",
+   "lat": 39.2607,
+   "lng": -121.0231
+ },
+ {
+   "city": "Weedpatch",
+   "lat": 35.2369,
+   "lng": -118.9123
+ },
+ {
+   "city": "Marin City",
+   "lat": 37.8711,
+   "lng": -122.5137
+ },
+ {
+   "city": "Ione",
+   "lat": 38.3613,
+   "lng": -120.9422
+ },
+ {
+   "city": "Mountain Gate",
+   "lat": 40.7184,
+   "lng": -122.3262
+ },
+ {
+   "city": "Mount Hermon",
+   "lat": 37.0511,
+   "lng": -122.0533
+ },
+ {
+   "city": "Grayson",
+   "lat": 37.565,
+   "lng": -121.1794
+ },
+ {
+   "city": "Del Rey Oaks",
+   "lat": 36.5929,
+   "lng": -121.8381
+ },
+ {
+   "city": "Casmalia",
+   "lat": 34.8376,
+   "lng": -120.5311
+ },
+ {
+   "city": "Ridgecrest",
+   "lat": 35.6308,
+   "lng": -117.6621
+ },
+ {
+   "city": "Vine Hill",
+   "lat": 38.0071,
+   "lng": -122.0873
+ },
+ {
+   "city": "Raisin City",
+   "lat": 36.6033,
+   "lng": -119.9092
+ },
+ {
+   "city": "Green Valley",
+   "lat": 38.2606,
+   "lng": -122.1621
+ },
+ {
+   "city": "Sutter",
+   "lat": 39.1557,
+   "lng": -121.7492
+ },
+ {
+   "city": "Perris",
+   "lat": 33.7899,
+   "lng": -117.2233
+ },
+ {
+   "city": "Avalon",
+   "lat": 33.3342,
+   "lng": -118.3315
+ },
+ {
+   "city": "Kettleman City",
+   "lat": 36.0089,
+   "lng": -119.9628
+ },
+ {
+   "city": "Ceres",
+   "lat": 37.5953,
+   "lng": -120.9625
+ },
+ {
+   "city": "Shandon",
+   "lat": 35.6536,
+   "lng": -120.3832
+ },
+ {
+   "city": "Sierraville",
+   "lat": 39.575,
+   "lng": -120.3637
+ },
+ {
+   "city": "Desert Hot Springs",
+   "lat": 33.9551,
+   "lng": -116.543
+ },
+ {
+   "city": "West Whittier-Los Nietos",
+   "lat": 33.9759,
+   "lng": -118.0689
+ },
+ {
+   "city": "Auburn",
+   "lat": 38.895,
+   "lng": -121.0777
+ },
+ {
+   "city": "Weaverville",
+   "lat": 40.7488,
+   "lng": -122.9274
+ },
+ {
+   "city": "Desert Shores",
+   "lat": 33.4041,
+   "lng": -116.0394
+ },
+ {
+   "city": "Calpella",
+   "lat": 39.2322,
+   "lng": -123.197
+ },
+ {
+   "city": "Lookout",
+   "lat": 41.21,
+   "lng": -121.1545
+ },
+ {
+   "city": "Twentynine Palms",
+   "lat": 34.1478,
+   "lng": -116.0659
+ },
+ {
+   "city": "Watsonville",
+   "lat": 36.9206,
+   "lng": -121.7706
+ },
+ {
+   "city": "Kentfield",
+   "lat": 37.9481,
+   "lng": -122.5498
+ },
+ {
+   "city": "Colma",
+   "lat": 37.6767,
+   "lng": -122.4526
+ },
+ {
+   "city": "Edna",
+   "lat": 35.2108,
+   "lng": -120.606
+ },
+ {
+   "city": "Idlewild",
+   "lat": 35.8096,
+   "lng": -118.6704
+ },
+ {
+   "city": "Lake Don Pedro",
+   "lat": 37.6461,
+   "lng": -120.3368
+ },
+ {
+   "city": "South Pasadena",
+   "lat": 34.1103,
+   "lng": -118.1573
+ },
+ {
+   "city": "Poplar-Cotton Center",
+   "lat": 36.0564,
+   "lng": -119.1493
+ },
+ {
+   "city": "Wrightwood",
+   "lat": 34.3495,
+   "lng": -117.6299
+ },
+ {
+   "city": "San Gabriel",
+   "lat": 34.0948,
+   "lng": -118.099
+ },
+ {
+   "city": "Woodbridge",
+   "lat": 38.1692,
+   "lng": -121.3113
+ },
+ {
+   "city": "Soledad",
+   "lat": 36.4434,
+   "lng": -121.3431
+ },
+ {
+   "city": "Old Station",
+   "lat": 40.6722,
+   "lng": -121.4228
+ },
+ {
+   "city": "Three Rocks",
+   "lat": 36.5051,
+   "lng": -120.3936
+ },
+ {
+   "city": "El Portal",
+   "lat": 37.6736,
+   "lng": -119.799
+ },
+ {
+   "city": "West Point",
+   "lat": 38.4043,
+   "lng": -120.5374
+ },
+ {
+   "city": "Camanche North Shore",
+   "lat": 38.2442,
+   "lng": -120.9538
+ },
+ {
+   "city": "Glendora",
+   "lat": 34.1449,
+   "lng": -117.8467
+ },
+ {
+   "city": "Terminous",
+   "lat": 38.1154,
+   "lng": -121.4896
+ },
+ {
+   "city": "Hood",
+   "lat": 38.3693,
+   "lng": -121.5155
+ },
+ {
+   "city": "Atwater",
+   "lat": 37.3543,
+   "lng": -120.5981
+ },
+ {
+   "city": "Sierra Madre",
+   "lat": 34.1687,
+   "lng": -118.0504
+ },
+ {
+   "city": "Crescent Mills",
+   "lat": 40.1008,
+   "lng": -120.9217
+ },
+ {
+   "city": "Antioch",
+   "lat": 37.9789,
+   "lng": -121.7957
+ },
+ {
+   "city": "Warner Valley",
+   "lat": 40.3955,
+   "lng": -121.3174
+ },
+ {
+   "city": "Minkler",
+   "lat": 36.7277,
+   "lng": -119.4587
+ },
+ {
+   "city": "Fiddletown",
+   "lat": 38.5091,
+   "lng": -120.7605
+ },
+ {
+   "city": "Bell Gardens",
+   "lat": 33.9663,
+   "lng": -118.155
+ },
+ {
+   "city": "Pine Grove",
+   "lat": 38.4074,
+   "lng": -120.6606
+ },
+ {
+   "city": "Windsor",
+   "lat": 38.5418,
+   "lng": -122.8086
+ },
+ {
+   "city": "West Puente Valley",
+   "lat": 34.0512,
+   "lng": -117.9681
+ },
+ {
+   "city": "Santa Monica",
+   "lat": 34.0232,
+   "lng": -118.4813
+ },
+ {
+   "city": "Lone Pine",
+   "lat": 36.5774,
+   "lng": -118.0777
+ },
+ {
+   "city": "Tuttletown",
+   "lat": 38.0003,
+   "lng": -120.4503
+ },
+ {
+   "city": "Coarsegold",
+   "lat": 37.2526,
+   "lng": -119.7
+ },
+ {
+   "city": "Parkwood",
+   "lat": 36.9293,
+   "lng": -120.0482
+ },
+ {
+   "city": "Lucerne",
+   "lat": 39.0697,
+   "lng": -122.776
+ },
+ {
+   "city": "Kingvale",
+   "lat": 39.3204,
+   "lng": -120.4386
+ },
+ {
+   "city": "Sultana",
+   "lat": 36.5464,
+   "lng": -119.336
+ },
+ {
+   "city": "Lawndale",
+   "lat": 33.8884,
+   "lng": -118.3531
+ },
+ {
+   "city": "French Valley",
+   "lat": 33.5998,
+   "lng": -117.1069
+ },
+ {
+   "city": "Piedmont",
+   "lat": 37.8226,
+   "lng": -122.2301
+ },
+ {
+   "city": "La Cañada Flintridge",
+   "lat": 34.2097,
+   "lng": -118.2002
+ },
+ {
+   "city": "Elk Creek",
+   "lat": 39.6002,
+   "lng": -122.5376
+ },
+ {
+   "city": "Las Lomas",
+   "lat": 36.8689,
+   "lng": -121.7317
+ },
+ {
+   "city": "Goodyears Bar",
+   "lat": 39.5458,
+   "lng": -120.8881
+ },
+ {
+   "city": "Murphys",
+   "lat": 38.1447,
+   "lng": -120.4348
+ },
+ {
+   "city": "South Lake Tahoe",
+   "lat": 38.9393,
+   "lng": -119.9828
+ },
+ {
+   "city": "Leggett",
+   "lat": 39.8634,
+   "lng": -123.7253
+ },
+ {
+   "city": "El Rancho",
+   "lat": 36.2207,
+   "lng": -119.069
+ },
+ {
+   "city": "Arcata",
+   "lat": 40.8615,
+   "lng": -124.0757
+ },
+ {
+   "city": "Laytonville",
+   "lat": 39.6715,
+   "lng": -123.4945
+ },
+ {
+   "city": "Crowley Lake",
+   "lat": 37.5692,
+   "lng": -118.7465
+ },
+ {
+   "city": "Silver Lakes",
+   "lat": 34.7519,
+   "lng": -117.3431
+ },
+ {
+   "city": "North Tustin",
+   "lat": 33.7644,
+   "lng": -117.7945
+ },
+ {
+   "city": "Galt",
+   "lat": 38.2693,
+   "lng": -121.3
+ },
+ {
+   "city": "Stevinson",
+   "lat": 37.3247,
+   "lng": -120.8497
+ },
+ {
+   "city": "Fort Washington",
+   "lat": 36.8793,
+   "lng": -119.7613
+ },
+ {
+   "city": "East Hemet",
+   "lat": 33.7301,
+   "lng": -116.941
+ },
+ {
+   "city": "Cherokee",
+   "lat": 39.6514,
+   "lng": -121.5345
+ },
+ {
+   "city": "Placentia",
+   "lat": 33.8807,
+   "lng": -117.8553
+ },
+ {
+   "city": "Santa Maria",
+   "lat": 34.9333,
+   "lng": -120.4432
+ },
+ {
+   "city": "Clovis",
+   "lat": 36.8277,
+   "lng": -119.6838
+ },
+ {
+   "city": "Seeley",
+   "lat": 32.7899,
+   "lng": -115.6842
+ },
+ {
+   "city": "Patterson",
+   "lat": 37.4738,
+   "lng": -121.1438
+ },
+ {
+   "city": "Bay Point",
+   "lat": 38.0328,
+   "lng": -121.9616
+ },
+ {
+   "city": "Cold Springs",
+   "lat": 38.7468,
+   "lng": -120.8761
+ },
+ {
+   "city": "Littlerock",
+   "lat": 34.5232,
+   "lng": -117.9808
+ },
+ {
+   "city": "Beale AFB",
+   "lat": 39.1095,
+   "lng": -121.3542
+ },
+ {
+   "city": "San Bruno",
+   "lat": 37.6254,
+   "lng": -122.4313
+ },
+ {
+   "city": "Portola",
+   "lat": 39.8242,
+   "lng": -120.4732
+ },
+ {
+   "city": "Friant",
+   "lat": 36.9848,
+   "lng": -119.713
+ },
+ {
+   "city": "South San Gabriel",
+   "lat": 34.0489,
+   "lng": -118.0962
+ },
+ {
+   "city": "Pierpoint",
+   "lat": 36.1405,
+   "lng": -118.6296
+ },
+ {
+   "city": "Eagleville",
+   "lat": 41.3191,
+   "lng": -120.1147
+ },
+ {
+   "city": "Olancha",
+   "lat": 36.2704,
+   "lng": -118.0015
+ },
+ {
+   "city": "Wildomar",
+   "lat": 33.6173,
+   "lng": -117.2583
+ },
+ {
+   "city": "Larkspur",
+   "lat": 37.9394,
+   "lng": -122.5313
+ },
+ {
+   "city": "Laguna Niguel",
+   "lat": 33.5275,
+   "lng": -117.705
+ },
+ {
+   "city": "San Ramon",
+   "lat": 37.7625,
+   "lng": -121.9365
+ },
+ {
+   "city": "Cowan",
+   "lat": 37.5601,
+   "lng": -120.9888
+ },
+ {
+   "city": "Bend",
+   "lat": 40.2561,
+   "lng": -122.2095
+ },
+ {
+   "city": "Sequoia Crest",
+   "lat": 36.1858,
+   "lng": -118.6256
+ },
+ {
+   "city": "Lemoore",
+   "lat": 36.296,
+   "lng": -119.7983
+ },
+ {
+   "city": "Lake California",
+   "lat": 40.3608,
+   "lng": -122.2102
+ },
+ {
+   "city": "Grand Terrace",
+   "lat": 34.0312,
+   "lng": -117.3132
+ },
+ {
+   "city": "Cohasset",
+   "lat": 39.9027,
+   "lng": -121.7448
+ },
+ {
+   "city": "West Athens",
+   "lat": 33.9235,
+   "lng": -118.3033
+ },
+ {
+   "city": "Hamilton City",
+   "lat": 39.7422,
+   "lng": -122.0125
+ },
+ {
+   "city": "Diamond Springs",
+   "lat": 38.692,
+   "lng": -120.8391
+ },
+ {
+   "city": "Mokelumne Hill",
+   "lat": 38.3057,
+   "lng": -120.7061
+ },
+ {
+   "city": "Mira Monte",
+   "lat": 34.4284,
+   "lng": -119.2853
+ },
+ {
+   "city": "Isla Vista",
+   "lat": 34.4144,
+   "lng": -119.8581
+ },
+ {
+   "city": "Del Monte Forest",
+   "lat": 36.5857,
+   "lng": -121.9439
+ },
+ {
+   "city": "Vina",
+   "lat": 39.9343,
+   "lng": -122.0518
+ },
+ {
+   "city": "Harbison Canyon",
+   "lat": 32.8273,
+   "lng": -116.8381
+ },
+ {
+   "city": "Byron",
+   "lat": 37.8756,
+   "lng": -121.6421
+ },
+ {
+   "city": "Graniteville",
+   "lat": 39.4443,
+   "lng": -120.736
+ },
+ {
+   "city": "Aptos",
+   "lat": 36.9912,
+   "lng": -121.8934
+ },
+ {
+   "city": "East Pasadena",
+   "lat": 34.1377,
+   "lng": -118.0775
+ },
+ {
+   "city": "Proberta",
+   "lat": 40.0762,
+   "lng": -122.1776
+ },
+ {
+   "city": "Fetters Hot Springs-Agua Caliente",
+   "lat": 38.3274,
+   "lng": -122.4871
+ },
+ {
+   "city": "Palo Verde",
+   "lat": 33.4279,
+   "lng": -114.7273
+ },
+ {
+   "city": "Orosi",
+   "lat": 36.5434,
+   "lng": -119.2903
+ },
+ {
+   "city": "Irwindale",
+   "lat": 34.1121,
+   "lng": -117.9636
+ },
+ {
+   "city": "Burney",
+   "lat": 40.8846,
+   "lng": -121.6691
+ },
+ {
+   "city": "Fontana",
+   "lat": 34.0968,
+   "lng": -117.4599
+ },
+ {
+   "city": "Bethel Island",
+   "lat": 38.0288,
+   "lng": -121.6404
+ },
+ {
+   "city": "California Pines",
+   "lat": 41.4117,
+   "lng": -120.6605
+ },
+ {
+   "city": "Clio",
+   "lat": 39.7487,
+   "lng": -120.5725
+ },
+ {
+   "city": "Cotati",
+   "lat": 38.3279,
+   "lng": -122.7092
+ },
+ {
+   "city": "West Hollywood",
+   "lat": 34.0883,
+   "lng": -118.3719
+ },
+ {
+   "city": "Loleta",
+   "lat": 40.6408,
+   "lng": -124.2225
+ },
+ {
+   "city": "Etna",
+   "lat": 41.4582,
+   "lng": -122.8946
+ },
+ {
+   "city": "San Bernardino",
+   "lat": 34.1417,
+   "lng": -117.2945
+ },
+ {
+   "city": "Jurupa Valley",
+   "lat": 34.001,
+   "lng": -117.4706
+ },
+ {
+   "city": "Castle Hill",
+   "lat": 37.873,
+   "lng": -122.0574
+ },
+ {
+   "city": "Parklawn",
+   "lat": 37.6069,
+   "lng": -120.9793
+ },
+ {
+   "city": "Valley Wells",
+   "lat": 35.8761,
+   "lng": -117.3366
+ },
+ {
+   "city": "Colton",
+   "lat": 34.0538,
+   "lng": -117.3254
+ },
+ {
+   "city": "Santa Venetia",
+   "lat": 38.0055,
+   "lng": -122.5033
+ },
+ {
+   "city": "Loyalton",
+   "lat": 39.6768,
+   "lng": -120.2448
+ },
+ {
+   "city": "Camp Pendleton North",
+   "lat": 33.3148,
+   "lng": -117.3162
+ },
+ {
+   "city": "Red Bluff",
+   "lat": 40.1735,
+   "lng": -122.2413
+ },
+ {
+   "city": "Sattley",
+   "lat": 39.6265,
+   "lng": -120.4357
+ },
+ {
+   "city": "Bell",
+   "lat": 33.9801,
+   "lng": -118.1798
+ },
+ {
+   "city": "Rough and Ready",
+   "lat": 39.2341,
+   "lng": -121.1381
+ },
+ {
+   "city": "Tehama",
+   "lat": 40.0218,
+   "lng": -122.1269
+ },
+ {
+   "city": "Clarksburg",
+   "lat": 38.4193,
+   "lng": -121.5415
+ },
+ {
+   "city": "Caspar",
+   "lat": 39.3631,
+   "lng": -123.8044
+ },
+ {
+   "city": "Carnelian Bay",
+   "lat": 39.2348,
+   "lng": -120.0766
+ },
+ {
+   "city": "La Mirada",
+   "lat": 33.9025,
+   "lng": -118.0093
+ },
+ {
+   "city": "San Antonio Heights",
+   "lat": 34.1571,
+   "lng": -117.6592
+ },
+ {
+   "city": "Arcadia",
+   "lat": 34.1342,
+   "lng": -118.0373
+ },
+ {
+   "city": "Lake Hughes",
+   "lat": 34.6833,
+   "lng": -118.4588
+ },
+ {
+   "city": "Frazier Park",
+   "lat": 34.8122,
+   "lng": -118.9542
+ },
+ {
+   "city": "San Joaquin",
+   "lat": 36.6057,
+   "lng": -120.1897
+ },
+ {
+   "city": "Rancho Calaveras",
+   "lat": 38.1248,
+   "lng": -120.857
+ },
+ {
+   "city": "Ben Lomond",
+   "lat": 37.0782,
+   "lng": -122.0882
+ },
+ {
+   "city": "Litchfield",
+   "lat": 40.3876,
+   "lng": -120.3809
+ },
+ {
+   "city": "Porterville",
+   "lat": 36.0644,
+   "lng": -119.0338
+ },
+ {
+   "city": "Templeton",
+   "lat": 35.556,
+   "lng": -120.7182
+ },
+ {
+   "city": "Earlimart",
+   "lat": 35.8824,
+   "lng": -119.2715
+ },
+ {
+   "city": "Salmon Creek",
+   "lat": 38.3463,
+   "lng": -123.0595
+ },
+ {
+   "city": "Vista Santa Rosa",
+   "lat": 33.6227,
+   "lng": -116.2126
+ },
+ {
+   "city": "Bluewater",
+   "lat": 34.176,
+   "lng": -114.264
+ },
+ {
+   "city": "Loomis",
+   "lat": 38.8093,
+   "lng": -121.1955
+ },
+ {
+   "city": "Oak Glen",
+   "lat": 34.0448,
+   "lng": -116.9497
+ },
+ {
+   "city": "Lemon Grove",
+   "lat": 32.7331,
+   "lng": -117.0344
+ },
+ {
+   "city": "Challenge-Brownsville",
+   "lat": 39.4646,
+   "lng": -121.2632
+ },
+ {
+   "city": "Stevenson Ranch",
+   "lat": 34.3894,
+   "lng": -118.5885
+ },
+ {
+   "city": "Coffee Creek",
+   "lat": 41.0802,
+   "lng": -122.7136
+ },
+ {
+   "city": "Ruth",
+   "lat": 40.2943,
+   "lng": -123.3483
+ },
+ {
+   "city": "Summerland",
+   "lat": 34.4255,
+   "lng": -119.5893
+ },
+ {
+   "city": "Franklin",
+   "lat": 37.3277,
+   "lng": -120.5321
+ },
+ {
+   "city": "Orangevale",
+   "lat": 38.688,
+   "lng": -121.2208
+ },
+ {
+   "city": "Big Pine",
+   "lat": 37.1655,
+   "lng": -118.2951
+ },
+ {
+   "city": "Matheny",
+   "lat": 36.1707,
+   "lng": -119.3516
+ },
+ {
+   "city": "Ukiah",
+   "lat": 39.1463,
+   "lng": -123.2105
+ },
+ {
+   "city": "Olivehurst",
+   "lat": 39.0817,
+   "lng": -121.5549
+ },
+ {
+   "city": "Redlands",
+   "lat": 34.0511,
+   "lng": -117.1712
+ },
+ {
+   "city": "Laguna Hills",
+   "lat": 33.592,
+   "lng": -117.6992
+ },
+ {
+   "city": "Shelter Cove",
+   "lat": 40.0389,
+   "lng": -124.0558
+ },
+ {
+   "city": "West Menlo Park",
+   "lat": 37.4338,
+   "lng": -122.2034
+ },
+ {
+   "city": "Martell",
+   "lat": 38.3623,
+   "lng": -120.8039
+ },
+ {
+   "city": "Rocklin",
+   "lat": 38.8075,
+   "lng": -121.2488
+ },
+ {
+   "city": "Grangeville",
+   "lat": 36.3439,
+   "lng": -119.7074
+ },
+ {
+   "city": "South San Francisco",
+   "lat": 37.6536,
+   "lng": -122.4197
+ },
+ {
+   "city": "Hercules",
+   "lat": 38.0064,
+   "lng": -122.2564
+ },
+ {
+   "city": "North Auburn",
+   "lat": 38.9306,
+   "lng": -121.0821
+ },
+ {
+   "city": "Redwood City",
+   "lat": 37.5026,
+   "lng": -122.2252
+ },
+ {
+   "city": "Sutter Creek",
+   "lat": 38.3827,
+   "lng": -120.8107
+ },
+ {
+   "city": "Dos Palos Y",
+   "lat": 37.0468,
+   "lng": -120.6395
+ },
+ {
+   "city": "Dixon",
+   "lat": 38.4467,
+   "lng": -121.825
+ },
+ {
+   "city": "Homeland",
+   "lat": 33.7459,
+   "lng": -117.1132
+ },
+ {
+   "city": "Lee Vining",
+   "lat": 37.9547,
+   "lng": -119.1221
+ },
+ {
+   "city": "Catheys Valley",
+   "lat": 37.4371,
+   "lng": -120.0936
+ },
+ {
+   "city": "Dutch Flat",
+   "lat": 39.208,
+   "lng": -120.8345
+ },
+ {
+   "city": "Cabazon",
+   "lat": 33.9127,
+   "lng": -116.7828
+ },
+ {
+   "city": "Tennant",
+   "lat": 41.5818,
+   "lng": -121.9148
+ },
+ {
+   "city": "Linnell Camp",
+   "lat": 36.3089,
+   "lng": -119.2225
+ },
+ {
+   "city": "Vallecito",
+   "lat": 38.074,
+   "lng": -120.4563
+ },
+ {
+   "city": "Garden Grove",
+   "lat": 33.7787,
+   "lng": -117.9601
+ },
+ {
+   "city": "Fremont",
+   "lat": 37.5265,
+   "lng": -121.9852
+ },
+ {
+   "city": "Fruitdale",
+   "lat": 37.3117,
+   "lng": -121.9357
+ },
+ {
+   "city": "Lathrop",
+   "lat": 37.809,
+   "lng": -121.313
+ },
+ {
+   "city": "Blairsden",
+   "lat": 39.7752,
+   "lng": -120.6109
+ },
+ {
+   "city": "Coalinga",
+   "lat": 36.1432,
+   "lng": -120.3266
+ },
+ {
+   "city": "Garden Acres",
+   "lat": 37.9637,
+   "lng": -121.2296
+ },
+ {
+   "city": "Coulterville",
+   "lat": 37.7106,
+   "lng": -120.1991
+ },
+ {
+   "city": "Moreno Valley",
+   "lat": 33.9244,
+   "lng": -117.2045
+ },
+ {
+   "city": "East Nicolaus",
+   "lat": 38.91,
+   "lng": -121.5443
+ },
+ {
+   "city": "Lakeland Village",
+   "lat": 33.648,
+   "lng": -117.3706
+ },
+ {
+   "city": "West Rancho Dominguez",
+   "lat": 33.9057,
+   "lng": -118.2682
+ },
+ {
+   "city": "Pala",
+   "lat": 33.3617,
+   "lng": -117.0696
+ },
+ {
+   "city": "Plumas Lake",
+   "lat": 38.9924,
+   "lng": -121.558
+ },
+ {
+   "city": "Atascadero",
+   "lat": 35.4827,
+   "lng": -120.6858
+ },
+ {
+   "city": "California City",
+   "lat": 35.1578,
+   "lng": -117.872
+ },
+ {
+   "city": "Trinidad",
+   "lat": 41.0589,
+   "lng": -124.1434
+ },
+ {
+   "city": "Benicia",
+   "lat": 38.0704,
+   "lng": -122.1541
+ },
+ {
+   "city": "Knights Landing",
+   "lat": 38.7979,
+   "lng": -121.7176
+ },
+ {
+   "city": "French Gulch",
+   "lat": 40.7166,
+   "lng": -122.6311
+ },
+ {
+   "city": "Mount Laguna",
+   "lat": 32.8711,
+   "lng": -116.4247
+ },
+ {
+   "city": "Paradise Park",
+   "lat": 37.0063,
+   "lng": -122.0425
+ },
+ {
+   "city": "Nuevo",
+   "lat": 33.8011,
+   "lng": -117.1415
+ },
+ {
+   "city": "Solana Beach",
+   "lat": 32.9942,
+   "lng": -117.2575
+ },
+ {
+   "city": "Oak Shores",
+   "lat": 35.7624,
+   "lng": -120.9817
+ },
+ {
+   "city": "Ladera",
+   "lat": 37.3996,
+   "lng": -122.1991
+ },
+ {
+   "city": "Millbrae",
+   "lat": 37.5994,
+   "lng": -122.4024
+ },
+ {
+   "city": "Culver City",
+   "lat": 34.0058,
+   "lng": -118.3968
+ },
+ {
+   "city": "Castroville",
+   "lat": 36.765,
+   "lng": -121.7535
+ },
+ {
+   "city": "Delft Colony",
+   "lat": 36.512,
+   "lng": -119.4465
+ },
+ {
+   "city": "Chico",
+   "lat": 39.7575,
+   "lng": -121.8152
+ },
+ {
+   "city": "El Cajon",
+   "lat": 32.8017,
+   "lng": -116.9604
+ },
+ {
+   "city": "Rio Oso",
+   "lat": 38.9518,
+   "lng": -121.531
+ },
+ {
+   "city": "Crescent City",
+   "lat": 41.7727,
+   "lng": -124.1902
+ },
+ {
+   "city": "Truckee",
+   "lat": 39.3454,
+   "lng": -120.1848
+ },
+ {
+   "city": "Greenfield",
+   "lat": 36.3232,
+   "lng": -121.2451
+ },
+ {
+   "city": "Martinez",
+   "lat": 37.9985,
+   "lng": -122.116
+ },
+ {
+   "city": "South Monrovia Island",
+   "lat": 34.1234,
+   "lng": -117.9958
+ },
+ {
+   "city": "Port Hueneme",
+   "lat": 34.1617,
+   "lng": -119.2036
+ },
+ {
+   "city": "Fieldbrook",
+   "lat": 40.9723,
+   "lng": -124.025
+ },
+ {
+   "city": "Ontario",
+   "lat": 34.0393,
+   "lng": -117.6064
+ },
+ {
+   "city": "McClenney Tract",
+   "lat": 35.822,
+   "lng": -118.6478
+ },
+ {
+   "city": "Castro Valley",
+   "lat": 37.7092,
+   "lng": -122.0632
+ },
+ {
+   "city": "Murrieta",
+   "lat": 33.572,
+   "lng": -117.1909
+ },
+ {
+   "city": "Gasquet",
+   "lat": 41.8429,
+   "lng": -123.9733
+ },
+ {
+   "city": "Pittsburg",
+   "lat": 38.0185,
+   "lng": -121.897
+ },
+ {
+   "city": "Hopland",
+   "lat": 38.9691,
+   "lng": -123.1173
+ },
+ {
+   "city": "La Puente",
+   "lat": 34.0323,
+   "lng": -117.9533
+ },
+ {
+   "city": "Hacienda Heights",
+   "lat": 33.997,
+   "lng": -117.9728
+ },
+ {
+   "city": "Montalvin Manor",
+   "lat": 37.9977,
+   "lng": -122.33
+ },
+ {
+   "city": "Taylorsville",
+   "lat": 40.0587,
+   "lng": -120.8386
+ },
+ {
+   "city": "Bradbury",
+   "lat": 34.1536,
+   "lng": -117.9684
+ },
+ {
+   "city": "Cudahy",
+   "lat": 33.9631,
+   "lng": -118.183
+ },
+ {
+   "city": "Grass Valley",
+   "lat": 39.2237,
+   "lng": -121.0521
+ },
+ {
+   "city": "Big River",
+   "lat": 34.1393,
+   "lng": -114.3604
+ },
+ {
+   "city": "Myrtletown",
+   "lat": 40.7888,
+   "lng": -124.1286
+ },
+ {
+   "city": "Markleeville",
+   "lat": 38.684,
+   "lng": -119.8226
+ },
+ {
+   "city": "South Oroville",
+   "lat": 39.4767,
+   "lng": -121.5439
+ },
+ {
+   "city": "Palos Verdes Estates",
+   "lat": 33.7871,
+   "lng": -118.3976
+ },
+ {
+   "city": "Monterey Park Tract",
+   "lat": 37.5268,
+   "lng": -121.0115
+ },
+ {
+   "city": "Janesville",
+   "lat": 40.2809,
+   "lng": -120.5335
+ },
+ {
+   "city": "Denair",
+   "lat": 37.5262,
+   "lng": -120.7994
+ },
+ {
+   "city": "Orinda",
+   "lat": 37.8808,
+   "lng": -122.179
+ },
+ {
+   "city": "Huron",
+   "lat": 36.204,
+   "lng": -120.0961
+ },
+ {
+   "city": "Rainbow",
+   "lat": 33.4098,
+   "lng": -117.1394
+ },
+ {
+   "city": "Ridgemark",
+   "lat": 36.8083,
+   "lng": -121.3623
+ },
+ {
+   "city": "Citrus Heights",
+   "lat": 38.6948,
+   "lng": -121.288
+ },
+ {
+   "city": "Lake of the Woods",
+   "lat": 34.8226,
+   "lng": -119.0027
+ },
+ {
+   "city": "Oak View",
+   "lat": 34.399,
+   "lng": -119.2976
+ },
+ {
+   "city": "South Dos Palos",
+   "lat": 36.9707,
+   "lng": -120.6467
+ },
+ {
+   "city": "Anchor Bay",
+   "lat": 38.8126,
+   "lng": -123.5704
+ },
+ {
+   "city": "Boonville",
+   "lat": 39.0115,
+   "lng": -123.374
+ },
+ {
+   "city": "La Verne",
+   "lat": 34.1208,
+   "lng": -117.7702
+ },
+ {
+   "city": "Albion",
+   "lat": 39.2256,
+   "lng": -123.7564
+ },
+ {
+   "city": "Oildale",
+   "lat": 35.4249,
+   "lng": -119.0279
+ },
+ {
+   "city": "Westmont",
+   "lat": 33.9417,
+   "lng": -118.3018
+ },
+ {
+   "city": "La Selva Beach",
+   "lat": 36.9276,
+   "lng": -121.8445
+ },
+ {
+   "city": "Collierville",
+   "lat": 38.2141,
+   "lng": -121.2675
+ },
+ {
+   "city": "Lafayette",
+   "lat": 37.8919,
+   "lng": -122.1189
+ },
+ {
+   "city": "Walker",
+   "lat": 38.5341,
+   "lng": -119.4582
+ },
+ {
+   "city": "Caribou",
+   "lat": 40.0761,
+   "lng": -121.1616
+ },
+ {
+   "city": "Monterey",
+   "lat": 36.5922,
+   "lng": -121.8807
+ },
+ {
+   "city": "East Los Angeles",
+   "lat": 34.0326,
+   "lng": -118.1691
+ },
+ {
+   "city": "Sonoma",
+   "lat": 38.2902,
+   "lng": -122.4598
+ },
+ {
+   "city": "Groveland",
+   "lat": 37.8325,
+   "lng": -120.2394
+ },
+ {
+   "city": "Merced",
+   "lat": 37.3057,
+   "lng": -120.4779
+ },
+ {
+   "city": "Aspen Springs",
+   "lat": 37.55,
+   "lng": -118.7087
+ },
+ {
+   "city": "San Simeon",
+   "lat": 35.6182,
+   "lng": -121.1375
+ },
+ {
+   "city": "Le Grand",
+   "lat": 37.2288,
+   "lng": -120.254
+ },
+ {
+   "city": "Westwood",
+   "lat": 40.3049,
+   "lng": -121.0044
+ },
+ {
+   "city": "Soda Springs",
+   "lat": 39.3248,
+   "lng": -120.3785
+ },
+ {
+   "city": "Carmel-by-the-Sea",
+   "lat": 36.5528,
+   "lng": -121.9222
+ },
+ {
+   "city": "Del Mar",
+   "lat": 32.9633,
+   "lng": -117.2627
+ },
+ {
+   "city": "Desert View Highlands",
+   "lat": 34.5902,
+   "lng": -118.1536
+ },
+ {
+   "city": "Mountain Ranch",
+   "lat": 38.2509,
+   "lng": -120.5119
+ },
+ {
+   "city": "Blue Lake",
+   "lat": 40.8813,
+   "lng": -123.9931
+ },
+ {
+   "city": "Waterford",
+   "lat": 37.6429,
+   "lng": -120.7553
+ },
+ {
+   "city": "Alum Rock",
+   "lat": 37.3694,
+   "lng": -121.8241
+ },
+ {
+   "city": "North Lakeport",
+   "lat": 39.0883,
+   "lng": -122.9054
+ },
+ {
+   "city": "Menifee",
+   "lat": 33.6909,
+   "lng": -117.1849
+ },
+ {
+   "city": "Bowles",
+   "lat": 36.6089,
+   "lng": -119.7526
+ },
+ {
+   "city": "Boronda",
+   "lat": 36.6947,
+   "lng": -121.6745
+ },
+ {
+   "city": "Charter Oak",
+   "lat": 34.1025,
+   "lng": -117.8564
+ },
+ {
+   "city": "Big Creek",
+   "lat": 37.2035,
+   "lng": -119.2487
+ },
+ {
+   "city": "Monument Hills",
+   "lat": 38.6641,
+   "lng": -121.8756
+ },
+ {
+   "city": "Avila Beach",
+   "lat": 35.1971,
+   "lng": -120.7192
+ },
+ {
+   "city": "California Hot Springs",
+   "lat": 35.8863,
+   "lng": -118.6561
+ },
+ {
+   "city": "Keene",
+   "lat": 35.233,
+   "lng": -118.6103
+ },
+ {
+   "city": "Sand City",
+   "lat": 36.6189,
+   "lng": -121.8478
+ },
+ {
+   "city": "Rutherford",
+   "lat": 38.4568,
+   "lng": -122.4231
+ },
+ {
+   "city": "Canyondam",
+   "lat": 40.1699,
+   "lng": -121.0769
+ },
+ {
+   "city": "Tustin",
+   "lat": 33.7309,
+   "lng": -117.8106
+ },
+ {
+   "city": "Victor",
+   "lat": 38.1385,
+   "lng": -121.1987
+ },
+ {
+   "city": "Kelly Ridge",
+   "lat": 39.5289,
+   "lng": -121.4662
+ },
+ {
+   "city": "Val Verde",
+   "lat": 34.4504,
+   "lng": -118.6717
+ },
+ {
+   "city": "Farmersville",
+   "lat": 36.3054,
+   "lng": -119.2081
+ },
+ {
+   "city": "Saranap",
+   "lat": 37.8878,
+   "lng": -122.0761
+ },
+ {
+   "city": "Richmond",
+   "lat": 37.9477,
+   "lng": -122.339
+ },
+ {
+   "city": "Santa Cruz",
+   "lat": 36.9789,
+   "lng": -122.0346
+ },
+ {
+   "city": "Happy Camp",
+   "lat": 41.8103,
+   "lng": -123.3892
+ },
+ {
+   "city": "Hornbrook",
+   "lat": 41.9079,
+   "lng": -122.5596
+ },
+ {
+   "city": "Corralitos",
+   "lat": 36.9941,
+   "lng": -121.7892
+ },
+ {
+   "city": "Wilkerson",
+   "lat": 37.2794,
+   "lng": -118.3877
+ },
+ {
+   "city": "Midpines",
+   "lat": 37.5531,
+   "lng": -119.9485
+ },
+ {
+   "city": "Twin Lakes",
+   "lat": 36.9646,
+   "lng": -121.9896
+ },
+ {
+   "city": "Alhambra",
+   "lat": 34.084,
+   "lng": -118.1355
+ },
+ {
+   "city": "Suisun City",
+   "lat": 38.2471,
+   "lng": -122.0086
+ },
+ {
+   "city": "Tooleville",
+   "lat": 36.2878,
+   "lng": -119.1154
+ },
+ {
+   "city": "Parkway",
+   "lat": 38.4993,
+   "lng": -121.452
+ },
+ {
+   "city": "Calwa",
+   "lat": 36.7136,
+   "lng": -119.7609
+ },
+ {
+   "city": "Bakersfield",
+   "lat": 35.353,
+   "lng": -119.0359
+ },
+ {
+   "city": "Phillipsville",
+   "lat": 40.2117,
+   "lng": -123.7844
+ },
+ {
+   "city": "Lemoore Station",
+   "lat": 36.2633,
+   "lng": -119.9049
+ },
+ {
+   "city": "Lake Los Angeles",
+   "lat": 34.6097,
+   "lng": -117.8339
+ },
+ {
+   "city": "Aromas",
+   "lat": 36.8771,
+   "lng": -121.6404
+ },
+ {
+   "city": "Edwards AFB",
+   "lat": 34.9045,
+   "lng": -117.9294
+ },
+ {
+   "city": "Winter Gardens",
+   "lat": 32.8376,
+   "lng": -116.9268
+ },
+ {
+   "city": "Mammoth Lakes",
+   "lat": 37.6273,
+   "lng": -118.99
+ },
+ {
+   "city": "Fullerton",
+   "lat": 33.8841,
+   "lng": -117.9279
+ },
+ {
+   "city": "Gustine",
+   "lat": 37.2545,
+   "lng": -120.9949
+ },
+ {
+   "city": "Delano",
+   "lat": 35.767,
+   "lng": -119.2637
+ },
+ {
+   "city": "San Francisco",
+   "lat": 37.7562,
+   "lng": -122.443
+ },
+ {
+   "city": "East Sonora",
+   "lat": 37.9777,
+   "lng": -120.341
+ },
+ {
+   "city": "Foothill Farms",
+   "lat": 38.6867,
+   "lng": -121.3475
+ },
+ {
+   "city": "Lake City",
+   "lat": 41.646,
+   "lng": -120.2255
+ },
+ {
+   "city": "Terra Bella",
+   "lat": 35.9567,
+   "lng": -119.0328
+ },
+ {
+   "city": "Phoenix Lake",
+   "lat": 38.0074,
+   "lng": -120.309
+ },
+ {
+   "city": "Edgewood",
+   "lat": 41.4621,
+   "lng": -122.4259
+ },
+ {
+   "city": "Pike",
+   "lat": 39.4278,
+   "lng": -120.9996
+ },
+ {
+   "city": "Muir Beach",
+   "lat": 37.8654,
+   "lng": -122.5858
+ },
+ {
+   "city": "Woodlake",
+   "lat": 36.4124,
+   "lng": -119.0999
+ },
+ {
+   "city": "Dana Point",
+   "lat": 33.4733,
+   "lng": -117.6969
+ },
+ {
+   "city": "Lockwood",
+   "lat": 35.9412,
+   "lng": -121.0802
+ },
+ {
+   "city": "Mount Shasta",
+   "lat": 41.3206,
+   "lng": -122.315
+ },
+ {
+   "city": "Woodcrest",
+   "lat": 33.8789,
+   "lng": -117.3686
+ },
+ {
+   "city": "Woodside",
+   "lat": 37.4221,
+   "lng": -122.2591
+ },
+ {
+   "city": "El Verano",
+   "lat": 38.2975,
+   "lng": -122.4915
+ },
+ {
+   "city": "Squirrel Mountain Valley",
+   "lat": 35.6175,
+   "lng": -118.4047
+ },
+ {
+   "city": "Woodlands",
+   "lat": 35.0289,
+   "lng": -120.5524
+ },
+ {
+   "city": "Tuolumne City",
+   "lat": 37.9615,
+   "lng": -120.2428
+ },
+ {
+   "city": "Seville",
+   "lat": 36.4856,
+   "lng": -119.2247
+ },
+ {
+   "city": "Shasta",
+   "lat": 40.5911,
+   "lng": -122.4797
+ },
+ {
+   "city": "San Fernando",
+   "lat": 34.2886,
+   "lng": -118.4363
+ },
+ {
+   "city": "Lompoc",
+   "lat": 34.6618,
+   "lng": -120.4714
+ },
+ {
+   "city": "South Gate",
+   "lat": 33.9448,
+   "lng": -118.1926
+ },
+ {
+   "city": "Bolinas",
+   "lat": 37.9177,
+   "lng": -122.7095
+ },
+ {
+   "city": "Norris Canyon",
+   "lat": 37.7454,
+   "lng": -121.9878
+ },
+ {
+   "city": "Hemet",
+   "lat": 33.7341,
+   "lng": -116.9969
+ },
+ {
+   "city": "Chalfant",
+   "lat": 37.5105,
+   "lng": -118.375
+ },
+ {
+   "city": "Spaulding",
+   "lat": 40.6556,
+   "lng": -120.7863
+ },
+ {
+   "city": "Hamilton Branch",
+   "lat": 40.2772,
+   "lng": -121.0961
+ },
+ {
+   "city": "Arbuckle",
+   "lat": 39.0141,
+   "lng": -122.061
+ },
+ {
+   "city": "Philo",
+   "lat": 39.0657,
+   "lng": -123.4452
+ },
+ {
+   "city": "Lexington Hills",
+   "lat": 37.1616,
+   "lng": -121.9879
+ },
+ {
+   "city": "Gazelle",
+   "lat": 41.5137,
+   "lng": -122.5215
+ },
+ {
+   "city": "Forbestown",
+   "lat": 39.53,
+   "lng": -121.2689
+ },
+ {
+   "city": "Loma Mar",
+   "lat": 37.2658,
+   "lng": -122.3007
+ },
+ {
+   "city": "Little Grass Valley",
+   "lat": 39.7252,
+   "lng": -120.9591
+ },
+ {
+   "city": "Goshen",
+   "lat": 36.3518,
+   "lng": -119.421
+ },
+ {
+   "city": "Antelope",
+   "lat": 38.7153,
+   "lng": -121.361
+ },
+ {
+   "city": "Humboldt Hill",
+   "lat": 40.7219,
+   "lng": -124.1987
+ },
+ {
+   "city": "Guerneville",
+   "lat": 38.5137,
+   "lng": -122.9894
+ },
+ {
+   "city": "Fresno",
+   "lat": 36.7831,
+   "lng": -119.7941
+ },
+ {
+   "city": "East Foothills",
+   "lat": 37.3827,
+   "lng": -121.8138
+ },
+ {
+   "city": "North El Monte",
+   "lat": 34.1029,
+   "lng": -118.0239
+ },
+ {
+   "city": "Union City",
+   "lat": 37.603,
+   "lng": -122.0187
+ },
+ {
+   "city": "Walnut",
+   "lat": 34.0334,
+   "lng": -117.8593
+ },
+ {
+   "city": "El Granada",
+   "lat": 37.5134,
+   "lng": -122.466
+ },
+ {
+   "city": "Orange",
+   "lat": 33.8038,
+   "lng": -117.8218
+ },
+ {
+   "city": "Deer Park",
+   "lat": 38.5361,
+   "lng": -122.4679
+ },
+ {
+   "city": "Bradley",
+   "lat": 35.8628,
+   "lng": -120.8042
+ },
+ {
+   "city": "Buena Park",
+   "lat": 33.8572,
+   "lng": -118.0046
+ },
+ {
+   "city": "Fort Bidwell",
+   "lat": 41.8629,
+   "lng": -120.1589
+ },
+ {
+   "city": "Citrus",
+   "lat": 34.1161,
+   "lng": -117.889
+ },
+ {
+   "city": "Camino",
+   "lat": 38.7412,
+   "lng": -120.6814
+ },
+ {
+   "city": "Newman",
+   "lat": 37.3157,
+   "lng": -121.0211
+ },
+ {
+   "city": "Loma Linda",
+   "lat": 34.0451,
+   "lng": -117.2498
+ },
+ {
+   "city": "River Pines",
+   "lat": 38.5454,
+   "lng": -120.7475
+ },
+ {
+   "city": "Garden Farms",
+   "lat": 35.4158,
+   "lng": -120.614
+ },
+ {
+   "city": "Moskowite Corner",
+   "lat": 38.4464,
+   "lng": -122.1945
+ },
+ {
+   "city": "Pomona",
+   "lat": 34.0585,
+   "lng": -117.7626
+ },
+ {
+   "city": "Stratford",
+   "lat": 36.1884,
+   "lng": -119.8224
+ },
+ {
+   "city": "Lake Elsinore",
+   "lat": 33.6846,
+   "lng": -117.3344
+ },
+ {
+   "city": "Covina",
+   "lat": 34.0903,
+   "lng": -117.8817
+ },
+ {
+   "city": "Larkfield-Wikiup",
+   "lat": 38.513,
+   "lng": -122.7536
+ },
+ {
+   "city": "Cayucos",
+   "lat": 35.4375,
+   "lng": -120.8847
+ },
+ {
+   "city": "Albany",
+   "lat": 37.8898,
+   "lng": -122.3018
+ },
+ {
+   "city": "Fallbrook",
+   "lat": 33.3693,
+   "lng": -117.2258
+ },
+ {
+   "city": "Borrego Springs",
+   "lat": 33.241,
+   "lng": -116.3572
+ },
+ {
+   "city": "Paramount",
+   "lat": 33.8977,
+   "lng": -118.1652
+ },
+ {
+   "city": "Winterhaven",
+   "lat": 32.7372,
+   "lng": -114.6378
+ },
+ {
+   "city": "Dos Palos",
+   "lat": 36.9854,
+   "lng": -120.6337
+ },
+ {
+   "city": "Lake San Marcos",
+   "lat": 33.1197,
+   "lng": -117.2089
+ },
+ {
+   "city": "Manteca",
+   "lat": 37.7934,
+   "lng": -121.2266
+ },
+ {
+   "city": "Kerman",
+   "lat": 36.7249,
+   "lng": -120.0625
+ },
+ {
+   "city": "Nipomo",
+   "lat": 35.0323,
+   "lng": -120.499
+ },
+ {
+   "city": "San Dimas",
+   "lat": 34.1082,
+   "lng": -117.809
+ },
+ {
+   "city": "Loyola",
+   "lat": 37.3502,
+   "lng": -122.098
+ },
+ {
+   "city": "Buttonwillow",
+   "lat": 35.4092,
+   "lng": -119.4406
+ },
+ {
+   "city": "Keswick",
+   "lat": 40.6135,
+   "lng": -122.4606
+ },
+ {
+   "city": "Marina del Rey",
+   "lat": 33.9765,
+   "lng": -118.4486
+ },
+ {
+   "city": "Vincent",
+   "lat": 34.0982,
+   "lng": -117.9238
+ },
+ {
+   "city": "Greenhorn",
+   "lat": 39.903,
+   "lng": -120.759
+ },
+ {
+   "city": "Santa Rosa Valley",
+   "lat": 34.2453,
+   "lng": -118.9023
+ },
+ {
+   "city": "Westhaven-Moonstone",
+   "lat": 41.0447,
+   "lng": -124.1023
+ },
+ {
+   "city": "Creston",
+   "lat": 35.5173,
+   "lng": -120.521
+ },
+ {
+   "city": "French Camp",
+   "lat": 37.8802,
+   "lng": -121.2803
+ },
+ {
+   "city": "Forest Meadows",
+   "lat": 38.1664,
+   "lng": -120.4052
+ },
+ {
+   "city": "Davis",
+   "lat": 38.5552,
+   "lng": -121.7365
+ },
+ {
+   "city": "Hollister",
+   "lat": 36.8563,
+   "lng": -121.3981
+ },
+ {
+   "city": "El Rio",
+   "lat": 34.2453,
+   "lng": -119.1568
+ },
+ {
+   "city": "Morro Bay",
+   "lat": 35.3681,
+   "lng": -120.8482
+ },
+ {
+   "city": "Monte Rio",
+   "lat": 38.4683,
+   "lng": -123.0147
+ },
+ {
+   "city": "Cameron Park",
+   "lat": 38.6737,
+   "lng": -120.9872
+ },
+ {
+   "city": "Lakeport",
+   "lat": 39.0392,
+   "lng": -122.9218
+ },
+ {
+   "city": "Upper Lake",
+   "lat": 39.1653,
+   "lng": -122.9052
+ },
+ {
+   "city": "Georgetown",
+   "lat": 38.9111,
+   "lng": -120.8356
+ },
+ {
+   "city": "Malibu",
+   "lat": 34.0368,
+   "lng": -118.7845
+ },
+ {
+   "city": "Hartland",
+   "lat": 36.6518,
+   "lng": -118.9553
+ },
+ {
+   "city": "Redondo Beach",
+   "lat": 33.8574,
+   "lng": -118.3766
+ },
+ {
+   "city": "Lake Almanor West",
+   "lat": 40.2335,
+   "lng": -121.202
+ },
+ {
+   "city": "Lamont",
+   "lat": 35.2651,
+   "lng": -118.9159
+ },
+ {
+   "city": "Bieber",
+   "lat": 41.1251,
+   "lng": -121.1336
+ },
+ {
+   "city": "Moss Landing",
+   "lat": 36.8019,
+   "lng": -121.7872
+ },
+ {
+   "city": "Anaheim",
+   "lat": 33.839,
+   "lng": -117.8573
+ },
+ {
+   "city": "Mojave",
+   "lat": 35.0139,
+   "lng": -118.1895
+ },
+ {
+   "city": "Camanche Village",
+   "lat": 38.2662,
+   "lng": -120.9866
+ },
+ {
+   "city": "Julian",
+   "lat": 33.0735,
+   "lng": -116.5889
+ },
+ {
+   "city": "Bell Canyon",
+   "lat": 34.2081,
+   "lng": -118.6876
+ },
+ {
+   "city": "Biggs",
+   "lat": 39.4132,
+   "lng": -121.71
+ },
+ {
+   "city": "Florin",
+   "lat": 38.4832,
+   "lng": -121.4042
+ },
+ {
+   "city": "Talmage",
+   "lat": 39.1314,
+   "lng": -123.1648
+ },
+ {
+   "city": "Linda",
+   "lat": 39.1242,
+   "lng": -121.5421
+ },
+ {
+   "city": "Butte Valley",
+   "lat": 39.6571,
+   "lng": -121.6363
+ },
+ {
+   "city": "West Carson",
+   "lat": 33.8229,
+   "lng": -118.2931
+ },
+ {
+   "city": "Fall River Mills",
+   "lat": 41.0069,
+   "lng": -121.4401
+ },
+ {
+   "city": "Claremont",
+   "lat": 34.1259,
+   "lng": -117.7153
+ },
+ {
+   "city": "Pleasant Hill",
+   "lat": 37.954,
+   "lng": -122.0759
+ },
+ {
+   "city": "Santa Ynez",
+   "lat": 34.6151,
+   "lng": -120.0944
+ },
+ {
+   "city": "Santa Clarita",
+   "lat": 34.4155,
+   "lng": -118.4992
+ },
+ {
+   "city": "Derby Acres",
+   "lat": 35.244,
+   "lng": -119.6039
+ },
+ {
+   "city": "Hanford",
+   "lat": 36.3264,
+   "lng": -119.6544
+ },
+ {
+   "city": "Clearlake",
+   "lat": 38.959,
+   "lng": -122.6331
+ },
+ {
+   "city": "Morada",
+   "lat": 38.0386,
+   "lng": -121.2456
+ },
+ {
+   "city": "Brea",
+   "lat": 33.9254,
+   "lng": -117.8654
+ },
+ {
+   "city": "Lake Arrowhead",
+   "lat": 34.2531,
+   "lng": -117.1945
+ },
+ {
+   "city": "Drytown",
+   "lat": 38.4382,
+   "lng": -120.8565
+ },
+ {
+   "city": "Los Angeles",
+   "lat": 34.1139,
+   "lng": -118.4068
+ },
+ {
+   "city": "Smartsville",
+   "lat": 39.2053,
+   "lng": -121.2928
+ },
+ {
+   "city": "Calipatria",
+   "lat": 33.1493,
+   "lng": -115.5056
+ },
+ {
+   "city": "Esparto",
+   "lat": 38.6934,
+   "lng": -122.0241
+ },
+ {
+   "city": "Manchester",
+   "lat": 38.9743,
+   "lng": -123.691
+ },
+ {
+   "city": "Monmouth",
+   "lat": 36.5656,
+   "lng": -119.7405
+ },
+ {
+   "city": "Rio Dell",
+   "lat": 40.5024,
+   "lng": -124.1105
+ },
+ {
+   "city": "Princeton",
+   "lat": 39.4029,
+   "lng": -122.0212
+ },
+ {
+   "city": "Mountain View Acres",
+   "lat": 34.4976,
+   "lng": -117.3472
+ },
+ {
+   "city": "Lake of the Pines",
+   "lat": 39.0378,
+   "lng": -121.0642
+ },
+ {
+   "city": "Yolo",
+   "lat": 38.7405,
+   "lng": -121.8093
+ },
+ {
+   "city": "Penn Valley",
+   "lat": 39.1954,
+   "lng": -121.1942
+ },
+ {
+   "city": "McKittrick",
+   "lat": 35.2981,
+   "lng": -119.6249
+ },
+ {
+   "city": "Soulsbyville",
+   "lat": 37.9917,
+   "lng": -120.2617
+ },
+ {
+   "city": "Thousand Oaks",
+   "lat": 34.1914,
+   "lng": -118.8755
+ },
+ {
+   "city": "Fairmead",
+   "lat": 37.0775,
+   "lng": -120.1937
+ },
+ {
+   "city": "Grover Beach",
+   "lat": 35.1204,
+   "lng": -120.6199
+ },
+ {
+   "city": "Westmorland",
+   "lat": 33.0389,
+   "lng": -115.6223
+ },
+ {
+   "city": "West Bishop",
+   "lat": 37.3571,
+   "lng": -118.4542
+ },
+ {
+   "city": "Lebec",
+   "lat": 34.845,
+   "lng": -118.8992
+ },
+ {
+   "city": "Crows Landing",
+   "lat": 37.3947,
+   "lng": -121.0843
+ },
+ {
+   "city": "Hardwick",
+   "lat": 36.4026,
+   "lng": -119.7207
+ },
+ {
+   "city": "Pine Hills",
+   "lat": 40.7313,
+   "lng": -124.1551
+ },
+ {
+   "city": "Gold River",
+   "lat": 38.6268,
+   "lng": -121.2487
+ },
+ {
+   "city": "Mill Valley",
+   "lat": 37.9085,
+   "lng": -122.542
+ },
+ {
+   "city": "Topaz",
+   "lat": 38.6587,
+   "lng": -119.5274
+ },
+ {
+   "city": "Glendale",
+   "lat": 34.1818,
+   "lng": -118.2468
+ },
+ {
+   "city": "Pixley",
+   "lat": 35.9769,
+   "lng": -119.2889
+ },
+ {
+   "city": "Santa Rosa",
+   "lat": 38.4458,
+   "lng": -122.7067
+ },
+ {
+   "city": "Whitley Gardens",
+   "lat": 35.6571,
+   "lng": -120.5068
+ },
+ {
+   "city": "Richgrove",
+   "lat": 35.7966,
+   "lng": -119.1069
+ },
+ {
+   "city": "Los Banos",
+   "lat": 37.0631,
+   "lng": -120.8405
+ },
+ {
+   "city": "Volta",
+   "lat": 37.0875,
+   "lng": -120.9235
+ },
+ {
+   "city": "Fillmore",
+   "lat": 34.399,
+   "lng": -118.9181
+ },
+ {
+   "city": "Bret Harte",
+   "lat": 37.6021,
+   "lng": -121.0045
+ },
+ {
+   "city": "Brentwood",
+   "lat": 37.9356,
+   "lng": -121.719
+ },
+ {
+   "city": "Shasta Lake",
+   "lat": 40.679,
+   "lng": -122.3775
+ },
+ {
+   "city": "Cutten",
+   "lat": 40.7657,
+   "lng": -124.1446
+ },
+ {
+   "city": "Mead Valley",
+   "lat": 33.8333,
+   "lng": -117.2852
+ },
+ {
+   "city": "Nicolaus",
+   "lat": 38.8981,
+   "lng": -121.5729
+ },
+ {
+   "city": "Fort Irwin",
+   "lat": 35.2476,
+   "lng": -116.6834
+ },
+ {
+   "city": "Mariposa",
+   "lat": 37.4873,
+   "lng": -119.9683
+ },
+ {
+   "city": "Wallace",
+   "lat": 38.1978,
+   "lng": -120.9586
+ },
+ {
+   "city": "Acampo",
+   "lat": 38.1735,
+   "lng": -121.2798
+ },
+ {
+   "city": "Mentone",
+   "lat": 34.0609,
+   "lng": -117.1109
+ },
+ {
+   "city": "Waukena",
+   "lat": 36.1361,
+   "lng": -119.5109
+ },
+ {
+   "city": "Desert Center",
+   "lat": 33.7378,
+   "lng": -115.3666
+ },
+ {
+   "city": "Port Costa",
+   "lat": 38.0446,
+   "lng": -122.185
+ },
+ {
+   "city": "Cromberg",
+   "lat": 39.8684,
+   "lng": -120.6905
+ },
+ {
+   "city": "Highland",
+   "lat": 34.1113,
+   "lng": -117.1654
+ },
+ {
+   "city": "Hidden Hills",
+   "lat": 34.1637,
+   "lng": -118.6612
+ },
+ {
+   "city": "Los Osos",
+   "lat": 35.3068,
+   "lng": -120.8249
+ },
+ {
+   "city": "Encinitas",
+   "lat": 33.049,
+   "lng": -117.2613
+ },
+ {
+   "city": "Los Olivos",
+   "lat": 34.6647,
+   "lng": -120.118
+ },
+ {
+   "city": "Johnsville",
+   "lat": 39.7663,
+   "lng": -120.713
+ },
+ {
+   "city": "Piñon Hills",
+   "lat": 34.4438,
+   "lng": -117.6214
+ },
+ {
+   "city": "Sanger",
+   "lat": 36.6992,
+   "lng": -119.5576
+ },
+ {
+   "city": "Oakland",
+   "lat": 37.7903,
+   "lng": -122.2165
+ },
+ {
+   "city": "Shell Ridge",
+   "lat": 37.906,
+   "lng": -122.0344
+ },
+ {
+   "city": "Greenacres",
+   "lat": 35.3831,
+   "lng": -119.1184
+ },
+ {
+   "city": "Lockeford",
+   "lat": 38.1508,
+   "lng": -121.1554
+ },
+ {
+   "city": "La Porte",
+   "lat": 39.6725,
+   "lng": -120.9852
+ },
+ {
+   "city": "View Park-Windsor Hills",
+   "lat": 33.9955,
+   "lng": -118.3484
+ },
+ {
+   "city": "Indian Falls",
+   "lat": 40.0587,
+   "lng": -120.9803
+ },
+ {
+   "city": "Tara Hills",
+   "lat": 37.9939,
+   "lng": -122.3188
+ },
+ {
+   "city": "East San Gabriel",
+   "lat": 34.1198,
+   "lng": -118.0807
+ },
+ {
+   "city": "Richfield",
+   "lat": 39.9738,
+   "lng": -122.1733
+ },
+ {
+   "city": "Sea Ranch",
+   "lat": 38.7166,
+   "lng": -123.4528
+ },
+ {
+   "city": "Lake Sherwood",
+   "lat": 34.1339,
+   "lng": -118.8804
+ },
+ {
+   "city": "Cypress",
+   "lat": 33.8171,
+   "lng": -118.0386
+ },
+ {
+   "city": "Belvedere",
+   "lat": 37.8735,
+   "lng": -122.4662
+ },
+ {
+   "city": "Comptche",
+   "lat": 39.2651,
+   "lng": -123.5897
+ },
+ {
+   "city": "Granite Bay",
+   "lat": 38.7601,
+   "lng": -121.1714
+ },
+ {
+   "city": "Forest Ranch",
+   "lat": 39.8952,
+   "lng": -121.6705
+ },
+ {
+   "city": "Poway",
+   "lat": 32.9872,
+   "lng": -117.0201
+ },
+ {
+   "city": "Ballico",
+   "lat": 37.4519,
+   "lng": -120.7037
+ },
+ {
+   "city": "Monrovia",
+   "lat": 34.165,
+   "lng": -117.9921
+ },
+ {
+   "city": "Orick",
+   "lat": 41.2909,
+   "lng": -124.0692
+ },
+ {
+   "city": "Lake Isabella",
+   "lat": 35.6378,
+   "lng": -118.4819
+ },
+ {
+   "city": "Bayview",
+   "lat": 40.7653,
+   "lng": -124.1786
+ },
+ {
+   "city": "Nubieber",
+   "lat": 41.0966,
+   "lng": -121.1816
+ },
+ {
+   "city": "Lakeside",
+   "lat": 32.856,
+   "lng": -116.904
+ },
+ {
+   "city": "Diamond Bar",
+   "lat": 33.9991,
+   "lng": -117.8161
+ },
+ {
+   "city": "Visalia",
+   "lat": 36.3276,
+   "lng": -119.3269
+ },
+ {
+   "city": "Lindcove",
+   "lat": 36.3595,
+   "lng": -119.0721
+ },
+ {
+   "city": "La Riviera",
+   "lat": 38.5683,
+   "lng": -121.3544
+ },
+ {
+   "city": "Jenner",
+   "lat": 38.4511,
+   "lng": -123.1204
+ },
+ {
+   "city": "Home Gardens",
+   "lat": 33.8784,
+   "lng": -117.5116
+ },
+ {
+   "city": "Moraga",
+   "lat": 37.8438,
+   "lng": -122.1225
+ },
+ {
+   "city": "Kelseyville",
+   "lat": 38.9704,
+   "lng": -122.8327
+ },
+ {
+   "city": "Berry Creek",
+   "lat": 39.6314,
+   "lng": -121.4052
+ },
+ {
+   "city": "Hawaiian Gardens",
+   "lat": 33.8303,
+   "lng": -118.0728
+ },
+ {
+   "city": "Meadow Valley",
+   "lat": 39.9323,
+   "lng": -121.0832
+ },
+ {
+   "city": "Yettem",
+   "lat": 36.4866,
+   "lng": -119.2551
+ },
+ {
+   "city": "Columbia",
+   "lat": 38.0333,
+   "lng": -120.4097
+ },
+ {
+   "city": "Lytle Creek",
+   "lat": 34.2499,
+   "lng": -117.5044
+ },
+ {
+   "city": "Yosemite Valley",
+   "lat": 37.7407,
+   "lng": -119.5779
+ },
+ {
+   "city": "Oak Park",
+   "lat": 34.1849,
+   "lng": -118.7669
+ },
+ {
+   "city": "East Palo Alto",
+   "lat": 37.4671,
+   "lng": -122.1352
+ },
+ {
+   "city": "Quincy",
+   "lat": 39.931,
+   "lng": -120.9548
+ },
+ {
+   "city": "Squaw Valley",
+   "lat": 36.6944,
+   "lng": -119.2
+ },
+ {
+   "city": "Timber Cove",
+   "lat": 38.541,
+   "lng": -123.259
+ },
+ {
+   "city": "Crockett",
+   "lat": 38.0519,
+   "lng": -122.2201
+ },
+ {
+   "city": "Cupertino",
+   "lat": 37.3168,
+   "lng": -122.0465
+ },
+ {
+   "city": "Bloomfield",
+   "lat": 38.3183,
+   "lng": -122.8502
+ },
+ {
+   "city": "Seal Beach",
+   "lat": 33.7542,
+   "lng": -118.0714
+ },
+ {
+   "city": "Winchester",
+   "lat": 33.7146,
+   "lng": -117.0775
+ },
+ {
+   "city": "Camino Tassajara",
+   "lat": 37.7909,
+   "lng": -121.885
+ },
+ {
+   "city": "Oakhurst",
+   "lat": 37.3342,
+   "lng": -119.6483
+ },
+ {
+   "city": "Gridley",
+   "lat": 39.3622,
+   "lng": -121.6971
+ },
+ {
+   "city": "McCloud",
+   "lat": 41.2541,
+   "lng": -122.136
+ },
+ {
+   "city": "Clyde",
+   "lat": 38.0252,
+   "lng": -122.0278
+ },
+ {
+   "city": "East Tulare Villa",
+   "lat": 36.2035,
+   "lng": -119.2821
+ },
+ {
+   "city": "Armona",
+   "lat": 36.3179,
+   "lng": -119.7054
+ },
+ {
+   "city": "Glen Ellen",
+   "lat": 38.3564,
+   "lng": -122.5412
+ },
+ {
+   "city": "Riverside",
+   "lat": 33.9381,
+   "lng": -117.3948
+ },
+ {
+   "city": "Iron Horse",
+   "lat": 39.7805,
+   "lng": -120.4823
+ },
+ {
+   "city": "Alondra Park",
+   "lat": 33.8885,
+   "lng": -118.335
+ },
+ {
+   "city": "Lake Wildwood",
+   "lat": 39.235,
+   "lng": -121.2003
+ },
+ {
+   "city": "Doyle",
+   "lat": 40.0275,
+   "lng": -120.1172
+ },
+ {
+   "city": "East Porterville",
+   "lat": 36.0573,
+   "lng": -118.9713
+ },
+ {
+   "city": "Montgomery Creek",
+   "lat": 40.8414,
+   "lng": -121.9215
+ },
+ {
+   "city": "Lincoln",
+   "lat": 38.8759,
+   "lng": -121.2916
+ },
+ {
+   "city": "Pacheco",
+   "lat": 37.9878,
+   "lng": -122.07
+ },
+ {
+   "city": "Joshua Tree",
+   "lat": 34.1236,
+   "lng": -116.3128
+ },
+ {
+   "city": "Emeryville",
+   "lat": 37.8382,
+   "lng": -122.2932
+ },
+ {
+   "city": "Redwood Valley",
+   "lat": 39.269,
+   "lng": -123.2023
+ },
+ {
+   "city": "El Nido",
+   "lat": 37.1324,
+   "lng": -120.4985
+ },
+ {
+   "city": "Mohawk Vista",
+   "lat": 39.8048,
+   "lng": -120.5883
+ },
+ {
+   "city": "Johannesburg",
+   "lat": 35.3718,
+   "lng": -117.642
+ },
+ {
+   "city": "C-Road",
+   "lat": 39.7628,
+   "lng": -120.577
+ },
+ {
+   "city": "Camptonville",
+   "lat": 39.4521,
+   "lng": -121.0488
+ },
+ {
+   "city": "Yorba Linda",
+   "lat": 33.889,
+   "lng": -117.7713
+ },
+ {
+   "city": "Woodville",
+   "lat": 36.0898,
+   "lng": -119.205
+ },
+ {
+   "city": "San Buenaventura",
+   "lat": 34.2741,
+   "lng": -119.2314
+ },
+ {
+   "city": "Midway City",
+   "lat": 33.7451,
+   "lng": -117.9849
+ },
+ {
+   "city": "Oroville",
+   "lat": 39.4999,
+   "lng": -121.5634
+ },
+ {
+   "city": "Empire",
+   "lat": 37.6432,
+   "lng": -120.9045
+ },
+ {
+   "city": "Carlsbad",
+   "lat": 33.1247,
+   "lng": -117.2837
+ },
+ {
+   "city": "Aguanga",
+   "lat": 33.4522,
+   "lng": -116.8555
+ },
+ {
+   "city": "Cutler",
+   "lat": 36.5263,
+   "lng": -119.2883
+ },
+ {
+   "city": "Cambrian Park",
+   "lat": 37.2563,
+   "lng": -121.9288
+ },
+ {
+   "city": "San Lucas",
+   "lat": 36.1283,
+   "lng": -121.0218
+ },
+ {
+   "city": "Whitehawk",
+   "lat": 39.7206,
+   "lng": -120.5536
+ },
+ {
+   "city": "Snelling",
+   "lat": 37.5216,
+   "lng": -120.4385
+ },
+ {
+   "city": "Bear Valley",
+   "lat": 37.5671,
+   "lng": -120.123
+ },
+ {
+   "city": "Ahwahnee",
+   "lat": 37.3652,
+   "lng": -119.7194
+ },
+ {
+   "city": "Temple City",
+   "lat": 34.1022,
+   "lng": -118.0579
+ },
+ {
+   "city": "Willow Creek",
+   "lat": 40.9385,
+   "lng": -123.6412
+ },
+ {
+   "city": "Artois",
+   "lat": 39.6332,
+   "lng": -122.1898
+ },
+ {
+   "city": "Blythe",
+   "lat": 33.6219,
+   "lng": -114.6195
+ },
+ {
+   "city": "Coloma",
+   "lat": 38.8026,
+   "lng": -120.8946
+ },
+ {
+   "city": "Freedom",
+   "lat": 36.9402,
+   "lng": -121.7954
+ },
+ {
+   "city": "Maywood",
+   "lat": 33.9885,
+   "lng": -118.1877
+ },
+ {
+   "city": "Green Acres",
+   "lat": 33.735,
+   "lng": -117.0783
+ },
+ {
+   "city": "Fairbanks Ranch",
+   "lat": 32.9919,
+   "lng": -117.1859
+ },
+ {
+   "city": "Rodeo",
+   "lat": 38.0368,
+   "lng": -122.2526
+ },
+ {
+   "city": "Avenal",
+   "lat": 36.0312,
+   "lng": -120.116
+ },
+ {
+   "city": "Pine Mountain Lake",
+   "lat": 37.8599,
+   "lng": -120.1843
+ },
+ {
+   "city": "Alderpoint",
+   "lat": 40.1614,
+   "lng": -123.6157
+ },
+ {
+   "city": "Lincoln Village",
+   "lat": 38.0054,
+   "lng": -121.3339
+ },
+ {
+   "city": "Elverta",
+   "lat": 38.7185,
+   "lng": -121.4455
+ },
+ {
+   "city": "San Jose",
+   "lat": 37.3021,
+   "lng": -121.8489
+ },
+ {
+   "city": "South Taft",
+   "lat": 35.1293,
+   "lng": -119.4575
+ },
+ {
+   "city": "Arden-Arcade",
+   "lat": 38.6034,
+   "lng": -121.381
+ },
+ {
+   "city": "Cartago",
+   "lat": 36.3123,
+   "lng": -118.0261
+ },
+ {
+   "city": "Monte Sereno",
+   "lat": 37.2404,
+   "lng": -121.9881
+ },
+ {
+   "city": "Lost Hills",
+   "lat": 35.6254,
+   "lng": -119.6789
+ },
+ {
+   "city": "Imperial",
+   "lat": 32.8388,
+   "lng": -115.5723
+ },
+ {
+   "city": "Adelanto",
+   "lat": 34.5815,
+   "lng": -117.4397
+ },
+ {
+   "city": "Mount Hebron",
+   "lat": 41.7855,
+   "lng": -122.0083
+ },
+ {
+   "city": "McSwain",
+   "lat": 37.3146,
+   "lng": -120.5867
+ },
+ {
+   "city": "La Habra",
+   "lat": 33.9278,
+   "lng": -117.9513
+ },
+ {
+   "city": "Shingle Springs",
+   "lat": 38.6665,
+   "lng": -120.937
+ },
+ {
+   "city": "Brawley",
+   "lat": 32.9783,
+   "lng": -115.5288
+ },
+ {
+   "city": "Smith Corner",
+   "lat": 35.4788,
+   "lng": -119.2771
+ },
+ {
+   "city": "Napa",
+   "lat": 38.2976,
+   "lng": -122.3011
+ },
+ {
+   "city": "Springville",
+   "lat": 36.1168,
+   "lng": -118.8345
+ },
+ {
+   "city": "Apple Valley",
+   "lat": 34.5328,
+   "lng": -117.2104
+ },
+ {
+   "city": "Round Valley",
+   "lat": 37.4067,
+   "lng": -118.5819
+ },
+ {
+   "city": "Trinity Village",
+   "lat": 40.8789,
+   "lng": -123.5132
+ },
+ {
+   "city": "Rio Linda",
+   "lat": 38.6876,
+   "lng": -121.4418
+ },
+ {
+   "city": "Tahoe Vista",
+   "lat": 39.2483,
+   "lng": -120.0535
+ },
+ {
+   "city": "Bear Valley Springs",
+   "lat": 35.1775,
+   "lng": -118.646
+ },
+ {
+   "city": "Ducor",
+   "lat": 35.8943,
+   "lng": -119.0456
+ },
+ {
+   "city": "Soquel",
+   "lat": 36.9978,
+   "lng": -121.9482
+ },
+ {
+   "city": "Palm Desert",
+   "lat": 33.7378,
+   "lng": -116.3695
+ },
+ {
+   "city": "Spring Garden",
+   "lat": 39.9012,
+   "lng": -120.7936
+ },
+ {
+   "city": "Red Corral",
+   "lat": 38.4116,
+   "lng": -120.6056
+ },
+ {
+   "city": "Clearlake Oaks",
+   "lat": 39.0218,
+   "lng": -122.6593
+ },
+ {
+   "city": "Twain Harte",
+   "lat": 38.0384,
+   "lng": -120.234
+ },
+ {
+   "city": "San Leandro",
+   "lat": 37.7071,
+   "lng": -122.1601
+ },
+ {
+   "city": "Manton",
+   "lat": 40.4202,
+   "lng": -121.854
+ },
+ {
+   "city": "Swall Meadows",
+   "lat": 37.506,
+   "lng": -118.6426
+ },
+ {
+   "city": "Butte Meadows",
+   "lat": 40.0871,
+   "lng": -121.537
+ },
+ {
+   "city": "North Fair Oaks",
+   "lat": 37.4754,
+   "lng": -122.2035
+ },
+ {
+   "city": "Cedar Ridge",
+   "lat": 38.0661,
+   "lng": -120.2737
+ },
+ {
+   "city": "Aptos Hills-Larkin Valley",
+   "lat": 36.9606,
+   "lng": -121.8341
+ },
+ {
+   "city": "Rancho Palos Verdes",
+   "lat": 33.7554,
+   "lng": -118.3637
+ },
+ {
+   "city": "Westminster",
+   "lat": 33.7523,
+   "lng": -117.9938
+ },
+ {
+   "city": "Dogtown",
+   "lat": 38.2096,
+   "lng": -121.1551
+ },
+ {
+   "city": "Pacifica",
+   "lat": 37.6112,
+   "lng": -122.4781
+ },
+ {
+   "city": "Buellton",
+   "lat": 34.6152,
+   "lng": -120.1943
+ },
+ {
+   "city": "New Pine Creek",
+   "lat": 41.9872,
+   "lng": -120.3009
+ },
+ {
+   "city": "Canyon Lake",
+   "lat": 33.6884,
+   "lng": -117.2621
+ },
+ {
+   "city": "Corcoran",
+   "lat": 36.0847,
+   "lng": -119.5612
+ },
+ {
+   "city": "Kirkwood",
+   "lat": 38.693,
+   "lng": -120.064
+ },
+ {
+   "city": "Cressey",
+   "lat": 37.421,
+   "lng": -120.6556
+ },
+ {
+   "city": "Fields Landing",
+   "lat": 40.7249,
+   "lng": -124.2176
+ },
+ {
+   "city": "Ashland",
+   "lat": 37.6942,
+   "lng": -122.1159
+ },
+ {
+   "city": "Baker",
+   "lat": 35.2769,
+   "lng": -116.0718
+ },
+ {
+   "city": "Gardena",
+   "lat": 33.8944,
+   "lng": -118.3073
+ },
+ {
+   "city": "Foster City",
+   "lat": 37.5553,
+   "lng": -122.2659
+ },
+ {
+   "city": "Gonzales",
+   "lat": 36.506,
+   "lng": -121.443
+ },
+ {
+   "city": "Pescadero",
+   "lat": 37.2507,
+   "lng": -122.3725
+ }
+]

@@ -1,0 +1,322 @@
+[
+ {
+   "city": "North Westminster",
+   "lat": 43.1219,
+   "lng": -72.4555
+ },
+ {
+   "city": "Old Bennington",
+   "lat": 42.8848,
+   "lng": -73.2143
+ },
+ {
+   "city": "Burlington",
+   "lat": 44.4877,
+   "lng": -73.2314
+ },
+ {
+   "city": "North Springfield",
+   "lat": 43.33,
+   "lng": -72.5262
+ },
+ {
+   "city": "Newport Center",
+   "lat": 44.9509,
+   "lng": -72.3043
+ },
+ {
+   "city": "Vergennes",
+   "lat": 44.1664,
+   "lng": -73.2555
+ },
+ {
+   "city": "Derby Line",
+   "lat": 45.0008,
+   "lng": -72.1034
+ },
+ {
+   "city": "Websterville",
+   "lat": 44.1617,
+   "lng": -72.4722
+ },
+ {
+   "city": "West Burke",
+   "lat": 44.6431,
+   "lng": -71.9791
+ },
+ {
+   "city": "South Burlington",
+   "lat": 44.4622,
+   "lng": -73.2203
+ },
+ {
+   "city": "Poultney",
+   "lat": 43.5181,
+   "lng": -73.236
+ },
+ {
+   "city": "Johnson",
+   "lat": 44.6366,
+   "lng": -72.6786
+ },
+ {
+   "city": "Wilder",
+   "lat": 43.673,
+   "lng": -72.3109
+ },
+ {
+   "city": "North Troy",
+   "lat": 44.9963,
+   "lng": -72.4038
+ },
+ {
+   "city": "Ascutney",
+   "lat": 43.408,
+   "lng": -72.407
+ },
+ {
+   "city": "Barton",
+   "lat": 44.7481,
+   "lng": -72.1785
+ },
+ {
+   "city": "Newport",
+   "lat": 44.9375,
+   "lng": -72.2088
+ },
+ {
+   "city": "Rutland",
+   "lat": 43.6091,
+   "lng": -72.9781
+ },
+ {
+   "city": "Jacksonville",
+   "lat": 42.7976,
+   "lng": -72.8192
+ },
+ {
+   "city": "East Burke",
+   "lat": 44.5875,
+   "lng": -71.9403
+ },
+ {
+   "city": "South Royalton",
+   "lat": 43.8123,
+   "lng": -72.5155
+ },
+ {
+   "city": "Morrisville",
+   "lat": 44.5584,
+   "lng": -72.5933
+ },
+ {
+   "city": "Perkinsville",
+   "lat": 43.3708,
+   "lng": -72.5159
+ },
+ {
+   "city": "Derby Center",
+   "lat": 44.955,
+   "lng": -72.1361
+ },
+ {
+   "city": "Enosburg Falls",
+   "lat": 44.9083,
+   "lng": -72.8029
+ },
+ {
+   "city": "Graniteville",
+   "lat": 44.1463,
+   "lng": -72.4818
+ },
+ {
+   "city": "North Bennington",
+   "lat": 42.924,
+   "lng": -73.2411
+ },
+ {
+   "city": "West Brattleboro",
+   "lat": 42.8559,
+   "lng": -72.6017
+ },
+ {
+   "city": "Newfane",
+   "lat": 42.9875,
+   "lng": -72.6548
+ },
+ {
+   "city": "Manchester",
+   "lat": 43.161,
+   "lng": -73.0709
+ },
+ {
+   "city": "Manchester Center",
+   "lat": 43.1822,
+   "lng": -73.0362
+ },
+ {
+   "city": "Orleans",
+   "lat": 44.8092,
+   "lng": -72.2013
+ },
+ {
+   "city": "Jeffersonville",
+   "lat": 44.6427,
+   "lng": -72.8282
+ },
+ {
+   "city": "Marshfield",
+   "lat": 44.3519,
+   "lng": -72.3521
+ },
+ {
+   "city": "Essex Junction",
+   "lat": 44.4902,
+   "lng": -73.114
+ },
+ {
+   "city": "Wells River",
+   "lat": 44.1538,
+   "lng": -72.0617
+ },
+ {
+   "city": "Bellows Falls",
+   "lat": 43.1344,
+   "lng": -72.455
+ },
+ {
+   "city": "St. Albans",
+   "lat": 44.8118,
+   "lng": -73.0846
+ },
+ {
+   "city": "Hyde Park",
+   "lat": 44.596,
+   "lng": -72.6123
+ },
+ {
+   "city": "Swanton",
+   "lat": 44.9213,
+   "lng": -73.1201
+ },
+ {
+   "city": "Jericho",
+   "lat": 44.5049,
+   "lng": -72.9879
+ },
+ {
+   "city": "North Hartland",
+   "lat": 43.5936,
+   "lng": -72.3578
+ },
+ {
+   "city": "Barre",
+   "lat": 44.1997,
+   "lng": -72.5083
+ },
+ {
+   "city": "Newbury",
+   "lat": 44.0812,
+   "lng": -72.0594
+ },
+ {
+   "city": "Waterbury",
+   "lat": 44.3429,
+   "lng": -72.7429
+ },
+ {
+   "city": "Proctorsville",
+   "lat": 43.3824,
+   "lng": -72.6415
+ },
+ {
+   "city": "Greensboro Bend",
+   "lat": 44.5583,
+   "lng": -72.2642
+ },
+ {
+   "city": "Albany",
+   "lat": 44.7302,
+   "lng": -72.3811
+ },
+ {
+   "city": "South Barre",
+   "lat": 44.1646,
+   "lng": -72.5038
+ },
+ {
+   "city": "White River Junction",
+   "lat": 43.6496,
+   "lng": -72.3239
+ },
+ {
+   "city": "Saxtons River",
+   "lat": 43.139,
+   "lng": -72.5102
+ },
+ {
+   "city": "Quechee",
+   "lat": 43.6444,
+   "lng": -72.4184
+ },
+ {
+   "city": "Woodstock",
+   "lat": 43.6257,
+   "lng": -72.5167
+ },
+ {
+   "city": "South Shaftsbury",
+   "lat": 42.9411,
+   "lng": -73.202
+ },
+ {
+   "city": "East Barre",
+   "lat": 44.1498,
+   "lng": -72.4498
+ },
+ {
+   "city": "Lyndonville",
+   "lat": 44.5352,
+   "lng": -72.0016
+ },
+ {
+   "city": "Winooski",
+   "lat": 44.4951,
+   "lng": -73.1843
+ },
+ {
+   "city": "Cambridge",
+   "lat": 44.6389,
+   "lng": -72.8788
+ },
+ {
+   "city": "Montpelier",
+   "lat": 44.2658,
+   "lng": -72.5717
+ },
+ {
+   "city": "East Middlebury",
+   "lat": 43.9746,
+   "lng": -73.1056
+ },
+ {
+   "city": "Ludlow",
+   "lat": 43.3973,
+   "lng": -72.6969
+ },
+ {
+   "city": "Beecher Falls",
+   "lat": 45.009,
+   "lng": -71.4935
+ },
+ {
+   "city": "Westminster",
+   "lat": 43.0739,
+   "lng": -72.4551
+ },
+ {
+   "city": "Island Pond",
+   "lat": 44.8125,
+   "lng": -71.8862
+ }
+]
