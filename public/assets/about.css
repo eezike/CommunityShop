@@ -2,7 +2,7 @@
   border-radius: 0;
   background-color: #efefef;
   border-color: #efefef;
-  float:right
+  float:right;
 }
 
 body {
@@ -11,4 +11,8 @@ body {
   background: -moz-linear-gradient(right, #6752b8, rgb(111, 184, 194));
   background: -o-linear-gradient(right, #6752b8, rgb(111, 184, 194));
   background: linear-gradient(to left, #6752b8, rgb(111, 184, 194));
+}
+
+#mainTitle{
+  float:left
 }

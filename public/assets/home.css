@@ -3,11 +3,10 @@ body, html{
   background-color: #efefef;
 }
 
-#map { 
-  height: 150%; 
-  width: 100%; 
-  top: -100px;
-  float:left;
+#map {
+  top:-100px;
+  bottom:0;
+  width: 100%;
   position: absolute;
   z-index:1;
 } 
@@ -21,30 +20,28 @@ body, html{
 
 #mapView {
   position: absolute;
-  height: 95%;
+  top:0;
+  bottom:0;
   width: 100%;
-  overflow: hidden;
   z-index:1;
 }
 
-#overlay {
+.overlay {
   overflow-y: scroll;
   overflow-wrap: break-word;
   padding: 10px;
   border-style: solid;
   border-radius: 2px;
   position: absolute;
-  width: 25%;
-  height: 90%;
+  width: 33%;
   background-color: #ffffff;
   border-color: rgba(98, 154, 213, 0.832);
   opacity: 0.9;
-  top: 30px;
-  left: 10px;
+  top: 78px;
+  left: 30px;
   z-index:2;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
 }
-
 
 .row:after {
   content: "";
@@ -54,4 +51,8 @@ body, html{
 
 #mainTitle{
   float:left
+}
+
+#accountDiv{
+  left: -150%;
 }

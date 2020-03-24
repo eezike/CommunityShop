@@ -6,50 +6,75 @@
 </head>
 
 <body>
-  <div style="height:38px;background-color: #efefef;box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);">
-    <a href='/login'><button id="logingButton" class="btn btn-outline-primary custom-btn" >Login</button></a>
-    <a href='/about'><button class="btn btn-outline-secondary custom-btn" >About</button></a>
-    <a href='/'><button class="btn btn-outline-secondary custom-btn">Home</button></a>
+  <div style="height:48px;background-color: #efefef;box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);z-index:10;position:relative;">
+    <h3 id="mainTitle" style="font-size:33px;line-height:1.2;margin-left:8;">Frank and Kyle</h3> 
+    <a href='/login'><button class="btn btn-lg btn-outline-primary custom-btn" >Login</button></a>
+    <a href='/about'><button class="btn btn-lg btn-outline-secondary custom-btn" >About</button></a>
+    <a href='/'><button class="btn btn-lg btn-outline-secondary custom-btn">Home</button></a>
   </div>
 
 	<div class="login-page">
 		<div class="form">
 
-      <div class="login">
+     <div class="login">
         <form method="POST" action="/login2" class="login-form">
 
           <div class="txtb">
-            <input name="email" type="text" placeholder="email"/>
-            <span data-placeholder="email><span>
+            <input name="email" type="text" autocomplete="off" placeholder="" />
+            <span data-placeholder="email"></span>
           </div>
 
           <div class="txtb">
-            <input name="password" type="password" placeholder="password"/>
-            <span data-placeholder="password><span>
+            <input name="password" type="password" autocomplete="off" placeholder=""/>
+            <span data-placeholder="password"></span>
           </div>
 
           <button id="login">login</button>
           <p>Not registered? <a href="#" id="createAccount">Create an account</a></p>
+
+          
         </form>
-      </div>
+     </div>
 
 
       <div class="signup">
         <form id="signupForm" name="signup" action="/create" method="POST" class="register-form">
-          <input name="email" type="text" placeholder="email address" />
-          <input name="pass" type="password" placeholder="password" />
-          <input name="cPass" type="password" placeholder="confirm password"/>
+
+          <div class="txtb">
+             <input name="email" type="text" placeholder="" />
+            <span data-placeholder="email address"></span>
+          </div>
+
+          <div class="txtb">
+             <input name="pass" type="password" placeholder="" />
+            <span data-placeholder="password"></span>
+          </div>
+          
+          <div class="txtb">
+            <input name="cPass" type="password" placeholder=""/>
+            <span data-placeholder="confirm password"></span>
+          </div>
+          
           
           <button id="continue" type="button">continue</button>
-          <p>Password must be 8 characters, have at least one number, and both uppercase and lowercase letters</p>
+          <p style="font-size:12">Password must be 8 characters, have at least one number, and both uppercase and lowercase letters</p>
 
           <p>Already registered? <a href="#" id="signIn">Sign In</a></p>
       </div>
     
 
       <div class="info" style="display:none">
-          <input required name="name" type="text" placeholder="name"/>
-          <input required name="city" type="text" placeholder="city"/>
+
+          <div class="txtb">
+            <input required name="name" type="text" placeholder=""/>
+            <span data-placeholder="name"></span>
+          </div>
+
+          <div class="txtb">
+            <input required name="city" type="text" placeholder=""/>
+            <span data-placeholder="city"></span>
+          </div>
+          
           <select required name="state">
             <option value="AL">Alabama</option>
             <option value="AK">Alaska</option>
@@ -103,8 +128,9 @@
             <option value="WI">Wisconsin</option>
             <option value="WY">Wyoming</option>
           </select>				
-          <p>Please provide a way for people to contact you.</p>
+          <p>Please add a description for how people can contact you, what you can do, and any more important information you feel should be known. This can be changed later.</p>
           <textarea required name="desc" form="signupForm" placeholder="Limit 500 Characters" maxlength=500></textarea>
+          <p style="font-size:12;">The information above will be the only information visible to the public.</p>
           <button id="create">Create Account</button>
         </form>
       </div>

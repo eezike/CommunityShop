@@ -100,17 +100,27 @@ const formatToPhone = (event) => {
     else if(input.length > 0){target.value = `(${zip}`;}
 };
 
-const inputElement = document.getElementById('phoneNumber');
-inputElement.addEventListener('keydown',enforceFormat);
-inputElement.addEventListener('keyup',formatToPhone);
+// const inputElement = document.getElementById('phoneNumber');
+// inputElement.addEventListener('keydown',enforceFormat);
+// inputElement.addEventListener('keyup',formatToPhone);
 //========^Phone Number Formatter^=============
 
-// $('.txtb input').on('focus', function(){
-//   $(this).addClass("focus");
-// });
+$('.txtb input').on('focus', function(){
+  $(this).addClass("focus");
+});
 
-// $('.txtb input').on('blur', function(){
-//   if ($(this).val() == ""){
-//     $(this).removeClass("focus");
-//   }
-// });
+$('.txtb input').on('blur', function(){
+  if ($(this).val() == ""){
+    $(this).removeClass("focus");
+  }
+});
+
+$('.txtb input').on('input',function(e){
+    $(this).addClass("focus");
+});
+
+$(function(){
+   if ($('.txtb input').val() !== ""){
+      $('.txtb input').addClass("focus");
+   }
+});

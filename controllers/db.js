@@ -1,3 +1,8 @@
+const LocalStrategy = require("passport-local");
+
+
+var passportLocalMongoose = require("passport-local-mongoose"); 
+
 const MongoClient = require('mongodb').MongoClient;
 const mongoUsername = process.env.MONGO_USERNAME
 const mongoPassword = process.env.MONGO_PASSWORD
@@ -9,6 +14,19 @@ const bcrypt = require('bcrypt');
 let SALT = 10;
 const mongoose = require('mongoose');
 const mongooseConnect = mongoose.connect(uri)
+const userSchema2 = mongoose.Schema({
+  email: {
+    type: String,
+    required: true,
+    unique: 1,
+    trim: true
+  },
+  password: {
+    type: String,
+    required: true,
+  }
+});
+
 const userSchema = mongoose.Schema({
   email: {
     type: String,
@@ -21,6 +39,8 @@ const userSchema = mongoose.Schema({
     required: true,
   }
 });
+
+
 userSchema.pre('save', function(next){
   var user = this;
 
@@ -44,6 +64,17 @@ userSchema.methods.comparePassword = function(candidatePassword, checkpassword){
     checkpassword(null, isMatch);
   });
 }
+
+userSchema.plugin(passportLocalMongoose);  
+
 const User = mongoose.model('User', userSchema)
 
-module.exports = {client, mongooseConnect, User}
+const passportFunction = function(passport){
+  passport.serializeUser(User.serializeUser());
+  passport.deserializeUser(User.deserializeUser());
+
+  passport.use(new LocalStrategy(User.authenticate()));
+
+}
+
+module.exports = {client, mongooseConnect, User, passportFunction}
