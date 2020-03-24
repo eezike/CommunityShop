@@ -1,80 +1,61 @@
-const LocalStrategy = require("passport-local");
-
-
-var passportLocalMongoose = require("passport-local-mongoose"); 
-
+const LocalStrategy = require('passport-local').Strategy;
+const bcrypt = require('bcrypt');
+const mongoose = require('mongoose');
 const MongoClient = require('mongodb').MongoClient;
-const mongoUsername = process.env.MONGO_USERNAME
-const mongoPassword = process.env.MONGO_PASSWORD
+const uri = process.env.MONGO_URL
 
-const uri = `mongodb+srv://${mongoUsername}:${mongoPassword}@cluster0-xzuqw.gcp.mongodb.net/crmdb?retryWrites=true&w=majority`;
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
 
-const bcrypt = require('bcrypt');
-let SALT = 10;
-const mongoose = require('mongoose');
-const mongooseConnect = mongoose.connect(uri)
-const userSchema2 = mongoose.Schema({
+const userSchema = new mongoose.Schema({
   email: {
     type: String,
-    required: true,
-    unique: 1,
-    trim: true
+    required: true
   },
   password: {
     type: String,
-    required: true,
+    required: true
   }
 });
 
-const userSchema = mongoose.Schema({
-  email: {
-    type: String,
-    required: true,
-    unique: 1,
-    trim: true
-  },
-  password: {
-    type: String,
-    required: true,
-  }
-});
+const User = mongoose.model('User', userSchema);
 
+const passportFunction = function(passport){
+  passport.use(
+    new LocalStrategy({ usernameField: 'email' }, function(email, password, done){
+      //Match user
+      User.findOne({ email: email })
+      .then(function(user){
 
-userSchema.pre('save', function(next){
-  var user = this;
+        if(!user){
+          return done(null, false, {message: "email is not registered"})
+        }
 
-  if (user.isModified('password')){
-    bcrypt.genSalt(SALT, function(err, salt){
-      if (err) return next(err);
-     
-     bcrypt.hash(user.password, salt, function(err, hash){
-       if (err) return next(err);
-        user.password = hash
-        next();
-     });
+        //match password
+        bcrypt.compare(password, user.password, function(err, isMatch){
+          if (err) throw err;
+
+          if(isMatch){
+            return done(null, user)
+          } else {
+            return done(null, false, {message: "password is not correct"})
+          }
+        });
+
+      })
+      .catch((err) => console.log(err))
+
+    })
+  );
+
+ passport.serializeUser(function(user, done) {
+    done(null, user.id);
+  });
+
+  passport.deserializeUser(function(id, done) {
+    User.findById(id, function(err, user) {
+      done(err, user);
     });
-  } else {
-    next();
-  }
-});
-userSchema.methods.comparePassword = function(candidatePassword, checkpassword){
-  bcrypt.compare(candidatePassword, this.password, function(err, isMatch){
-    if (err) return checkpassword(err)
-    checkpassword(null, isMatch);
   });
 }
 
-userSchema.plugin(passportLocalMongoose);  
-
-const User = mongoose.model('User', userSchema)
-
-const passportFunction = function(passport){
-  passport.serializeUser(User.serializeUser());
-  passport.deserializeUser(User.deserializeUser());
-
-  passport.use(new LocalStrategy(User.authenticate()));
-
-}
-
-module.exports = {client, mongooseConnect, User, passportFunction}
+module.exports = { User, client, passportFunction }

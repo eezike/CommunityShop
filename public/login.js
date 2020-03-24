@@ -19,7 +19,6 @@ $('#continue').click(function(e){
       $(".signup").hide();
       $(".info").show();
   }
-
 });
 
 function validateSignUp()
@@ -29,23 +28,19 @@ function validateSignUp()
   var rPass = document.forms["signup"]["pass"];
   var rCPass = document.forms["signup"]["cPass"];
   
-
-  //Validate Email
   var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
   if(!rEmail.value.match(mailformat))
   {
     alert("You have entered an invalid email address!");
     return false;
   }
-  
-  //Validate MAtching Passwords
-  if(!rPass.value.match(rCPass.value))
+
+  if(rPass.value != rCPass.value)
   {
     alert("Your passwords do not match");
     return false;
   }
   
-  //Check Password Requirements
   var numbers = /[0-9]/g;
   var upperCaseLetters = /[A-Z]/g;
   var lowerCaseLetters = /[a-z]/g;

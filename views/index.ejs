@@ -13,7 +13,7 @@
 
     <div style="height:48px;background-color: #efefef;box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);z-index:10;position:relative;">
       <h3 id="mainTitle" style="font-size:33px;line-height:1.2;margin-left:8;">Frank and Kyle</h3> 
-      <a href='/login'><button class="btn btn-lg btn-outline-primary custom-btn" >Login</button></a>
+      <a href='/login'><button class="btn btn-lg btn-outline-primary custom-btn" id="loginBtn">Login</button></a>
       <a href='/about'><button class="btn btn-lg btn-outline-secondary custom-btn" >About</button></a>
       <a href='/'><button class="btn btn-lg btn-outline-secondary custom-btn">Home</button></a>
     </div>
@@ -37,18 +37,22 @@
         <input name="nPass" class="form-control" type="text" placeholder="New Password" style="width:100%;font-size:14;margin:3px 0 3px 0 ;"> </input>
         <input name="cnPass" class="form-control" type="text" placeholder="Confirm New Password" style="width:100%;font-size:14;margin:3px 0 3px 0 ;"> </input>
         <p style="font-size:12px">Password must be at least 8 characters, have one capital, and one lowercase letter, and one number</p>
-        <button id="change" class="btn btn-success" style="border-radius:0;margin: 5px 0 10px 0">Save Changes</button>
+        <button id="change" class="btn btn-success" 
+        style="border-radius:0;margin: 5px 0 10px 0">Save Changes</button>
+        <button id="delete" class="btn btn-warning" style="border-radius:0;margin: 5px 0 10px 0">Logout</button>
         <button id="delete" class="btn btn-danger" style="border-radius:0;margin: 5px 0 10px 0">Delete Account</button>
       </div>
 
     </div>
 
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
     <script>
       var shoppers = <%- shoppersList %>
-      var currentUser = <%- currentUser %>
-      console.log(currentUser)
+      var user = <%- currentUser %>
+      if (user){
+        document.getElementById("loginBtn").innerHTML = user.name
+      }
     </script>
-    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
     <script src="/home.js"></script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key= AIzaSyAOX3oWf2u4MDfrlEIvKfPVi6fRN0WBN9s&callback=initMap"></script> 
 </body> 

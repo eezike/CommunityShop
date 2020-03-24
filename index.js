@@ -1,19 +1,27 @@
-var express = require("express");
-const bodyParser = require("body-parser");
+const express = require('express');
 const ejs = require('ejs');
-const session = require("express-session");
-const passport = require("passport");
-
+const mongoose = require('mongoose');
+const bodyParser = require("body-parser");
+const session = require('express-session');
+const passport = require('passport');
 
 var controller = require('./controllers/controller');
 
-//Passport Config
-require('./controllers/db').passportFunction(passport);
+const app = express();
 
-var app = express();
+//passport config
+require("./controllers/db").passportFunction(passport)
 
-app.use(bodyParser.json())
-app.use(bodyParser.urlencoded({ extended: true }));
+//db config
+const uri = process.env.MONGO_URL
+mongoose.connect(uri, {useNewUrlParser: true}).then(() => console.log("mongoose connected")).catch((err) => console.log(err));
+
+
+//static files
+app.use(express.static('./public'));
+
+//ejs
+app.set("view engine", "ejs")
 
 //Express Session middleware
 app.use(session({
@@ -22,22 +30,17 @@ app.use(session({
   saveUninitialized: false
 }));
 
-
 //Passport middleware
 app.use(passport.initialize());
 app.use(passport.session());
 
 
+//bodyParser
+app.use(bodyParser.json())
+app.use(bodyParser.urlencoded({ extended: true }));
 
-//set up template engine
-app.set('view engine', 'ejs')
+//routes
+controller(app, passport)
 
-//static files
-app.use(express.static('./public'));
-
-//fire controllers
-controller(app, passport);
-
-//listen to port
-app.listen(3000);
-console.log("Listening on port 3000");
+const PORT = process.env.PORT || 3000
+app.listen(PORT, console.log(`Server listening on port ${PORT}`));

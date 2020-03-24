@@ -5,6 +5,22 @@
   float:right;
 }
 
+.login-page {
+  width: 90%;
+  padding: 4% 0 0;
+  margin: auto;
+}
+.form {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 90%;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: left;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
 body {
   background: #52b0b8; /* fallback for old browsers */
   background: -webkit-linear-gradient(right, #6752b8, rgb(111, 184, 194));
@@ -14,5 +30,5 @@ body {
 }
 
 #mainTitle{
-  float:left
+  float:left;
 }
