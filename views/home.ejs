@@ -1,0 +1,96 @@
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>Covid Help</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/assets/home.css">
+  </head>
+
+  <body>
+
+    <div style="height:48px;background-color: #efefef;box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);z-index:10;position:relative;">
+      <h3 id="mainTitle" style="color:#4d4d4d;font-size:33px;line-height:1.4;margin-left:8;">Covid Shopping Help</h3> 
+      <button class="btn btn-lg btn-outline-primary custom-btn" id="loginBtn">Sign Up</button>
+      <a href='/about'><button class="btn btn-lg btn-outline-secondary custom-btn" >About</button></a>
+      <a href='/'><button class="btn btn-lg btn-outline-secondary custom-btn">Home</button></a>
+    </div>
+
+    <div class="lightbox">
+    <div class="iframeContainer">
+      <div class="toolbarLB">
+        <span class="closeLB" onclick="lightBoxClose()"><b>x</b></span>
+      </div>
+      <div>
+        <h3>Welcome to Covid Shopping Help!</h3>
+        <p>This website is best experienced on a computer or on a phone in landscape mode.</p>
+        <p>As we flatten the curve, it is still important that people who are susceptible to coronaviurs symptoms remain safe indoors at this time. Our website is designed to provide a forum for people to find others in their area who are willing to help them with tasks they are not comfortable performing during the pandemic.<br><br>
+        If you would like to add your name to the map, and volunteer your time to help others (<span style="color:#00FA9A">ie. by shopping, helping with technology, or being someone to talk to during isolation</span>), please <a href="/login">register for an account</a>. When you sign up you will need to add a description which will be shown publicly under your name on the map. You can write any contact information you are comfortable giving out in this area as a way to offer your assisstance.<br><br>
+        If you are in need of help please select one of the markers on the map near you and there will be a list of people offering their help. Be sure to stay safe when contacting people in real life.<br><br>
+        Please share this website with other poeple who you think will also be able to help.<br><br><span style="color:red">If you run into any issues or have any questions, please email us at help.virusshop@gmail.com</span>
+        </p>
+      </div>
+    </div>
+  </div> 
+
+    <div id="mapView">
+    
+      <div id="mapDiv">
+       
+        <div id="map"></div>
+      </div>
+      
+      <div class="overlay" id="locationDiv" style="height:50%;">
+        <!--search city-->
+         <input id="pac-input" class="form-control" type="text" placeholder="Search City">
+        <p id="shopperList" style="font-size:14px;">No Location Selected.</p> 
+      </div>
+
+      <div class="overlay" id="accountDiv" style="max-height:67%;">
+        <form id="editForm" name="edit" action="/save" method="POST" onsubmit="return validateEdit()">
+
+          <p style="margin:-4px 0 0 0">Change Description:</p>
+
+          <textarea name="desc" id="desc" class="form-control" form="editForm" placeholder="Limit 500 Characters" maxlength=500 style="resize:none;width:100%;font-size:14;"></textarea>
+
+          <p style="font-size:10;text-align:right;"><span id="cCount">0</span>/500</p>
+
+          <br>
+
+          <p style="margin:-15px 0 -2px 0;">Change Password:</p>
+
+          <input name="oPass" class="form-control" type="password" placeholder="Old Password" />  
+
+          <input name="nPass" class="form-control" type="password" placeholder="New Password" />
+
+          <input name="cnPass" class="form-control" type="password" placeholder="Confirm New Password" />
+
+          <p style="font-size:12px">Password must be at least 8 characters, have one capital, and one lowercase letter, and one number. Leave blank for no changes.</p> 
+
+          <button id="change" class="btn panel-btn btn-success">Save Changes</button>       
+        </form>
+
+        <form action="/logout" method="POST">
+          <button class="btn panel-btn btn-warning">Logout</button>
+        </form>
+
+        <form action="/delete" method="POST" onsubmit="return validateDelete()">
+          <button id="delete" class="btn panel-btn btn-danger">Delete Account</button>
+        </form>
+
+        <button id="cancelBtn" class="btn panel-btn btn-secondary">Cancel</button>
+
+      </div>
+
+    </div>
+
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+    <script>
+      var shoppers = <%- shoppersList %>
+      var user = <%- currentUser %>     
+    </script>
+    <script src="/home.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?v=3.exp&key= AIzaSyDSUc50NHVD0Q_NazDDc_I3SrQoWmRD8b0&libraries=places&callback=initMap"></script> 
+</body> 
+</html>

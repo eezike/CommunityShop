@@ -5,6 +5,9 @@ const bodyParser = require("body-parser");
 const session = require('express-session');
 const passport = require('passport');
 
+// const admin = require('./controllers/admin'); //delete
+
+
 var controller = require('./controllers/controller');
 
 const app = express();
@@ -14,7 +17,7 @@ require("./controllers/db").passportFunction(passport)
 
 //db config
 const uri = process.env.MONGO_URL
-mongoose.connect(uri, {useNewUrlParser: true}).then(() => console.log("mongoose connected")).catch((err) => console.log(err));
+mongoose.connect(uri, {useNewUrlParser: true}).then(() => {}).catch((err) => console.log(err));
 
 
 //static files
@@ -34,6 +37,9 @@ app.use(session({
 app.use(passport.initialize());
 app.use(passport.session());
 
+//admin
+// app.use(require('cookie-parser')());
+// app.use(admin.adminBro.options.rootPath, admin.router);
 
 //bodyParser
 app.use(bodyParser.json())
